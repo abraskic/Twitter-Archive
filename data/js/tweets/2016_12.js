@@ -1,6 +1,991 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Wed Dec 14 04:31:37 +0000 2016",
+		"id": 808892175828152300,
+		"id_str": "808892175828152320",
+		"text": "@nicshields Please curb your dog.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nicshields",
+					"name": "nic shields",
+					"id": 24886127,
+					"id_str": "24886127",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 808827544631910400,
+		"in_reply_to_status_id_str": "808827544631910400",
+		"in_reply_to_user_id": 24886127,
+		"in_reply_to_user_id_str": "24886127",
+		"in_reply_to_screen_name": "nicshields",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 72,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2855,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70343,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c019743e7c11167",
+			"url": "https://api.twitter.com/1.1/geo/id/6c019743e7c11167.json",
+			"place_type": "neighborhood",
+			"name": "Joondalup",
+			"full_name": "Joondalup, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.74986112,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.71691503
+						],
+						[
+							115.74986112,
+							-31.71691503
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 14 04:30:40 +0000 2016",
+		"id": 808891935582605300,
+		"id_str": "808891935582605313",
+		"text": "RT @poedamcron: https://t.co/6vYxACqpmu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "poedamcron",
+					"name": "ㅤ",
+					"id": 229147083,
+					"id_str": "229147083",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 808787206282346500,
+					"id_str": "808787206282346496",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/CzljrdFXAAARNMG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzljrdFXAAARNMG.jpg",
+					"url": "https://t.co/6vYxACqpmu",
+					"display_url": "pic.twitter.com/6vYxACqpmu",
+					"expanded_url": "https://twitter.com/poedamcron/status/808787253405380608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 568,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 568,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 568,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 808787253405380600,
+					"source_status_id_str": "808787253405380608",
+					"source_user_id": 229147083,
+					"source_user_id_str": "229147083"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 808787206282346500,
+					"id_str": "808787206282346496",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/CzljrdFXAAARNMG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzljrdFXAAARNMG.jpg",
+					"url": "https://t.co/6vYxACqpmu",
+					"display_url": "pic.twitter.com/6vYxACqpmu",
+					"expanded_url": "https://twitter.com/poedamcron/status/808787253405380608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 568,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 568,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 568,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 808787253405380600,
+					"source_status_id_str": "808787253405380608",
+					"source_user_id": 229147083,
+					"source_user_id_str": "229147083"
+				},
+				{
+					"id": 808787221436334100,
+					"id_str": "808787221436334080",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/CzljsViWgAAXzJ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzljsViWgAAXzJ9.jpg",
+					"url": "https://t.co/6vYxACqpmu",
+					"display_url": "pic.twitter.com/6vYxACqpmu",
+					"expanded_url": "https://twitter.com/poedamcron/status/808787253405380608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 773,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 411,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 725,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 808787253405380600,
+					"source_status_id_str": "808787253405380608",
+					"source_user_id": 229147083,
+					"source_user_id_str": "229147083"
+				},
+				{
+					"id": 808787236019912700,
+					"id_str": "808787236019912704",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/CzljtL3WQAAmlFY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzljtL3WQAAmlFY.jpg",
+					"url": "https://t.co/6vYxACqpmu",
+					"display_url": "pic.twitter.com/6vYxACqpmu",
+					"expanded_url": "https://twitter.com/poedamcron/status/808787253405380608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 636,
+							"h": 395,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 636,
+							"h": 395,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 636,
+							"h": 395,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 808787253405380600,
+					"source_status_id_str": "808787253405380608",
+					"source_user_id": 229147083,
+					"source_user_id_str": "229147083"
+				},
+				{
+					"id": 808787240679866400,
+					"id_str": "808787240679866368",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/CzljtdOXgAA-pJh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzljtdOXgAA-pJh.jpg",
+					"url": "https://t.co/6vYxACqpmu",
+					"display_url": "pic.twitter.com/6vYxACqpmu",
+					"expanded_url": "https://twitter.com/poedamcron/status/808787253405380608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 398,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 808787253405380600,
+					"source_status_id_str": "808787253405380608",
+					"source_user_id": 229147083,
+					"source_user_id_str": "229147083"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 72,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2855,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70343,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 13 21:34:42 +0000 2016",
+			"id": 808787253405380600,
+			"id_str": "808787253405380608",
+			"text": "https://t.co/6vYxACqpmu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 808787206282346500,
+						"id_str": "808787206282346496",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/CzljrdFXAAARNMG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzljrdFXAAARNMG.jpg",
+						"url": "https://t.co/6vYxACqpmu",
+						"display_url": "pic.twitter.com/6vYxACqpmu",
+						"expanded_url": "https://twitter.com/poedamcron/status/808787253405380608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 600,
+								"h": 568,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 568,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 568,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 808787206282346500,
+						"id_str": "808787206282346496",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/CzljrdFXAAARNMG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzljrdFXAAARNMG.jpg",
+						"url": "https://t.co/6vYxACqpmu",
+						"display_url": "pic.twitter.com/6vYxACqpmu",
+						"expanded_url": "https://twitter.com/poedamcron/status/808787253405380608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 600,
+								"h": 568,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 568,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 568,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 808787221436334100,
+						"id_str": "808787221436334080",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/CzljsViWgAAXzJ9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzljsViWgAAXzJ9.jpg",
+						"url": "https://t.co/6vYxACqpmu",
+						"display_url": "pic.twitter.com/6vYxACqpmu",
+						"expanded_url": "https://twitter.com/poedamcron/status/808787253405380608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 773,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 411,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 725,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 808787236019912700,
+						"id_str": "808787236019912704",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/CzljtL3WQAAmlFY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzljtL3WQAAmlFY.jpg",
+						"url": "https://t.co/6vYxACqpmu",
+						"display_url": "pic.twitter.com/6vYxACqpmu",
+						"expanded_url": "https://twitter.com/poedamcron/status/808787253405380608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 636,
+								"h": 395,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 636,
+								"h": 395,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 636,
+								"h": 395,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 808787240679866400,
+						"id_str": "808787240679866368",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/CzljtdOXgAA-pJh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzljtdOXgAA-pJh.jpg",
+						"url": "https://t.co/6vYxACqpmu",
+						"display_url": "pic.twitter.com/6vYxACqpmu",
+						"expanded_url": "https://twitter.com/poedamcron/status/808787253405380608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 398,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 229147083,
+				"id_str": "229147083",
+				"name": "ㅤ",
+				"screen_name": "poedamcron",
+				"location": "",
+				"description": "I'm more into superheroes",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5739,
+				"friends_count": 206,
+				"listed_count": 84,
+				"created_at": "Tue Dec 21 17:08:36 +0000 2010",
+				"favourites_count": 40318,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 54905,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/564138620739534848/P8BAELOM.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/564138620739534848/P8BAELOM.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/808784334010404866/aFuTnMiv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/808784334010404866/aFuTnMiv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/229147083/1481158798",
+				"profile_link_color": "41200B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDE7EB",
+				"profile_text_color": "4E84BA",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4621,
+			"favorite_count": 5577,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4621,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Dec 14 04:29:40 +0000 2016",
+		"id": 808891681986650100,
+		"id_str": "808891681986650112",
+		"text": "@twcau I know that feeling. I’m day 73. The need to restart the streak is what keeps me going, even if that is only… https://t.co/MjGm3H9B67",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twcau",
+					"name": "Michael (twcau)",
+					"id": 17439480,
+					"id_str": "17439480",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MjGm3H9B67",
+					"expanded_url": "https://twitter.com/i/web/status/808891681986650112",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 808816336335814700,
+		"in_reply_to_status_id_str": "808816336335814656",
+		"in_reply_to_user_id": 17439480,
+		"in_reply_to_user_id_str": "17439480",
+		"in_reply_to_screen_name": "twcau",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 72,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2855,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70343,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c019743e7c11167",
+			"url": "https://api.twitter.com/1.1/geo/id/6c019743e7c11167.json",
+			"place_type": "neighborhood",
+			"name": "Joondalup",
+			"full_name": "Joondalup, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.74986112,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.71691503
+						],
+						[
+							115.74986112,
+							-31.71691503
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 14 04:21:37 +0000 2016",
+		"id": 808889658939609100,
+		"id_str": "808889658939609088",
+		"text": "@bernietb Gearing up for school drop off?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bernietb",
+					"name": "Dad Take Bernie",
+					"id": 15490312,
+					"id_str": "15490312",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 808809415247876100,
+		"in_reply_to_status_id_str": "808809415247876096",
+		"in_reply_to_user_id": 15490312,
+		"in_reply_to_user_id_str": "15490312",
+		"in_reply_to_screen_name": "bernietb",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 72,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2855,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70343,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c019743e7c11167",
+			"url": "https://api.twitter.com/1.1/geo/id/6c019743e7c11167.json",
+			"place_type": "neighborhood",
+			"name": "Joondalup",
+			"full_name": "Joondalup, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.74986112,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.71691503
+						],
+						[
+							115.74986112,
+							-31.71691503
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 13 14:29:04 +0000 2016",
 		"id": 808680140754427900,
 		"id_str": "808680140754427904",
