@@ -1,6 +1,445 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sat Dec 17 08:05:12 +0000 2016",
+		"id": 810033089598529500,
+		"id_str": "810033089598529536",
+		"text": "You lot really are milking this stolen cow for all it’s worth. https://t.co/02L6lnv11m",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/02L6lnv11m",
+					"expanded_url": "https://twitter.com/WannerooPolice/status/810023390232735744",
+					"display_url": "twitter.com/WannerooPolice…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 72,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2857,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70374,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c19d49ffc343fce",
+			"url": "https://api.twitter.com/1.1/geo/id/6c19d49ffc343fce.json",
+			"place_type": "neighborhood",
+			"name": "Banksia Grove",
+			"full_name": "Banksia Grove, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.79415516,
+							-31.71610899
+						],
+						[
+							115.81899912,
+							-31.71610899
+						],
+						[
+							115.81899912,
+							-31.68577296
+						],
+						[
+							115.79415516,
+							-31.68577296
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 810023390232735700,
+		"quoted_status_id_str": "810023390232735744",
+		"quoted_status": {
+			"created_at": "Sat Dec 17 07:26:40 +0000 2016",
+			"id": 810023390232735700,
+			"id_str": "810023390232735744",
+			"text": "LPT1 moooooving the stolen cow back to its rightful owners...some people are udderly unbelievable! https://t.co/9Dr4aiwc0M",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 810023385874907100,
+						"id_str": "810023385874907136",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz3H-k7VQAA0Iqr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz3H-k7VQAA0Iqr.jpg",
+						"url": "https://t.co/9Dr4aiwc0M",
+						"display_url": "pic.twitter.com/9Dr4aiwc0M",
+						"expanded_url": "https://twitter.com/WannerooPolice/status/810023390232735744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 810023385874907100,
+						"id_str": "810023385874907136",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz3H-k7VQAA0Iqr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz3H-k7VQAA0Iqr.jpg",
+						"url": "https://t.co/9Dr4aiwc0M",
+						"display_url": "pic.twitter.com/9Dr4aiwc0M",
+						"expanded_url": "https://twitter.com/WannerooPolice/status/810023390232735744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1377426541,
+				"id_str": "1377426541",
+				"name": "Wanneroo Police",
+				"screen_name": "WannerooPolice",
+				"location": "Western Australia",
+				"description": "Safety and crime information from your local Wanneroo Police. If you need Police assistance call 131444, if it's an emergency 000. Twitter not monitored 24/7.",
+				"url": "http://t.co/VpThmlblvR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/VpThmlblvR",
+								"expanded_url": "http://www.police.wa.gov.au/",
+								"display_url": "police.wa.gov.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2932,
+				"friends_count": 44,
+				"listed_count": 36,
+				"created_at": "Wed Apr 24 16:17:54 +0000 2013",
+				"favourites_count": 64,
+				"utc_offset": 28800,
+				"time_zone": "Beijing",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1400,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/851667010/9cada8ee84d0e67a434e5298b66a3f8b.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/851667010/9cada8ee84d0e67a434e5298b66a3f8b.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/524030296979558400/qmr0pdMS_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/524030296979558400/qmr0pdMS_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377426541/1447130257",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Dec 17 07:15:49 +0000 2016",
+		"id": 810020658411278300,
+		"id_str": "810020658411278336",
+		"text": "@TheRealMuz Probably not resting long enough between intervals, haha. 😂",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheRealMuz",
+					"name": "Muz Chizyuka",
+					"id": 35403917,
+					"id_str": "35403917",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 810019468307005400,
+		"in_reply_to_status_id_str": "810019468307005444",
+		"in_reply_to_user_id": 35403917,
+		"in_reply_to_user_id_str": "35403917",
+		"in_reply_to_screen_name": "TheRealMuz",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 72,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2857,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70374,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c19d49ffc343fce",
+			"url": "https://api.twitter.com/1.1/geo/id/6c19d49ffc343fce.json",
+			"place_type": "neighborhood",
+			"name": "Banksia Grove",
+			"full_name": "Banksia Grove, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.79415516,
+							-31.71610899
+						],
+						[
+							115.81899912,
+							-31.71610899
+						],
+						[
+							115.81899912,
+							-31.68577296
+						],
+						[
+							115.79415516,
+							-31.68577296
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 17 07:11:14 +0000 2016",
 		"id": 810019508488282100,
 		"id_str": "810019508488282112",
