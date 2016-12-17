@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Fri Dec 16 23:47:28 +0000 2016",
+		"id": 809907827808448500,
+		"id_str": "809907827808448512",
+		"text": "@nicshields https://t.co/pxQxACQyll",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nicshields",
+					"name": "nic shields",
+					"id": 24886127,
+					"id_str": "24886127",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pxQxACQyll",
+					"expanded_url": "https://twitter.com/erinruberry/status/809836277050773508",
+					"display_url": "twitter.com/erinruberry/st…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 24886127,
+		"in_reply_to_user_id_str": "24886127",
+		"in_reply_to_screen_name": "nicshields",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 72,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2857,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70349,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c019743e7c11167",
+			"url": "https://api.twitter.com/1.1/geo/id/6c019743e7c11167.json",
+			"place_type": "neighborhood",
+			"name": "Joondalup",
+			"full_name": "Joondalup, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.74986112,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.71691503
+						],
+						[
+							115.74986112,
+							-31.71691503
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 809836277050773500,
+		"quoted_status_id_str": "809836277050773508",
+		"quoted_status": {
+			"created_at": "Fri Dec 16 19:03:09 +0000 2016",
+			"id": 809836277050773500,
+			"id_str": "809836277050773508",
+			"text": "Dogs are only allowed on the New York subway if they're in a bag... https://t.co/uDy6fu0ABT https://t.co/Hzv2WD9rUy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uDy6fu0ABT",
+						"expanded_url": "https://www.rover.com/blog/nyc-subway-dogs-fs/",
+						"display_url": "rover.com/blog/nyc-subwa…",
+						"indices": [
+							68,
+							91
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 809836254745493500,
+						"id_str": "809836254745493504",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz0dyHJWgAA-uD0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz0dyHJWgAA-uD0.jpg",
+						"url": "https://t.co/Hzv2WD9rUy",
+						"display_url": "pic.twitter.com/Hzv2WD9rUy",
+						"expanded_url": "https://twitter.com/erinruberry/status/809836277050773508/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 503,
+								"h": 558,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 503,
+								"h": 558,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 503,
+								"h": 558,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 809836254745493500,
+						"id_str": "809836254745493504",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz0dyHJWgAA-uD0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz0dyHJWgAA-uD0.jpg",
+						"url": "https://t.co/Hzv2WD9rUy",
+						"display_url": "pic.twitter.com/Hzv2WD9rUy",
+						"expanded_url": "https://twitter.com/erinruberry/status/809836277050773508/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 503,
+								"h": 558,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 503,
+								"h": 558,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 503,
+								"h": 558,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 809836254691000300,
+						"id_str": "809836254691000320",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz0dyG8XAAAxZs6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz0dyG8XAAAxZs6.jpg",
+						"url": "https://t.co/Hzv2WD9rUy",
+						"display_url": "pic.twitter.com/Hzv2WD9rUy",
+						"expanded_url": "https://twitter.com/erinruberry/status/809836277050773508/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 467,
+								"h": 289,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 467,
+								"h": 289,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 467,
+								"h": 289,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 809836254779076600,
+						"id_str": "809836254779076608",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz0dyHRW8AAaZUE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz0dyHRW8AAaZUE.jpg",
+						"url": "https://t.co/Hzv2WD9rUy",
+						"display_url": "pic.twitter.com/Hzv2WD9rUy",
+						"expanded_url": "https://twitter.com/erinruberry/status/809836277050773508/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 722,
+								"h": 914,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 722,
+								"h": 914,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 537,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 809836254636494800,
+						"id_str": "809836254636494848",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz0dyGvXUAAkpch.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz0dyGvXUAAkpch.jpg",
+						"url": "https://t.co/Hzv2WD9rUy",
+						"display_url": "pic.twitter.com/Hzv2WD9rUy",
+						"expanded_url": "https://twitter.com/erinruberry/status/809836277050773508/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 520,
+								"h": 518,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 520,
+								"h": 518,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 520,
+								"h": 518,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62502942,
+				"id_str": "62502942",
+				"name": "Erin Ruberry",
+				"screen_name": "erinruberry",
+				"location": "Washington, DC",
+				"description": "If you can't handle me at my Liz Lemon, you don't deserve me at my Leslie Knope. (Views mine, profile pic by @darth)",
+				"url": "https://t.co/L1lQ6v8jbU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L1lQ6v8jbU",
+								"expanded_url": "http://tinyletter.com/kittensandkindness",
+								"display_url": "tinyletter.com/kittensandkind…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14344,
+				"friends_count": 983,
+				"listed_count": 507,
+				"created_at": "Mon Aug 03 12:28:52 +0000 2009",
+				"favourites_count": 19013,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 30069,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804505140489322496/TNEnzz3u_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804505140489322496/TNEnzz3u_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/62502942/1479682492",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 443,
+			"favorite_count": 514,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "und"
+	},
+	{
 		"created_at": "Fri Dec 16 21:37:28 +0000 2016",
 		"id": 809875113956941800,
 		"id_str": "809875113956941824",
