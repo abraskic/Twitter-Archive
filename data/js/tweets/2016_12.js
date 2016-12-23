@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Fri Dec 23 01:34:51 +0000 2016",
+		"id": 812109178734972900,
+		"id_str": "812109178734972928",
+		"text": "Left his blinker on the whole time. Seriously what is it about people not knowing how to indicate properly!? https://t.co/vVAxpN2QgE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vVAxpN2QgE",
+					"expanded_url": "https://twitter.com/russian_market/status/812061937597054976",
+					"display_url": "twitter.com/russian_market…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 261,
+			"friends_count": 74,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2858,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70418,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				-31.70083151,
+				115.79589884
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				115.79589884,
+				-31.70083151
+			]
+		},
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 812061937597055000,
+		"quoted_status_id_str": "812061937597054976",
+		"quoted_status": {
+			"created_at": "Thu Dec 22 22:27:07 +0000 2016",
+			"id": 812061937597055000,
+			"id_str": "812061937597054976",
+			"text": "Meanwhile in Kazan Airport or where is your Duty Free Vodka? https://t.co/44TUjNSijN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 812056311630270500,
+						"id_str": "812056311630270464",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/812056311630270464/pu/img/O-zN-VlqLkJjwyF-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/812056311630270464/pu/img/O-zN-VlqLkJjwyF-.jpg",
+						"url": "https://t.co/44TUjNSijN",
+						"display_url": "pic.twitter.com/44TUjNSijN",
+						"expanded_url": "https://twitter.com/pavlushkaserh/status/812056582817255424/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 812056582817255400,
+						"source_status_id_str": "812056582817255424",
+						"source_user_id": 2807118956,
+						"source_user_id_str": "2807118956"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 812056311630270500,
+						"id_str": "812056311630270464",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/812056311630270464/pu/img/O-zN-VlqLkJjwyF-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/812056311630270464/pu/img/O-zN-VlqLkJjwyF-.jpg",
+						"url": "https://t.co/44TUjNSijN",
+						"display_url": "pic.twitter.com/44TUjNSijN",
+						"expanded_url": "https://twitter.com/pavlushkaserh/status/812056582817255424/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 812056582817255400,
+						"source_status_id_str": "812056582817255424",
+						"source_user_id": 2807118956,
+						"source_user_id_str": "2807118956",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 123190,
+							"variants": [
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/812056311630270464/pu/pl/jTiqh-hiP3hTP0Io.mpd"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/812056311630270464/pu/vid/640x360/5OhYNnupo_B2FA94.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/812056311630270464/pu/vid/320x180/MkLCSd5luwQdGpYb.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/812056311630270464/pu/pl/jTiqh-hiP3hTP0Io.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2807118956,
+								"id_str": "2807118956",
+								"name": "Д❄️брый Шубин ⛏",
+								"screen_name": "pavlushkaserh",
+								"location": "Донецк. Украина",
+								"description": "Добрый Шу́бин — персонаж шахтёрского фольклора на Донбассе, горняцкий дух, похожий на гнома, «хозяин шахты» и покровитель шахтёров.",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 3398,
+								"friends_count": 377,
+								"listed_count": 41,
+								"created_at": "Sat Sep 13 09:19:40 +0000 2014",
+								"favourites_count": 1150,
+								"utc_offset": -28800,
+								"time_zone": "Pacific Time (US & Canada)",
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 56421,
+								"lang": "ru",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "1A1B1F",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/745662170462060544/K_UoUpok_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/745662170462060544/K_UoUpok_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2807118956/1478893894",
+								"profile_link_color": "2FC2EF",
+								"profile_sidebar_border_color": "181A1E",
+								"profile_sidebar_fill_color": "252429",
+								"profile_text_color": "666666",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 243318995,
+				"id_str": "243318995",
+				"name": "Russian Market",
+				"screen_name": "russian_market",
+				"location": "Zürich, Schweiz",
+				"description": "Ride the market, don’t try to outguess it.",
+				"url": "https://t.co/BftLrWymsq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BftLrWymsq",
+								"expanded_url": "http://www.russianmarket.org",
+								"display_url": "russianmarket.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 141152,
+				"friends_count": 628,
+				"listed_count": 1968,
+				"created_at": "Wed Jan 26 19:56:43 +0000 2011",
+				"favourites_count": 854,
+				"utc_offset": 3600,
+				"time_zone": "Bern",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 96481,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "050505",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/553506414765699072/Du3lQNwj.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/553506414765699072/Du3lQNwj.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/797781734402195456/dOMq0y6J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/797781734402195456/dOMq0y6J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/243318995/1477253539",
+				"profile_link_color": "050505",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 249,
+			"favorite_count": 246,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 22 11:57:34 +0000 2016",
 		"id": 811903504738455600,
 		"id_str": "811903504738455553",
