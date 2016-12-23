@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Fri Dec 23 21:41:15 +0000 2016",
+		"id": 812412780267577300,
+		"id_str": "812412780267577344",
+		"text": "RT @liamatera: Banksy's 2012 Christmas card, unfortunately even more apt today. https://t.co/gkgYwcqCzU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "liamatera",
+					"name": "Lia Matera",
+					"id": 23689569,
+					"id_str": "23689569",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 809806178456780800,
+					"id_str": "809806178456780800",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Cz0CbcPVQAAHBUQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cz0CbcPVQAAHBUQ.jpg",
+					"url": "https://t.co/gkgYwcqCzU",
+					"display_url": "pic.twitter.com/gkgYwcqCzU",
+					"expanded_url": "https://twitter.com/liamatera/status/809806398229880832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 505,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 891,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1412,
+							"h": 1048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 809806398229880800,
+					"source_status_id_str": "809806398229880832",
+					"source_user_id": 23689569,
+					"source_user_id_str": "23689569"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 809806178456780800,
+					"id_str": "809806178456780800",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Cz0CbcPVQAAHBUQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cz0CbcPVQAAHBUQ.jpg",
+					"url": "https://t.co/gkgYwcqCzU",
+					"display_url": "pic.twitter.com/gkgYwcqCzU",
+					"expanded_url": "https://twitter.com/liamatera/status/809806398229880832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 505,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 891,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1412,
+							"h": 1048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 809806398229880800,
+					"source_status_id_str": "809806398229880832",
+					"source_user_id": 23689569,
+					"source_user_id_str": "23689569"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 261,
+			"friends_count": 74,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2858,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70423,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 16 17:04:25 +0000 2016",
+			"id": 809806398229880800,
+			"id_str": "809806398229880832",
+			"text": "Banksy's 2012 Christmas card, unfortunately even more apt today. https://t.co/gkgYwcqCzU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 809806178456780800,
+						"id_str": "809806178456780800",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz0CbcPVQAAHBUQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz0CbcPVQAAHBUQ.jpg",
+						"url": "https://t.co/gkgYwcqCzU",
+						"display_url": "pic.twitter.com/gkgYwcqCzU",
+						"expanded_url": "https://twitter.com/liamatera/status/809806398229880832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 505,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 891,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1412,
+								"h": 1048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 809806178456780800,
+						"id_str": "809806178456780800",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz0CbcPVQAAHBUQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz0CbcPVQAAHBUQ.jpg",
+						"url": "https://t.co/gkgYwcqCzU",
+						"display_url": "pic.twitter.com/gkgYwcqCzU",
+						"expanded_url": "https://twitter.com/liamatera/status/809806398229880832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 505,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 891,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1412,
+								"h": 1048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23689569,
+				"id_str": "23689569",
+				"name": "Lia Matera",
+				"screen_name": "liamatera",
+				"location": "Central California Coast",
+				"description": "Lapsed lawyer, author of 12 crime novels and a short story collection, editor of an anthology of original suspense stories by my betters.",
+				"url": "https://t.co/tEKa6uUkoY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tEKa6uUkoY",
+								"expanded_url": "http://liamatera.com",
+								"display_url": "liamatera.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 944,
+				"friends_count": 2414,
+				"listed_count": 27,
+				"created_at": "Wed Mar 11 00:23:53 +0000 2009",
+				"favourites_count": 6039,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7469,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/646508379658031104/zdCOlVx-.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/646508379658031104/zdCOlVx-.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/803823310907785222/59W4MRmw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/803823310907785222/59W4MRmw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23689569/1480382778",
+				"profile_link_color": "400BDE",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "0E0E0E",
+				"profile_text_color": "4A66C1",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 23 09:16:03 +0000 2016",
 		"id": 812225243729174500,
 		"id_str": "812225243729174528",
