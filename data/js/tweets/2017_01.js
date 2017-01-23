@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Mon Jan 23 07:32:15 +0000 2017",
+		"id": 823433146888687600,
+		"id_str": "823433146888687616",
+		"text": "RT @Human_Z0O: Melbourne please https://t.co/wE7crVr6LK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Human_Z0O",
+					"name": "The Bell Tower Times",
+					"id": 3004178958,
+					"id_str": "3004178958",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 823378374420623400,
+					"id_str": "823378374420623361",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/C206ROMUcAEq4Y6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C206ROMUcAEq4Y6.jpg",
+					"url": "https://t.co/wE7crVr6LK",
+					"display_url": "pic.twitter.com/wE7crVr6LK",
+					"expanded_url": "https://twitter.com/Human_Z0O/status/823378397212463104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 823378397212463100,
+					"source_status_id_str": "823378397212463104",
+					"source_user_id": 3004178958,
+					"source_user_id_str": "3004178958"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 823378374420623400,
+					"id_str": "823378374420623361",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/C206ROMUcAEq4Y6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C206ROMUcAEq4Y6.jpg",
+					"url": "https://t.co/wE7crVr6LK",
+					"display_url": "pic.twitter.com/wE7crVr6LK",
+					"expanded_url": "https://twitter.com/Human_Z0O/status/823378397212463104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 823378397212463100,
+					"source_status_id_str": "823378397212463104",
+					"source_user_id": 3004178958,
+					"source_user_id_str": "3004178958"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 260,
+			"friends_count": 76,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2865,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 23 03:54:42 +0000 2017",
+			"id": 823378397212463100,
+			"id_str": "823378397212463104",
+			"text": "Melbourne please https://t.co/wE7crVr6LK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 823378374420623400,
+						"id_str": "823378374420623361",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/C206ROMUcAEq4Y6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C206ROMUcAEq4Y6.jpg",
+						"url": "https://t.co/wE7crVr6LK",
+						"display_url": "pic.twitter.com/wE7crVr6LK",
+						"expanded_url": "https://twitter.com/Human_Z0O/status/823378397212463104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 823378374420623400,
+						"id_str": "823378374420623361",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/C206ROMUcAEq4Y6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C206ROMUcAEq4Y6.jpg",
+						"url": "https://t.co/wE7crVr6LK",
+						"display_url": "pic.twitter.com/wE7crVr6LK",
+						"expanded_url": "https://twitter.com/Human_Z0O/status/823378397212463104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3004178958,
+				"id_str": "3004178958",
+				"name": "The Bell Tower Times",
+				"screen_name": "Human_Z0O",
+				"location": "Perth ",
+				"description": "I write The Bell Tower Times. Part satire, part commentary but 100% zinger-tastic. Started as a lawyer and now a comedian, follow me if you like",
+				"url": "https://t.co/O4L6OYZpWz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O4L6OYZpWz",
+								"expanded_url": "https://www.facebook.com/TheBellTowerTimes",
+								"display_url": "facebook.com/TheBellTowerTi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1329,
+				"friends_count": 709,
+				"listed_count": 12,
+				"created_at": "Sat Jan 31 02:59:21 +0000 2015",
+				"favourites_count": 1058,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1209,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/767500445514215424/fwD1Lbl2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/767500445514215424/fwD1Lbl2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3004178958/1468402714",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 23 07:14:15 +0000 2017",
 		"id": 823428615895289900,
 		"id_str": "823428615895289856",
