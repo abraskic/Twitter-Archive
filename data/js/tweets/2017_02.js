@@ -1,6 +1,494 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Mon Feb 06 07:16:44 +0000 2017",
+		"id": 828502672617599000,
+		"id_str": "828502672617598976",
+		"text": "RT @mkmolnar: BRADY FILMED THIS BEFORE THE GAME WITH FIVE RINGS! I AM SCREAMING https://t.co/3wbowdgY6Y",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mkmolnar",
+					"name": "Marina Molnar",
+					"id": 2310378148,
+					"id_str": "2310378148",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 828467354539532300,
+					"id_str": "828467354539532288",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/828467354539532288/pu/img/R5Ff4WCWEQKz8CvF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/828467354539532288/pu/img/R5Ff4WCWEQKz8CvF.jpg",
+					"url": "https://t.co/3wbowdgY6Y",
+					"display_url": "pic.twitter.com/3wbowdgY6Y",
+					"expanded_url": "https://twitter.com/mkmolnar/status/828467533053325312/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 828467533053325300,
+					"source_status_id_str": "828467533053325312",
+					"source_user_id": 2310378148,
+					"source_user_id_str": "2310378148"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 828467354539532300,
+					"id_str": "828467354539532288",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/828467354539532288/pu/img/R5Ff4WCWEQKz8CvF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/828467354539532288/pu/img/R5Ff4WCWEQKz8CvF.jpg",
+					"url": "https://t.co/3wbowdgY6Y",
+					"display_url": "pic.twitter.com/3wbowdgY6Y",
+					"expanded_url": "https://twitter.com/mkmolnar/status/828467533053325312/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 828467533053325300,
+					"source_status_id_str": "828467533053325312",
+					"source_user_id": 2310378148,
+					"source_user_id_str": "2310378148",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25687,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/828467354539532288/pu/vid/640x360/IisSH7iKGjLRgmec.mp4"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/828467354539532288/pu/pl/rnRMl2WPV--VS5md.mpd"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/828467354539532288/pu/vid/320x180/XV_Khrt1TyL_vPTT.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/828467354539532288/pu/vid/1280x720/zNKe-qSWDVXdoPag.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/828467354539532288/pu/pl/rnRMl2WPV--VS5md.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2310378148,
+							"id_str": "2310378148",
+							"name": "Marina Molnar",
+							"screen_name": "mkmolnar",
+							"location": "marina.molnar@yahoo.com",
+							"description": "Nice girl, tries hard, loves the game. @weekendatbergys @barstoolsports @stoolchiclets  snap/insta: marina.molnar",
+							"url": "https://t.co/MrN3JGpgpc",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/MrN3JGpgpc",
+											"expanded_url": "http://marinamolnar.com",
+											"display_url": "marinamolnar.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 5960,
+							"friends_count": 602,
+							"listed_count": 125,
+							"created_at": "Tue Jan 28 19:04:33 +0000 2014",
+							"favourites_count": 6065,
+							"utc_offset": -18000,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 18378,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/826276929124835328/0cgF5LNL_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/826276929124835328/0cgF5LNL_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2310378148/1486104691",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 75,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2866,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70773,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 06 04:57:06 +0000 2017",
+			"id": 828467533053325300,
+			"id_str": "828467533053325312",
+			"text": "BRADY FILMED THIS BEFORE THE GAME WITH FIVE RINGS! I AM SCREAMING https://t.co/3wbowdgY6Y",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 828467354539532300,
+						"id_str": "828467354539532288",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/828467354539532288/pu/img/R5Ff4WCWEQKz8CvF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/828467354539532288/pu/img/R5Ff4WCWEQKz8CvF.jpg",
+						"url": "https://t.co/3wbowdgY6Y",
+						"display_url": "pic.twitter.com/3wbowdgY6Y",
+						"expanded_url": "https://twitter.com/mkmolnar/status/828467533053325312/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 828467354539532300,
+						"id_str": "828467354539532288",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/828467354539532288/pu/img/R5Ff4WCWEQKz8CvF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/828467354539532288/pu/img/R5Ff4WCWEQKz8CvF.jpg",
+						"url": "https://t.co/3wbowdgY6Y",
+						"display_url": "pic.twitter.com/3wbowdgY6Y",
+						"expanded_url": "https://twitter.com/mkmolnar/status/828467533053325312/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 25687,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/828467354539532288/pu/vid/640x360/IisSH7iKGjLRgmec.mp4"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/828467354539532288/pu/pl/rnRMl2WPV--VS5md.mpd"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/828467354539532288/pu/vid/320x180/XV_Khrt1TyL_vPTT.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/828467354539532288/pu/vid/1280x720/zNKe-qSWDVXdoPag.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/828467354539532288/pu/pl/rnRMl2WPV--VS5md.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2310378148,
+				"id_str": "2310378148",
+				"name": "Marina Molnar",
+				"screen_name": "mkmolnar",
+				"location": "marina.molnar@yahoo.com",
+				"description": "Nice girl, tries hard, loves the game. @weekendatbergys @barstoolsports @stoolchiclets  snap/insta: marina.molnar",
+				"url": "https://t.co/MrN3JGpgpc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MrN3JGpgpc",
+								"expanded_url": "http://marinamolnar.com",
+								"display_url": "marinamolnar.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5960,
+				"friends_count": 602,
+				"listed_count": 125,
+				"created_at": "Tue Jan 28 19:04:33 +0000 2014",
+				"favourites_count": 6065,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18378,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/826276929124835328/0cgF5LNL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/826276929124835328/0cgF5LNL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2310378148/1486104691",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18043,
+			"favorite_count": 22738,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18043,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 06 07:10:35 +0000 2017",
 		"id": 828501125401751600,
 		"id_str": "828501125401751552",
