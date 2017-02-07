@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Tue Feb 07 11:02:38 +0000 2017",
+		"id": 828921907684597800,
+		"id_str": "828921907684597760",
+		"text": "RT @mackiemarsellos: What happens when lightning strikes a water tank. Melted to the water line. Pic Dean Perrett https://t.co/ImRYg8CBpi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mackiemarsellos",
+					"name": "Brad Marsellos",
+					"id": 233928533,
+					"id_str": "233928533",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 828763292596211700,
+					"id_str": "828763292596211712",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/C4Bb0toUkAAJ3ln.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4Bb0toUkAAJ3ln.jpg",
+					"url": "https://t.co/ImRYg8CBpi",
+					"display_url": "pic.twitter.com/ImRYg8CBpi",
+					"expanded_url": "http://twitter.com/mackiemarsellos/status/828763429250871296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 660,
+							"h": 485,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 660,
+							"h": 485,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 660,
+							"h": 485,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 828763429250871300,
+					"source_status_id_str": "828763429250871296",
+					"source_user_id": 233928533,
+					"source_user_id_str": "233928533"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 828763292596211700,
+					"id_str": "828763292596211712",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/C4Bb0toUkAAJ3ln.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4Bb0toUkAAJ3ln.jpg",
+					"url": "https://t.co/ImRYg8CBpi",
+					"display_url": "pic.twitter.com/ImRYg8CBpi",
+					"expanded_url": "http://twitter.com/mackiemarsellos/status/828763429250871296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 660,
+							"h": 485,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 660,
+							"h": 485,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 660,
+							"h": 485,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 828763429250871300,
+					"source_status_id_str": "828763429250871296",
+					"source_user_id": 233928533,
+					"source_user_id_str": "233928533"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 75,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2866,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70776,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 07 00:32:53 +0000 2017",
+			"id": 828763429250871300,
+			"id_str": "828763429250871296",
+			"text": "What happens when lightning strikes a water tank. Melted to the water line. Pic Dean Perrett https://t.co/ImRYg8CBpi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 828763292596211700,
+						"id_str": "828763292596211712",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/C4Bb0toUkAAJ3ln.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4Bb0toUkAAJ3ln.jpg",
+						"url": "https://t.co/ImRYg8CBpi",
+						"display_url": "pic.twitter.com/ImRYg8CBpi",
+						"expanded_url": "http://twitter.com/mackiemarsellos/status/828763429250871296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 660,
+								"h": 485,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 660,
+								"h": 485,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 660,
+								"h": 485,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 828763292596211700,
+						"id_str": "828763292596211712",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/C4Bb0toUkAAJ3ln.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4Bb0toUkAAJ3ln.jpg",
+						"url": "https://t.co/ImRYg8CBpi",
+						"display_url": "pic.twitter.com/ImRYg8CBpi",
+						"expanded_url": "http://twitter.com/mackiemarsellos/status/828763429250871296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 660,
+								"h": 485,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 660,
+								"h": 485,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 660,
+								"h": 485,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 233928533,
+				"id_str": "233928533",
+				"name": "Brad Marsellos",
+				"screen_name": "mackiemarsellos",
+				"location": "Queensland, Australia",
+				"description": "Nice to meet you. Ghetto dad living the dream. Officially relaxed. marsellos.brad@abc.net.au",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1035,
+				"friends_count": 1095,
+				"listed_count": 43,
+				"created_at": "Tue Jan 04 12:57:47 +0000 2011",
+				"favourites_count": 4518,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17469,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/663684217042132992/97KTuIHD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/663684217042132992/97KTuIHD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/233928533/1444526984",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "00c4faf048cd53f4",
+				"url": "https://api.twitter.com/1.1/geo/id/00c4faf048cd53f4.json",
+				"place_type": "city",
+				"name": "Kingaroy",
+				"full_name": "Kingaroy, Queensland",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								151.773020992,
+								-26.574963998
+							],
+							[
+								151.89091792,
+								-26.574963998
+							],
+							[
+								151.89091792,
+								-26.5095679965
+							],
+							[
+								151.773020992,
+								-26.5095679965
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 75,
+			"favorite_count": 74,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 06 09:35:42 +0000 2017",
 		"id": 828537643717648400,
 		"id_str": "828537643717648384",
