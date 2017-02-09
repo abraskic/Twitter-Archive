@@ -1,6 +1,580 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Thu Feb 09 23:10:28 +0000 2017",
+		"id": 829829852198940700,
+		"id_str": "829829852198940672",
+		"text": "RT @michaelbarthel: It's snowing in NYC, which means it's time once again for the best picture https://t.co/rARv1osNii",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michaelbarthel",
+					"name": "Mike Barthel",
+					"id": 37665549,
+					"id_str": "37665549",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 829762491928428500,
+					"id_str": "829762491928428544",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/C4PolxNWQAA5cIq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4PolxNWQAA5cIq.jpg",
+					"url": "https://t.co/rARv1osNii",
+					"display_url": "pic.twitter.com/rARv1osNii",
+					"expanded_url": "https://twitter.com/michaelbarthel/status/829762513571024896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 809,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 829762513571024900,
+					"source_status_id_str": "829762513571024896",
+					"source_user_id": 37665549,
+					"source_user_id_str": "37665549"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 829762491928428500,
+					"id_str": "829762491928428544",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/C4PolxNWQAA5cIq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4PolxNWQAA5cIq.jpg",
+					"url": "https://t.co/rARv1osNii",
+					"display_url": "pic.twitter.com/rARv1osNii",
+					"expanded_url": "https://twitter.com/michaelbarthel/status/829762513571024896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 809,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 829762513571024900,
+					"source_status_id_str": "829762513571024896",
+					"source_user_id": 37665549,
+					"source_user_id_str": "37665549"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 75,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2866,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70794,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 09 18:42:54 +0000 2017",
+			"id": 829762513571024900,
+			"id_str": "829762513571024896",
+			"text": "It's snowing in NYC, which means it's time once again for the best picture https://t.co/rARv1osNii",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 829762491928428500,
+						"id_str": "829762491928428544",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/C4PolxNWQAA5cIq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4PolxNWQAA5cIq.jpg",
+						"url": "https://t.co/rARv1osNii",
+						"display_url": "pic.twitter.com/rARv1osNii",
+						"expanded_url": "https://twitter.com/michaelbarthel/status/829762513571024896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1380,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 458,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 809,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 829762491928428500,
+						"id_str": "829762491928428544",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/C4PolxNWQAA5cIq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4PolxNWQAA5cIq.jpg",
+						"url": "https://t.co/rARv1osNii",
+						"display_url": "pic.twitter.com/rARv1osNii",
+						"expanded_url": "https://twitter.com/michaelbarthel/status/829762513571024896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1380,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 458,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 809,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37665549,
+				"id_str": "37665549",
+				"name": "Mike Barthel",
+				"screen_name": "michaelbarthel",
+				"location": "Washington, DC",
+				"description": "Journalism researcher for @pewresearch; former critic; tweeting about newspapers, digital journalism, and the internet. Expect some residual music criticism.",
+				"url": "https://t.co/kn7zbw8pXu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kn7zbw8pXu",
+								"expanded_url": "http://journalism.org",
+								"display_url": "journalism.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1667,
+				"friends_count": 1693,
+				"listed_count": 103,
+				"created_at": "Mon May 04 14:02:25 +0000 2009",
+				"favourites_count": 6766,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8574,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/655590562293153792/hqUC6OSF.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/655590562293153792/hqUC6OSF.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/787459402680926208/ZkfPKtna_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/787459402680926208/ZkfPKtna_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37665549/1459916708",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1337,
+			"favorite_count": 3624,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1337,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 09 23:06:43 +0000 2017",
+		"id": 829828907889070100,
+		"id_str": "829828907889070080",
+		"text": "RT @BOM_WA: Perth's 2nd wettest ever day with 106mm since 9am 9th Feb....still 4 hours to go! 120.6mm fell on 9th Feb 1992. #hissingdown",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hissingdown",
+					"indices": [
+						124,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BOM_WA",
+					"name": "BOM WA",
+					"id": 2846147642,
+					"id_str": "2846147642",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 75,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2866,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70794,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 09 20:58:38 +0000 2017",
+			"id": 829796673350144000,
+			"id_str": "829796673350144000",
+			"text": "Perth's 2nd wettest ever day with 106mm since 9am 9th Feb....still 4 hours to go! 120.6mm fell on 9th Feb 1992. #hissingdown",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "hissingdown",
+						"indices": [
+							112,
+							124
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.radian6.com\" rel=\"nofollow\">Radian6 -Social Media Management</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2846147642,
+				"id_str": "2846147642",
+				"name": "BOM WA",
+				"screen_name": "BOM_WA",
+				"location": "Western Australia, Australia",
+				"description": "Official Bureau of Meteorology (Western Australia) account for Bureau information. Always check http://t.co/YqpXX5n5Hn for latest warnings",
+				"url": "http://t.co/qxeA1cbQAY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/qxeA1cbQAY",
+								"expanded_url": "http://www.bom.gov.au/wa",
+								"display_url": "bom.gov.au/wa",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/YqpXX5n5Hn",
+								"expanded_url": "http://www.bom.gov.au/wa/warnings",
+								"display_url": "bom.gov.au/wa/warnings",
+								"indices": [
+									96,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 62377,
+				"friends_count": 53,
+				"listed_count": 227,
+				"created_at": "Wed Oct 08 04:51:04 +0000 2014",
+				"favourites_count": 11,
+				"utc_offset": 28800,
+				"time_zone": "Perth",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2625,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/650802360004972544/eeKn3cYo_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/650802360004972544/eeKn3cYo_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2846147642/1476066309",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 09 11:43:56 +0000 2017",
 		"id": 829657076787863600,
 		"id_str": "829657076787863552",
