@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sat Feb 11 03:09:05 +0000 2017",
+		"id": 830252289025716200,
+		"id_str": "830252289025716224",
+		"text": "Once again Perth proves, weather wise, it’s the place to be. I mean why would you want to be anywhere else? https://t.co/xgl4EbPZWh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xgl4EbPZWh",
+					"expanded_url": "https://twitter.com/io9/status/830250016879034368",
+					"display_url": "twitter.com/io9/status/830…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 75,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2869,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				-31.70083489,
+				115.79567791
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				115.79567791,
+				-31.70083489
+			]
+		},
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 830250016879034400,
+		"quoted_status_id_str": "830250016879034368",
+		"quoted_status": {
+			"created_at": "Sat Feb 11 03:00:03 +0000 2017",
+			"id": 830250016879034400,
+			"id_str": "830250016879034368",
+			"text": "Australia is hot as balls right now https://t.co/4zWh6MVck1 https://t.co/zEekfM45fw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4zWh6MVck1",
+						"expanded_url": "http://on.io9.com/M0OQ9dA",
+						"display_url": "on.io9.com/M0OQ9dA",
+						"indices": [
+							36,
+							59
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 830250013708124200,
+						"id_str": "830250013708124162",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/C4Wj_RXWAAI7pUE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4Wj_RXWAAI7pUE.jpg",
+						"url": "https://t.co/zEekfM45fw",
+						"display_url": "pic.twitter.com/zEekfM45fw",
+						"expanded_url": "https://twitter.com/io9/status/830250016879034368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 970,
+								"h": 551,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 386,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 970,
+								"h": 551,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 830250013708124200,
+						"id_str": "830250013708124162",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/C4Wj_RXWAAI7pUE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4Wj_RXWAAI7pUE.jpg",
+						"url": "https://t.co/zEekfM45fw",
+						"display_url": "pic.twitter.com/zEekfM45fw",
+						"expanded_url": "https://twitter.com/io9/status/830250016879034368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 970,
+								"h": 551,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 386,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 970,
+								"h": 551,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13215132,
+				"id_str": "13215132",
+				"name": "io9",
+				"screen_name": "io9",
+				"location": "",
+				"description": "We come from the future. By @Gizmodo.",
+				"url": "https://t.co/jwPxjc4FzW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jwPxjc4FzW",
+								"expanded_url": "http://io9.com",
+								"display_url": "io9.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 139463,
+				"friends_count": 48,
+				"listed_count": 7467,
+				"created_at": "Thu Feb 07 18:34:52 +0000 2008",
+				"favourites_count": 179,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 60703,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/87115359/Milky_Way_Galaxy.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/87115359/Milky_Way_Galaxy.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2987478150/f20258fd958408104e415fbc7b57b0bc_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2987478150/f20258fd958408104e415fbc7b57b0bc_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13215132/1355763508",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 10 23:48:07 +0000 2017",
 		"id": 830201713780940800,
 		"id_str": "830201713780940801",
