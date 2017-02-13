@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 12 23:58:25 +0000 2017",
+		"id": 830929079197052900,
+		"id_str": "830929079197052929",
+		"text": "RT @TheNTNews: YOU'VE SCOTT TO BE KIDDING US @ScottMorrisonMP ... IT'S TIME TO SEE U IN THE NT https://t.co/CnxYwM3kRm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheNTNews",
+					"name": "The NT News",
+					"id": 60894045,
+					"id_str": "60894045",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "ScottMorrisonMP",
+					"name": "Scott Morrison",
+					"id": 34116377,
+					"id_str": "34116377",
+					"indices": [
+						45,
+						61
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 830887986254340100,
+					"id_str": "830887986254340096",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/C4foOKTUYAAaPoS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4foOKTUYAAaPoS.jpg",
+					"url": "https://t.co/CnxYwM3kRm",
+					"display_url": "pic.twitter.com/CnxYwM3kRm",
+					"expanded_url": "https://twitter.com/TheNTNews/status/830888000582086656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 830888000582086700,
+					"source_status_id_str": "830888000582086656",
+					"source_user_id": 60894045,
+					"source_user_id_str": "60894045"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 830887986254340100,
+					"id_str": "830887986254340096",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/C4foOKTUYAAaPoS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4foOKTUYAAaPoS.jpg",
+					"url": "https://t.co/CnxYwM3kRm",
+					"display_url": "pic.twitter.com/CnxYwM3kRm",
+					"expanded_url": "https://twitter.com/TheNTNews/status/830888000582086656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 830888000582086700,
+					"source_status_id_str": "830888000582086656",
+					"source_user_id": 60894045,
+					"source_user_id_str": "60894045"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 76,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2870,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70814,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 12 21:15:11 +0000 2017",
+			"id": 830888000582086700,
+			"id_str": "830888000582086656",
+			"text": "YOU'VE SCOTT TO BE KIDDING US @ScottMorrisonMP ... IT'S TIME TO SEE U IN THE NT https://t.co/CnxYwM3kRm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ScottMorrisonMP",
+						"name": "Scott Morrison",
+						"id": 34116377,
+						"id_str": "34116377",
+						"indices": [
+							30,
+							46
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 830887986254340100,
+						"id_str": "830887986254340096",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/C4foOKTUYAAaPoS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4foOKTUYAAaPoS.jpg",
+						"url": "https://t.co/CnxYwM3kRm",
+						"display_url": "pic.twitter.com/CnxYwM3kRm",
+						"expanded_url": "https://twitter.com/TheNTNews/status/830888000582086656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1050,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 1050,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 486,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 830887986254340100,
+						"id_str": "830887986254340096",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/C4foOKTUYAAaPoS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4foOKTUYAAaPoS.jpg",
+						"url": "https://t.co/CnxYwM3kRm",
+						"display_url": "pic.twitter.com/CnxYwM3kRm",
+						"expanded_url": "https://twitter.com/TheNTNews/status/830888000582086656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1050,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 1050,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 486,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60894045,
+				"id_str": "60894045",
+				"name": "The NT News",
+				"screen_name": "TheNTNews",
+				"location": "Northern Territory",
+				"description": "THERE'S MORE TO US THAN JUST CROCS AND WITTY HEADLINES. WHEN WE FIND OUT WHAT THEY ARE, WE'LL LET YOU KNOW. WE LOVE SHOUTING. OUR TEAM: https://t.co/qNTKirykIN",
+				"url": "https://t.co/v1j6qJOkT1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/v1j6qJOkT1",
+								"expanded_url": "http://www.ntnews.com.au",
+								"display_url": "ntnews.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qNTKirykIN",
+								"expanded_url": "https://twitter.com/TheNTNews/li",
+								"display_url": "twitter.com/TheNTNews/li",
+								"indices": [
+									136,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 40838,
+				"friends_count": 275,
+				"listed_count": 444,
+				"created_at": "Tue Jul 28 12:49:00 +0000 2009",
+				"favourites_count": 1199,
+				"utc_offset": 34200,
+				"time_zone": "Darwin",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10793,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89A649",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/751647770/f5a44bfa2e6383e85bcad2d771553702.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/751647770/f5a44bfa2e6383e85bcad2d771553702.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/550279791299944449/8InSf2Xd_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/550279791299944449/8InSf2Xd_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/60894045/1472892845",
+				"profile_link_color": "0470CF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "BDAF46",
+				"profile_text_color": "050505",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 12 10:54:11 +0000 2017",
 		"id": 830731721687527400,
 		"id_str": "830731721687527424",
