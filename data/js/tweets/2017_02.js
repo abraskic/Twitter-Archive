@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Thu Feb 16 03:27:59 +0000 2017",
+		"id": 832068983872376800,
+		"id_str": "832068983872376833",
+		"text": "RT @decryption: Myer is gonna have mini-Tesla stores soon - weird\nhttps://t.co/9GXMYx3WIC https://t.co/36O7YBK7rm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "decryption",
+					"name": "decryption",
+					"id": 718713,
+					"id_str": "718713",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9GXMYx3WIC",
+					"expanded_url": "https://electrek.co/2017/02/15/tesla-retail-deal-myer-australia/",
+					"display_url": "electrek.co/2017/02/15/tes…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 832058771362836500,
+					"id_str": "832058771362836480",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/C4wRC0tUcAAOARg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4wRC0tUcAAOARg.jpg",
+					"url": "https://t.co/36O7YBK7rm",
+					"display_url": "pic.twitter.com/36O7YBK7rm",
+					"expanded_url": "https://twitter.com/decryption/status/832058783387967488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832058783387967500,
+					"source_status_id_str": "832058783387967488",
+					"source_user_id": 718713,
+					"source_user_id_str": "718713"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 832058771362836500,
+					"id_str": "832058771362836480",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/C4wRC0tUcAAOARg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4wRC0tUcAAOARg.jpg",
+					"url": "https://t.co/36O7YBK7rm",
+					"display_url": "pic.twitter.com/36O7YBK7rm",
+					"expanded_url": "https://twitter.com/decryption/status/832058783387967488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832058783387967500,
+					"source_status_id_str": "832058783387967488",
+					"source_user_id": 718713,
+					"source_user_id_str": "718713"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 76,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2872,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70843,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 16 02:47:27 +0000 2017",
+			"id": 832058783387967500,
+			"id_str": "832058783387967488",
+			"text": "Myer is gonna have mini-Tesla stores soon - weird\nhttps://t.co/9GXMYx3WIC https://t.co/36O7YBK7rm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9GXMYx3WIC",
+						"expanded_url": "https://electrek.co/2017/02/15/tesla-retail-deal-myer-australia/",
+						"display_url": "electrek.co/2017/02/15/tes…",
+						"indices": [
+							50,
+							73
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 832058771362836500,
+						"id_str": "832058771362836480",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/C4wRC0tUcAAOARg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4wRC0tUcAAOARg.jpg",
+						"url": "https://t.co/36O7YBK7rm",
+						"display_url": "pic.twitter.com/36O7YBK7rm",
+						"expanded_url": "https://twitter.com/decryption/status/832058783387967488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 832058771362836500,
+						"id_str": "832058771362836480",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/C4wRC0tUcAAOARg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4wRC0tUcAAOARg.jpg",
+						"url": "https://t.co/36O7YBK7rm",
+						"display_url": "pic.twitter.com/36O7YBK7rm",
+						"expanded_url": "https://twitter.com/decryption/status/832058783387967488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 718713,
+				"id_str": "718713",
+				"name": "decryption",
+				"screen_name": "decryption",
+				"location": "Melbourne, Victoria",
+				"description": "Author of The Sizzle, a daily tech email newsletter. Rabid North Melbourne Kangaroos supporter.",
+				"url": "https://t.co/V0TP0KBf8T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/V0TP0KBf8T",
+								"expanded_url": "http://thesizzle.com.au",
+								"display_url": "thesizzle.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3205,
+				"friends_count": 386,
+				"listed_count": 292,
+				"created_at": "Sun Jan 28 08:28:45 +0000 2007",
+				"favourites_count": 3299,
+				"utc_offset": 39600,
+				"time_zone": "Australia/Sydney",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3573,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/774579135041589253/YrLWP6CC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/774579135041589253/YrLWP6CC_normal.jpg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Feb 15 13:31:51 +0000 2017",
 		"id": 831858563018481700,
 		"id_str": "831858563018481664",
