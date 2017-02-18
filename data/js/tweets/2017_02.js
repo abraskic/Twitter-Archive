@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sat Feb 18 12:26:25 +0000 2017",
+		"id": 832929261300260900,
+		"id_str": "832929261300260865",
+		"text": "RT @maxuthink: i regret everything https://t.co/gadt64R2Ix",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maxuthink",
+					"name": "salvador amygdali",
+					"id": 185871094,
+					"id_str": "185871094",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 832918390549344300,
+					"id_str": "832918390549344256",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/C48e3PuVcAA6s8e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C48e3PuVcAA6s8e.jpg",
+					"url": "https://t.co/gadt64R2Ix",
+					"display_url": "pic.twitter.com/gadt64R2Ix",
+					"expanded_url": "https://twitter.com/maxuthink/status/832918439668834304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 813,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1387,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832918439668834300,
+					"source_status_id_str": "832918439668834304",
+					"source_user_id": 185871094,
+					"source_user_id_str": "185871094"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 832918390549344300,
+					"id_str": "832918390549344256",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/C48e3PuVcAA6s8e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C48e3PuVcAA6s8e.jpg",
+					"url": "https://t.co/gadt64R2Ix",
+					"display_url": "pic.twitter.com/gadt64R2Ix",
+					"expanded_url": "https://twitter.com/maxuthink/status/832918439668834304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 813,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1387,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832918439668834300,
+					"source_status_id_str": "832918439668834304",
+					"source_user_id": 185871094,
+					"source_user_id_str": "185871094"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 76,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2872,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70866,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 18 11:43:25 +0000 2017",
+			"id": 832918439668834300,
+			"id_str": "832918439668834304",
+			"text": "i regret everything https://t.co/gadt64R2Ix",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 832918390549344300,
+						"id_str": "832918390549344256",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/C48e3PuVcAA6s8e.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C48e3PuVcAA6s8e.jpg",
+						"url": "https://t.co/gadt64R2Ix",
+						"display_url": "pic.twitter.com/gadt64R2Ix",
+						"expanded_url": "https://twitter.com/maxuthink/status/832918439668834304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 813,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 461,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1387,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 832918390549344300,
+						"id_str": "832918390549344256",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/C48e3PuVcAA6s8e.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C48e3PuVcAA6s8e.jpg",
+						"url": "https://t.co/gadt64R2Ix",
+						"display_url": "pic.twitter.com/gadt64R2Ix",
+						"expanded_url": "https://twitter.com/maxuthink/status/832918439668834304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 813,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 461,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1387,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 185871094,
+				"id_str": "185871094",
+				"name": "salvador amygdali",
+				"screen_name": "maxuthink",
+				"location": "Thornbury, Melbourne",
+				"description": "I've got no kick against modern jazz (unless they try to play it too damn fast)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2319,
+				"friends_count": 1253,
+				"listed_count": 78,
+				"created_at": "Thu Sep 02 01:14:37 +0000 2010",
+				"favourites_count": 12492,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 47565,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000078509419/11d8545a0d4627bb19eb13fb0fa666f6.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000078509419/11d8545a0d4627bb19eb13fb0fa666f6.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/762554200249118720/57b--DX__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/762554200249118720/57b--DX__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/185871094/1398209593",
+				"profile_link_color": "55B54F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 86,
+			"favorite_count": 222,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 18 09:27:42 +0000 2017",
 		"id": 832884284910243800,
 		"id_str": "832884284910243840",
