@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Mon Feb 20 20:59:45 +0000 2017",
+		"id": 833783221418537000,
+		"id_str": "833783221418536960",
+		"text": "@backtowinnipeg It’s gravity controls the asteroids in the solar system. Its saved your life once or twice. https://t.co/BdId7EBYHS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "backtowinnipeg",
+					"name": "Torple Sloane",
+					"id": 23413689,
+					"id_str": "23413689",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BdId7EBYHS",
+					"expanded_url": "https://twitter.com/learn_things/status/753005782715760644",
+					"display_url": "twitter.com/learn_things/s…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 833673840395841500,
+		"in_reply_to_status_id_str": "833673840395841536",
+		"in_reply_to_user_id": 23413689,
+		"in_reply_to_user_id_str": "23413689",
+		"in_reply_to_screen_name": "backtowinnipeg",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 76,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2873,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				-31.7009105,
+				115.79549854
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				115.79549854,
+				-31.7009105
+			]
+		},
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 753005782715760600,
+		"quoted_status_id_str": "753005782715760644",
+		"quoted_status": {
+			"created_at": "Tue Jul 12 23:19:03 +0000 2016",
+			"id": 753005782715760600,
+			"id_str": "753005782715760644",
+			"text": "This is how Jupiter 'shepherds' the asteroid belt, preventing asteroids from falling into the sun or hitting planets https://t.co/nOIgLP0IVs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 689181527427665900,
+						"id_str": "689181527427665924",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CZB28qAWUAQK_Tm.png",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CZB28qAWUAQK_Tm.png",
+						"url": "https://t.co/nOIgLP0IVs",
+						"display_url": "pic.twitter.com/nOIgLP0IVs",
+						"expanded_url": "https://twitter.com/ThingsWork/status/689181528102948864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 689181528102948900,
+						"source_status_id_str": "689181528102948864",
+						"source_user_id": 2217099931,
+						"source_user_id_str": "2217099931"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 689181527427665900,
+						"id_str": "689181527427665924",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CZB28qAWUAQK_Tm.png",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CZB28qAWUAQK_Tm.png",
+						"url": "https://t.co/nOIgLP0IVs",
+						"display_url": "pic.twitter.com/nOIgLP0IVs",
+						"expanded_url": "https://twitter.com/ThingsWork/status/689181528102948864/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 689181528102948900,
+						"source_status_id_str": "689181528102948864",
+						"source_user_id": 2217099931,
+						"source_user_id_str": "2217099931",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/CZB28qAWUAQK_Tm.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 593370001,
+				"id_str": "593370001",
+				"name": "Science GIFs⚛️",
+				"screen_name": "Learn_Things",
+				"location": "",
+				"description": "The best Science GIFs, Vines and videos!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1150234,
+				"friends_count": 28,
+				"listed_count": 3354,
+				"created_at": "Tue May 29 04:49:10 +0000 2012",
+				"favourites_count": 6,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 996,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/541249547385982976/5IYaH6zA_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/541249547385982976/5IYaH6zA_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/593370001/1417880383",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1977,
+			"favorite_count": 3199,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 20 13:12:35 +0000 2017",
 		"id": 833665654834110500,
 		"id_str": "833665654834110464",
