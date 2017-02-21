@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Tue Feb 21 07:37:24 +0000 2017",
+		"id": 833943689013579800,
+		"id_str": "833943689013579776",
+		"text": "RT @bananafitz: i have so many followup questions. https://t.co/pAUgLREQVC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bananafitz",
+					"name": "Anna Fitzpatrick",
+					"id": 20254815,
+					"id_str": "20254815",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 833777425683058700,
+					"id_str": "833777425683058692",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/C5IsJq-UEAQ6nQp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5IsJq-UEAQ6nQp.jpg",
+					"url": "https://t.co/pAUgLREQVC",
+					"display_url": "pic.twitter.com/pAUgLREQVC",
+					"expanded_url": "https://twitter.com/bananafitz/status/833777443177635840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 348,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 348,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 348,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833777443177635800,
+					"source_status_id_str": "833777443177635840",
+					"source_user_id": 20254815,
+					"source_user_id_str": "20254815"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 833777425683058700,
+					"id_str": "833777425683058692",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/C5IsJq-UEAQ6nQp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5IsJq-UEAQ6nQp.jpg",
+					"url": "https://t.co/pAUgLREQVC",
+					"display_url": "pic.twitter.com/pAUgLREQVC",
+					"expanded_url": "https://twitter.com/bananafitz/status/833777443177635840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 348,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 348,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 348,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833777443177635800,
+					"source_status_id_str": "833777443177635840",
+					"source_user_id": 20254815,
+					"source_user_id_str": "20254815"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/o45oc11nB7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o45oc11nB7",
+							"expanded_url": "http://braski.co/",
+							"display_url": "braski.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 76,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2873,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70877,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 20 20:36:47 +0000 2017",
+			"id": 833777443177635800,
+			"id_str": "833777443177635840",
+			"text": "i have so many followup questions. https://t.co/pAUgLREQVC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 833777425683058700,
+						"id_str": "833777425683058692",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/C5IsJq-UEAQ6nQp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5IsJq-UEAQ6nQp.jpg",
+						"url": "https://t.co/pAUgLREQVC",
+						"display_url": "pic.twitter.com/pAUgLREQVC",
+						"expanded_url": "https://twitter.com/bananafitz/status/833777443177635840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 540,
+								"h": 348,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 348,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 540,
+								"h": 348,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 833777425683058700,
+						"id_str": "833777425683058692",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/C5IsJq-UEAQ6nQp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5IsJq-UEAQ6nQp.jpg",
+						"url": "https://t.co/pAUgLREQVC",
+						"display_url": "pic.twitter.com/pAUgLREQVC",
+						"expanded_url": "https://twitter.com/bananafitz/status/833777443177635840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 540,
+								"h": 348,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 348,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 540,
+								"h": 348,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20254815,
+				"id_str": "20254815",
+				"name": "Anna Fitzpatrick",
+				"screen_name": "bananafitz",
+				"location": "Toronto, Ontario",
+				"description": "hack | genius | grown woman | baby giraffe | your canadian girlfriend who definitely exists | annaclaire.fitzpatrick at gmail dot com",
+				"url": "https://t.co/iioT4Yy8lI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iioT4Yy8lI",
+								"expanded_url": "http://www.bananafitz.ca/",
+								"display_url": "bananafitz.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8799,
+				"friends_count": 2198,
+				"listed_count": 141,
+				"created_at": "Fri Feb 06 17:42:27 +0000 2009",
+				"favourites_count": 9019,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19072,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/448988133145579520/l5RPI3iw.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/448988133145579520/l5RPI3iw.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815280000232550400/qWZn4BKa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815280000232550400/qWZn4BKa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20254815/1457039038",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2762,
+			"favorite_count": 7428,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2762,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 20 20:59:45 +0000 2017",
 		"id": 833783221418537000,
 		"id_str": "833783221418536960",
