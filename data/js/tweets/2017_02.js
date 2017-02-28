@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Mon Feb 27 23:46:34 +0000 2017",
+		"id": 836361917337751600,
+		"id_str": "836361917337751552",
+		"text": "RT @SteveHoffmanTV: Someone in the Platteville Library in Wisconsin has a great sense of humor... https://t.co/3SU7GTgR5B",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SteveHoffmanTV",
+					"name": "Steve Hoffman",
+					"id": 208138828,
+					"id_str": "208138828",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 836301221933699100,
+					"id_str": "836301221933699074",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/C5sjh8qVUAImIS5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5sjh8qVUAImIS5.jpg",
+					"url": "https://t.co/3SU7GTgR5B",
+					"display_url": "pic.twitter.com/3SU7GTgR5B",
+					"expanded_url": "https://twitter.com/SteveHoffmanTV/status/836301243014270977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 836301243014271000,
+					"source_status_id_str": "836301243014270977",
+					"source_user_id": 208138828,
+					"source_user_id_str": "208138828"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 836301221933699100,
+					"id_str": "836301221933699074",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/C5sjh8qVUAImIS5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5sjh8qVUAImIS5.jpg",
+					"url": "https://t.co/3SU7GTgR5B",
+					"display_url": "pic.twitter.com/3SU7GTgR5B",
+					"expanded_url": "https://twitter.com/SteveHoffmanTV/status/836301243014270977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 836301243014271000,
+					"source_status_id_str": "836301243014270977",
+					"source_user_id": 208138828,
+					"source_user_id_str": "208138828"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 76,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2877,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70927,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 27 19:45:28 +0000 2017",
+			"id": 836301243014271000,
+			"id_str": "836301243014270977",
+			"text": "Someone in the Platteville Library in Wisconsin has a great sense of humor... https://t.co/3SU7GTgR5B",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 836301221933699100,
+						"id_str": "836301221933699074",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/C5sjh8qVUAImIS5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5sjh8qVUAImIS5.jpg",
+						"url": "https://t.co/3SU7GTgR5B",
+						"display_url": "pic.twitter.com/3SU7GTgR5B",
+						"expanded_url": "https://twitter.com/SteveHoffmanTV/status/836301243014270977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 836301221933699100,
+						"id_str": "836301221933699074",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/C5sjh8qVUAImIS5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5sjh8qVUAImIS5.jpg",
+						"url": "https://t.co/3SU7GTgR5B",
+						"display_url": "pic.twitter.com/3SU7GTgR5B",
+						"expanded_url": "https://twitter.com/SteveHoffmanTV/status/836301243014270977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 208138828,
+				"id_str": "208138828",
+				"name": "Steve Hoffman",
+				"screen_name": "SteveHoffmanTV",
+				"location": "Los Angeles",
+				"description": "Audiophile music mastering engineer & host of world famous Internet music forum. Register and join us today! https://t.co/vCXte0hQCG",
+				"url": "http://t.co/LPr2StdEDK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/LPr2StdEDK",
+								"expanded_url": "http://stevehoffman.tv",
+								"display_url": "stevehoffman.tv",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/vCXte0hQCG",
+								"expanded_url": "http://forums.stevehoffman.tv",
+								"display_url": "forums.stevehoffman.tv",
+								"indices": [
+									109,
+									132
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2164,
+				"friends_count": 1008,
+				"listed_count": 57,
+				"created_at": "Tue Oct 26 18:18:06 +0000 2010",
+				"favourites_count": 679,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1852,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836302601125679104/jia8gb5M_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836302601125679104/jia8gb5M_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/208138828/1400390442",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2398,
+			"favorite_count": 3571,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2398,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 27 15:39:15 +0000 2017",
 		"id": 836239281010069500,
 		"id_str": "836239281010069504",
