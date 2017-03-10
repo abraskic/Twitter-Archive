@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 10 06:39:11 +0000 2017",
+		"id": 840089633329360900,
+		"id_str": "840089633329360901",
+		"text": "You haven’t lived until you’ve made the pilgrimage to The Shops at Ellenbrook. https://t.co/1Dr0dAdRaA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1Dr0dAdRaA",
+					"expanded_url": "https://twitter.com/Barnsy_Lisa/status/840081236743737348",
+					"display_url": "twitter.com/Barnsy_Lisa/st…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 67,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2883,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71033,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c19d49ffc343fce",
+			"url": "https://api.twitter.com/1.1/geo/id/6c19d49ffc343fce.json",
+			"place_type": "neighborhood",
+			"name": "Banksia Grove",
+			"full_name": "Banksia Grove, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.79415516,
+							-31.71610899
+						],
+						[
+							115.81899912,
+							-31.71610899
+						],
+						[
+							115.81899912,
+							-31.68577296
+						],
+						[
+							115.79415516,
+							-31.68577296
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 840081236743737300,
+		"quoted_status_id_str": "840081236743737348",
+		"quoted_status": {
+			"created_at": "Fri Mar 10 06:05:49 +0000 2017",
+			"id": 840081236743737300,
+			"id_str": "840081236743737348",
+			"text": "Pauline drawing a bit of a crowd in Ellenbrook. To be fair, not many people visit us... #wavotes #perthnews https://t.co/RFb4hzNMCU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "wavotes",
+						"indices": [
+							88,
+							96
+						]
+					},
+					{
+						"text": "perthnews",
+						"indices": [
+							97,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 840081218561499100,
+						"id_str": "840081218561499136",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/C6iRatbV4AAsuzd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6iRatbV4AAsuzd.jpg",
+						"url": "https://t.co/RFb4hzNMCU",
+						"display_url": "pic.twitter.com/RFb4hzNMCU",
+						"expanded_url": "https://twitter.com/Barnsy_Lisa/status/840081236743737348/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 659,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 373,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1124,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 840081218561499100,
+						"id_str": "840081218561499136",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/C6iRatbV4AAsuzd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6iRatbV4AAsuzd.jpg",
+						"url": "https://t.co/RFb4hzNMCU",
+						"display_url": "pic.twitter.com/RFb4hzNMCU",
+						"expanded_url": "https://twitter.com/Barnsy_Lisa/status/840081236743737348/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 659,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 373,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1124,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29326170,
+				"id_str": "29326170",
+				"name": "Lisa Barnes",
+				"screen_name": "Barnsy_Lisa",
+				"location": "Perth, WA",
+				"description": "Country girl, journo, boss-lady, sunshine chaser, V8 driver, bogan at heart, car lover, often distracted by animals & shiny things. Hates being cold, & tennis.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8042,
+				"friends_count": 1227,
+				"listed_count": 152,
+				"created_at": "Mon Apr 06 23:33:11 +0000 2009",
+				"favourites_count": 99,
+				"utc_offset": 28800,
+				"time_zone": "Perth",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 58027,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/268502123/12032010168.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/268502123/12032010168.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/833648617374175232/_QJHz7ud_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/833648617374175232/_QJHz7ud_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29326170/1474589110",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 10 05:16:10 +0000 2017",
 		"id": 840068740389646300,
 		"id_str": "840068740389646336",
