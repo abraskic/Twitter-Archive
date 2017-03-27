@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Mon Mar 27 23:14:11 +0000 2017",
+		"id": 846500629648367600,
+		"id_str": "846500629648367616",
+		"text": "@GlenCodes https://t.co/1snGhzjPxT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GlenCodes",
+					"name": "Glen Codes",
+					"id": 90395317,
+					"id_str": "90395317",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1snGhzjPxT",
+					"expanded_url": "https://twitter.com/sudosev/status/846376181637238785",
+					"display_url": "twitter.com/sudosev/status…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 90395317,
+		"in_reply_to_user_id_str": "90395317",
+		"in_reply_to_screen_name": "GlenCodes",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 71,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2891,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71137,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				-31.74321864,
+				115.76593621
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				115.76593621,
+				-31.74321864
+			]
+		},
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 846376181637238800,
+		"quoted_status_id_str": "846376181637238785",
+		"quoted_status": {
+			"created_at": "Mon Mar 27 14:59:41 +0000 2017",
+			"id": 846376181637238800,
+			"id_str": "846376181637238785",
+			"text": "The code I expect to write vs. the code I end up writing. https://t.co/ij5GaA811u",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 846376019833606100,
+						"id_str": "846376019833606144",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/C77ugXiXUAA0eMw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C77ugXiXUAA0eMw.jpg",
+						"url": "https://t.co/ij5GaA811u",
+						"display_url": "pic.twitter.com/ij5GaA811u",
+						"expanded_url": "https://twitter.com/sudosev/status/846376181637238785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 386,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 722,
+								"h": 410,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 722,
+								"h": 410,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 846376019833606100,
+						"id_str": "846376019833606144",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/C77ugXiXUAA0eMw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C77ugXiXUAA0eMw.jpg",
+						"url": "https://t.co/ij5GaA811u",
+						"display_url": "pic.twitter.com/ij5GaA811u",
+						"expanded_url": "https://twitter.com/sudosev/status/846376181637238785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 386,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 722,
+								"h": 410,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 722,
+								"h": 410,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 846376166260912100,
+						"id_str": "846376166260912131",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/C77uo5BWsAMj1JH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C77uo5BWsAMj1JH.jpg",
+						"url": "https://t.co/ij5GaA811u",
+						"display_url": "pic.twitter.com/ij5GaA811u",
+						"expanded_url": "https://twitter.com/sudosev/status/846376181637238785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 370,
+								"h": 302,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 370,
+								"h": 302,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 370,
+								"h": 302,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 952483908,
+				"id_str": "952483908",
+				"name": "Sev",
+				"screen_name": "sudosev",
+				"location": "United Kingdom",
+				"description": "SANS Lethal Forensicator - Amateur malware analyst & threat hunter. Aspiring wizard. Undergrad. Head currently buried in my dissertation. sudosev@protonmail.ch",
+				"url": "https://t.co/i0Grw5QVL5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/i0Grw5QVL5",
+								"expanded_url": "https://sudosev.com",
+								"display_url": "sudosev.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5307,
+				"friends_count": 1256,
+				"listed_count": 239,
+				"created_at": "Fri Nov 16 22:06:30 +0000 2012",
+				"favourites_count": 12065,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 29365,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/843863515408580608/M2zg6ouN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/843863515408580608/M2zg6ouN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/952483908/1484254894",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 618,
+			"favorite_count": 1064,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "und"
+	},
+	{
 		"created_at": "Mon Mar 27 21:54:44 +0000 2017",
 		"id": 846480634243539000,
 		"id_str": "846480634243538944",
