@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 09 10:51:10 +0000 2017",
+		"id": 851024682731974700,
+		"id_str": "851024682731974656",
+		"text": "RT @kevak1969: You win Ikea. You win 🤔 https://t.co/tvMoUr51B2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kevak1969",
+					"name": "Kevin Antony",
+					"id": 217345017,
+					"id_str": "217345017",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 850402949595631600,
+					"id_str": "850402949595631616",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/C808-h6XkAA6FcJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C808-h6XkAA6FcJ.jpg",
+					"url": "https://t.co/tvMoUr51B2",
+					"display_url": "pic.twitter.com/tvMoUr51B2",
+					"expanded_url": "https://twitter.com/kevak1969/status/850402956679798785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 459,
+							"h": 816,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 459,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 850402956679798800,
+					"source_status_id_str": "850402956679798785",
+					"source_user_id": 217345017,
+					"source_user_id_str": "217345017"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 850402949595631600,
+					"id_str": "850402949595631616",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/C808-h6XkAA6FcJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C808-h6XkAA6FcJ.jpg",
+					"url": "https://t.co/tvMoUr51B2",
+					"display_url": "pic.twitter.com/tvMoUr51B2",
+					"expanded_url": "https://twitter.com/kevak1969/status/850402956679798785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 459,
+							"h": 816,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 459,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 850402956679798800,
+					"source_status_id_str": "850402956679798785",
+					"source_user_id": 217345017,
+					"source_user_id_str": "217345017"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 259,
+			"friends_count": 71,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2899,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71223,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 07 17:40:39 +0000 2017",
+			"id": 850402956679798800,
+			"id_str": "850402956679798785",
+			"text": "You win Ikea. You win 🤔 https://t.co/tvMoUr51B2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 850402949595631600,
+						"id_str": "850402949595631616",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/C808-h6XkAA6FcJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C808-h6XkAA6FcJ.jpg",
+						"url": "https://t.co/tvMoUr51B2",
+						"display_url": "pic.twitter.com/tvMoUr51B2",
+						"expanded_url": "https://twitter.com/kevak1969/status/850402956679798785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 459,
+								"h": 816,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 459,
+								"h": 816,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 850402949595631600,
+						"id_str": "850402949595631616",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/C808-h6XkAA6FcJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C808-h6XkAA6FcJ.jpg",
+						"url": "https://t.co/tvMoUr51B2",
+						"display_url": "pic.twitter.com/tvMoUr51B2",
+						"expanded_url": "https://twitter.com/kevak1969/status/850402956679798785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 459,
+								"h": 816,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 459,
+								"h": 816,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 217345017,
+				"id_str": "217345017",
+				"name": "Kevin Antony",
+				"screen_name": "kevak1969",
+				"location": "Glasgow, Scotland, UK",
+				"description": "Does stuff at the Open Museum @GlasgowMuseums) runs @SITEExhibitions. Curator of Benny Lynch exhibition, IndyYes, Celtic fan, meme lover and dad.",
+				"url": "https://t.co/0FyQCQMcv3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0FyQCQMcv3",
+								"expanded_url": "http://www.site-exhibitions.webs.co.uk",
+								"display_url": "site-exhibitions.webs.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 847,
+				"friends_count": 3284,
+				"listed_count": 6,
+				"created_at": "Fri Nov 19 07:55:19 +0000 2010",
+				"favourites_count": 2089,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1977,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/850600366924328961/O13CgGCQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/850600366924328961/O13CgGCQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/217345017/1490985546",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3581,
+			"favorite_count": 6204,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3581,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 09 08:56:35 +0000 2017",
 		"id": 850995847319830500,
 		"id_str": "850995847319830528",
