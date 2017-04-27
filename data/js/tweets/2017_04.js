@@ -1,6 +1,558 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Thu Apr 27 10:23:47 +0000 2017",
+		"id": 857540773285314600,
+		"id_str": "857540773285314560",
+		"text": "Ronald McDonald sentenced to 5 years jail for attempted murder of his meth addict son. https://t.co/vszrUIopoW #soperth",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "soperth",
+					"indices": [
+						111,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vszrUIopoW",
+					"expanded_url": "https://thewest.com.au/news/wa/frustrated-dad-jailed-for-hammer-attack-on-addict-son-ng-b88458472z",
+					"display_url": "thewest.com.au/news/wa/frustr…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 71,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2911,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71325,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				-31.70090471,
+				115.79555901
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				115.79555901,
+				-31.70090471
+			]
+		},
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Apr 27 10:18:54 +0000 2017",
+		"id": 857539546036060200,
+		"id_str": "857539546036060160",
+		"text": "RT @NewsmanDan: Unexpected exchange of the day from @cypresshill and @londonsymphony https://t.co/BFvURe5TbE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewsmanDan",
+					"name": "Dan Freedman",
+					"id": 22896834,
+					"id_str": "22896834",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "cypresshill",
+					"name": "Cypress Hill ™",
+					"id": 48169084,
+					"id_str": "48169084",
+					"indices": [
+						52,
+						64
+					]
+				},
+				{
+					"screen_name": "londonsymphony",
+					"name": "London Symphony Orch",
+					"id": 19209076,
+					"id_str": "19209076",
+					"indices": [
+						69,
+						84
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 857238403909341200,
+					"id_str": "857238403909341190",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/C-WFyVjW0AYLWH2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C-WFyVjW0AYLWH2.jpg",
+					"url": "https://t.co/BFvURe5TbE",
+					"display_url": "pic.twitter.com/BFvURe5TbE",
+					"expanded_url": "https://twitter.com/NewsmanDan/status/857238752980283392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 895,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 895,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 857238752980283400,
+					"source_status_id_str": "857238752980283392",
+					"source_user_id": 22896834,
+					"source_user_id_str": "22896834"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 857238403909341200,
+					"id_str": "857238403909341190",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/C-WFyVjW0AYLWH2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C-WFyVjW0AYLWH2.jpg",
+					"url": "https://t.co/BFvURe5TbE",
+					"display_url": "pic.twitter.com/BFvURe5TbE",
+					"expanded_url": "https://twitter.com/NewsmanDan/status/857238752980283392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 895,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 895,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 857238752980283400,
+					"source_status_id_str": "857238752980283392",
+					"source_user_id": 22896834,
+					"source_user_id_str": "22896834"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 71,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2911,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71325,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 26 14:23:40 +0000 2017",
+			"id": 857238752980283400,
+			"id_str": "857238752980283392",
+			"text": "Unexpected exchange of the day from @cypresshill and @londonsymphony https://t.co/BFvURe5TbE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cypresshill",
+						"name": "Cypress Hill ™",
+						"id": 48169084,
+						"id_str": "48169084",
+						"indices": [
+							36,
+							48
+						]
+					},
+					{
+						"screen_name": "londonsymphony",
+						"name": "London Symphony Orch",
+						"id": 19209076,
+						"id_str": "19209076",
+						"indices": [
+							53,
+							68
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 857238403909341200,
+						"id_str": "857238403909341190",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C-WFyVjW0AYLWH2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-WFyVjW0AYLWH2.jpg",
+						"url": "https://t.co/BFvURe5TbE",
+						"display_url": "pic.twitter.com/BFvURe5TbE",
+						"expanded_url": "https://twitter.com/NewsmanDan/status/857238752980283392/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 485,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 638,
+								"h": 895,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 638,
+								"h": 895,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 857238403909341200,
+						"id_str": "857238403909341190",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C-WFyVjW0AYLWH2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-WFyVjW0AYLWH2.jpg",
+						"url": "https://t.co/BFvURe5TbE",
+						"display_url": "pic.twitter.com/BFvURe5TbE",
+						"expanded_url": "https://twitter.com/NewsmanDan/status/857238752980283392/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 485,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 638,
+								"h": 895,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 638,
+								"h": 895,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22896834,
+				"id_str": "22896834",
+				"name": "Dan Freedman",
+				"screen_name": "NewsmanDan",
+				"location": "London, England",
+				"description": "Dad & Husband. Award Winning TV & Radio Reporter for @BBCNews & @BBCSPLondon Formerly @LBC & @SkyNews. Covering #GE2017",
+				"url": "https://t.co/gIT5lW5bG3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gIT5lW5bG3",
+								"expanded_url": "https://vimeo.com/143345903",
+								"display_url": "vimeo.com/143345903",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3086,
+				"friends_count": 2935,
+				"listed_count": 78,
+				"created_at": "Thu Mar 05 08:16:15 +0000 2009",
+				"favourites_count": 717,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6426,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/604254263636840448/sFn6EXBm.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/604254263636840448/sFn6EXBm.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/710623727285886976/PCgRcB5T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/710623727285886976/PCgRcB5T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22896834/1445387518",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1004,
+			"favorite_count": 1272,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1004,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 27 09:04:31 +0000 2017",
 		"id": 857520826848993300,
 		"id_str": "857520826848993281",
