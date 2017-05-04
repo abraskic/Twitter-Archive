@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Thu May 04 03:01:36 +0000 2017",
+		"id": 859966208413622300,
+		"id_str": "859966208413622272",
+		"text": "Beautiful! Makes the Melbourne's @MCG and Jolimont Yard look positively third world. https://t.co/OADjhemRy4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MCG",
+					"name": "Melb Cricket Ground",
+					"id": 80989226,
+					"id_str": "80989226",
+					"indices": [
+						33,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OADjhemRy4",
+					"expanded_url": "https://twitter.com/NewPerthStadium/status/859917089506603008",
+					"display_url": "twitter.com/NewPerthStadiu…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 72,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2913,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71365,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				-31.7442035,
+				115.76628544
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				115.76628544,
+				-31.7442035
+			]
+		},
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 859917089506603000,
+		"quoted_status_id_str": "859917089506603008",
+		"quoted_status": {
+			"created_at": "Wed May 03 23:46:25 +0000 2017",
+			"id": 859917089506603000,
+			"id_str": "859917089506603008",
+			"text": "Great progress made on the Perth Stadium Bus Station. A great transport option for fans not near a train station… https://t.co/vYwmsk46GJ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vYwmsk46GJ",
+						"expanded_url": "https://twitter.com/i/web/status/859917089506603008",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2166201132,
+				"id_str": "2166201132",
+				"name": "Perth Stadium",
+				"screen_name": "NewPerthStadium",
+				"location": "Burswood, Perth (WA)",
+				"description": "The Perth Stadium and Sports Precinct will be a 60,000 seat, multi-purpose venue capable of hosting AFL, rugby, soccer, cricket and entertainment events.",
+				"url": "https://t.co/6dQD6bzzSc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6dQD6bzzSc",
+								"expanded_url": "http://www.perthstadium.com.au/",
+								"display_url": "perthstadium.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5410,
+				"friends_count": 152,
+				"listed_count": 33,
+				"created_at": "Thu Oct 31 07:46:55 +0000 2013",
+				"favourites_count": 146,
+				"utc_offset": 28800,
+				"time_zone": "Beijing",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 435,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/811833917770645509/P0m2Uk59_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/811833917770645509/P0m2Uk59_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2166201132/1482392154",
+				"profile_link_color": "A03024",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0118c71c0ed41109",
+				"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+				"place_type": "city",
+				"name": "Perth (WA)",
+				"full_name": "Perth, Western Australia",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								115.617614368,
+								-32.675715325
+							],
+							[
+								116.239023008,
+								-32.675715325
+							],
+							[
+								116.239023008,
+								-31.6244855145
+							],
+							[
+								115.617614368,
+								-31.6244855145
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu May 04 01:32:59 +0000 2017",
 		"id": 859943908368719900,
 		"id_str": "859943908368719872",
