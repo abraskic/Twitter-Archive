@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Fri May 12 08:56:51 +0000 2017",
+		"id": 862954712454185000,
+		"id_str": "862954712454184960",
+		"text": "RT @PDLComics: our future in space https://t.co/CfNb46nJRZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PDLComics",
+					"name": "Reza Farazmand",
+					"id": 193570988,
+					"id_str": "193570988",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 862748723045990400,
+					"id_str": "862748723045990400",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/C_kZZH-UAAAejHU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_kZZH-UAAAejHU.jpg",
+					"url": "https://t.co/CfNb46nJRZ",
+					"display_url": "pic.twitter.com/CfNb46nJRZ",
+					"expanded_url": "https://twitter.com/PDLComics/status/862749264459452416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 1035,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 1035,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 862749264459452400,
+					"source_status_id_str": "862749264459452416",
+					"source_user_id": 193570988,
+					"source_user_id_str": "193570988"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 862748723045990400,
+					"id_str": "862748723045990400",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/C_kZZH-UAAAejHU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_kZZH-UAAAejHU.jpg",
+					"url": "https://t.co/CfNb46nJRZ",
+					"display_url": "pic.twitter.com/CfNb46nJRZ",
+					"expanded_url": "https://twitter.com/PDLComics/status/862749264459452416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 1035,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 1035,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 862749264459452400,
+					"source_status_id_str": "862749264459452416",
+					"source_user_id": 193570988,
+					"source_user_id_str": "193570988"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 72,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2917,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71427,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 11 19:20:28 +0000 2017",
+			"id": 862749264459452400,
+			"id_str": "862749264459452416",
+			"text": "our future in space https://t.co/CfNb46nJRZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 862748723045990400,
+						"id_str": "862748723045990400",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/C_kZZH-UAAAejHU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_kZZH-UAAAejHU.jpg",
+						"url": "https://t.co/CfNb46nJRZ",
+						"display_url": "pic.twitter.com/CfNb46nJRZ",
+						"expanded_url": "https://twitter.com/PDLComics/status/862749264459452416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 700,
+								"h": 1035,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 460,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 700,
+								"h": 1035,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 862748723045990400,
+						"id_str": "862748723045990400",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/C_kZZH-UAAAejHU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_kZZH-UAAAejHU.jpg",
+						"url": "https://t.co/CfNb46nJRZ",
+						"display_url": "pic.twitter.com/CfNb46nJRZ",
+						"expanded_url": "https://twitter.com/PDLComics/status/862749264459452416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 700,
+								"h": 1035,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 460,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 700,
+								"h": 1035,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 193570988,
+				"id_str": "193570988",
+				"name": "Reza Farazmand",
+				"screen_name": "PDLComics",
+				"location": "San Francisco, CA",
+				"description": "Cartoonist, writer. Maker of Poorly Drawn Lines and Trash Bird. https://t.co/GrWhRqULLQ",
+				"url": "https://t.co/hU5yp8Q7Ap",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hU5yp8Q7Ap",
+								"expanded_url": "http://www.poorlydrawnlines.com",
+								"display_url": "poorlydrawnlines.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/GrWhRqULLQ",
+								"expanded_url": "https://www.patreon.com/poorlydrawnlines",
+								"display_url": "patreon.com/poorlydrawnlin…",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 34764,
+				"friends_count": 286,
+				"listed_count": 511,
+				"created_at": "Wed Sep 22 04:15:45 +0000 2010",
+				"favourites_count": 746,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2016,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/152133141/Background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/152133141/Background.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/785967542380617728/Iy0lhx2T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/785967542380617728/Iy0lhx2T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/193570988/1451418668",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1282,
+			"favorite_count": 2887,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1282,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 12 01:26:00 +0000 2017",
 		"id": 862841254026936300,
 		"id_str": "862841254026936320",
