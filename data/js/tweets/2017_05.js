@@ -1,6 +1,476 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sun May 21 21:56:02 +0000 2017",
+		"id": 866412292224700400,
+		"id_str": "866412292224700416",
+		"text": "RT @djsantero: Kids... gather round and watch the human https://t.co/DtG5fPZDWI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "djsantero",
+					"name": "Santero",
+					"id": 18596691,
+					"id_str": "18596691",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 866374775739998200,
+					"id_str": "866374775739998209",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/866374775739998209/pu/img/eSKJkt8E4yc0fVW5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/866374775739998209/pu/img/eSKJkt8E4yc0fVW5.jpg",
+					"url": "https://t.co/DtG5fPZDWI",
+					"display_url": "pic.twitter.com/DtG5fPZDWI",
+					"expanded_url": "https://twitter.com/djsantero/status/866375101889097728/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 866375101889097700,
+					"source_status_id_str": "866375101889097728",
+					"source_user_id": 18596691,
+					"source_user_id_str": "18596691"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 866374775739998200,
+					"id_str": "866374775739998209",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/866374775739998209/pu/img/eSKJkt8E4yc0fVW5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/866374775739998209/pu/img/eSKJkt8E4yc0fVW5.jpg",
+					"url": "https://t.co/DtG5fPZDWI",
+					"display_url": "pic.twitter.com/DtG5fPZDWI",
+					"expanded_url": "https://twitter.com/djsantero/status/866375101889097728/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 866375101889097700,
+					"source_status_id_str": "866375101889097728",
+					"source_user_id": 18596691,
+					"source_user_id_str": "18596691",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/866374775739998209/pu/pl/pITdu2Jf-MDPFhLY.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/866374775739998209/pu/vid/480x480/lt8f7xQ6s_ojVXqh.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/866374775739998209/pu/vid/240x240/UtZePx99arVTDYVW.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 18596691,
+							"id_str": "18596691",
+							"name": "Santero",
+							"screen_name": "djsantero",
+							"location": "London",
+							"description": "Professional music man, amateur food fanatic. Toured world for @MinistryofSound, represented UK in @RedBull3style world final. @dybrkr LDN resident",
+							"url": "https://t.co/wSgcKARDwr",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/wSgcKARDwr",
+											"expanded_url": "http://www.beatsandburgers.co.uk",
+											"display_url": "beatsandburgers.co.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 18974,
+							"friends_count": 2671,
+							"listed_count": 269,
+							"created_at": "Sun Jan 04 05:45:37 +0000 2009",
+							"favourites_count": 11043,
+							"utc_offset": 3600,
+							"time_zone": "London",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 48678,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "9AE4E8",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/116381766/SAN_Logo_sideways.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/116381766/SAN_Logo_sideways.jpg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/630447154180542464/q-VbPepL_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/630447154180542464/q-VbPepL_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/18596691/1436405288",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "BDDCAD",
+							"profile_sidebar_fill_color": "DDFFCC",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 72,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2923,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71489,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 21 19:28:15 +0000 2017",
+			"id": 866375101889097700,
+			"id_str": "866375101889097728",
+			"text": "Kids... gather round and watch the human https://t.co/DtG5fPZDWI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 866374775739998200,
+						"id_str": "866374775739998209",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/866374775739998209/pu/img/eSKJkt8E4yc0fVW5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/866374775739998209/pu/img/eSKJkt8E4yc0fVW5.jpg",
+						"url": "https://t.co/DtG5fPZDWI",
+						"display_url": "pic.twitter.com/DtG5fPZDWI",
+						"expanded_url": "https://twitter.com/djsantero/status/866375101889097728/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 866374775739998200,
+						"id_str": "866374775739998209",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/866374775739998209/pu/img/eSKJkt8E4yc0fVW5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/866374775739998209/pu/img/eSKJkt8E4yc0fVW5.jpg",
+						"url": "https://t.co/DtG5fPZDWI",
+						"display_url": "pic.twitter.com/DtG5fPZDWI",
+						"expanded_url": "https://twitter.com/djsantero/status/866375101889097728/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 60000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/866374775739998209/pu/pl/pITdu2Jf-MDPFhLY.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/866374775739998209/pu/vid/480x480/lt8f7xQ6s_ojVXqh.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/866374775739998209/pu/vid/240x240/UtZePx99arVTDYVW.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18596691,
+				"id_str": "18596691",
+				"name": "Santero",
+				"screen_name": "djsantero",
+				"location": "London",
+				"description": "Professional music man, amateur food fanatic. Toured world for @MinistryofSound, represented UK in @RedBull3style world final. @dybrkr LDN resident",
+				"url": "https://t.co/wSgcKARDwr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wSgcKARDwr",
+								"expanded_url": "http://www.beatsandburgers.co.uk",
+								"display_url": "beatsandburgers.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18974,
+				"friends_count": 2671,
+				"listed_count": 269,
+				"created_at": "Sun Jan 04 05:45:37 +0000 2009",
+				"favourites_count": 11043,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 48678,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/116381766/SAN_Logo_sideways.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/116381766/SAN_Logo_sideways.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630447154180542464/q-VbPepL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630447154180542464/q-VbPepL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18596691/1436405288",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun May 21 12:51:31 +0000 2017",
 		"id": 866275261251149800,
 		"id_str": "866275261251149824",
