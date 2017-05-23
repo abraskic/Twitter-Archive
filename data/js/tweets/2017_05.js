@@ -1,6 +1,636 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 23 12:10:29 +0000 2017",
+		"id": 866989711646048300,
+		"id_str": "866989711646048256",
+		"text": "RT @Fred_Delicious: Ever since Trump touched the orb his arms have been getting longer https://t.co/ennXKeaRQi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Fred_Delicious",
+					"name": "Fred Delicious",
+					"id": 787709936,
+					"id_str": "787709936",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 866740836574343200,
+					"id_str": "866740836574343169",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/DAdIMtxWsAEXstu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAdIMtxWsAEXstu.jpg",
+					"url": "https://t.co/ennXKeaRQi",
+					"display_url": "pic.twitter.com/ennXKeaRQi",
+					"expanded_url": "https://twitter.com/Fred_Delicious/status/866740996561940480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 494,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 494,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 494,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 866740996561940500,
+					"source_status_id_str": "866740996561940480",
+					"source_user_id": 787709936,
+					"source_user_id_str": "787709936"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 866740836574343200,
+					"id_str": "866740836574343169",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/DAdIMtxWsAEXstu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAdIMtxWsAEXstu.jpg",
+					"url": "https://t.co/ennXKeaRQi",
+					"display_url": "pic.twitter.com/ennXKeaRQi",
+					"expanded_url": "https://twitter.com/Fred_Delicious/status/866740996561940480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 494,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 494,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 494,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 866740996561940500,
+					"source_status_id_str": "866740996561940480",
+					"source_user_id": 787709936,
+					"source_user_id_str": "787709936"
+				},
+				{
+					"id": 866740866177798100,
+					"id_str": "866740866177798144",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/DAdIOcDXkAAElXl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAdIOcDXkAAElXl.jpg",
+					"url": "https://t.co/ennXKeaRQi",
+					"display_url": "pic.twitter.com/ennXKeaRQi",
+					"expanded_url": "https://twitter.com/Fred_Delicious/status/866740996561940480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 836,
+							"h": 793,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 836,
+							"h": 793,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 866740996561940500,
+					"source_status_id_str": "866740996561940480",
+					"source_user_id": 787709936,
+					"source_user_id_str": "787709936"
+				},
+				{
+					"id": 866740905130197000,
+					"id_str": "866740905130196994",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/DAdIQtKWAAIKmqJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAdIQtKWAAIKmqJ.jpg",
+					"url": "https://t.co/ennXKeaRQi",
+					"display_url": "pic.twitter.com/ennXKeaRQi",
+					"expanded_url": "https://twitter.com/Fred_Delicious/status/866740996561940480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 547,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1646,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 964,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 866740996561940500,
+					"source_status_id_str": "866740996561940480",
+					"source_user_id": 787709936,
+					"source_user_id_str": "787709936"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 72,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2924,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71501,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 22 19:42:11 +0000 2017",
+			"id": 866740996561940500,
+			"id_str": "866740996561940480",
+			"text": "Ever since Trump touched the orb his arms have been getting longer https://t.co/ennXKeaRQi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 866740836574343200,
+						"id_str": "866740836574343169",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DAdIMtxWsAEXstu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAdIMtxWsAEXstu.jpg",
+						"url": "https://t.co/ennXKeaRQi",
+						"display_url": "pic.twitter.com/ennXKeaRQi",
+						"expanded_url": "https://twitter.com/Fred_Delicious/status/866740996561940480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 494,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 494,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 494,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 866740836574343200,
+						"id_str": "866740836574343169",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DAdIMtxWsAEXstu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAdIMtxWsAEXstu.jpg",
+						"url": "https://t.co/ennXKeaRQi",
+						"display_url": "pic.twitter.com/ennXKeaRQi",
+						"expanded_url": "https://twitter.com/Fred_Delicious/status/866740996561940480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 494,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 494,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 494,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 866740866177798100,
+						"id_str": "866740866177798144",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DAdIOcDXkAAElXl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAdIOcDXkAAElXl.jpg",
+						"url": "https://t.co/ennXKeaRQi",
+						"display_url": "pic.twitter.com/ennXKeaRQi",
+						"expanded_url": "https://twitter.com/Fred_Delicious/status/866740996561940480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 836,
+								"h": 793,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 836,
+								"h": 793,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 645,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 866740905130197000,
+						"id_str": "866740905130196994",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DAdIQtKWAAIKmqJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAdIQtKWAAIKmqJ.jpg",
+						"url": "https://t.co/ennXKeaRQi",
+						"display_url": "pic.twitter.com/ennXKeaRQi",
+						"expanded_url": "https://twitter.com/Fred_Delicious/status/866740996561940480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 547,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1646,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 964,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 787709936,
+				"id_str": "787709936",
+				"name": "Fred Delicious",
+				"screen_name": "Fred_Delicious",
+				"location": "England, United Kingdom",
+				"description": "Internet man whom contribute to various things Email - Fred_Delicious@hotmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 161872,
+				"friends_count": 575,
+				"listed_count": 2066,
+				"created_at": "Tue Aug 28 19:38:31 +0000 2012",
+				"favourites_count": 40131,
+				"utc_offset": 0,
+				"time_zone": "Casablanca",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15930,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/726824334002638848/BEZFr1k8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/726824334002638848/BEZFr1k8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/787709936/1490641878",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10526,
+			"favorite_count": 29836,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10526,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 23 12:10:01 +0000 2017",
+		"id": 866989594188931100,
+		"id_str": "866989594188931073",
+		"text": "@AJDiGregorio Move to Australia. We're almost 80% cashless and the weather is really fucking good for 10 months of the year.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AJDiGregorio",
+					"name": "AJ DiGregorio",
+					"id": 738628268,
+					"id_str": "738628268",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 866457165153873900,
+		"in_reply_to_status_id_str": "866457165153873921",
+		"in_reply_to_user_id": 738628268,
+		"in_reply_to_user_id_str": "738628268",
+		"in_reply_to_screen_name": "AJDiGregorio",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 72,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2924,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71501,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c19d49ffc343fce",
+			"url": "https://api.twitter.com/1.1/geo/id/6c19d49ffc343fce.json",
+			"place_type": "neighborhood",
+			"name": "Banksia Grove",
+			"full_name": "Banksia Grove, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.79415516,
+							-31.71610899
+						],
+						[
+							115.81899912,
+							-31.71610899
+						],
+						[
+							115.81899912,
+							-31.68577296
+						],
+						[
+							115.79415516,
+							-31.68577296
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 23 07:24:30 +0000 2017",
 		"id": 866917739503407100,
 		"id_str": "866917739503407104",
