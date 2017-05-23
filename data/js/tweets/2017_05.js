@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 23 04:26:50 +0000 2017",
+		"id": 866873028751130600,
+		"id_str": "866873028751130624",
+		"text": "RT @classiclib3ral: This tweet did not age well https://t.co/EnoyTXwQhG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "classiclib3ral",
+					"name": "Wild Geerters",
+					"id": 813554157097459700,
+					"id_str": "813554157097459714",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 866386932225454100,
+					"id_str": "866386932225454080",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/DAYGUxVWsAAyCyd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAYGUxVWsAAyCyd.jpg",
+					"url": "https://t.co/EnoyTXwQhG",
+					"display_url": "pic.twitter.com/EnoyTXwQhG",
+					"expanded_url": "https://twitter.com/classiclib3ral/status/866387018040975361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 770,
+							"h": 334,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 770,
+							"h": 334,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 866387018040975400,
+					"source_status_id_str": "866387018040975361",
+					"source_user_id": 813554157097459700,
+					"source_user_id_str": "813554157097459714"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 866386932225454100,
+					"id_str": "866386932225454080",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/DAYGUxVWsAAyCyd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAYGUxVWsAAyCyd.jpg",
+					"url": "https://t.co/EnoyTXwQhG",
+					"display_url": "pic.twitter.com/EnoyTXwQhG",
+					"expanded_url": "https://twitter.com/classiclib3ral/status/866387018040975361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 770,
+							"h": 334,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 770,
+							"h": 334,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 866387018040975400,
+					"source_status_id_str": "866387018040975361",
+					"source_user_id": 813554157097459700,
+					"source_user_id_str": "813554157097459714"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 72,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2924,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71498,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 21 20:15:36 +0000 2017",
+			"id": 866387018040975400,
+			"id_str": "866387018040975361",
+			"text": "This tweet did not age well https://t.co/EnoyTXwQhG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 866386932225454100,
+						"id_str": "866386932225454080",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DAYGUxVWsAAyCyd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAYGUxVWsAAyCyd.jpg",
+						"url": "https://t.co/EnoyTXwQhG",
+						"display_url": "pic.twitter.com/EnoyTXwQhG",
+						"expanded_url": "https://twitter.com/classiclib3ral/status/866387018040975361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 295,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 770,
+								"h": 334,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 770,
+								"h": 334,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 866386932225454100,
+						"id_str": "866386932225454080",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DAYGUxVWsAAyCyd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAYGUxVWsAAyCyd.jpg",
+						"url": "https://t.co/EnoyTXwQhG",
+						"display_url": "pic.twitter.com/EnoyTXwQhG",
+						"expanded_url": "https://twitter.com/classiclib3ral/status/866387018040975361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 295,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 770,
+								"h": 334,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 770,
+								"h": 334,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 813554157097459700,
+				"id_str": "813554157097459714",
+				"name": "Wild Geerters",
+				"screen_name": "classiclib3ral",
+				"location": "Malmö",
+				"description": "Infowars journalist and amateur planetologist",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2320,
+				"friends_count": 451,
+				"listed_count": 18,
+				"created_at": "Tue Dec 27 01:16:40 +0000 2016",
+				"favourites_count": 3725,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1647,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/813567475325476864/qjGT6UfF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/813567475325476864/qjGT6UfF_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10482,
+			"favorite_count": 30284,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10482,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 23 00:51:47 +0000 2017",
 		"id": 866818907935342600,
 		"id_str": "866818907935342594",
