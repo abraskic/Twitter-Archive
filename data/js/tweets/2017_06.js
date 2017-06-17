@@ -1,6 +1,529 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sat Jun 17 02:47:17 +0000 2017",
+		"id": 875907674101104600,
+		"id_str": "875907674101104641",
+		"text": "RT @MyFavsTrash: And they say white people dont have culture, explain this then. https://t.co/KjzthEWSSz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MyFavsTrash",
+					"name": "Daniel",
+					"id": 432223467,
+					"id_str": "432223467",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 875457560970702800,
+					"id_str": "875457560970702848",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/875457560970702848/pu/img/O_HszWr0Fe8iyheZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/875457560970702848/pu/img/O_HszWr0Fe8iyheZ.jpg",
+					"url": "https://t.co/KjzthEWSSz",
+					"display_url": "pic.twitter.com/KjzthEWSSz",
+					"expanded_url": "https://twitter.com/megzoNasty/status/875457983202840576/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 875457983202840600,
+					"source_status_id_str": "875457983202840576",
+					"source_user_id": 232744891,
+					"source_user_id_str": "232744891"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 875457560970702800,
+					"id_str": "875457560970702848",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/875457560970702848/pu/img/O_HszWr0Fe8iyheZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/875457560970702848/pu/img/O_HszWr0Fe8iyheZ.jpg",
+					"url": "https://t.co/KjzthEWSSz",
+					"display_url": "pic.twitter.com/KjzthEWSSz",
+					"expanded_url": "https://twitter.com/megzoNasty/status/875457983202840576/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 875457983202840600,
+					"source_status_id_str": "875457983202840576",
+					"source_user_id": 232744891,
+					"source_user_id_str": "232744891",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 51653,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/875457560970702848/pu/vid/720x720/sbY5RCaZR9tGRPvn.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/875457560970702848/pu/pl/-_eupZOaszUDJNnT.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/875457560970702848/pu/vid/480x480/W8X_7XrzlozoSs7D.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/875457560970702848/pu/vid/240x240/zCfJz-TEATRnFmk5.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 232744891,
+							"id_str": "232744891",
+							"name": "meggie",
+							"screen_name": "megzoNasty",
+							"location": "",
+							"description": "I support two teams, Real Madrid and whoever the fuck is playing Barca.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3374,
+							"friends_count": 774,
+							"listed_count": 22,
+							"created_at": "Sat Jan 01 04:49:22 +0000 2011",
+							"favourites_count": 21883,
+							"utc_offset": 16200,
+							"time_zone": "Kabul",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 53428,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "1A1B1F",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/660514356526977024/SSOLs-qX.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/660514356526977024/SSOLs-qX.jpg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/867570853906710528/Nib_YLII_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/867570853906710528/Nib_YLII_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/232744891/1496545006",
+							"profile_link_color": "E81C4F",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 73,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2941,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71678,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 16 19:06:47 +0000 2017",
+			"id": 875791784265338900,
+			"id_str": "875791784265338880",
+			"text": "And they say white people dont have culture, explain this then. https://t.co/KjzthEWSSz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 875457560970702800,
+						"id_str": "875457560970702848",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/875457560970702848/pu/img/O_HszWr0Fe8iyheZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/875457560970702848/pu/img/O_HszWr0Fe8iyheZ.jpg",
+						"url": "https://t.co/KjzthEWSSz",
+						"display_url": "pic.twitter.com/KjzthEWSSz",
+						"expanded_url": "https://twitter.com/megzoNasty/status/875457983202840576/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 875457983202840600,
+						"source_status_id_str": "875457983202840576",
+						"source_user_id": 232744891,
+						"source_user_id_str": "232744891"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 875457560970702800,
+						"id_str": "875457560970702848",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/875457560970702848/pu/img/O_HszWr0Fe8iyheZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/875457560970702848/pu/img/O_HszWr0Fe8iyheZ.jpg",
+						"url": "https://t.co/KjzthEWSSz",
+						"display_url": "pic.twitter.com/KjzthEWSSz",
+						"expanded_url": "https://twitter.com/megzoNasty/status/875457983202840576/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 875457983202840600,
+						"source_status_id_str": "875457983202840576",
+						"source_user_id": 232744891,
+						"source_user_id_str": "232744891",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 51653,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/875457560970702848/pu/vid/720x720/sbY5RCaZR9tGRPvn.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/875457560970702848/pu/pl/-_eupZOaszUDJNnT.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/875457560970702848/pu/vid/480x480/W8X_7XrzlozoSs7D.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/875457560970702848/pu/vid/240x240/zCfJz-TEATRnFmk5.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 232744891,
+								"id_str": "232744891",
+								"name": "meggie",
+								"screen_name": "megzoNasty",
+								"location": "",
+								"description": "I support two teams, Real Madrid and whoever the fuck is playing Barca.",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 3374,
+								"friends_count": 774,
+								"listed_count": 22,
+								"created_at": "Sat Jan 01 04:49:22 +0000 2011",
+								"favourites_count": 21883,
+								"utc_offset": 16200,
+								"time_zone": "Kabul",
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 53428,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "1A1B1F",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/660514356526977024/SSOLs-qX.jpg",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/660514356526977024/SSOLs-qX.jpg",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/867570853906710528/Nib_YLII_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/867570853906710528/Nib_YLII_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/232744891/1496545006",
+								"profile_link_color": "E81C4F",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": false,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 432223467,
+				"id_str": "432223467",
+				"name": "Daniel",
+				"screen_name": "MyFavsTrash",
+				"location": "Summerville, SC ",
+				"description": "Your least favorite shit poster. @K4Respectswomen",
+				"url": "https://t.co/0GgYBb5ynO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0GgYBb5ynO",
+								"expanded_url": "https://soundcloud.com/statisticai",
+								"display_url": "soundcloud.com/statisticai",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26373,
+				"friends_count": 743,
+				"listed_count": 739,
+				"created_at": "Fri Dec 09 05:16:09 +0000 2011",
+				"favourites_count": 1929,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 123179,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/551512360/jeep.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/551512360/jeep.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784070932189028352/p6643DO5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784070932189028352/p6643DO5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/432223467/1481340603",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5180,
+			"favorite_count": 7493,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5180,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 17 01:13:21 +0000 2017",
 		"id": 875884033980354600,
 		"id_str": "875884033980354561",
