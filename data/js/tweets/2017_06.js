@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sat Jun 24 22:53:25 +0000 2017",
+		"id": 878747920983404500,
+		"id_str": "878747920983404545",
+		"text": "RT @BlvckGrip: If I spot this guy imma mind my fucking business. https://t.co/S6z5uZy3Gj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BlvckGrip",
+					"name": "Marcus",
+					"id": 730002602193260500,
+					"id_str": "730002602193260544",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S6z5uZy3Gj",
+					"expanded_url": "https://twitter.com/chenueher/status/829186738841067520",
+					"display_url": "twitter.com/chenueher/stat…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 74,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2945,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 24 00:30:38 +0000 2017",
+			"id": 878409999353040900,
+			"id_str": "878409999353040898",
+			"text": "If I spot this guy imma mind my fucking business. https://t.co/S6z5uZy3Gj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/S6z5uZy3Gj",
+						"expanded_url": "https://twitter.com/chenueher/status/829186738841067520",
+						"display_url": "twitter.com/chenueher/stat…",
+						"indices": [
+							50,
+							73
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 730002602193260500,
+				"id_str": "730002602193260544",
+				"name": "Marcus",
+				"screen_name": "BlvckGrip",
+				"location": "New York",
+				"description": "@Boondocksclips\n@BOMBBADDlES \n\n\n\n\n\n\n\n\n\n\n\n\n\n                   i tweet lil whore\n \n                    \n\n⠀",
+				"url": "https://t.co/dm3Vav7XBP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dm3Vav7XBP",
+								"expanded_url": "http://respectwomen.org",
+								"display_url": "respectwomen.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18680,
+				"friends_count": 975,
+				"listed_count": 211,
+				"created_at": "Tue May 10 11:52:38 +0000 2016",
+				"favourites_count": 701,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1267,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876095151147548672/gpS_MfDb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876095151147548672/gpS_MfDb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/730002602193260544/1497932044",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 829186738841067500,
+			"quoted_status_id_str": "829186738841067520",
+			"quoted_status": {
+				"created_at": "Wed Feb 08 04:34:58 +0000 2017",
+				"id": 829186738841067500,
+				"id_str": "829186738841067520",
+				"text": "If you spot this guy, call police. U.S. Marshals are looking for him &amp; he may have been in Hampton Roads.… https://t.co/m3Z402Cigs",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/m3Z402Cigs",
+							"expanded_url": "https://twitter.com/i/web/status/829186738841067520",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 266145006,
+					"id_str": "266145006",
+					"name": "Chenue Her",
+					"screen_name": "ChenueHer",
+					"location": "Norfolk, VA",
+					"description": "WVEC @13NewsNow Reporter | Minnesotan | MN•OR•VA | Terrible outdoorsman | Lover of dad jokes, nice people, & NAT sound | IG @ chenueher | hip-hop listener",
+					"url": "https://t.co/Gyj2xeD8m6",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/Gyj2xeD8m6",
+									"expanded_url": "http://www.13newsnow.com/story/about-us/team-bios/2016/02/16/chenue-her/79127938/",
+									"display_url": "13newsnow.com/story/about-us…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2213,
+					"friends_count": 1248,
+					"listed_count": 78,
+					"created_at": "Mon Mar 14 18:58:39 +0000 2011",
+					"favourites_count": 2749,
+					"utc_offset": -21600,
+					"time_zone": "Mountain Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 4118,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/699717728039411712/akZ3RtXL.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/699717728039411712/akZ3RtXL.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/751217168713453568/y4a_lU_K_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/751217168713453568/y4a_lU_K_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/266145006/1489189295",
+					"profile_link_color": "91D2FA",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "252429",
+					"profile_text_color": "666666",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2938,
+				"favorite_count": 3989,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 47903,
+			"favorite_count": 90625,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 829186738841067500,
+		"quoted_status_id_str": "829186738841067520",
+		"retweet_count": 47903,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 24 15:26:39 +0000 2017",
 		"id": 878635487795138600,
 		"id_str": "878635487795138561",
