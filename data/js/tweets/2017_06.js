@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Wed Jun 28 10:06:28 +0000 2017",
+		"id": 880004462122647600,
+		"id_str": "880004462122647553",
+		"text": "RT @stacky66: What really happened last night at the @AFLTribunal 😆 https://t.co/PIwyY5NJg4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stacky66",
+					"name": "Vince Stackpole",
+					"id": 21355208,
+					"id_str": "21355208",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "AFLTribunal",
+					"name": "AFL MRP & Tribunal",
+					"id": 561823721,
+					"id_str": "561823721",
+					"indices": [
+						53,
+						65
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 879997560139546600,
+					"id_str": "879997560139546625",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/DDZhHldUAAEtoaf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDZhHldUAAEtoaf.jpg",
+					"url": "https://t.co/PIwyY5NJg4",
+					"display_url": "pic.twitter.com/PIwyY5NJg4",
+					"expanded_url": "https://twitter.com/stacky66/status/879997568314257409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 599,
+							"h": 337,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 599,
+							"h": 337,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 599,
+							"h": 337,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 879997568314257400,
+					"source_status_id_str": "879997568314257409",
+					"source_user_id": 21355208,
+					"source_user_id_str": "21355208"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 879997560139546600,
+					"id_str": "879997560139546625",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/DDZhHldUAAEtoaf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDZhHldUAAEtoaf.jpg",
+					"url": "https://t.co/PIwyY5NJg4",
+					"display_url": "pic.twitter.com/PIwyY5NJg4",
+					"expanded_url": "https://twitter.com/stacky66/status/879997568314257409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 599,
+							"h": 337,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 599,
+							"h": 337,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 599,
+							"h": 337,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 879997568314257400,
+					"source_status_id_str": "879997568314257409",
+					"source_user_id": 21355208,
+					"source_user_id_str": "21355208"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 74,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2946,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71755,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 28 09:39:04 +0000 2017",
+			"id": 879997568314257400,
+			"id_str": "879997568314257409",
+			"text": "What really happened last night at the @AFLTribunal 😆 https://t.co/PIwyY5NJg4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AFLTribunal",
+						"name": "AFL MRP & Tribunal",
+						"id": 561823721,
+						"id_str": "561823721",
+						"indices": [
+							39,
+							51
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 879997560139546600,
+						"id_str": "879997560139546625",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DDZhHldUAAEtoaf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDZhHldUAAEtoaf.jpg",
+						"url": "https://t.co/PIwyY5NJg4",
+						"display_url": "pic.twitter.com/PIwyY5NJg4",
+						"expanded_url": "https://twitter.com/stacky66/status/879997568314257409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 599,
+								"h": 337,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 599,
+								"h": 337,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 599,
+								"h": 337,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 879997560139546600,
+						"id_str": "879997560139546625",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DDZhHldUAAEtoaf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDZhHldUAAEtoaf.jpg",
+						"url": "https://t.co/PIwyY5NJg4",
+						"display_url": "pic.twitter.com/PIwyY5NJg4",
+						"expanded_url": "https://twitter.com/stacky66/status/879997568314257409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 599,
+								"h": 337,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 599,
+								"h": 337,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 599,
+								"h": 337,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21355208,
+				"id_str": "21355208",
+				"name": "Vince Stackpole",
+				"screen_name": "stacky66",
+				"location": "Perth",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 89,
+				"friends_count": 137,
+				"listed_count": 0,
+				"created_at": "Fri Feb 20 00:02:38 +0000 2009",
+				"favourites_count": 517,
+				"utc_offset": 28800,
+				"time_zone": "Perth",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 381,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3095007028/beb4ba743baf8295500834e955c75a39_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3095007028/beb4ba743baf8295500834e955c75a39_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21355208/1384907757",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 28 06:48:47 +0000 2017",
 		"id": 879954715504656400,
 		"id_str": "879954715504656384",
