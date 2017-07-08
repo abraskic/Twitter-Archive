@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sat Jul 08 02:18:16 +0000 2017",
+		"id": 883510514436849700,
+		"id_str": "883510514436849664",
+		"text": "RT @MachinePix: The Tehachapi Loop on the Union Pacific Railroad Mojave Subdivision. https://t.co/SCAUOG8SXM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MachinePix",
+					"name": "Machine Pix",
+					"id": 2444425802,
+					"id_str": "2444425802",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 883081629777788900,
+					"id_str": "883081629777788928",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DEFWEEKUAAA6K0h.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEFWEEKUAAA6K0h.jpg",
+					"url": "https://t.co/SCAUOG8SXM",
+					"display_url": "pic.twitter.com/SCAUOG8SXM",
+					"expanded_url": "https://twitter.com/MachinePix/status/883081748145356804/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 190,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 883081748145356800,
+					"source_status_id_str": "883081748145356804",
+					"source_user_id": 2444425802,
+					"source_user_id_str": "2444425802"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 883081629777788900,
+					"id_str": "883081629777788928",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DEFWEEKUAAA6K0h.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEFWEEKUAAA6K0h.jpg",
+					"url": "https://t.co/SCAUOG8SXM",
+					"display_url": "pic.twitter.com/SCAUOG8SXM",
+					"expanded_url": "https://twitter.com/MachinePix/status/883081748145356804/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 190,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 883081748145356800,
+					"source_status_id_str": "883081748145356804",
+					"source_user_id": 2444425802,
+					"source_user_id_str": "2444425802",
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DEFWEEKUAAA6K0h.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Live fast, have seven children, get fat, put all your assets into a trust fund, die young, leave them nothing.",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 74,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2952,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71812,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 06 21:54:30 +0000 2017",
+			"id": 883081748145356800,
+			"id_str": "883081748145356804",
+			"text": "The Tehachapi Loop on the Union Pacific Railroad Mojave Subdivision. https://t.co/SCAUOG8SXM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 883081629777788900,
+						"id_str": "883081629777788928",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DEFWEEKUAAA6K0h.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEFWEEKUAAA6K0h.jpg",
+						"url": "https://t.co/SCAUOG8SXM",
+						"display_url": "pic.twitter.com/SCAUOG8SXM",
+						"expanded_url": "https://twitter.com/MachinePix/status/883081748145356804/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 190,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 883081629777788900,
+						"id_str": "883081629777788928",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DEFWEEKUAAA6K0h.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEFWEEKUAAA6K0h.jpg",
+						"url": "https://t.co/SCAUOG8SXM",
+						"display_url": "pic.twitter.com/SCAUOG8SXM",
+						"expanded_url": "https://twitter.com/MachinePix/status/883081748145356804/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 190,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								25,
+								14
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DEFWEEKUAAA6K0h.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2444425802,
+				"id_str": "2444425802",
+				"name": "Machine Pix",
+				"screen_name": "MachinePix",
+				"location": "",
+				"description": "Amazing feats of engineering. Tweeted by @kane when he should be doing work at @rootvc.",
+				"url": "https://t.co/sTSKiC6GID",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sTSKiC6GID",
+								"expanded_url": "http://root.vc",
+								"display_url": "root.vc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 43304,
+				"friends_count": 32,
+				"listed_count": 614,
+				"created_at": "Mon Apr 14 20:17:26 +0000 2014",
+				"favourites_count": 734,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1077,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/739515667737645056/Rg0anujY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/739515667737645056/Rg0anujY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2444425802/1397509307",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 345,
+			"favorite_count": 737,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 345,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 07 13:43:56 +0000 2017",
 		"id": 883320680808235000,
 		"id_str": "883320680808235010",
