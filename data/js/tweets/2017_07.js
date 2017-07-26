@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 26 22:44:00 +0000 2017",
+		"id": 890341965518168000,
+		"id_str": "890341965518168064",
+		"text": "RT @DannyDutch: I'm no geologist but this is quite an interesting Rock formation. https://t.co/oPrh6j1y2x",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DannyDutch",
+					"name": "Daniel",
+					"id": 20857273,
+					"id_str": "20857273",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 889922536259153900,
+					"id_str": "889922536259153923",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DFmj1OtXcAM-Ul9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFmj1OtXcAM-Ul9.jpg",
+					"url": "https://t.co/oPrh6j1y2x",
+					"display_url": "pic.twitter.com/oPrh6j1y2x",
+					"expanded_url": "https://twitter.com/DannyDutch/status/889922549123084288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1850,
+							"h": 1850,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 889922549123084300,
+					"source_status_id_str": "889922549123084288",
+					"source_user_id": 20857273,
+					"source_user_id_str": "20857273"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 889922536259153900,
+					"id_str": "889922536259153923",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DFmj1OtXcAM-Ul9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFmj1OtXcAM-Ul9.jpg",
+					"url": "https://t.co/oPrh6j1y2x",
+					"display_url": "pic.twitter.com/oPrh6j1y2x",
+					"expanded_url": "https://twitter.com/DannyDutch/status/889922549123084288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1850,
+							"h": 1850,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 889922549123084300,
+					"source_status_id_str": "889922549123084288",
+					"source_user_id": 20857273,
+					"source_user_id_str": "20857273"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 74,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2965,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71923,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 25 18:57:24 +0000 2017",
+			"id": 889922549123084300,
+			"id_str": "889922549123084288",
+			"text": "I'm no geologist but this is quite an interesting Rock formation. https://t.co/oPrh6j1y2x",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 889922536259153900,
+						"id_str": "889922536259153923",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/DFmj1OtXcAM-Ul9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFmj1OtXcAM-Ul9.jpg",
+						"url": "https://t.co/oPrh6j1y2x",
+						"display_url": "pic.twitter.com/oPrh6j1y2x",
+						"expanded_url": "https://twitter.com/DannyDutch/status/889922549123084288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1850,
+								"h": 1850,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 889922536259153900,
+						"id_str": "889922536259153923",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/DFmj1OtXcAM-Ul9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFmj1OtXcAM-Ul9.jpg",
+						"url": "https://t.co/oPrh6j1y2x",
+						"display_url": "pic.twitter.com/oPrh6j1y2x",
+						"expanded_url": "https://twitter.com/DannyDutch/status/889922549123084288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1850,
+								"h": 1850,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20857273,
+				"id_str": "20857273",
+				"name": "Daniel",
+				"screen_name": "DannyDutch",
+				"location": "United Kingdom",
+				"description": "A Social Media bod. Likes a good heist, a squeaky bit of Halloumi and a bit of photography. Instagram - https://t.co/UysYo6bfhC",
+				"url": "https://t.co/R8i3j3oYBd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/R8i3j3oYBd",
+								"expanded_url": "https://www.dannydutch.com/",
+								"display_url": "dannydutch.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UysYo6bfhC",
+								"expanded_url": "http://ow.ly/Vtmz309bnG1",
+								"display_url": "ow.ly/Vtmz309bnG1",
+								"indices": [
+									104,
+									127
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 17214,
+				"friends_count": 1523,
+				"listed_count": 260,
+				"created_at": "Sat Feb 14 16:52:47 +0000 2009",
+				"favourites_count": 19826,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 60011,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/832616083/38ff541537aa34ed231a1fc810653e32.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/832616083/38ff541537aa34ed231a1fc810653e32.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/825437968315871234/bkIEMEcs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/825437968315871234/bkIEMEcs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20857273/1484903321",
+				"profile_link_color": "11A0D4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11445,
+			"favorite_count": 17374,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11445,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jul 26 09:20:42 +0000 2017",
 		"id": 890139804830138400,
 		"id_str": "890139804830138369",
