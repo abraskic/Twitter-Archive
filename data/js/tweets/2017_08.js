@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 08 21:47:49 +0000 2017",
+		"id": 895038867702546400,
+		"id_str": "895038867702546432",
+		"text": "RT @BilgeEbiri: Can't lose the 2020 election if there is no 2020. https://t.co/PhMdPu3x1h",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BilgeEbiri",
+					"name": "Bilge Ebiri",
+					"id": 371466354,
+					"id_str": "371466354",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 895006751388557300,
+					"id_str": "895006751388557314",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/DGuz5gAXYAIsnrD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGuz5gAXYAIsnrD.jpg",
+					"url": "https://t.co/PhMdPu3x1h",
+					"display_url": "pic.twitter.com/PhMdPu3x1h",
+					"expanded_url": "https://twitter.com/BilgeEbiri/status/895006813078401027/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 539,
+							"h": 386,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 539,
+							"h": 386,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 539,
+							"h": 386,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 895006813078401000,
+					"source_status_id_str": "895006813078401027",
+					"source_user_id": 371466354,
+					"source_user_id_str": "371466354"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 895006751388557300,
+					"id_str": "895006751388557314",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/DGuz5gAXYAIsnrD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGuz5gAXYAIsnrD.jpg",
+					"url": "https://t.co/PhMdPu3x1h",
+					"display_url": "pic.twitter.com/PhMdPu3x1h",
+					"expanded_url": "https://twitter.com/BilgeEbiri/status/895006813078401027/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 539,
+							"h": 386,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 539,
+							"h": 386,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 539,
+							"h": 386,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 895006813078401000,
+					"source_status_id_str": "895006813078401027",
+					"source_user_id": 371466354,
+					"source_user_id_str": "371466354"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 74,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2974,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72012,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 08 19:40:27 +0000 2017",
+			"id": 895006813078401000,
+			"id_str": "895006813078401027",
+			"text": "Can't lose the 2020 election if there is no 2020. https://t.co/PhMdPu3x1h",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 895006751388557300,
+						"id_str": "895006751388557314",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DGuz5gAXYAIsnrD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGuz5gAXYAIsnrD.jpg",
+						"url": "https://t.co/PhMdPu3x1h",
+						"display_url": "pic.twitter.com/PhMdPu3x1h",
+						"expanded_url": "https://twitter.com/BilgeEbiri/status/895006813078401027/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 539,
+								"h": 386,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 539,
+								"h": 386,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 539,
+								"h": 386,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 895006751388557300,
+						"id_str": "895006751388557314",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DGuz5gAXYAIsnrD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGuz5gAXYAIsnrD.jpg",
+						"url": "https://t.co/PhMdPu3x1h",
+						"display_url": "pic.twitter.com/PhMdPu3x1h",
+						"expanded_url": "https://twitter.com/BilgeEbiri/status/895006813078401027/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 539,
+								"h": 386,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 539,
+								"h": 386,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 539,
+								"h": 386,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 371466354,
+				"id_str": "371466354",
+				"name": "Bilge Ebiri",
+				"screen_name": "BilgeEbiri",
+				"location": "Brooklyn, NY",
+				"description": "Film critic for @VillageVoice. Also seen in Vulture/NY Mag, Rolling Stone, Businessweek. Oversharing since 1973.",
+				"url": "https://t.co/Wg26zOpfCp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Wg26zOpfCp",
+								"expanded_url": "http://www.villagevoice.com/authors/bilge-ebiri-8336019",
+								"display_url": "villagevoice.com/authors/bilge-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21616,
+				"friends_count": 1919,
+				"listed_count": 633,
+				"created_at": "Sat Sep 10 22:31:08 +0000 2011",
+				"favourites_count": 26607,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 57740,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/740653528922894336/53ek0vA5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/740653528922894336/53ek0vA5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/371466354/1465305146",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6587,
+			"favorite_count": 17115,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6587,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 08 17:22:37 +0000 2017",
 		"id": 894972126041526300,
 		"id_str": "894972126041526273",
