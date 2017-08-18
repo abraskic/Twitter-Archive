@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 17 23:40:18 +0000 2017",
+		"id": 898328665045336000,
+		"id_str": "898328665045336064",
+		"text": "RT @perlmutations: https://t.co/RTbz43N4An",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "perlmutations",
+					"name": "Ron Perlman",
+					"id": 926620369,
+					"id_str": "926620369",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 898151245096996900,
+					"id_str": "898151245096996864",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DHbfzH6U0AAMcWh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHbfzH6U0AAMcWh.jpg",
+					"url": "https://t.co/RTbz43N4An",
+					"display_url": "pic.twitter.com/RTbz43N4An",
+					"expanded_url": "https://twitter.com/perlmutations/status/898151267511480320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1028,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 583,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1755,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 898151267511480300,
+					"source_status_id_str": "898151267511480320",
+					"source_user_id": 926620369,
+					"source_user_id_str": "926620369"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 898151245096996900,
+					"id_str": "898151245096996864",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DHbfzH6U0AAMcWh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHbfzH6U0AAMcWh.jpg",
+					"url": "https://t.co/RTbz43N4An",
+					"display_url": "pic.twitter.com/RTbz43N4An",
+					"expanded_url": "https://twitter.com/perlmutations/status/898151267511480320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1028,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 583,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1755,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 898151267511480300,
+					"source_status_id_str": "898151267511480320",
+					"source_user_id": 926620369,
+					"source_user_id_str": "926620369"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 75,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2977,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72052,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 17 11:55:23 +0000 2017",
+			"id": 898151267511480300,
+			"id_str": "898151267511480320",
+			"text": "https://t.co/RTbz43N4An",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 898151245096996900,
+						"id_str": "898151245096996864",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DHbfzH6U0AAMcWh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHbfzH6U0AAMcWh.jpg",
+						"url": "https://t.co/RTbz43N4An",
+						"display_url": "pic.twitter.com/RTbz43N4An",
+						"expanded_url": "https://twitter.com/perlmutations/status/898151267511480320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1028,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 583,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1755,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 898151245096996900,
+						"id_str": "898151245096996864",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DHbfzH6U0AAMcWh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHbfzH6U0AAMcWh.jpg",
+						"url": "https://t.co/RTbz43N4An",
+						"display_url": "pic.twitter.com/RTbz43N4An",
+						"expanded_url": "https://twitter.com/perlmutations/status/898151267511480320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1028,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 583,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1755,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 926620369,
+				"id_str": "926620369",
+				"name": "Ron Perlman",
+				"screen_name": "perlmutations",
+				"location": "Los Angeles/New York",
+				"description": "@EasyStreetBook is now available. Order link in bio. Instagram: perlmutations",
+				"url": "https://t.co/Qfjb43zo3k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Qfjb43zo3k",
+								"expanded_url": "http://amzn.to/1uZCqmP",
+								"display_url": "amzn.to/1uZCqmP",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 504955,
+				"friends_count": 1726,
+				"listed_count": 2425,
+				"created_at": "Mon Nov 05 01:49:11 +0000 2012",
+				"favourites_count": 6483,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14984,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/873624313953345536/kTWEOMhG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/873624313953345536/kTWEOMhG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/926620369/1488579816",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2759,
+			"favorite_count": 7857,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2759,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu Aug 17 23:03:57 +0000 2017",
 		"id": 898319517230678000,
 		"id_str": "898319517230678016",
