@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Fri Aug 25 22:37:03 +0000 2017",
+		"id": 901211852075434000,
+		"id_str": "901211852075433985",
+		"text": "Anyone who's ever worked at @maccas knows this all too well. https://t.co/YaeY7VMdWe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maccas",
+					"name": "McDonald's Australia",
+					"id": 2931768596,
+					"id_str": "2931768596",
+					"indices": [
+						28,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YaeY7VMdWe",
+					"expanded_url": "https://twitter.com/DOGGEAUX/status/900526948929028097",
+					"display_url": "twitter.com/DOGGEAUX/statu…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 76,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2983,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72087,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c19d49ffc343fce",
+			"url": "https://api.twitter.com/1.1/geo/id/6c19d49ffc343fce.json",
+			"place_type": "neighborhood",
+			"name": "Banksia Grove",
+			"full_name": "Banksia Grove, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.79415516,
+							-31.71610899
+						],
+						[
+							115.81899912,
+							-31.71610899
+						],
+						[
+							115.81899912,
+							-31.68577296
+						],
+						[
+							115.79415516,
+							-31.68577296
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 900526948929028100,
+		"quoted_status_id_str": "900526948929028097",
+		"quoted_status": {
+			"created_at": "Thu Aug 24 01:15:30 +0000 2017",
+			"id": 900526948929028100,
+			"id_str": "900526948929028097",
+			"text": "https://t.co/mdOKsizaJ5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 900526940733321200,
+						"id_str": "900526940733321216",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DH9Qez0UMAAHpc2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DH9Qez0UMAAHpc2.jpg",
+						"url": "https://t.co/mdOKsizaJ5",
+						"display_url": "pic.twitter.com/mdOKsizaJ5",
+						"expanded_url": "https://twitter.com/DOGGEAUX/status/900526948929028097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1401,
+								"h": 786,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 900526940733321200,
+						"id_str": "900526940733321216",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DH9Qez0UMAAHpc2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DH9Qez0UMAAHpc2.jpg",
+						"url": "https://t.co/mdOKsizaJ5",
+						"display_url": "pic.twitter.com/mdOKsizaJ5",
+						"expanded_url": "https://twitter.com/DOGGEAUX/status/900526948929028097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1401,
+								"h": 786,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 823307955143458800,
+				"id_str": "823307955143458816",
+				"name": "ANTIPOPE SHIBE",
+				"screen_name": "DOGGEAUX",
+				"location": "rise, taste the air, lock and load, pull the trigger! climb to new heights, and tell me, tell me what you hear!",
+				"description": "former CEO of @voxdotcom fired for being too fluffy!!!!possibly a leftcom!!!!good dog from SoCal!!!!!future history major!!!!pet me gently!!!!red blooded 🇻🇳!!!!",
+				"url": "https://t.co/5vyJpSxCN3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5vyJpSxCN3",
+								"expanded_url": "https://pronoun.is/they",
+								"display_url": "pronoun.is/they",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5319,
+				"friends_count": 2615,
+				"listed_count": 39,
+				"created_at": "Sun Jan 22 23:14:47 +0000 2017",
+				"favourites_count": 9377,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9625,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897985682857054208/8qnBC-bv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897985682857054208/8qnBC-bv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/823307955143458816/1488358701",
+				"profile_link_color": "C7081E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3013,
+			"favorite_count": 7459,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 25 08:41:38 +0000 2017",
 		"id": 901001612251902000,
 		"id_str": "901001612251901953",
