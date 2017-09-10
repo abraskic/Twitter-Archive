@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sun Sep 10 22:45:05 +0000 2017",
+		"id": 907012076177997800,
+		"id_str": "907012076177997824",
+		"text": "RT @ReturntheHunter: Pokémon Go trying to murder people #HurrcaneIrma https://t.co/1ENqNUPO9p",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HurrcaneIrma",
+					"indices": [
+						56,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReturntheHunter",
+					"name": "Return",
+					"id": 3119570357,
+					"id_str": "3119570357",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 906892775811039200,
+					"id_str": "906892775811039232",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DJXuLLeVwAASXLs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJXuLLeVwAASXLs.jpg",
+					"url": "https://t.co/1ENqNUPO9p",
+					"display_url": "pic.twitter.com/1ENqNUPO9p",
+					"expanded_url": "https://twitter.com/ReturntheHunter/status/906892782463324160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 654,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 673,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 673,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 906892782463324200,
+					"source_status_id_str": "906892782463324160",
+					"source_user_id": 3119570357,
+					"source_user_id_str": "3119570357"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 906892775811039200,
+					"id_str": "906892775811039232",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DJXuLLeVwAASXLs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJXuLLeVwAASXLs.jpg",
+					"url": "https://t.co/1ENqNUPO9p",
+					"display_url": "pic.twitter.com/1ENqNUPO9p",
+					"expanded_url": "https://twitter.com/ReturntheHunter/status/906892782463324160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 654,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 673,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 673,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 906892782463324200,
+					"source_status_id_str": "906892782463324160",
+					"source_user_id": 3119570357,
+					"source_user_id_str": "3119570357"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 76,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2990,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72179,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 10 14:51:03 +0000 2017",
+			"id": 906892782463324200,
+			"id_str": "906892782463324160",
+			"text": "Pokémon Go trying to murder people #HurrcaneIrma https://t.co/1ENqNUPO9p",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HurrcaneIrma",
+						"indices": [
+							35,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 906892775811039200,
+						"id_str": "906892775811039232",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DJXuLLeVwAASXLs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJXuLLeVwAASXLs.jpg",
+						"url": "https://t.co/1ENqNUPO9p",
+						"display_url": "pic.twitter.com/1ENqNUPO9p",
+						"expanded_url": "https://twitter.com/ReturntheHunter/status/906892782463324160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 654,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 673,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 673,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 906892775811039200,
+						"id_str": "906892775811039232",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DJXuLLeVwAASXLs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJXuLLeVwAASXLs.jpg",
+						"url": "https://t.co/1ENqNUPO9p",
+						"display_url": "pic.twitter.com/1ENqNUPO9p",
+						"expanded_url": "https://twitter.com/ReturntheHunter/status/906892782463324160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 654,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 673,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 673,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3119570357,
+				"id_str": "3119570357",
+				"name": "Return",
+				"screen_name": "ReturntheHunter",
+				"location": "",
+				"description": "Horrible memes and gaming stuff",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 576,
+				"friends_count": 162,
+				"listed_count": 32,
+				"created_at": "Thu Mar 26 19:49:27 +0000 2015",
+				"favourites_count": 2633,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6047,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906968157189013506/RgMKx8p8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906968157189013506/RgMKx8p8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3119570357/1500761416",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40573,
+			"favorite_count": 91196,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 40573,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 10 22:44:46 +0000 2017",
+		"id": 907011998243627000,
+		"id_str": "907011998243627008",
+		"text": "@Creative_Rants 6S owner here. I'm waiting for the next one so I can cash in on the inevitable price drop of the last one.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Creative_Rants",
+					"name": "Creative Rants",
+					"id": 824661439,
+					"id_str": "824661439",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 906941158936412200,
+		"in_reply_to_status_id_str": "906941158936412165",
+		"in_reply_to_user_id": 824661439,
+		"in_reply_to_user_id_str": "824661439",
+		"in_reply_to_screen_name": "Creative_Rants",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 76,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2990,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72179,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c19d49ffc343fce",
+			"url": "https://api.twitter.com/1.1/geo/id/6c19d49ffc343fce.json",
+			"place_type": "neighborhood",
+			"name": "Banksia Grove",
+			"full_name": "Banksia Grove, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.79415516,
+							-31.71610899
+						],
+						[
+							115.81899912,
+							-31.71610899
+						],
+						[
+							115.81899912,
+							-31.68577296
+						],
+						[
+							115.79415516,
+							-31.68577296
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 10 10:38:40 +0000 2017",
 		"id": 906829268033736700,
 		"id_str": "906829268033736704",
