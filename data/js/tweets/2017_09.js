@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 13 23:25:26 +0000 2017",
+		"id": 908109395271155700,
+		"id_str": "908109395271155713",
+		"text": "RT @joshuafry: 1984, 1997, 2017 https://t.co/TzsZJYSrtQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joshuafry",
+					"name": "Joshua Fry",
+					"id": 18785388,
+					"id_str": "18785388",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 907737883582320600,
+					"id_str": "907737883582320640",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DJjuy7QW0AAWxaI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJjuy7QW0AAWxaI.jpg",
+					"url": "https://t.co/TzsZJYSrtQ",
+					"display_url": "pic.twitter.com/TzsZJYSrtQ",
+					"expanded_url": "https://twitter.com/joshuafry/status/907737907213062146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 854,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 854,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 907737907213062100,
+					"source_status_id_str": "907737907213062146",
+					"source_user_id": 18785388,
+					"source_user_id_str": "18785388"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 907737883582320600,
+					"id_str": "907737883582320640",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DJjuy7QW0AAWxaI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJjuy7QW0AAWxaI.jpg",
+					"url": "https://t.co/TzsZJYSrtQ",
+					"display_url": "pic.twitter.com/TzsZJYSrtQ",
+					"expanded_url": "https://twitter.com/joshuafry/status/907737907213062146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 854,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 854,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 907737907213062100,
+					"source_status_id_str": "907737907213062146",
+					"source_user_id": 18785388,
+					"source_user_id_str": "18785388"
+				},
+				{
+					"id": 907737890687512600,
+					"id_str": "907737890687512577",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DJjuzVuXcAEI1cC.png",
+					"media_url_https": "https://pbs.twimg.com/media/DJjuzVuXcAEI1cC.png",
+					"url": "https://t.co/TzsZJYSrtQ",
+					"display_url": "pic.twitter.com/TzsZJYSrtQ",
+					"expanded_url": "https://twitter.com/joshuafry/status/907737907213062146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 807,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 757,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 907737907213062100,
+					"source_status_id_str": "907737907213062146",
+					"source_user_id": 18785388,
+					"source_user_id_str": "18785388"
+				},
+				{
+					"id": 907737895062184000,
+					"id_str": "907737895062183936",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DJjuzmBXoAAe0oD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJjuzmBXoAAe0oD.jpg",
+					"url": "https://t.co/TzsZJYSrtQ",
+					"display_url": "pic.twitter.com/TzsZJYSrtQ",
+					"expanded_url": "https://twitter.com/joshuafry/status/907737907213062146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 907737907213062100,
+					"source_status_id_str": "907737907213062146",
+					"source_user_id": 18785388,
+					"source_user_id_str": "18785388"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 75,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2994,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72198,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 12 22:49:16 +0000 2017",
+			"id": 907737907213062100,
+			"id_str": "907737907213062146",
+			"text": "1984, 1997, 2017 https://t.co/TzsZJYSrtQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 907737883582320600,
+						"id_str": "907737883582320640",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DJjuy7QW0AAWxaI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJjuy7QW0AAWxaI.jpg",
+						"url": "https://t.co/TzsZJYSrtQ",
+						"display_url": "pic.twitter.com/TzsZJYSrtQ",
+						"expanded_url": "https://twitter.com/joshuafry/status/907737907213062146/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 640,
+								"h": 854,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 854,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 907737883582320600,
+						"id_str": "907737883582320640",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DJjuy7QW0AAWxaI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJjuy7QW0AAWxaI.jpg",
+						"url": "https://t.co/TzsZJYSrtQ",
+						"display_url": "pic.twitter.com/TzsZJYSrtQ",
+						"expanded_url": "https://twitter.com/joshuafry/status/907737907213062146/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 640,
+								"h": 854,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 854,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 907737890687512600,
+						"id_str": "907737890687512577",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DJjuzVuXcAEI1cC.png",
+						"media_url_https": "https://pbs.twimg.com/media/DJjuzVuXcAEI1cC.png",
+						"url": "https://t.co/TzsZJYSrtQ",
+						"display_url": "pic.twitter.com/TzsZJYSrtQ",
+						"expanded_url": "https://twitter.com/joshuafry/status/907737907213062146/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 807,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 429,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 757,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 907737895062184000,
+						"id_str": "907737895062183936",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DJjuzmBXoAAe0oD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJjuzmBXoAAe0oD.jpg",
+						"url": "https://t.co/TzsZJYSrtQ",
+						"display_url": "pic.twitter.com/TzsZJYSrtQ",
+						"expanded_url": "https://twitter.com/joshuafry/status/907737907213062146/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18785388,
+				"id_str": "18785388",
+				"name": "Joshua Fry",
+				"screen_name": "joshuafry",
+				"location": "England, United Kingdom",
+				"description": "UX Person. Psychologist. Musician. Did a good tweet once.",
+				"url": "https://t.co/bGWrcutunL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bGWrcutunL",
+								"expanded_url": "http://www.fryje.com",
+								"display_url": "fryje.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 355,
+				"friends_count": 634,
+				"listed_count": 41,
+				"created_at": "Fri Jan 09 00:09:53 +0000 2009",
+				"favourites_count": 1265,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1195,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/887777162622881792/I2gHFKe__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/887777162622881792/I2gHFKe__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18785388/1421187847",
+				"profile_link_color": "6699FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1214,
+			"favorite_count": 2576,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1214,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Sep 13 12:47:32 +0000 2017",
 		"id": 907948861737406500,
 		"id_str": "907948861737406467",
