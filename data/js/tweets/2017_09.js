@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 27 05:24:56 +0000 2017",
+		"id": 912910910058090500,
+		"id_str": "912910910058090496",
+		"text": "@peterwells If this is the new stuff that no one wants can you imagine what will happen when the X comes out?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peterwells",
+					"name": "Peter Wells 🏳️‍🌈",
+					"id": 56873,
+					"id_str": "56873",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 912882902915989500,
+		"in_reply_to_status_id_str": "912882902915989504",
+		"in_reply_to_user_id": 56873,
+		"in_reply_to_user_id_str": "56873",
+		"in_reply_to_screen_name": "peterwells",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 75,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2997,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72293,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c019743e7c11167",
+			"url": "https://api.twitter.com/1.1/geo/id/6c019743e7c11167.json",
+			"place_type": "neighborhood",
+			"name": "Joondalup",
+			"full_name": "Joondalup, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.74986112,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.71691503
+						],
+						[
+							115.74986112,
+							-31.71691503
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 27 05:23:30 +0000 2017",
+		"id": 912910546671980500,
+		"id_str": "912910546671980545",
+		"text": "RT @space_aus: The most exciting time in Australia’s history has now been announced. It’s now time for us to understand and explore our uni…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "space_aus",
+					"name": "Space Australia",
+					"id": 912507270314942500,
+					"id_str": "912507270314942464",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 75,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2997,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72293,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 26 12:12:15 +0000 2017",
+			"id": 912651027546959900,
+			"id_str": "912651027546959872",
+			"text": "The most exciting time in Australia’s history has now been announced. It’s now time for us to understand and explor… https://t.co/622nQnj2YY",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/622nQnj2YY",
+						"expanded_url": "https://twitter.com/i/web/status/912651027546959872",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 912507270314942500,
+				"id_str": "912507270314942464",
+				"name": "Space Australia",
+				"screen_name": "space_aus",
+				"location": "Australia",
+				"description": "",
+				"url": "https://t.co/qmtx7VGAth",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qmtx7VGAth",
+								"expanded_url": "https://spaceaustralia.com.au",
+								"display_url": "spaceaustralia.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 240,
+				"friends_count": 105,
+				"listed_count": 4,
+				"created_at": "Tue Sep 26 02:41:01 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/912508023683260416/HnGDUp22_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/912508023683260416/HnGDUp22_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/912507270314942464/1506393861",
+				"profile_link_color": "25408F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 344,
+			"favorite_count": 475,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 344,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 26 22:11:59 +0000 2017",
 		"id": 912801953255637000,
 		"id_str": "912801953255636994",
