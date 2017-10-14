@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sat Oct 14 03:53:59 +0000 2017",
+		"id": 919048616211234800,
+		"id_str": "919048616211234817",
+		"text": "RT @BellTowerTimez: Trans Perth camo. Perfect for fare evaders https://t.co/XPwvcpMszQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BellTowerTimez",
+					"name": "The Bell Tower Times",
+					"id": 3004178958,
+					"id_str": "3004178958",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 919023557186695200,
+					"id_str": "919023557186695168",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DMEHDlpUMAAZgQF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMEHDlpUMAAZgQF.jpg",
+					"url": "https://t.co/XPwvcpMszQ",
+					"display_url": "pic.twitter.com/XPwvcpMszQ",
+					"expanded_url": "https://twitter.com/BellTowerTimez/status/919023573154406400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 413,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1006,
+							"h": 611,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1006,
+							"h": 611,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 919023573154406400,
+					"source_status_id_str": "919023573154406400",
+					"source_user_id": 3004178958,
+					"source_user_id_str": "3004178958"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 919023557186695200,
+					"id_str": "919023557186695168",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DMEHDlpUMAAZgQF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMEHDlpUMAAZgQF.jpg",
+					"url": "https://t.co/XPwvcpMszQ",
+					"display_url": "pic.twitter.com/XPwvcpMszQ",
+					"expanded_url": "https://twitter.com/BellTowerTimez/status/919023573154406400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 413,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1006,
+							"h": 611,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1006,
+							"h": 611,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 919023573154406400,
+					"source_status_id_str": "919023573154406400",
+					"source_user_id": 3004178958,
+					"source_user_id_str": "3004178958"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 76,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3005,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 14 02:14:29 +0000 2017",
+			"id": 919023573154406400,
+			"id_str": "919023573154406400",
+			"text": "Trans Perth camo. Perfect for fare evaders https://t.co/XPwvcpMszQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 919023557186695200,
+						"id_str": "919023557186695168",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DMEHDlpUMAAZgQF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMEHDlpUMAAZgQF.jpg",
+						"url": "https://t.co/XPwvcpMszQ",
+						"display_url": "pic.twitter.com/XPwvcpMszQ",
+						"expanded_url": "https://twitter.com/BellTowerTimez/status/919023573154406400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 413,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1006,
+								"h": 611,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1006,
+								"h": 611,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 919023557186695200,
+						"id_str": "919023557186695168",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DMEHDlpUMAAZgQF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMEHDlpUMAAZgQF.jpg",
+						"url": "https://t.co/XPwvcpMszQ",
+						"display_url": "pic.twitter.com/XPwvcpMszQ",
+						"expanded_url": "https://twitter.com/BellTowerTimez/status/919023573154406400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 413,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1006,
+								"h": 611,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1006,
+								"h": 611,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3004178958,
+				"id_str": "3004178958",
+				"name": "The Bell Tower Times",
+				"screen_name": "BellTowerTimez",
+				"location": "Perth ",
+				"description": "I write The Bell Tower Times. Part satire, part commentary but 100% zinger-tastic. Started as a lawyer and now a comedian, follow me if you like",
+				"url": "https://t.co/O4L6OYZpWz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O4L6OYZpWz",
+								"expanded_url": "https://www.facebook.com/TheBellTowerTimes",
+								"display_url": "facebook.com/TheBellTowerTi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2713,
+				"friends_count": 822,
+				"listed_count": 0,
+				"created_at": "Sat Jan 31 02:59:21 +0000 2015",
+				"favourites_count": 2300,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2669,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/767500445514215424/fwD1Lbl2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/767500445514215424/fwD1Lbl2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3004178958/1468402714",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 13 22:42:21 +0000 2017",
 		"id": 918970188489400300,
 		"id_str": "918970188489400320",
