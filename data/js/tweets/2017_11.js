@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sat Nov 04 12:16:37 +0000 2017",
+		"id": 926785250646093800,
+		"id_str": "926785250646093824",
+		"text": "RT @JoshPherigo: Watching people return this dropped hat at the parade today was unreasonably thrilling https://t.co/1ghfUJsItw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoshPherigo",
+					"name": "Josh Pherigo",
+					"id": 24273420,
+					"id_str": "24273420",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 926593914529706000,
+					"id_str": "926593914529705984",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/926593914529705984/pu/img/UMtMiLfWeZA09N0B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/926593914529705984/pu/img/UMtMiLfWeZA09N0B.jpg",
+					"url": "https://t.co/1ghfUJsItw",
+					"display_url": "pic.twitter.com/1ghfUJsItw",
+					"expanded_url": "https://twitter.com/JoshPherigo/status/926594025448263686/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 926594025448263700,
+					"source_status_id_str": "926594025448263686",
+					"source_user_id": 24273420,
+					"source_user_id_str": "24273420"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 926593914529706000,
+					"id_str": "926593914529705984",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/926593914529705984/pu/img/UMtMiLfWeZA09N0B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/926593914529705984/pu/img/UMtMiLfWeZA09N0B.jpg",
+					"url": "https://t.co/1ghfUJsItw",
+					"display_url": "pic.twitter.com/1ghfUJsItw",
+					"expanded_url": "https://twitter.com/JoshPherigo/status/926594025448263686/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 926594025448263700,
+					"source_status_id_str": "926594025448263686",
+					"source_user_id": 24273420,
+					"source_user_id_str": "24273420",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 44520,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/926593914529705984/pu/vid/720x1280/3dP_KdwuOhX0dDHX.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/926593914529705984/pu/pl/Y7rg3nzT_VDn2hLu.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/926593914529705984/pu/vid/180x320/pD5JPhF3qNU0UiB0.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/926593914529705984/pu/vid/360x640/wOhlwAJkUTKHbvg1.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 24273420,
+							"id_str": "24273420",
+							"name": "Josh Pherigo",
+							"screen_name": "JoshPherigo",
+							"location": "Houston, TX",
+							"description": "Good listener. Mainly Texas stuff.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 208,
+							"friends_count": 445,
+							"listed_count": 7,
+							"created_at": "Fri Mar 13 22:48:05 +0000 2009",
+							"favourites_count": 82,
+							"utc_offset": -21600,
+							"time_zone": "Mountain Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 274,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C6E2EE",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000159482006/o4qeJpZ-.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000159482006/o4qeJpZ-.jpeg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/808812401780895745/Zri6bZDQ_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/808812401780895745/Zri6bZDQ_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/24273420/1468959297",
+							"profile_link_color": "1F98C7",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DAECF4",
+							"profile_text_color": "663B12",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 75,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2997,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72507,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 03 23:36:45 +0000 2017",
+			"id": 926594025448263700,
+			"id_str": "926594025448263686",
+			"text": "Watching people return this dropped hat at the parade today was unreasonably thrilling https://t.co/1ghfUJsItw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 926593914529706000,
+						"id_str": "926593914529705984",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/926593914529705984/pu/img/UMtMiLfWeZA09N0B.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/926593914529705984/pu/img/UMtMiLfWeZA09N0B.jpg",
+						"url": "https://t.co/1ghfUJsItw",
+						"display_url": "pic.twitter.com/1ghfUJsItw",
+						"expanded_url": "https://twitter.com/JoshPherigo/status/926594025448263686/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 926593914529706000,
+						"id_str": "926593914529705984",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/926593914529705984/pu/img/UMtMiLfWeZA09N0B.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/926593914529705984/pu/img/UMtMiLfWeZA09N0B.jpg",
+						"url": "https://t.co/1ghfUJsItw",
+						"display_url": "pic.twitter.com/1ghfUJsItw",
+						"expanded_url": "https://twitter.com/JoshPherigo/status/926594025448263686/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 44520,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/926593914529705984/pu/vid/720x1280/3dP_KdwuOhX0dDHX.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/926593914529705984/pu/pl/Y7rg3nzT_VDn2hLu.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/926593914529705984/pu/vid/180x320/pD5JPhF3qNU0UiB0.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/926593914529705984/pu/vid/360x640/wOhlwAJkUTKHbvg1.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24273420,
+				"id_str": "24273420",
+				"name": "Josh Pherigo",
+				"screen_name": "JoshPherigo",
+				"location": "Houston, TX",
+				"description": "Good listener. Mainly Texas stuff.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 208,
+				"friends_count": 445,
+				"listed_count": 7,
+				"created_at": "Fri Mar 13 22:48:05 +0000 2009",
+				"favourites_count": 82,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 274,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000159482006/o4qeJpZ-.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000159482006/o4qeJpZ-.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/808812401780895745/Zri6bZDQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/808812401780895745/Zri6bZDQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24273420/1468959297",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7860,
+			"favorite_count": 13082,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7860,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 04 09:40:06 +0000 2017",
 		"id": 926745861358370800,
 		"id_str": "926745861358370817",
