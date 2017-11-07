@@ -1,6 +1,731 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Tue Nov 07 09:12:25 +0000 2017",
+		"id": 927826058400776200,
+		"id_str": "927826058400776192",
+		"text": "RT @nxthompson: A short video that explains America’s tax code. https://t.co/EoZ3ybw22i",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nxthompson",
+					"name": "Nicholas Thompson",
+					"id": 16892481,
+					"id_str": "16892481",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 927485548557676500,
+					"id_str": "927485548557676544",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/927485548557676544/pu/img/tSLrfC7wyYSaGKmZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/927485548557676544/pu/img/tSLrfC7wyYSaGKmZ.jpg",
+					"url": "https://t.co/EoZ3ybw22i",
+					"display_url": "pic.twitter.com/EoZ3ybw22i",
+					"expanded_url": "https://twitter.com/smwhughes/status/927485846391058432/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 927485846391058400,
+					"source_status_id_str": "927485846391058432",
+					"source_user_id": 32690158,
+					"source_user_id_str": "32690158"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 927485548557676500,
+					"id_str": "927485548557676544",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/927485548557676544/pu/img/tSLrfC7wyYSaGKmZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/927485548557676544/pu/img/tSLrfC7wyYSaGKmZ.jpg",
+					"url": "https://t.co/EoZ3ybw22i",
+					"display_url": "pic.twitter.com/EoZ3ybw22i",
+					"expanded_url": "https://twitter.com/smwhughes/status/927485846391058432/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 927485846391058400,
+					"source_status_id_str": "927485846391058432",
+					"source_user_id": 32690158,
+					"source_user_id_str": "32690158",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 8334,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/927485548557676544/pu/vid/240x240/Pf4Uf8ZK2PTXXQEr.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/927485548557676544/pu/vid/480x480/bbUxwt9Dg1G4igl0.mp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/927485548557676544/pu/vid/720x720/xpurEEA7z8xEL0kf.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/927485548557676544/pu/pl/RQ7QWUkF7au0-ljT.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 32690158,
+							"id_str": "32690158",
+							"name": "Sam Hughes",
+							"screen_name": "smwhughes",
+							"location": "London, England",
+							"description": "I'll surprise you like a Japanese toilet. Writer of ads.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 896,
+							"friends_count": 1456,
+							"listed_count": 15,
+							"created_at": "Sat Apr 18 00:45:27 +0000 2009",
+							"favourites_count": 3157,
+							"utc_offset": 14400,
+							"time_zone": "Muscat",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 7449,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "797B7D",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433995729040723968/sCfUh5rk.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433995729040723968/sCfUh5rk.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/859742205484859392/HB1IT5Id_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/859742205484859392/HB1IT5Id_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/32690158/1447330144",
+							"profile_link_color": "DD2E44",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "DDFFCC",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 75,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2998,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72518,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 06 19:03:24 +0000 2017",
+			"id": 927612398198050800,
+			"id_str": "927612398198050817",
+			"text": "A short video that explains America’s tax code. https://t.co/EoZ3ybw22i",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 927485548557676500,
+						"id_str": "927485548557676544",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/927485548557676544/pu/img/tSLrfC7wyYSaGKmZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/927485548557676544/pu/img/tSLrfC7wyYSaGKmZ.jpg",
+						"url": "https://t.co/EoZ3ybw22i",
+						"display_url": "pic.twitter.com/EoZ3ybw22i",
+						"expanded_url": "https://twitter.com/smwhughes/status/927485846391058432/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 927485846391058400,
+						"source_status_id_str": "927485846391058432",
+						"source_user_id": 32690158,
+						"source_user_id_str": "32690158"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 927485548557676500,
+						"id_str": "927485548557676544",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/927485548557676544/pu/img/tSLrfC7wyYSaGKmZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/927485548557676544/pu/img/tSLrfC7wyYSaGKmZ.jpg",
+						"url": "https://t.co/EoZ3ybw22i",
+						"display_url": "pic.twitter.com/EoZ3ybw22i",
+						"expanded_url": "https://twitter.com/smwhughes/status/927485846391058432/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 927485846391058400,
+						"source_status_id_str": "927485846391058432",
+						"source_user_id": 32690158,
+						"source_user_id_str": "32690158",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 8334,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/927485548557676544/pu/vid/240x240/Pf4Uf8ZK2PTXXQEr.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/927485548557676544/pu/vid/480x480/bbUxwt9Dg1G4igl0.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/927485548557676544/pu/vid/720x720/xpurEEA7z8xEL0kf.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/927485548557676544/pu/pl/RQ7QWUkF7au0-ljT.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 32690158,
+								"id_str": "32690158",
+								"name": "Sam Hughes",
+								"screen_name": "smwhughes",
+								"location": "London, England",
+								"description": "I'll surprise you like a Japanese toilet. Writer of ads.",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 896,
+								"friends_count": 1456,
+								"listed_count": 15,
+								"created_at": "Sat Apr 18 00:45:27 +0000 2009",
+								"favourites_count": 3157,
+								"utc_offset": 14400,
+								"time_zone": "Muscat",
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 7449,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "797B7D",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433995729040723968/sCfUh5rk.jpeg",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433995729040723968/sCfUh5rk.jpeg",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/859742205484859392/HB1IT5Id_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/859742205484859392/HB1IT5Id_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/32690158/1447330144",
+								"profile_link_color": "DD2E44",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "DDFFCC",
+								"profile_text_color": "333333",
+								"profile_use_background_image": false,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16892481,
+				"id_str": "16892481",
+				"name": "Nicholas Thompson",
+				"screen_name": "nxthompson",
+				"location": "New York",
+				"description": "\"My dad is head of Wired Magazine, which means he helps make Wired Magazine and smacks it on his head\" -- my son.",
+				"url": "https://t.co/Dj9tIapXeo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Dj9tIapXeo",
+								"expanded_url": "http://www.wired.com",
+								"display_url": "wired.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 83058,
+				"friends_count": 1484,
+				"listed_count": 2484,
+				"created_at": "Tue Oct 21 19:50:15 +0000 2008",
+				"favourites_count": 22070,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21233,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/534454384982106112/LT_s7rnD.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/534454384982106112/LT_s7rnD.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/831225388617650176/rIW1BkQ2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/831225388617650176/rIW1BkQ2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16892481/1486948297",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7228,
+			"favorite_count": 13990,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7228,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 07 08:49:59 +0000 2017",
+		"id": 927820412989292500,
+		"id_str": "927820412989292544",
+		"text": "Just taking the Tesla down to Lakeside Joondalup to get some stuff from Coles. No big deal. https://t.co/tIwmVYYpFo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 927820399567544300,
+					"id_str": "927820399567544320",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/DOBHvNOVoAA7ir6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOBHvNOVoAA7ir6.jpg",
+					"url": "https://t.co/tIwmVYYpFo",
+					"display_url": "pic.twitter.com/tIwmVYYpFo",
+					"expanded_url": "https://twitter.com/braskic/status/927820412989292544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 927820399567544300,
+					"id_str": "927820399567544320",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/DOBHvNOVoAA7ir6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOBHvNOVoAA7ir6.jpg",
+					"url": "https://t.co/tIwmVYYpFo",
+					"display_url": "pic.twitter.com/tIwmVYYpFo",
+					"expanded_url": "https://twitter.com/braskic/status/927820412989292544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 75,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2998,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72518,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c019743e7c11167",
+			"url": "https://api.twitter.com/1.1/geo/id/6c019743e7c11167.json",
+			"place_type": "neighborhood",
+			"name": "Joondalup",
+			"full_name": "Joondalup, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.74986112,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.71691503
+						],
+						[
+							115.74986112,
+							-31.71691503
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 06 22:25:55 +0000 2017",
 		"id": 927663360841101300,
 		"id_str": "927663360841101313",
