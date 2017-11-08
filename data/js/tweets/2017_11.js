@@ -1,6 +1,578 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 08 21:35:08 +0000 2017",
+		"id": 928375356603613200,
+		"id_str": "928375356603613186",
+		"text": "RT @willarmstrong__: so I was pretty drunk the other night and I lost my ID, then this turns up today... https://t.co/TX0CHttfnT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "willarmstrong__",
+					"name": "will",
+					"id": 3003484223,
+					"id_str": "3003484223",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 927958235281346600,
+					"id_str": "927958235281346562",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DODFGTRX0AIYIjf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DODFGTRX0AIYIjf.jpg",
+					"url": "https://t.co/TX0CHttfnT",
+					"display_url": "pic.twitter.com/TX0CHttfnT",
+					"expanded_url": "https://twitter.com/willarmstrong__/status/927958251551055872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 927958251551055900,
+					"source_status_id_str": "927958251551055872",
+					"source_user_id": 3003484223,
+					"source_user_id_str": "3003484223"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 927958235281346600,
+					"id_str": "927958235281346562",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DODFGTRX0AIYIjf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DODFGTRX0AIYIjf.jpg",
+					"url": "https://t.co/TX0CHttfnT",
+					"display_url": "pic.twitter.com/TX0CHttfnT",
+					"expanded_url": "https://twitter.com/willarmstrong__/status/927958251551055872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 927958251551055900,
+					"source_status_id_str": "927958251551055872",
+					"source_user_id": 3003484223,
+					"source_user_id_str": "3003484223"
+				},
+				{
+					"id": 927958235373559800,
+					"id_str": "927958235373559809",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DODFGTnW4AEnbv-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DODFGTnW4AEnbv-.jpg",
+					"url": "https://t.co/TX0CHttfnT",
+					"display_url": "pic.twitter.com/TX0CHttfnT",
+					"expanded_url": "https://twitter.com/willarmstrong__/status/927958251551055872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 927958251551055900,
+					"source_status_id_str": "927958251551055872",
+					"source_user_id": 3003484223,
+					"source_user_id_str": "3003484223"
+				},
+				{
+					"id": 927958235197386800,
+					"id_str": "927958235197386753",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DODFGS9WsAEy7d6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DODFGS9WsAEy7d6.jpg",
+					"url": "https://t.co/TX0CHttfnT",
+					"display_url": "pic.twitter.com/TX0CHttfnT",
+					"expanded_url": "https://twitter.com/willarmstrong__/status/927958251551055872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 927958251551055900,
+					"source_status_id_str": "927958251551055872",
+					"source_user_id": 3003484223,
+					"source_user_id_str": "3003484223"
+				},
+				{
+					"id": 927958235331653600,
+					"id_str": "927958235331653632",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DODFGTdXcAAMns5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DODFGTdXcAAMns5.jpg",
+					"url": "https://t.co/TX0CHttfnT",
+					"display_url": "pic.twitter.com/TX0CHttfnT",
+					"expanded_url": "https://twitter.com/willarmstrong__/status/927958251551055872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 927958251551055900,
+					"source_status_id_str": "927958251551055872",
+					"source_user_id": 3003484223,
+					"source_user_id_str": "3003484223"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 75,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2998,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72525,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 07 17:57:42 +0000 2017",
+			"id": 927958251551055900,
+			"id_str": "927958251551055872",
+			"text": "so I was pretty drunk the other night and I lost my ID, then this turns up today... https://t.co/TX0CHttfnT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 927958235281346600,
+						"id_str": "927958235281346562",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DODFGTRX0AIYIjf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DODFGTRX0AIYIjf.jpg",
+						"url": "https://t.co/TX0CHttfnT",
+						"display_url": "pic.twitter.com/TX0CHttfnT",
+						"expanded_url": "https://twitter.com/willarmstrong__/status/927958251551055872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 927958235281346600,
+						"id_str": "927958235281346562",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DODFGTRX0AIYIjf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DODFGTRX0AIYIjf.jpg",
+						"url": "https://t.co/TX0CHttfnT",
+						"display_url": "pic.twitter.com/TX0CHttfnT",
+						"expanded_url": "https://twitter.com/willarmstrong__/status/927958251551055872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 927958235373559800,
+						"id_str": "927958235373559809",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DODFGTnW4AEnbv-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DODFGTnW4AEnbv-.jpg",
+						"url": "https://t.co/TX0CHttfnT",
+						"display_url": "pic.twitter.com/TX0CHttfnT",
+						"expanded_url": "https://twitter.com/willarmstrong__/status/927958251551055872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 927958235197386800,
+						"id_str": "927958235197386753",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DODFGS9WsAEy7d6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DODFGS9WsAEy7d6.jpg",
+						"url": "https://t.co/TX0CHttfnT",
+						"display_url": "pic.twitter.com/TX0CHttfnT",
+						"expanded_url": "https://twitter.com/willarmstrong__/status/927958251551055872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 927958235331653600,
+						"id_str": "927958235331653632",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/DODFGTdXcAAMns5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DODFGTdXcAAMns5.jpg",
+						"url": "https://t.co/TX0CHttfnT",
+						"display_url": "pic.twitter.com/TX0CHttfnT",
+						"expanded_url": "https://twitter.com/willarmstrong__/status/927958251551055872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3003484223,
+				"id_str": "3003484223",
+				"name": "will",
+				"screen_name": "willarmstrong__",
+				"location": "",
+				"description": "Crystal City",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 220,
+				"friends_count": 131,
+				"listed_count": 14,
+				"created_at": "Wed Jan 28 16:46:20 +0000 2015",
+				"favourites_count": 2258,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928270931612651520/ZMG40g6K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928270931612651520/ZMG40g6K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3003484223/1510146951",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22219,
+			"favorite_count": 67233,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22219,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 08 11:27:22 +0000 2017",
 		"id": 928222408808456200,
 		"id_str": "928222408808456192",
