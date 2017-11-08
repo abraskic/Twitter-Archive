@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 08 06:18:06 +0000 2017",
+		"id": 928144578087084000,
+		"id_str": "928144578087084032",
+		"text": "RT @supercujo: It's a Hallmark Moment... https://t.co/ucyHw1lbHm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "supercujo",
+					"name": "supercujo",
+					"id": 18132109,
+					"id_str": "18132109",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 928081580777541600,
+					"id_str": "928081580777541637",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DOE1R9DUEAUpjSt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOE1R9DUEAUpjSt.jpg",
+					"url": "https://t.co/ucyHw1lbHm",
+					"display_url": "pic.twitter.com/ucyHw1lbHm",
+					"expanded_url": "https://twitter.com/supercujo/status/928116621645721600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1150,
+							"h": 798,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 472,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1150,
+							"h": 798,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 928116621645721600,
+					"source_status_id_str": "928116621645721600",
+					"source_user_id": 18132109,
+					"source_user_id_str": "18132109"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 928081580777541600,
+					"id_str": "928081580777541637",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DOE1R9DUEAUpjSt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOE1R9DUEAUpjSt.jpg",
+					"url": "https://t.co/ucyHw1lbHm",
+					"display_url": "pic.twitter.com/ucyHw1lbHm",
+					"expanded_url": "https://twitter.com/supercujo/status/928116621645721600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1150,
+							"h": 798,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 472,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1150,
+							"h": 798,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 928116621645721600,
+					"source_status_id_str": "928116621645721600",
+					"source_user_id": 18132109,
+					"source_user_id_str": "18132109"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 75,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2998,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72522,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 08 04:27:00 +0000 2017",
+			"id": 928116621645721600,
+			"id_str": "928116621645721600",
+			"text": "It's a Hallmark Moment... https://t.co/ucyHw1lbHm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 928081580777541600,
+						"id_str": "928081580777541637",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DOE1R9DUEAUpjSt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOE1R9DUEAUpjSt.jpg",
+						"url": "https://t.co/ucyHw1lbHm",
+						"display_url": "pic.twitter.com/ucyHw1lbHm",
+						"expanded_url": "https://twitter.com/supercujo/status/928116621645721600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1150,
+								"h": 798,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 472,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1150,
+								"h": 798,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 928081580777541600,
+						"id_str": "928081580777541637",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DOE1R9DUEAUpjSt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOE1R9DUEAUpjSt.jpg",
+						"url": "https://t.co/ucyHw1lbHm",
+						"display_url": "pic.twitter.com/ucyHw1lbHm",
+						"expanded_url": "https://twitter.com/supercujo/status/928116621645721600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1150,
+								"h": 798,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 472,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1150,
+								"h": 798,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18132109,
+				"id_str": "18132109",
+				"name": "supercujo",
+				"screen_name": "supercujo",
+				"location": "Perth",
+				"description": "The official Supercujo Twitter account!!!\nI'm an #F1 tragic, second guess #AFL coaches regularly, speak sarcasm fluently and don't suffer fools well.",
+				"url": "https://t.co/U3cdy2CvJG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/U3cdy2CvJG",
+								"expanded_url": "http://mobro.co/supercujo",
+								"display_url": "mobro.co/supercujo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2127,
+				"friends_count": 1552,
+				"listed_count": 184,
+				"created_at": "Mon Dec 15 06:22:31 +0000 2008",
+				"favourites_count": 12196,
+				"utc_offset": 28800,
+				"time_zone": "Perth",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 109044,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/39160772/_MG_1167-Edit.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/39160772/_MG_1167-Edit.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848686531476725760/p8LaOmXA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848686531476725760/p8LaOmXA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18132109/1495186108",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "003B03",
+				"profile_text_color": "A3A3A3",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 08 00:25:56 +0000 2017",
 		"id": 928055955006226400,
 		"id_str": "928055955006226432",
