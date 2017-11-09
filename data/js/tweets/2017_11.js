@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 09 22:37:31 +0000 2017",
+		"id": 928753446869536800,
+		"id_str": "928753446869536769",
+		"text": "RT @kish_lal: In Australia, you don't say \"how are you?\" You say \"scaarn on cunt?\" which means \"you are loved and this is a space to share…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kish_lal",
+					"name": "Kish-fil-A",
+					"id": 97696930,
+					"id_str": "97696930",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 75,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3000,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72536,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 12:30:03 +0000 2017",
+			"id": 928600570406912000,
+			"id_str": "928600570406912000",
+			"text": "In Australia, you don't say \"how are you?\" You say \"scaarn on cunt?\" which means \"you are loved and this is a space… https://t.co/IAvUwO0aIN",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IAvUwO0aIN",
+						"expanded_url": "https://twitter.com/i/web/status/928600570406912000",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 97696930,
+				"id_str": "97696930",
+				"name": "Kish-fil-A",
+				"screen_name": "kish_lal",
+				"location": "Melbourne, AU",
+				"description": "ur WCW • recent bylines @complex @redbullau @smh @noiseymusic @acclaimmag • DJ • enquiries hi@kish-lal.com • https://t.co/LGi7Gdj6Dl",
+				"url": "https://t.co/6rNismWLA4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6rNismWLA4",
+								"expanded_url": "http://www.kish-lal.com",
+								"display_url": "kish-lal.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LGi7Gdj6Dl",
+								"expanded_url": "https://www.patreon.com/kishlal",
+								"display_url": "patreon.com/kishlal",
+								"indices": [
+									109,
+									132
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3222,
+				"friends_count": 645,
+				"listed_count": 29,
+				"created_at": "Fri Dec 18 16:08:40 +0000 2009",
+				"favourites_count": 56134,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18712,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/572997358583087104/9sOkxN0O.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/572997358583087104/9sOkxN0O.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874039709760053249/vlLMp4RJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874039709760053249/vlLMp4RJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/97696930/1510057295",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E0AEEB",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 925462401952112600,
+			"quoted_status_id_str": "925462401952112640",
+			"quoted_status": {
+				"created_at": "Tue Oct 31 20:40:05 +0000 2017",
+				"id": 925462401952112600,
+				"id_str": "925462401952112640",
+				"text": "In French, you don't say \"I miss you.\" You say \"tu me manques\" which means, \"you are missing from me.\" Isn't that amazing?",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 345979579,
+					"id_str": "345979579",
+					"name": "Kush",
+					"screen_name": "keeperoftheday",
+					"location": "26.8467° N, 80.9462° E",
+					"description": "Gamer. Anime Fan. Web Designer. Programmer. Simultaneously the nicest and the meanest person you’ll ever meet.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 19607,
+					"friends_count": 8969,
+					"listed_count": 280,
+					"created_at": "Sun Jul 31 14:26:54 +0000 2011",
+					"favourites_count": 390,
+					"utc_offset": 19800,
+					"time_zone": "New Delhi",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 2546,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "1A1B1F",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/633768616207380480/0IFdnj59.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/633768616207380480/0IFdnj59.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/917773406224785413/4vMANrxN_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/917773406224785413/4vMANrxN_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/345979579/1508305700",
+					"profile_link_color": "1B1E21",
+					"profile_sidebar_border_color": "181A1E",
+					"profile_sidebar_fill_color": "252429",
+					"profile_text_color": "666666",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 7295,
+				"favorite_count": 18468,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 77,
+			"favorite_count": 302,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 925462401952112600,
+		"quoted_status_id_str": "925462401952112640",
+		"retweet_count": 77,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 09 14:40:15 +0000 2017",
 		"id": 928633338922917900,
 		"id_str": "928633338922917888",
