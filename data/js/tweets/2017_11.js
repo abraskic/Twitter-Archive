@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sun Nov 19 01:09:27 +0000 2017",
+		"id": 932053171047764000,
+		"id_str": "932053171047763969",
+		"text": "@twcau @Epigrammist And that’s just my easy CBF’d today pace.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twcau",
+					"name": "Michael (twcau)",
+					"id": 17439480,
+					"id_str": "17439480",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "Epigrammist",
+					"name": "🏳️‍🌈🌈",
+					"id": 31065693,
+					"id_str": "31065693",
+					"indices": [
+						7,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 932045006197604400,
+		"in_reply_to_status_id_str": "932045006197604352",
+		"in_reply_to_user_id": 17439480,
+		"in_reply_to_user_id_str": "17439480",
+		"in_reply_to_screen_name": "twcau",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 76,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3003,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72600,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c019743e7c11167",
+			"url": "https://api.twitter.com/1.1/geo/id/6c019743e7c11167.json",
+			"place_type": "neighborhood",
+			"name": "Joondalup",
+			"full_name": "Joondalup, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.74986112,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.71691503
+						],
+						[
+							115.74986112,
+							-31.71691503
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 19 00:18:49 +0000 2017",
+		"id": 932040430350241800,
+		"id_str": "932040430350241792",
+		"text": "@Epigrammist Still got it done. https://t.co/esJgZbUHPP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Epigrammist",
+					"name": "🏳️‍🌈🌈",
+					"id": 31065693,
+					"id_str": "31065693",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 932040396925935600,
+					"id_str": "932040396925935616",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DO9FzYcVoAAANWG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DO9FzYcVoAAANWG.jpg",
+					"url": "https://t.co/esJgZbUHPP",
+					"display_url": "pic.twitter.com/esJgZbUHPP",
+					"expanded_url": "https://twitter.com/braskic/status/932040430350241792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 932040396925935600,
+					"id_str": "932040396925935616",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DO9FzYcVoAAANWG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DO9FzYcVoAAANWG.jpg",
+					"url": "https://t.co/esJgZbUHPP",
+					"display_url": "pic.twitter.com/esJgZbUHPP",
+					"expanded_url": "https://twitter.com/braskic/status/932040430350241792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 932028505402904600,
+		"in_reply_to_status_id_str": "932028505402904576",
+		"in_reply_to_user_id": 31065693,
+		"in_reply_to_user_id_str": "31065693",
+		"in_reply_to_screen_name": "Epigrammist",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 76,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3003,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72600,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c19d49ffc343fce",
+			"url": "https://api.twitter.com/1.1/geo/id/6c19d49ffc343fce.json",
+			"place_type": "neighborhood",
+			"name": "Banksia Grove",
+			"full_name": "Banksia Grove, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.79415516,
+							-31.71610899
+						],
+						[
+							115.81899912,
+							-31.71610899
+						],
+						[
+							115.81899912,
+							-31.68577296
+						],
+						[
+							115.79415516,
+							-31.68577296
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 18 23:15:16 +0000 2017",
 		"id": 932024437355954200,
 		"id_str": "932024437355954176",
