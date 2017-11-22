@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 22 06:30:17 +0000 2017",
+		"id": 933221073746669600,
+		"id_str": "933221073746669568",
+		"text": "RT @darrenrovell: Overhead look at people trying to escape Los Angeles for Thanksgiving. Just a guess: Already looks too late https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "darrenrovell",
+					"name": "Darren Rovell",
+					"id": 24277551,
+					"id_str": "24277551",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 76,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3007,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72619,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 22 02:01:53 +0000 2017",
+			"id": 933153531825094700,
+			"id_str": "933153531825094656",
+			"text": "Overhead look at people trying to escape Los Angeles for Thanksgiving. Just a guess: Already looks too late https://t.co/L8NNkuRVU8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 933150296003530800,
+						"id_str": "933150296003530752",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/933150296003530752/pu/img/xt2xZH2aAVMgRlrv.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/933150296003530752/pu/img/xt2xZH2aAVMgRlrv.jpg",
+						"url": "https://t.co/L8NNkuRVU8",
+						"display_url": "pic.twitter.com/L8NNkuRVU8",
+						"expanded_url": "https://twitter.com/ABC/status/933150615009669120/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 933150615009669100,
+						"source_status_id_str": "933150615009669120",
+						"source_user_id": 28785486,
+						"source_user_id_str": "28785486"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 933150296003530800,
+						"id_str": "933150296003530752",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/933150296003530752/pu/img/xt2xZH2aAVMgRlrv.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/933150296003530752/pu/img/xt2xZH2aAVMgRlrv.jpg",
+						"url": "https://t.co/L8NNkuRVU8",
+						"display_url": "pic.twitter.com/L8NNkuRVU8",
+						"expanded_url": "https://twitter.com/ABC/status/933150615009669120/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 933150615009669100,
+						"source_status_id_str": "933150615009669120",
+						"source_user_id": 28785486,
+						"source_user_id_str": "28785486",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 53428,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/933150296003530752/pu/pl/XPiuaWW5B4at_KQX.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/933150296003530752/pu/vid/480x480/3v7GdgAv0tYN9wxx.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/933150296003530752/pu/vid/720x720/k3y_NbSG4004CwrB.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/933150296003530752/pu/vid/240x240/BVEmMGVii8-Jffxy.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 28785486,
+								"id_str": "28785486",
+								"name": "ABC News",
+								"screen_name": "ABC",
+								"location": "New York City / Worldwide",
+								"description": "Straightforward news. Straight to the heart of the story. \nFacebook: https://t.co/ewMNZ54axm Instagram: https://t.co/pPlGmNHztz",
+								"url": "https://t.co/v7GWW7ho1l",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/v7GWW7ho1l",
+												"expanded_url": "http://ABCNews.com",
+												"display_url": "ABCNews.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/ewMNZ54axm",
+												"expanded_url": "https://www.facebook.com/abcnews",
+												"display_url": "facebook.com/abcnews",
+												"indices": [
+													69,
+													92
+												]
+											},
+											{
+												"url": "https://t.co/pPlGmNHztz",
+												"expanded_url": "https://www.instagram.com/abcnews",
+												"display_url": "instagram.com/abcnews",
+												"indices": [
+													104,
+													127
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 12835754,
+								"friends_count": 738,
+								"listed_count": 50628,
+								"created_at": "Sat Apr 04 12:40:32 +0000 2009",
+								"favourites_count": 460,
+								"utc_offset": -18000,
+								"time_zone": "Eastern Time (US & Canada)",
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 187912,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": true,
+								"profile_background_color": "6E8EB5",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441965491024719872/pAv-lzCZ.jpeg",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441965491024719872/pAv-lzCZ.jpeg",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/877547979363758080/ny06RNTT_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/877547979363758080/ny06RNTT_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+								"profile_link_color": "336699",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24277551,
+				"id_str": "24277551",
+				"name": "Darren Rovell",
+				"screen_name": "darrenrovell",
+				"location": "NYC & Bristol, CT",
+				"description": "ESPN Sports Business Reporter. Instagram: @darrenrovell",
+				"url": "https://t.co/qSrAlTNjPU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qSrAlTNjPU",
+								"expanded_url": "http://www.darrenrovell.com",
+								"display_url": "darrenrovell.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1953854,
+				"friends_count": 2420,
+				"listed_count": 11943,
+				"created_at": "Fri Mar 13 23:11:21 +0000 2009",
+				"favourites_count": 1942,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 132142,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FF0000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735955002/3f56ed474f1a65fe20a4df97c9c656e6.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735955002/3f56ed474f1a65fe20a4df97c9c656e6.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/846459635964018688/z_OlS8C3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/846459635964018688/z_OlS8C3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24277551/1459256465",
+				"profile_link_color": "161A18",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6EAEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9148,
+			"favorite_count": 15384,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9148,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 22 06:11:42 +0000 2017",
 		"id": 933216399014502400,
 		"id_str": "933216399014502401",
