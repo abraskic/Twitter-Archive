@@ -1,6 +1,542 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Fri Nov 24 23:45:14 +0000 2017",
+		"id": 934206304884703200,
+		"id_str": "934206304884703233",
+		"text": "RT @Paulius98: Black Friday was crazy in the UK https://t.co/Ts5zX5XGV8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Paulius98",
+					"name": "P",
+					"id": 169006925,
+					"id_str": "169006925",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 933957225730756600,
+					"id_str": "933957225730756608",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/933957225730756608/pu/img/Pzi8wLfawnjHfK_G.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/933957225730756608/pu/img/Pzi8wLfawnjHfK_G.jpg",
+					"url": "https://t.co/Ts5zX5XGV8",
+					"display_url": "pic.twitter.com/Ts5zX5XGV8",
+					"expanded_url": "https://twitter.com/Frankie_Mack/status/933957328122122241/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 933957328122122200,
+					"source_status_id_str": "933957328122122241",
+					"source_user_id": 35718116,
+					"source_user_id_str": "35718116"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 933957225730756600,
+					"id_str": "933957225730756608",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/933957225730756608/pu/img/Pzi8wLfawnjHfK_G.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/933957225730756608/pu/img/Pzi8wLfawnjHfK_G.jpg",
+					"url": "https://t.co/Ts5zX5XGV8",
+					"display_url": "pic.twitter.com/Ts5zX5XGV8",
+					"expanded_url": "https://twitter.com/Frankie_Mack/status/933957328122122241/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 933957328122122200,
+					"source_status_id_str": "933957328122122241",
+					"source_user_id": 35718116,
+					"source_user_id_str": "35718116",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 11308,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/933957225730756608/pu/vid/360x640/hLPJo9CXsMjxvtbP.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/933957225730756608/pu/vid/720x1280/SYgWEex4PlKlvX--.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/933957225730756608/pu/vid/180x320/3L9g1fN-5PnEpZ64.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/933957225730756608/pu/pl/W-G9ZQMf4b_0V25u.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 35718116,
+							"id_str": "35718116",
+							"name": "Frankie McCamley",
+							"screen_name": "Frankie_Mack",
+							"location": "London, UK, et al.",
+							"description": "Reporting, presenting and investigating for the BBC... with a focus on Home Affairs incl. #GrenfellTower & stories affecting women ... Got a story? Get in touch",
+							"url": "https://t.co/snzXFX4CFT",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/snzXFX4CFT",
+											"expanded_url": "http://bbc.co.uk/news",
+											"display_url": "bbc.co.uk/news",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3916,
+							"friends_count": 1312,
+							"listed_count": 104,
+							"created_at": "Mon Apr 27 11:12:50 +0000 2009",
+							"favourites_count": 506,
+							"utc_offset": 0,
+							"time_zone": "London",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 8643,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/821512412700545025/SmEiY9Cl_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/821512412700545025/SmEiY9Cl_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/35718116/1502475472",
+							"profile_link_color": "E81C4F",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 76,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3007,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72623,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 24 08:52:22 +0000 2017",
+			"id": 933981605848404000,
+			"id_str": "933981605848403968",
+			"text": "Black Friday was crazy in the UK https://t.co/Ts5zX5XGV8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 933957225730756600,
+						"id_str": "933957225730756608",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/933957225730756608/pu/img/Pzi8wLfawnjHfK_G.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/933957225730756608/pu/img/Pzi8wLfawnjHfK_G.jpg",
+						"url": "https://t.co/Ts5zX5XGV8",
+						"display_url": "pic.twitter.com/Ts5zX5XGV8",
+						"expanded_url": "https://twitter.com/Frankie_Mack/status/933957328122122241/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 933957328122122200,
+						"source_status_id_str": "933957328122122241",
+						"source_user_id": 35718116,
+						"source_user_id_str": "35718116"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 933957225730756600,
+						"id_str": "933957225730756608",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/933957225730756608/pu/img/Pzi8wLfawnjHfK_G.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/933957225730756608/pu/img/Pzi8wLfawnjHfK_G.jpg",
+						"url": "https://t.co/Ts5zX5XGV8",
+						"display_url": "pic.twitter.com/Ts5zX5XGV8",
+						"expanded_url": "https://twitter.com/Frankie_Mack/status/933957328122122241/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 933957328122122200,
+						"source_status_id_str": "933957328122122241",
+						"source_user_id": 35718116,
+						"source_user_id_str": "35718116",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 11308,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/933957225730756608/pu/vid/360x640/hLPJo9CXsMjxvtbP.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/933957225730756608/pu/vid/720x1280/SYgWEex4PlKlvX--.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/933957225730756608/pu/vid/180x320/3L9g1fN-5PnEpZ64.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/933957225730756608/pu/pl/W-G9ZQMf4b_0V25u.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 35718116,
+								"id_str": "35718116",
+								"name": "Frankie McCamley",
+								"screen_name": "Frankie_Mack",
+								"location": "London, UK, et al.",
+								"description": "Reporting, presenting and investigating for the BBC... with a focus on Home Affairs incl. #GrenfellTower & stories affecting women ... Got a story? Get in touch",
+								"url": "https://t.co/snzXFX4CFT",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/snzXFX4CFT",
+												"expanded_url": "http://bbc.co.uk/news",
+												"display_url": "bbc.co.uk/news",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 3916,
+								"friends_count": 1312,
+								"listed_count": 104,
+								"created_at": "Mon Apr 27 11:12:50 +0000 2009",
+								"favourites_count": 506,
+								"utc_offset": 0,
+								"time_zone": "London",
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 8643,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/821512412700545025/SmEiY9Cl_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/821512412700545025/SmEiY9Cl_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/35718116/1502475472",
+								"profile_link_color": "E81C4F",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 169006925,
+				"id_str": "169006925",
+				"name": "P",
+				"screen_name": "Paulius98",
+				"location": "London",
+				"description": "add me on snapchat - paulius-z",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11804,
+				"friends_count": 5629,
+				"listed_count": 147,
+				"created_at": "Wed Jul 21 09:08:51 +0000 2010",
+				"favourites_count": 40756,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34769,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/624486525993152512/wv9XG4vc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/624486525993152512/wv9XG4vc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/169006925/1502483524",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34370,
+			"favorite_count": 68222,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 34370,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 24 02:21:52 +0000 2017",
 		"id": 933883334823886800,
 		"id_str": "933883334823886849",
@@ -12,7 +548,7 @@ Grailbird.data.tweets_2017_11 =
 			"user_mentions": [
 				{
 					"screen_name": "Epigrammist",
-					"name": "🏳️‍🌈🌈",
+					"name": "🏳️🌈🌈",
 					"id": 31065693,
 					"id_str": "31065693",
 					"indices": [
