@@ -1,6 +1,835 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 29 06:19:01 +0000 2017",
+		"id": 935754953301295100,
+		"id_str": "935754953301295104",
+		"text": "@BeauGiles SmartATMs are quite good at depositing cheques.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BeauGiles",
+					"name": "Beau",
+					"id": 7636802,
+					"id_str": "7636802",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 935721182313279500,
+		"in_reply_to_status_id_str": "935721182313279490",
+		"in_reply_to_user_id": 7636802,
+		"in_reply_to_user_id_str": "7636802",
+		"in_reply_to_screen_name": "BeauGiles",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 76,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3010,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c019743e7c11167",
+			"url": "https://api.twitter.com/1.1/geo/id/6c019743e7c11167.json",
+			"place_type": "neighborhood",
+			"name": "Joondalup",
+			"full_name": "Joondalup, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.74986112,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.71691503
+						],
+						[
+							115.74986112,
+							-31.71691503
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 29 06:17:34 +0000 2017",
+		"id": 935754588589842400,
+		"id_str": "935754588589842437",
+		"text": "Something really fucked up is going on with my phone. Battery lasts half a day, apps won’t load.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 76,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3010,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c019743e7c11167",
+			"url": "https://api.twitter.com/1.1/geo/id/6c019743e7c11167.json",
+			"place_type": "neighborhood",
+			"name": "Joondalup",
+			"full_name": "Joondalup, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.74986112,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.71691503
+						],
+						[
+							115.74986112,
+							-31.71691503
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 29 06:15:37 +0000 2017",
+		"id": 935754101056471000,
+		"id_str": "935754101056471040",
+		"text": "RT @KaraJane23: Tucson drivers are wack https://t.co/V4WQOGSmtn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KaraJane23",
+					"name": "Kara Jane",
+					"id": 2920720896,
+					"id_str": "2920720896",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 934980336185892900,
+					"id_str": "934980336185892866",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DPm3qXpV4AIW514.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPm3qXpV4AIW514.jpg",
+					"url": "https://t.co/V4WQOGSmtn",
+					"display_url": "pic.twitter.com/V4WQOGSmtn",
+					"expanded_url": "https://twitter.com/KaraJane23/status/934980368255483905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 784,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 784,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 934980368255483900,
+					"source_status_id_str": "934980368255483905",
+					"source_user_id": 2920720896,
+					"source_user_id_str": "2920720896"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 934980336185892900,
+					"id_str": "934980336185892866",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DPm3qXpV4AIW514.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPm3qXpV4AIW514.jpg",
+					"url": "https://t.co/V4WQOGSmtn",
+					"display_url": "pic.twitter.com/V4WQOGSmtn",
+					"expanded_url": "https://twitter.com/KaraJane23/status/934980368255483905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 784,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 784,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 934980368255483900,
+					"source_status_id_str": "934980368255483905",
+					"source_user_id": 2920720896,
+					"source_user_id_str": "2920720896"
+				},
+				{
+					"id": 934980336181698600,
+					"id_str": "934980336181698561",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DPm3qXoV4AEqsDW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPm3qXoV4AEqsDW.jpg",
+					"url": "https://t.co/V4WQOGSmtn",
+					"display_url": "pic.twitter.com/V4WQOGSmtn",
+					"expanded_url": "https://twitter.com/KaraJane23/status/934980368255483905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 694,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 694,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 461,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 934980368255483900,
+					"source_status_id_str": "934980368255483905",
+					"source_user_id": 2920720896,
+					"source_user_id_str": "2920720896"
+				},
+				{
+					"id": 934980336194166800,
+					"id_str": "934980336194166784",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DPm3qXrUIAACtxn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPm3qXrUIAACtxn.jpg",
+					"url": "https://t.co/V4WQOGSmtn",
+					"display_url": "pic.twitter.com/V4WQOGSmtn",
+					"expanded_url": "https://twitter.com/KaraJane23/status/934980368255483905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 684,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 684,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 934980368255483900,
+					"source_status_id_str": "934980368255483905",
+					"source_user_id": 2920720896,
+					"source_user_id_str": "2920720896"
+				},
+				{
+					"id": 934980336189980700,
+					"id_str": "934980336189980672",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DPm3qXqUQAAx9C4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPm3qXqUQAAx9C4.jpg",
+					"url": "https://t.co/V4WQOGSmtn",
+					"display_url": "pic.twitter.com/V4WQOGSmtn",
+					"expanded_url": "https://twitter.com/KaraJane23/status/934980368255483905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 680,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 934980368255483900,
+					"source_status_id_str": "934980368255483905",
+					"source_user_id": 2920720896,
+					"source_user_id_str": "2920720896"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 76,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3010,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 27 03:01:05 +0000 2017",
+			"id": 934980368255483900,
+			"id_str": "934980368255483905",
+			"text": "Tucson drivers are wack https://t.co/V4WQOGSmtn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 934980336185892900,
+						"id_str": "934980336185892866",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DPm3qXpV4AIW514.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPm3qXpV4AIW514.jpg",
+						"url": "https://t.co/V4WQOGSmtn",
+						"display_url": "pic.twitter.com/V4WQOGSmtn",
+						"expanded_url": "https://twitter.com/KaraJane23/status/934980368255483905/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 784,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 521,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 784,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 934980336185892900,
+						"id_str": "934980336185892866",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DPm3qXpV4AIW514.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPm3qXpV4AIW514.jpg",
+						"url": "https://t.co/V4WQOGSmtn",
+						"display_url": "pic.twitter.com/V4WQOGSmtn",
+						"expanded_url": "https://twitter.com/KaraJane23/status/934980368255483905/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 784,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 521,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 784,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 934980336181698600,
+						"id_str": "934980336181698561",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DPm3qXoV4AEqsDW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPm3qXoV4AEqsDW.jpg",
+						"url": "https://t.co/V4WQOGSmtn",
+						"display_url": "pic.twitter.com/V4WQOGSmtn",
+						"expanded_url": "https://twitter.com/KaraJane23/status/934980368255483905/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 694,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 694,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 461,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 934980336194166800,
+						"id_str": "934980336194166784",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DPm3qXrUIAACtxn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPm3qXrUIAACtxn.jpg",
+						"url": "https://t.co/V4WQOGSmtn",
+						"display_url": "pic.twitter.com/V4WQOGSmtn",
+						"expanded_url": "https://twitter.com/KaraJane23/status/934980368255483905/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 684,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 684,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 934980336189980700,
+						"id_str": "934980336189980672",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DPm3qXqUQAAx9C4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPm3qXqUQAAx9C4.jpg",
+						"url": "https://t.co/V4WQOGSmtn",
+						"display_url": "pic.twitter.com/V4WQOGSmtn",
+						"expanded_url": "https://twitter.com/KaraJane23/status/934980368255483905/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 680,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 680,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 452,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2920720896,
+				"id_str": "2920720896",
+				"name": "Kara Jane",
+				"screen_name": "KaraJane23",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 385,
+				"friends_count": 261,
+				"listed_count": 2,
+				"created_at": "Sat Dec 06 15:12:23 +0000 2014",
+				"favourites_count": 719,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 401,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885381616100454400/1kXOoZeO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885381616100454400/1kXOoZeO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2920720896/1444181559",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8657,
+			"favorite_count": 37724,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8657,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 27 21:07:17 +0000 2017",
 		"id": 935253718340997100,
 		"id_str": "935253718340997120",
