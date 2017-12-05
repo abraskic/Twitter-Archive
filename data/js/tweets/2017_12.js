@@ -1,6 +1,553 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Tue Dec 05 12:46:19 +0000 2017",
+		"id": 938026750390366200,
+		"id_str": "938026750390366209",
+		"text": "RT @Namastaywoke: Them robots comin for EVERYBODY job  https://t.co/sHYVt88Zta",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Namastaywoke",
+					"name": "whomst'veatlantavegas",
+					"id": 254624520,
+					"id_str": "254624520",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 593478763146510300,
+					"id_str": "593478763146510338",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/593478763146510338/pu/img/nygyKkG7xQmO_cTe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/593478763146510338/pu/img/nygyKkG7xQmO_cTe.jpg",
+					"url": "https://t.co/sHYVt88Zta",
+					"display_url": "pic.twitter.com/sHYVt88Zta",
+					"expanded_url": "https://twitter.com/adaobiadibe_/status/593478800194859008/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 593478800194859000,
+					"source_status_id_str": "593478800194859008",
+					"source_user_id": 412373855,
+					"source_user_id_str": "412373855"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 593478763146510300,
+					"id_str": "593478763146510338",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/593478763146510338/pu/img/nygyKkG7xQmO_cTe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/593478763146510338/pu/img/nygyKkG7xQmO_cTe.jpg",
+					"url": "https://t.co/sHYVt88Zta",
+					"display_url": "pic.twitter.com/sHYVt88Zta",
+					"expanded_url": "https://twitter.com/adaobiadibe_/status/593478800194859008/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 593478800194859000,
+					"source_status_id_str": "593478800194859008",
+					"source_user_id": 412373855,
+					"source_user_id_str": "412373855",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 5203,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/593478763146510338/pu/vid/360x640/ofS6Y2_BgDrLhPlR.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/593478763146510338/pu/vid/180x320/WQXtXszEXt8f4QCR.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/593478763146510338/pu/vid/720x1280/dXfsnsHora8dbsf3.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/593478763146510338/pu/pl/H4I2nx41_hjK9-IS.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 412373855,
+							"id_str": "412373855",
+							"name": "adaobi",
+							"screen_name": "adaobiadibe_",
+							"location": "United Kingdom",
+							"description": "EE student | TEDx speaker | lead vc @campuscapital |@accelerateddv intern| @sisterhoodmvmt |@careforseven |adaobiadibe23@gmail.com | views my own",
+							"url": "https://t.co/5t6elbiwa6",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/5t6elbiwa6",
+											"expanded_url": "https://www.linkedin.com/in/adaobi-adibe-aa1375a7/",
+											"display_url": "linkedin.com/in/adaobi-adib…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1729,
+							"friends_count": 1468,
+							"listed_count": 40,
+							"created_at": "Mon Nov 14 16:14:06 +0000 2011",
+							"favourites_count": 11230,
+							"utc_offset": 3600,
+							"time_zone": "Amsterdam",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 13515,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/363943921/_DM_ryanne_NG__I_Be_a_Jokahh_NG___.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/363943921/_DM_ryanne_NG__I_Be_a_Jokahh_NG___.jpg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/937097221681635328/bjY31pDg_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/937097221681635328/bjY31pDg_normal.jpg",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 75,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3016,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72683,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 03 01:22:27 +0000 2017",
+			"id": 937129871368745000,
+			"id_str": "937129871368744960",
+			"text": "Them robots comin for EVERYBODY job  https://t.co/sHYVt88Zta",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 593478763146510300,
+						"id_str": "593478763146510338",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/593478763146510338/pu/img/nygyKkG7xQmO_cTe.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/593478763146510338/pu/img/nygyKkG7xQmO_cTe.jpg",
+						"url": "https://t.co/sHYVt88Zta",
+						"display_url": "pic.twitter.com/sHYVt88Zta",
+						"expanded_url": "https://twitter.com/adaobiadibe_/status/593478800194859008/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 593478800194859000,
+						"source_status_id_str": "593478800194859008",
+						"source_user_id": 412373855,
+						"source_user_id_str": "412373855"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 593478763146510300,
+						"id_str": "593478763146510338",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/593478763146510338/pu/img/nygyKkG7xQmO_cTe.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/593478763146510338/pu/img/nygyKkG7xQmO_cTe.jpg",
+						"url": "https://t.co/sHYVt88Zta",
+						"display_url": "pic.twitter.com/sHYVt88Zta",
+						"expanded_url": "https://twitter.com/adaobiadibe_/status/593478800194859008/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 593478800194859000,
+						"source_status_id_str": "593478800194859008",
+						"source_user_id": 412373855,
+						"source_user_id_str": "412373855",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 5203,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/593478763146510338/pu/vid/360x640/ofS6Y2_BgDrLhPlR.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/593478763146510338/pu/vid/180x320/WQXtXszEXt8f4QCR.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/593478763146510338/pu/vid/720x1280/dXfsnsHora8dbsf3.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/593478763146510338/pu/pl/H4I2nx41_hjK9-IS.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 412373855,
+								"id_str": "412373855",
+								"name": "adaobi",
+								"screen_name": "adaobiadibe_",
+								"location": "United Kingdom",
+								"description": "EE student | TEDx speaker | lead vc @campuscapital |@accelerateddv intern| @sisterhoodmvmt |@careforseven |adaobiadibe23@gmail.com | views my own",
+								"url": "https://t.co/5t6elbiwa6",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/5t6elbiwa6",
+												"expanded_url": "https://www.linkedin.com/in/adaobi-adibe-aa1375a7/",
+												"display_url": "linkedin.com/in/adaobi-adib…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1729,
+								"friends_count": 1468,
+								"listed_count": 40,
+								"created_at": "Mon Nov 14 16:14:06 +0000 2011",
+								"favourites_count": 11230,
+								"utc_offset": 3600,
+								"time_zone": "Amsterdam",
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 13515,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/363943921/_DM_ryanne_NG__I_Be_a_Jokahh_NG___.jpg",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/363943921/_DM_ryanne_NG__I_Be_a_Jokahh_NG___.jpg",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/937097221681635328/bjY31pDg_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/937097221681635328/bjY31pDg_normal.jpg",
+								"profile_link_color": "0084B4",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": false,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 254624520,
+				"id_str": "254624520",
+				"name": "whomst'veatlantavegas",
+				"screen_name": "Namastaywoke",
+				"location": "Twitter A&M University",
+				"description": "I'm mean and nobody likes me",
+				"url": "https://t.co/moMKkbZst5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/moMKkbZst5",
+								"expanded_url": "http://NoTweetDecks.com",
+								"display_url": "NoTweetDecks.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6661,
+				"friends_count": 847,
+				"listed_count": 428,
+				"created_at": "Sat Feb 19 17:20:02 +0000 2011",
+				"favourites_count": 171007,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 165691,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450294528935620609/UKQIpG4-.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450294528935620609/UKQIpG4-.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/936765619307008000/JQSpB5Vb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/936765619307008000/JQSpB5Vb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/254624520/1511448642",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 107942,
+			"favorite_count": 194372,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 107942,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 05 11:40:35 +0000 2017",
 		"id": 938010207786901500,
 		"id_str": "938010207786901504",
