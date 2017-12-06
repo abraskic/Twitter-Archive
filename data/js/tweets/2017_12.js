@@ -1,6 +1,516 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Wed Dec 06 22:55:30 +0000 2017",
+		"id": 938542443099668500,
+		"id_str": "938542443099668481",
+		"text": "RT @stxvo: How can Twitter be free when there’s content like this https://t.co/ycHC5eci9u",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stxvo",
+					"name": "Ste 🎅🏻",
+					"id": 242711990,
+					"id_str": "242711990",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 938188865059291100,
+					"id_str": "938188865059291136",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/938188865059291136/pu/img/-V642bDolR4Zb69x.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/938188865059291136/pu/img/-V642bDolR4Zb69x.jpg",
+					"url": "https://t.co/ycHC5eci9u",
+					"display_url": "pic.twitter.com/ycHC5eci9u",
+					"expanded_url": "https://twitter.com/RadioBren/status/938189109159489536/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 938189109159489500,
+					"source_status_id_str": "938189109159489536",
+					"source_user_id": 319205360,
+					"source_user_id_str": "319205360"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 938188865059291100,
+					"id_str": "938188865059291136",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/938188865059291136/pu/img/-V642bDolR4Zb69x.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/938188865059291136/pu/img/-V642bDolR4Zb69x.jpg",
+					"url": "https://t.co/ycHC5eci9u",
+					"display_url": "pic.twitter.com/ycHC5eci9u",
+					"expanded_url": "https://twitter.com/RadioBren/status/938189109159489536/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 938189109159489500,
+					"source_status_id_str": "938189109159489536",
+					"source_user_id": 319205360,
+					"source_user_id_str": "319205360",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 95600,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/938188865059291136/pu/vid/1280x720/2ZZXtO6lqgRVBD6_.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/938188865059291136/pu/vid/640x360/NsXoGzu4pGzD8Ng8.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/938188865059291136/pu/vid/320x180/DDc7HurCX47-dDzK.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/938188865059291136/pu/pl/Tm9muARMsjPQw_6M.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 319205360,
+							"id_str": "319205360",
+							"name": "Brendan Reilly",
+							"screen_name": "RadioBren",
+							"location": "New York, USA",
+							"description": "You'll find my fingerprints all over the top of the iTunes charts...part of the @barstoolsports podcast team",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1213,
+							"friends_count": 900,
+							"listed_count": 22,
+							"created_at": "Fri Jun 17 18:44:51 +0000 2011",
+							"favourites_count": 5364,
+							"utc_offset": -14400,
+							"time_zone": "Atlantic Time (Canada)",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 18669,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/897482911309602816/xbAe7Zio_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/897482911309602816/xbAe7Zio_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/319205360/1509714845",
+							"profile_link_color": "1B95E0",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 75,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3016,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72691,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 06 01:10:00 +0000 2017",
+			"id": 938213905616330800,
+			"id_str": "938213905616330755",
+			"text": "How can Twitter be free when there’s content like this https://t.co/ycHC5eci9u",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 938188865059291100,
+						"id_str": "938188865059291136",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/938188865059291136/pu/img/-V642bDolR4Zb69x.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/938188865059291136/pu/img/-V642bDolR4Zb69x.jpg",
+						"url": "https://t.co/ycHC5eci9u",
+						"display_url": "pic.twitter.com/ycHC5eci9u",
+						"expanded_url": "https://twitter.com/RadioBren/status/938189109159489536/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 938189109159489500,
+						"source_status_id_str": "938189109159489536",
+						"source_user_id": 319205360,
+						"source_user_id_str": "319205360"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 938188865059291100,
+						"id_str": "938188865059291136",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/938188865059291136/pu/img/-V642bDolR4Zb69x.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/938188865059291136/pu/img/-V642bDolR4Zb69x.jpg",
+						"url": "https://t.co/ycHC5eci9u",
+						"display_url": "pic.twitter.com/ycHC5eci9u",
+						"expanded_url": "https://twitter.com/RadioBren/status/938189109159489536/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 938189109159489500,
+						"source_status_id_str": "938189109159489536",
+						"source_user_id": 319205360,
+						"source_user_id_str": "319205360",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 95600,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/938188865059291136/pu/vid/1280x720/2ZZXtO6lqgRVBD6_.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/938188865059291136/pu/vid/640x360/NsXoGzu4pGzD8Ng8.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/938188865059291136/pu/vid/320x180/DDc7HurCX47-dDzK.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/938188865059291136/pu/pl/Tm9muARMsjPQw_6M.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 319205360,
+								"id_str": "319205360",
+								"name": "Brendan Reilly",
+								"screen_name": "RadioBren",
+								"location": "New York, USA",
+								"description": "You'll find my fingerprints all over the top of the iTunes charts...part of the @barstoolsports podcast team",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1213,
+								"friends_count": 900,
+								"listed_count": 22,
+								"created_at": "Fri Jun 17 18:44:51 +0000 2011",
+								"favourites_count": 5364,
+								"utc_offset": -14400,
+								"time_zone": "Atlantic Time (Canada)",
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 18669,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/897482911309602816/xbAe7Zio_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/897482911309602816/xbAe7Zio_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/319205360/1509714845",
+								"profile_link_color": "1B95E0",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 242711990,
+				"id_str": "242711990",
+				"name": "Ste 🎅🏻",
+				"screen_name": "stxvo",
+				"location": "Kop 203",
+				"description": "hello darkness my old friend",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 565,
+				"friends_count": 211,
+				"listed_count": 31,
+				"created_at": "Tue Jan 25 12:23:43 +0000 2011",
+				"favourites_count": 10949,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 40823,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/917478314272534528/nBkzot5F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/917478314272534528/nBkzot5F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/242711990/1507584679",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 60772,
+			"favorite_count": 111311,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 60772,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 06 12:31:52 +0000 2017",
 		"id": 938385500628336600,
 		"id_str": "938385500628336640",
