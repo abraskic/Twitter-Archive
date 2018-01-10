@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 10 02:19:28 +0000 2018",
+		"id": 950914959327686700,
+		"id_str": "950914959327686656",
+		"text": "RT @BallStreet: Nothing to see here. Just three Japanese internationals vs. 100 school children lining up in a 30-30-30-10 formation. https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BallStreet",
+					"name": "Ball Street",
+					"id": 370140896,
+					"id_str": "370140896",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 73,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3040,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72940,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 08 15:02:13 +0000 2018",
+			"id": 950382135969566700,
+			"id_str": "950382135969566720",
+			"text": "Nothing to see here. Just three Japanese internationals vs. 100 school children lining up in a 30-30-30-10 formatio… https://t.co/vulzdULESj",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vulzdULESj",
+						"expanded_url": "https://twitter.com/i/web/status/950382135969566720",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 370140896,
+				"id_str": "370140896",
+				"name": "Ball Street",
+				"screen_name": "BallStreet",
+				"location": "",
+				"description": "Football told by fans. https://t.co/0DMC4J0jWz Creators and Brands contact: https://t.co/sl1FsoSP8h Follow us on VOLE: https://t.co/KUuUl3fS9k",
+				"url": "https://t.co/nzR1oL7TMN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nzR1oL7TMN",
+								"expanded_url": "https://goo.gl/0DfsKq",
+								"display_url": "goo.gl/0DfsKq",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0DMC4J0jWz",
+								"expanded_url": "http://bit.ly/2l45DQo",
+								"display_url": "bit.ly/2l45DQo",
+								"indices": [
+									23,
+									46
+								]
+							},
+							{
+								"url": "https://t.co/sl1FsoSP8h",
+								"expanded_url": "http://www.ballstreetnetwork.com",
+								"display_url": "ballstreetnetwork.com",
+								"indices": [
+									76,
+									99
+								]
+							},
+							{
+								"url": "https://t.co/KUuUl3fS9k",
+								"expanded_url": "http://onelink.to/gunk4c",
+								"display_url": "onelink.to/gunk4c",
+								"indices": [
+									119,
+									142
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 31150,
+				"friends_count": 2075,
+				"listed_count": 281,
+				"created_at": "Thu Sep 08 14:45:10 +0000 2011",
+				"favourites_count": 7738,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21232,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770889555851481088/Xua63Bly_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770889555851481088/Xua63Bly_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/370140896/1486391307",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6680,
+			"favorite_count": 10885,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6680,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 09 13:10:09 +0000 2018",
 		"id": 950716320940572700,
 		"id_str": "950716320940572676",
