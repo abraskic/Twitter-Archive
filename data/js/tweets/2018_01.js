@@ -1,6 +1,527 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Mon Jan 15 22:42:53 +0000 2018",
+		"id": 953034784682393600,
+		"id_str": "953034784682393600",
+		"text": "RT @NFLRT: The Vikings 61-yard game winning TD is a play worthy of the Titanic treatment\n\nhttps://t.co/e6CHI66XIA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NFLRT",
+					"name": "NFL Retweet",
+					"id": 269055437,
+					"id_str": "269055437",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 952710430492975100,
+					"id_str": "952710430492975106",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/952710430492975106/pu/img/ZuFMEf33iwpYqaBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/952710430492975106/pu/img/ZuFMEf33iwpYqaBU.jpg",
+					"url": "https://t.co/e6CHI66XIA",
+					"display_url": "pic.twitter.com/e6CHI66XIA",
+					"expanded_url": "https://twitter.com/TitanicTD/status/952711421355315200/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 952711421355315200,
+					"source_status_id_str": "952711421355315200",
+					"source_user_id": 838204911397503000,
+					"source_user_id_str": "838204911397502976"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 952710430492975100,
+					"id_str": "952710430492975106",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/952710430492975106/pu/img/ZuFMEf33iwpYqaBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/952710430492975106/pu/img/ZuFMEf33iwpYqaBU.jpg",
+					"url": "https://t.co/e6CHI66XIA",
+					"display_url": "pic.twitter.com/e6CHI66XIA",
+					"expanded_url": "https://twitter.com/TitanicTD/status/952711421355315200/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 952711421355315200,
+					"source_status_id_str": "952711421355315200",
+					"source_user_id": 838204911397503000,
+					"source_user_id_str": "838204911397502976",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 84351,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/952710430492975106/pu/vid/640x360/pepfBkp8c3K0qtVF.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/952710430492975106/pu/vid/320x180/5GaxznVTsQYPEhRV.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/952710430492975106/pu/vid/1280x720/xH--efxGxBOJkEC5.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/952710430492975106/pu/pl/kYxdozw0IJ_3ns2y.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 838204911397503000,
+							"id_str": "838204911397502976",
+							"name": "🏈🚢🎶TITANIC TD🏈🚢🎶",
+							"screen_name": "TitanicTD",
+							"location": "",
+							"description": "Great moments in football history are even better with Titanic music! DM requests! Email: TitanicTDs@gmail.com (don't forget the 's')",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 9084,
+							"friends_count": 65,
+							"listed_count": 49,
+							"created_at": "Sun Mar 05 01:49:58 +0000 2017",
+							"favourites_count": 8,
+							"utc_offset": -21600,
+							"time_zone": "Central Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 405,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/892575709851463680/QPmeTMBa_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/892575709851463680/QPmeTMBa_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 73,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3041,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72964,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 15 01:22:51 +0000 2018",
+			"id": 952712651116830700,
+			"id_str": "952712651116830720",
+			"text": "The Vikings 61-yard game winning TD is a play worthy of the Titanic treatment\n\nhttps://t.co/e6CHI66XIA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 952710430492975100,
+						"id_str": "952710430492975106",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/952710430492975106/pu/img/ZuFMEf33iwpYqaBU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/952710430492975106/pu/img/ZuFMEf33iwpYqaBU.jpg",
+						"url": "https://t.co/e6CHI66XIA",
+						"display_url": "pic.twitter.com/e6CHI66XIA",
+						"expanded_url": "https://twitter.com/TitanicTD/status/952711421355315200/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 952711421355315200,
+						"source_status_id_str": "952711421355315200",
+						"source_user_id": 838204911397503000,
+						"source_user_id_str": "838204911397502976"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 952710430492975100,
+						"id_str": "952710430492975106",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/952710430492975106/pu/img/ZuFMEf33iwpYqaBU.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/952710430492975106/pu/img/ZuFMEf33iwpYqaBU.jpg",
+						"url": "https://t.co/e6CHI66XIA",
+						"display_url": "pic.twitter.com/e6CHI66XIA",
+						"expanded_url": "https://twitter.com/TitanicTD/status/952711421355315200/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 952711421355315200,
+						"source_status_id_str": "952711421355315200",
+						"source_user_id": 838204911397503000,
+						"source_user_id_str": "838204911397502976",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 84351,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/952710430492975106/pu/vid/640x360/pepfBkp8c3K0qtVF.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/952710430492975106/pu/vid/320x180/5GaxznVTsQYPEhRV.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/952710430492975106/pu/vid/1280x720/xH--efxGxBOJkEC5.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/952710430492975106/pu/pl/kYxdozw0IJ_3ns2y.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 838204911397503000,
+								"id_str": "838204911397502976",
+								"name": "🏈🚢🎶TITANIC TD🏈🚢🎶",
+								"screen_name": "TitanicTD",
+								"location": "",
+								"description": "Great moments in football history are even better with Titanic music! DM requests! Email: TitanicTDs@gmail.com (don't forget the 's')",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 9084,
+								"friends_count": 65,
+								"listed_count": 49,
+								"created_at": "Sun Mar 05 01:49:58 +0000 2017",
+								"favourites_count": 8,
+								"utc_offset": -21600,
+								"time_zone": "Central Time (US & Canada)",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 405,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/892575709851463680/QPmeTMBa_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/892575709851463680/QPmeTMBa_normal.jpg",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 269055437,
+				"id_str": "269055437",
+				"name": "NFL Retweet",
+				"screen_name": "NFLRT",
+				"location": "Anthony@NFLRT.com",
+				"description": "Probably The Best NFL Twitter Account in the World | No affiliation with @NFL | Est. 2011",
+				"url": "https://t.co/gCuNH8mXcb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gCuNH8mXcb",
+								"expanded_url": "http://NFLRT.com",
+								"display_url": "NFLRT.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 197188,
+				"friends_count": 95632,
+				"listed_count": 1353,
+				"created_at": "Sun Mar 20 01:05:37 +0000 2011",
+				"favourites_count": 1177,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 42170,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000020266482/81a11ea5901c1c38b8b2d41e1bd9f8b1.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000020266482/81a11ea5901c1c38b8b2d41e1bd9f8b1.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815641088698544128/-7i64k56_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815641088698544128/-7i64k56_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/269055437/1515987484",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4212,
+			"favorite_count": 6489,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4212,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 15 10:34:32 +0000 2018",
 		"id": 952851486144217100,
 		"id_str": "952851486144217095",
