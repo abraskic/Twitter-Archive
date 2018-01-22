@@ -1,6 +1,522 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Mon Jan 22 11:36:43 +0000 2018",
+		"id": 955403850826960900,
+		"id_str": "955403850826960896",
+		"text": "RT @BBL: 'The best catch you'll ever see!' https://t.co/4eMXu8cUiG #BBL07 https://t.co/7PQd5qp3xC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBL07",
+					"indices": [
+						67,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBL",
+					"name": "KFC Big Bash League",
+					"id": 224839276,
+					"id_str": "224839276",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4eMXu8cUiG",
+					"expanded_url": "http://bigba.sh/BBL07_35",
+					"display_url": "bigba.sh/BBL07_35",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 955403415382732800,
+					"id_str": "955403415382732800",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/955403415382732800/img/OZOst8GOOhbqsFw7.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/955403415382732800/img/OZOst8GOOhbqsFw7.jpg",
+					"url": "https://t.co/7PQd5qp3xC",
+					"display_url": "pic.twitter.com/7PQd5qp3xC",
+					"expanded_url": "https://twitter.com/BBL/status/955403552888832005/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 955403552888832000,
+					"source_status_id_str": "955403552888832005",
+					"source_user_id": 224839276,
+					"source_user_id_str": "224839276"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 955403415382732800,
+					"id_str": "955403415382732800",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/955403415382732800/img/OZOst8GOOhbqsFw7.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/955403415382732800/img/OZOst8GOOhbqsFw7.jpg",
+					"url": "https://t.co/7PQd5qp3xC",
+					"display_url": "pic.twitter.com/7PQd5qp3xC",
+					"expanded_url": "https://twitter.com/BBL/status/955403552888832005/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 955403552888832000,
+					"source_status_id_str": "955403552888832005",
+					"source_user_id": 224839276,
+					"source_user_id_str": "224839276",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40908,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/955403415382732800/vid/1280x720/3CH3uXZHDwKEMMuO.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/955403415382732800/pl/-kP844yLLNHh-ZdB.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/955403415382732800/vid/320x180/Oj9ghOZAiXGw84h4.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/955403415382732800/vid/640x360/5hCW6kSIMBHlMdnI.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 224839276,
+							"id_str": "224839276",
+							"name": "KFC Big Bash League",
+							"screen_name": "BBL",
+							"location": "",
+							"description": "Welcome to the official account of the KFC BBL - summer's best value entertainment! #BBL07 Snapchat: bigbashleague",
+							"url": "https://t.co/kMvkO4rw6i",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/kMvkO4rw6i",
+											"expanded_url": "http://www.bigbash.com.au",
+											"display_url": "bigbash.com.au",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 247623,
+							"friends_count": 254,
+							"listed_count": 725,
+							"created_at": "Fri Dec 10 00:31:51 +0000 2010",
+							"favourites_count": 441,
+							"utc_offset": 39600,
+							"time_zone": "Melbourne",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 19923,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/867097193/68acf1355a916c2be63abb858d8cbb65.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/867097193/68acf1355a916c2be63abb858d8cbb65.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/597989005670518786/BG857v0K_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/597989005670518786/BG857v0K_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/224839276/1485990742",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3039,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73005,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 22 11:35:32 +0000 2018",
+			"id": 955403552888832000,
+			"id_str": "955403552888832005",
+			"text": "'The best catch you'll ever see!' https://t.co/4eMXu8cUiG #BBL07 https://t.co/7PQd5qp3xC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BBL07",
+						"indices": [
+							58,
+							64
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4eMXu8cUiG",
+						"expanded_url": "http://bigba.sh/BBL07_35",
+						"display_url": "bigba.sh/BBL07_35",
+						"indices": [
+							34,
+							57
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 955403415382732800,
+						"id_str": "955403415382732800",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/955403415382732800/img/OZOst8GOOhbqsFw7.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/955403415382732800/img/OZOst8GOOhbqsFw7.jpg",
+						"url": "https://t.co/7PQd5qp3xC",
+						"display_url": "pic.twitter.com/7PQd5qp3xC",
+						"expanded_url": "https://twitter.com/BBL/status/955403552888832005/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 955403415382732800,
+						"id_str": "955403415382732800",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/955403415382732800/img/OZOst8GOOhbqsFw7.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/955403415382732800/img/OZOst8GOOhbqsFw7.jpg",
+						"url": "https://t.co/7PQd5qp3xC",
+						"display_url": "pic.twitter.com/7PQd5qp3xC",
+						"expanded_url": "https://twitter.com/BBL/status/955403552888832005/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 40908,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/955403415382732800/vid/1280x720/3CH3uXZHDwKEMMuO.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/955403415382732800/pl/-kP844yLLNHh-ZdB.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/955403415382732800/vid/320x180/Oj9ghOZAiXGw84h4.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/955403415382732800/vid/640x360/5hCW6kSIMBHlMdnI.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://wsc-sports.com\" rel=\"nofollow\">WSC Sports</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 224839276,
+				"id_str": "224839276",
+				"name": "KFC Big Bash League",
+				"screen_name": "BBL",
+				"location": "",
+				"description": "Welcome to the official account of the KFC BBL - summer's best value entertainment! #BBL07 Snapchat: bigbashleague",
+				"url": "https://t.co/kMvkO4rw6i",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kMvkO4rw6i",
+								"expanded_url": "http://www.bigbash.com.au",
+								"display_url": "bigbash.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 247623,
+				"friends_count": 254,
+				"listed_count": 725,
+				"created_at": "Fri Dec 10 00:31:51 +0000 2010",
+				"favourites_count": 441,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19923,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/867097193/68acf1355a916c2be63abb858d8cbb65.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/867097193/68acf1355a916c2be63abb858d8cbb65.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/597989005670518786/BG857v0K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/597989005670518786/BG857v0K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/224839276/1485990742",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 665,
+			"favorite_count": 973,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 665,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 22 08:23:55 +0000 2018",
 		"id": 955355330967302100,
 		"id_str": "955355330967302144",
