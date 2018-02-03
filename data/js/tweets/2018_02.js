@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 03 22:24:12 +0000 2018",
+		"id": 959915450841710600,
+		"id_str": "959915450841710592",
+		"text": "RT @Q_dog: One day we will look back at this time and realize it was World War 3. But the war was fought, not with bullets and bombs, but w…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Q_dog",
+					"name": "Quinny the who?",
+					"id": 15216467,
+					"id_str": "15216467",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 74,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3037,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73061,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 03 21:05:41 +0000 2018",
+			"id": 959895692327010300,
+			"id_str": "959895692327010304",
+			"text": "One day we will look back at this time and realize it was World War 3. But the war was fought, not with bullets and… https://t.co/f22bu9L3p6",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/f22bu9L3p6",
+						"expanded_url": "https://twitter.com/i/web/status/959895692327010304",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15216467,
+				"id_str": "15216467",
+				"name": "Quinny the who?",
+				"screen_name": "Q_dog",
+				"location": "Sydney",
+				"description": "M.C. for Supanova, actor and podcaster extraordinaire. Co-host of The Periodic Table of Awesome and generally creative type.",
+				"url": "https://t.co/FpinTQTZZY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FpinTQTZZY",
+								"expanded_url": "http://www.theperiodictableofawesome.com",
+								"display_url": "theperiodictableofawesome.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 727,
+				"friends_count": 609,
+				"listed_count": 42,
+				"created_at": "Tue Jun 24 05:58:30 +0000 2008",
+				"favourites_count": 4389,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15287,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/155361645/LXBCC-background-long.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/155361645/LXBCC-background-long.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/924503739330830336/e6TgcZVS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/924503739330830336/e6TgcZVS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15216467/1416865703",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 959819833889247200,
+			"quoted_status_id_str": "959819833889247234",
+			"quoted_status": {
+				"created_at": "Sat Feb 03 16:04:15 +0000 2018",
+				"id": 959819833889247200,
+				"id_str": "959819833889247234",
+				"text": "Nunes memo drops —and flops https://t.co/nc9Mzov2Uf",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/nc9Mzov2Uf",
+							"expanded_url": "https://trib.al/X4XgLkP",
+							"display_url": "trib.al/X4XgLkP",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 14294848,
+					"id_str": "14294848",
+					"name": "snopes.com",
+					"screen_name": "snopes",
+					"location": "",
+					"description": "The definitive Internet reference source for urban legends, folklore, myths, rumors, and misinformation.",
+					"url": "http://t.co/10Or8rl3ff",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/10Or8rl3ff",
+									"expanded_url": "http://www.snopes.com",
+									"display_url": "snopes.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 198798,
+					"friends_count": 11,
+					"listed_count": 4448,
+					"created_at": "Thu Apr 03 17:00:11 +0000 2008",
+					"favourites_count": 25,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 14944,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C7F2B1",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/840081271/d90db0daf7c81f75aea62d88c084e755.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/840081271/d90db0daf7c81f75aea62d88c084e755.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/895325260349751297/sh6RR_dm_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/895325260349751297/sh6RR_dm_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/14294848/1502297345",
+					"profile_link_color": "FBDA64",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 21,
+				"favorite_count": 50,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 959819833889247200,
+		"quoted_status_id_str": "959819833889247234",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 03 08:56:30 +0000 2018",
 		"id": 959712186808418300,
 		"id_str": "959712186808418305",
