@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 15 10:46:57 +0000 2018",
+		"id": 964088637548773400,
+		"id_str": "964088637548773376",
+		"text": "RT @danilic: New signs already in place at Australian Parliament House:  #bonkban https://t.co/TsZxc99a1G",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bonkban",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danilic",
+					"name": "Dansplain Ilić",
+					"id": 15414356,
+					"id_str": "15414356",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 964023535029993500,
+					"id_str": "964023535029993473",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DWDmTCiUQAEcVno.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWDmTCiUQAEcVno.jpg",
+					"url": "https://t.co/TsZxc99a1G",
+					"display_url": "pic.twitter.com/TsZxc99a1G",
+					"expanded_url": "https://twitter.com/danilic/status/964023635890528256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 964023635890528300,
+					"source_status_id_str": "964023635890528256",
+					"source_user_id": 15414356,
+					"source_user_id_str": "15414356"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 964023535029993500,
+					"id_str": "964023535029993473",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DWDmTCiUQAEcVno.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWDmTCiUQAEcVno.jpg",
+					"url": "https://t.co/TsZxc99a1G",
+					"display_url": "pic.twitter.com/TsZxc99a1G",
+					"expanded_url": "https://twitter.com/danilic/status/964023635890528256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 964023635890528300,
+					"source_status_id_str": "964023635890528256",
+					"source_user_id": 15414356,
+					"source_user_id_str": "15414356"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 73,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3041,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 15 06:28:40 +0000 2018",
+			"id": 964023635890528300,
+			"id_str": "964023635890528256",
+			"text": "New signs already in place at Australian Parliament House:  #bonkban https://t.co/TsZxc99a1G",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bonkban",
+						"indices": [
+							60,
+							68
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 964023535029993500,
+						"id_str": "964023535029993473",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/DWDmTCiUQAEcVno.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWDmTCiUQAEcVno.jpg",
+						"url": "https://t.co/TsZxc99a1G",
+						"display_url": "pic.twitter.com/TsZxc99a1G",
+						"expanded_url": "https://twitter.com/danilic/status/964023635890528256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 964023535029993500,
+						"id_str": "964023535029993473",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/DWDmTCiUQAEcVno.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWDmTCiUQAEcVno.jpg",
+						"url": "https://t.co/TsZxc99a1G",
+						"display_url": "pic.twitter.com/TsZxc99a1G",
+						"expanded_url": "https://twitter.com/danilic/status/964023635890528256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15414356,
+				"id_str": "15414356",
+				"name": "Dansplain Ilić",
+				"screen_name": "danilic",
+				"location": "Los Angeles, CA",
+				"description": "Comedy Industrialist &\nFormer Child \n\n🇦🇺 https://t.co/T7ts6vaGaE.",
+				"url": "https://t.co/zSvAKT96rD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zSvAKT96rD",
+								"expanded_url": "http://danilic.com",
+								"display_url": "danilic.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/T7ts6vaGaE",
+								"expanded_url": "http://DanIlic.com",
+								"display_url": "DanIlic.com",
+								"indices": [
+									41,
+									64
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 26486,
+				"friends_count": 7377,
+				"listed_count": 602,
+				"created_at": "Sun Jul 13 12:33:17 +0000 2008",
+				"favourites_count": 15009,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2195,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/867301661/fdc85dd44b997ceb954f4067ea0e150a.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/867301661/fdc85dd44b997ceb954f4067ea0e150a.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/944011901666824192/bopOrPnn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/944011901666824192/bopOrPnn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15414356/1516232371",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 241,
+			"favorite_count": 523,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 241,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 15 09:44:21 +0000 2018",
 		"id": 964072882966949900,
 		"id_str": "964072882966949888",
