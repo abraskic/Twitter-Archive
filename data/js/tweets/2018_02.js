@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 16 05:37:39 +0000 2018",
+		"id": 964373187143217200,
+		"id_str": "964373187143217153",
+		"text": "RT @ClintFalin: so hey sorry about being late,\nthere was an emergency in the park. https://t.co/OVPDVDZ6DF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClintFalin",
+					"name": "Clint Falin",
+					"id": 390396654,
+					"id_str": "390396654",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 963522854414241800,
+					"id_str": "963522854414241792",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/963522854414241792/pu/img/qi5ncmv9WUQDzf71.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/963522854414241792/pu/img/qi5ncmv9WUQDzf71.jpg",
+					"url": "https://t.co/OVPDVDZ6DF",
+					"display_url": "pic.twitter.com/OVPDVDZ6DF",
+					"expanded_url": "https://twitter.com/ClintFalin/status/963522880016351232/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 776,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 776,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 631,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963522880016351200,
+					"source_status_id_str": "963522880016351232",
+					"source_user_id": 390396654,
+					"source_user_id_str": "390396654"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 963522854414241800,
+					"id_str": "963522854414241792",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/963522854414241792/pu/img/qi5ncmv9WUQDzf71.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/963522854414241792/pu/img/qi5ncmv9WUQDzf71.jpg",
+					"url": "https://t.co/OVPDVDZ6DF",
+					"display_url": "pic.twitter.com/OVPDVDZ6DF",
+					"expanded_url": "https://twitter.com/ClintFalin/status/963522880016351232/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 776,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 776,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 631,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963522880016351200,
+					"source_status_id_str": "963522880016351232",
+					"source_user_id": 390396654,
+					"source_user_id_str": "390396654",
+					"video_info": {
+						"aspect_ratio": [
+							97,
+							90
+						],
+						"duration_millis": 6367,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/963522854414241792/pu/vid/776x720/Xucb2bcvGlwoAHMM.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/963522854414241792/pu/vid/388x360/PxRy4jvF_bZbYnux.mp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/963522854414241792/pu/vid/194x180/iBYSvxxYnfdqKe23.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/963522854414241792/pu/pl/mF0iIla5D-d0L_GD.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 390396654,
+							"id_str": "390396654",
+							"name": "Clint Falin",
+							"screen_name": "ClintFalin",
+							"location": "",
+							"description": "Founder of Christian Mingle for Gay Dogs™️",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 31835,
+							"friends_count": 5452,
+							"listed_count": 853,
+							"created_at": "Thu Oct 13 22:33:46 +0000 2011",
+							"favourites_count": 569209,
+							"utc_offset": -18000,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 14704,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "022330",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/717255459/ad46e96f66edbc605e5b2da8414175ac.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/717255459/ad46e96f66edbc605e5b2da8414175ac.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/931032356064030720/lPPsI60X_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/931032356064030720/lPPsI60X_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/390396654/1517635083",
+							"profile_link_color": "1F1C8A",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "C0DFEC",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 73,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3042,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73130,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 13 21:18:50 +0000 2018",
+			"id": 963522880016351200,
+			"id_str": "963522880016351232",
+			"text": "so hey sorry about being late,\nthere was an emergency in the park. https://t.co/OVPDVDZ6DF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 963522854414241800,
+						"id_str": "963522854414241792",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/963522854414241792/pu/img/qi5ncmv9WUQDzf71.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/963522854414241792/pu/img/qi5ncmv9WUQDzf71.jpg",
+						"url": "https://t.co/OVPDVDZ6DF",
+						"display_url": "pic.twitter.com/OVPDVDZ6DF",
+						"expanded_url": "https://twitter.com/ClintFalin/status/963522880016351232/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 776,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 776,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 631,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 963522854414241800,
+						"id_str": "963522854414241792",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/963522854414241792/pu/img/qi5ncmv9WUQDzf71.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/963522854414241792/pu/img/qi5ncmv9WUQDzf71.jpg",
+						"url": "https://t.co/OVPDVDZ6DF",
+						"display_url": "pic.twitter.com/OVPDVDZ6DF",
+						"expanded_url": "https://twitter.com/ClintFalin/status/963522880016351232/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 776,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 776,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 631,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								97,
+								90
+							],
+							"duration_millis": 6367,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/963522854414241792/pu/vid/776x720/Xucb2bcvGlwoAHMM.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/963522854414241792/pu/vid/388x360/PxRy4jvF_bZbYnux.mp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/963522854414241792/pu/vid/194x180/iBYSvxxYnfdqKe23.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/963522854414241792/pu/pl/mF0iIla5D-d0L_GD.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.uptiiq.com\" rel=\"nofollow\">UptiiQ</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 390396654,
+				"id_str": "390396654",
+				"name": "Clint Falin",
+				"screen_name": "ClintFalin",
+				"location": "",
+				"description": "Founder of Christian Mingle for Gay Dogs™️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31835,
+				"friends_count": 5452,
+				"listed_count": 853,
+				"created_at": "Thu Oct 13 22:33:46 +0000 2011",
+				"favourites_count": 569209,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14704,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/717255459/ad46e96f66edbc605e5b2da8414175ac.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/717255459/ad46e96f66edbc605e5b2da8414175ac.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/931032356064030720/lPPsI60X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/931032356064030720/lPPsI60X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/390396654/1517635083",
+				"profile_link_color": "1F1C8A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49002,
+			"favorite_count": 134993,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 49002,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 16 03:15:21 +0000 2018",
 		"id": 964337376699940900,
 		"id_str": "964337376699940864",
