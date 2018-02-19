@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 19 23:03:19 +0000 2018",
+		"id": 965723500714405900,
+		"id_str": "965723500714405888",
+		"text": "RT @ansontm: RT if you’ve played violent videogames and watched violent movies your whole life and haven’t shot up a school https://t.co/Kk…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ansontm",
+					"name": "Anson",
+					"id": 923440327,
+					"id_str": "923440327",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 72,
+			"listed_count": 26,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3044,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73156,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 18 21:56:27 +0000 2018",
+			"id": 965344283690664000,
+			"id_str": "965344283690663941",
+			"text": "RT if you’ve played violent videogames and watched violent movies your whole life and haven’t shot up a school https://t.co/KkrngQYIQe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KkrngQYIQe",
+						"expanded_url": "https://twitter.com/newsweek/status/964586465308172290",
+						"display_url": "twitter.com/newsweek/statu…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 923440327,
+				"id_str": "923440327",
+				"name": "Anson",
+				"screen_name": "ansontm",
+				"location": "HTX",
+				"description": "Money is wifey, I'm sorry, I can't divorce it",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37710,
+				"friends_count": 891,
+				"listed_count": 2222,
+				"created_at": "Sat Nov 03 15:25:29 +0000 2012",
+				"favourites_count": 16625,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2498,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/960740596750135296/yRqoCIN1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/960740596750135296/yRqoCIN1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/923440327/1517993021",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 964586465308172300,
+			"quoted_status_id_str": "964586465308172290",
+			"quoted_status": {
+				"created_at": "Fri Feb 16 19:45:09 +0000 2018",
+				"id": 964586465308172300,
+				"id_str": "964586465308172290",
+				"text": "GOP Governor: Don't blame guns for school shootings, it's the video games and movies https://t.co/3oirwjHXbT https://t.co/uXxAzPHYxi",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/3oirwjHXbT",
+							"expanded_url": "http://bit.ly/2Exw5by",
+							"display_url": "bit.ly/2Exw5by",
+							"indices": [
+								85,
+								108
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 964586462921592800,
+							"id_str": "964586462921592832",
+							"indices": [
+								109,
+								132
+							],
+							"media_url": "http://pbs.twimg.com/media/DWLmRwWXkAAvaIm.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DWLmRwWXkAAvaIm.jpg",
+							"url": "https://t.co/uXxAzPHYxi",
+							"display_url": "pic.twitter.com/uXxAzPHYxi",
+							"expanded_url": "https://twitter.com/Newsweek/status/964586465308172290/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 800,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 453,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1440,
+									"h": 960,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 964586462921592800,
+							"id_str": "964586462921592832",
+							"indices": [
+								109,
+								132
+							],
+							"media_url": "http://pbs.twimg.com/media/DWLmRwWXkAAvaIm.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DWLmRwWXkAAvaIm.jpg",
+							"url": "https://t.co/uXxAzPHYxi",
+							"display_url": "pic.twitter.com/uXxAzPHYxi",
+							"expanded_url": "https://twitter.com/Newsweek/status/964586465308172290/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 800,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 453,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1440,
+									"h": 960,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2884771,
+					"id_str": "2884771",
+					"name": "Newsweek",
+					"screen_name": "Newsweek",
+					"location": "New York, NY",
+					"description": "Stay relevant. News and analysis on politics, science, technology, and culture.",
+					"url": "https://t.co/92gD7evE72",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/92gD7evE72",
+									"expanded_url": "http://www.newsweek.com",
+									"display_url": "newsweek.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3418054,
+					"friends_count": 236,
+					"listed_count": 37705,
+					"created_at": "Thu Mar 29 19:51:11 +0000 2007",
+					"favourites_count": 2875,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 138819,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EE2A26",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/251616259/20110510_twitter.gif",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/251616259/20110510_twitter.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/741603495929905152/di0NxkFa_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/741603495929905152/di0NxkFa_normal.jpg",
+					"profile_link_color": "990000",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "F2F2F2",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 896,
+				"favorite_count": 1671,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 134393,
+			"favorite_count": 181212,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 964586465308172300,
+		"quoted_status_id_str": "964586465308172290",
+		"retweet_count": 134393,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 19 09:20:06 +0000 2018",
 		"id": 965516330399973400,
 		"id_str": "965516330399973378",
