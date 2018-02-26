@@ -1,6 +1,542 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 26 03:36:26 +0000 2018",
+		"id": 967966558055055400,
+		"id_str": "967966558055055360",
+		"text": "RT @liluzitard: damn Keanu Reeves training to become a teacher is so badass\n https://t.co/wTeb197kuj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "liluzitard",
+					"name": "Thicko Sampson",
+					"id": 801556307127967700,
+					"id_str": "801556307127967744",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 966512049508335600,
+					"id_str": "966512049508335616",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/966512049508335616/pu/img/hkhbZC0iuBO2JDCw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/966512049508335616/pu/img/hkhbZC0iuBO2JDCw.jpg",
+					"url": "https://t.co/wTeb197kuj",
+					"display_url": "pic.twitter.com/wTeb197kuj",
+					"expanded_url": "https://twitter.com/DocCoyle/status/966512138758967297/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966512138758967300,
+					"source_status_id_str": "966512138758967297",
+					"source_user_id": 140292286,
+					"source_user_id_str": "140292286"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 966512049508335600,
+					"id_str": "966512049508335616",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/966512049508335616/pu/img/hkhbZC0iuBO2JDCw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/966512049508335616/pu/img/hkhbZC0iuBO2JDCw.jpg",
+					"url": "https://t.co/wTeb197kuj",
+					"display_url": "pic.twitter.com/wTeb197kuj",
+					"expanded_url": "https://twitter.com/DocCoyle/status/966512138758967297/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966512138758967300,
+					"source_status_id_str": "966512138758967297",
+					"source_user_id": 140292286,
+					"source_user_id_str": "140292286",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 37779,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/966512049508335616/pu/pl/tSZUKLtxe8I3HvmA.m3u8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/966512049508335616/pu/vid/1280x720/YFFskeXrdNAVvJrJ.mp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/966512049508335616/pu/vid/320x180/xegj-zqryzLWfFpW.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/966512049508335616/pu/vid/640x360/UP8CSXDC1tPfyH5w.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 140292286,
+							"id_str": "140292286",
+							"name": "Doc Coyle",
+							"screen_name": "DocCoyle",
+							"location": "Los Angeles, CA",
+							"description": "Guitarist for Bad Wolves, Vagus Nerve. The Ex Man Podcast Host. Writer. I tweet about the NBA - Politics - Music. Brace yourself ¯\\_(ツ)_/¯",
+							"url": "https://t.co/r9BhlVshvO",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/r9BhlVshvO",
+											"expanded_url": "http://smarturl.it/ex-man",
+											"display_url": "smarturl.it/ex-man",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 6932,
+							"friends_count": 1524,
+							"listed_count": 82,
+							"created_at": "Wed May 05 03:45:44 +0000 2010",
+							"favourites_count": 10621,
+							"utc_offset": -18000,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 18974,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/954448239251501056/4MXo-9IB_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/954448239251501056/4MXo-9IB_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/140292286/1423525059",
+							"profile_link_color": "ABB8C2",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 72,
+			"listed_count": 27,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3054,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73179,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 23 16:29:47 +0000 2018",
+			"id": 967074015150997500,
+			"id_str": "967074015150997505",
+			"text": "damn Keanu Reeves training to become a teacher is so badass\n https://t.co/wTeb197kuj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 966512049508335600,
+						"id_str": "966512049508335616",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/966512049508335616/pu/img/hkhbZC0iuBO2JDCw.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/966512049508335616/pu/img/hkhbZC0iuBO2JDCw.jpg",
+						"url": "https://t.co/wTeb197kuj",
+						"display_url": "pic.twitter.com/wTeb197kuj",
+						"expanded_url": "https://twitter.com/DocCoyle/status/966512138758967297/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 966512138758967300,
+						"source_status_id_str": "966512138758967297",
+						"source_user_id": 140292286,
+						"source_user_id_str": "140292286"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 966512049508335600,
+						"id_str": "966512049508335616",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/966512049508335616/pu/img/hkhbZC0iuBO2JDCw.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/966512049508335616/pu/img/hkhbZC0iuBO2JDCw.jpg",
+						"url": "https://t.co/wTeb197kuj",
+						"display_url": "pic.twitter.com/wTeb197kuj",
+						"expanded_url": "https://twitter.com/DocCoyle/status/966512138758967297/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 966512138758967300,
+						"source_status_id_str": "966512138758967297",
+						"source_user_id": 140292286,
+						"source_user_id_str": "140292286",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 37779,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/966512049508335616/pu/pl/tSZUKLtxe8I3HvmA.m3u8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/966512049508335616/pu/vid/1280x720/YFFskeXrdNAVvJrJ.mp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/966512049508335616/pu/vid/320x180/xegj-zqryzLWfFpW.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/966512049508335616/pu/vid/640x360/UP8CSXDC1tPfyH5w.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 140292286,
+								"id_str": "140292286",
+								"name": "Doc Coyle",
+								"screen_name": "DocCoyle",
+								"location": "Los Angeles, CA",
+								"description": "Guitarist for Bad Wolves, Vagus Nerve. The Ex Man Podcast Host. Writer. I tweet about the NBA - Politics - Music. Brace yourself ¯\\_(ツ)_/¯",
+								"url": "https://t.co/r9BhlVshvO",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/r9BhlVshvO",
+												"expanded_url": "http://smarturl.it/ex-man",
+												"display_url": "smarturl.it/ex-man",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 6932,
+								"friends_count": 1524,
+								"listed_count": 82,
+								"created_at": "Wed May 05 03:45:44 +0000 2010",
+								"favourites_count": 10621,
+								"utc_offset": -18000,
+								"time_zone": "Eastern Time (US & Canada)",
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 18974,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/954448239251501056/4MXo-9IB_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/954448239251501056/4MXo-9IB_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/140292286/1423525059",
+								"profile_link_color": "ABB8C2",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 801556307127967700,
+				"id_str": "801556307127967744",
+				"name": "Thicko Sampson",
+				"screen_name": "liluzitard",
+				"location": "Cunt, Wyoming",
+				"description": "Proud Mother of 3.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 332,
+				"friends_count": 208,
+				"listed_count": 4,
+				"created_at": "Wed Nov 23 22:41:30 +0000 2016",
+				"favourites_count": 38157,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7033,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/821385314245689344/-X1dHUhN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/821385314245689344/-X1dHUhN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/801556307127967744/1512801346",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 533,
+			"favorite_count": 1418,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 533,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 26 01:10:02 +0000 2018",
 		"id": 967929718027636700,
 		"id_str": "967929718027636736",
