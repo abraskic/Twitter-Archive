@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sat Mar 24 04:29:23 +0000 2018",
+		"id": 977401968049119200,
+		"id_str": "977401968049119232",
+		"text": "RT @rev_revolver: i hope that, in 10,000 years, this truck is the only remaining artifact of the human race https://t.co/lymAVQQZBd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rev_revolver",
+					"name": "satan goth",
+					"id": 375212454,
+					"id_str": "375212454",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 977256595322097700,
+					"id_str": "977256595322097664",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DY_pshqU0AA9tlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DY_pshqU0AA9tlB.jpg",
+					"url": "https://t.co/lymAVQQZBd",
+					"display_url": "pic.twitter.com/lymAVQQZBd",
+					"expanded_url": "https://twitter.com/rev_revolver/status/977256698116263936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977256698116264000,
+					"source_status_id_str": "977256698116263936",
+					"source_user_id": 375212454,
+					"source_user_id_str": "375212454"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 977256595322097700,
+					"id_str": "977256595322097664",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DY_pshqU0AA9tlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DY_pshqU0AA9tlB.jpg",
+					"url": "https://t.co/lymAVQQZBd",
+					"display_url": "pic.twitter.com/lymAVQQZBd",
+					"expanded_url": "https://twitter.com/rev_revolver/status/977256698116263936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 977256698116264000,
+					"source_status_id_str": "977256698116263936",
+					"source_user_id": 375212454,
+					"source_user_id_str": "375212454"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 74,
+			"listed_count": 25,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3056,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73325,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 23 18:52:08 +0000 2018",
+			"id": 977256698116264000,
+			"id_str": "977256698116263936",
+			"text": "i hope that, in 10,000 years, this truck is the only remaining artifact of the human race https://t.co/lymAVQQZBd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 977256595322097700,
+						"id_str": "977256595322097664",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DY_pshqU0AA9tlB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DY_pshqU0AA9tlB.jpg",
+						"url": "https://t.co/lymAVQQZBd",
+						"display_url": "pic.twitter.com/lymAVQQZBd",
+						"expanded_url": "https://twitter.com/rev_revolver/status/977256698116263936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 977256595322097700,
+						"id_str": "977256595322097664",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DY_pshqU0AA9tlB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DY_pshqU0AA9tlB.jpg",
+						"url": "https://t.co/lymAVQQZBd",
+						"display_url": "pic.twitter.com/lymAVQQZBd",
+						"expanded_url": "https://twitter.com/rev_revolver/status/977256698116263936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 375212454,
+				"id_str": "375212454",
+				"name": "satan goth",
+				"screen_name": "rev_revolver",
+				"location": "hell",
+				"description": "not satan, that's for sure!",
+				"url": "https://t.co/DcyRdzkm7s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DcyRdzkm7s",
+								"expanded_url": "http://hell.org",
+								"display_url": "hell.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 276,
+				"friends_count": 179,
+				"listed_count": 123,
+				"created_at": "Sat Sep 17 18:17:20 +0000 2011",
+				"favourites_count": 154651,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 73068,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000037083067/cfc3c00e6cee54c27d4747c1039c2eaa.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000037083067/cfc3c00e6cee54c27d4747c1039c2eaa.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/977286529432236033/eeUDufcL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/977286529432236033/eeUDufcL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/375212454/1517166688",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4011,
+			"favorite_count": 13757,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4011,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 24 03:42:03 +0000 2018",
 		"id": 977390056938684400,
 		"id_str": "977390056938684417",
