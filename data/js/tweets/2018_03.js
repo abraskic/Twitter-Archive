@@ -1,6 +1,365 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Mon Mar 26 05:54:32 +0000 2018",
+		"id": 978148172336848900,
+		"id_str": "978148172336848896",
+		"text": "@peterwells Actually no, this one sums it up better. https://t.co/FVjur7MQ8z",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peterwells",
+					"name": "Peter Wells",
+					"id": 56873,
+					"id_str": "56873",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FVjur7MQ8z",
+					"expanded_url": "https://twitter.com/TheNTNews/status/977830650353827842",
+					"display_url": "twitter.com/TheNTNews/stat…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 978097105767161900,
+		"in_reply_to_status_id_str": "978097105767161861",
+		"in_reply_to_user_id": 56873,
+		"in_reply_to_user_id_str": "56873",
+		"in_reply_to_screen_name": "peterwells",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 74,
+			"listed_count": 25,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3059,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73341,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c19d49ffc343fce",
+			"url": "https://api.twitter.com/1.1/geo/id/6c19d49ffc343fce.json",
+			"place_type": "neighborhood",
+			"name": "Banksia Grove",
+			"full_name": "Banksia Grove, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.79415516,
+							-31.71610899
+						],
+						[
+							115.81899912,
+							-31.71610899
+						],
+						[
+							115.81899912,
+							-31.68577296
+						],
+						[
+							115.79415516,
+							-31.68577296
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 977830650353827800,
+		"quoted_status_id_str": "977830650353827842",
+		"quoted_status": {
+			"created_at": "Sun Mar 25 08:52:48 +0000 2018",
+			"id": 977830650353827800,
+			"id_str": "977830650353827842",
+			"text": "OH DEAR ... TOMORROW’S FRONT PAGE https://t.co/gnudHxk8zs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 977830632209317900,
+						"id_str": "977830632209317889",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/DZHzx3tVAAEMuVC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZHzx3tVAAEMuVC.jpg",
+						"url": "https://t.co/gnudHxk8zs",
+						"display_url": "pic.twitter.com/gnudHxk8zs",
+						"expanded_url": "https://twitter.com/TheNTNews/status/977830650353827842/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 711,
+								"h": 887,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 711,
+								"h": 887,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 545,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 977830632209317900,
+						"id_str": "977830632209317889",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/DZHzx3tVAAEMuVC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZHzx3tVAAEMuVC.jpg",
+						"url": "https://t.co/gnudHxk8zs",
+						"display_url": "pic.twitter.com/gnudHxk8zs",
+						"expanded_url": "https://twitter.com/TheNTNews/status/977830650353827842/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 711,
+								"h": 887,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 711,
+								"h": 887,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 545,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60894045,
+				"id_str": "60894045",
+				"name": "The NT News",
+				"screen_name": "TheNTNews",
+				"location": "Northern Territory",
+				"description": "THERE'S MORE TO US THAN JUST CROCS AND WITTY HEADLINES. WHEN WE FIND OUT WHAT THEY ARE, WE'LL LET YOU KNOW. WE LOVE SHOUTING. OUR TEAM: https://t.co/qNTKirykIN",
+				"url": "https://t.co/v1j6qJOkT1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/v1j6qJOkT1",
+								"expanded_url": "http://www.ntnews.com.au",
+								"display_url": "ntnews.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qNTKirykIN",
+								"expanded_url": "https://twitter.com/TheNTNews/li",
+								"display_url": "twitter.com/TheNTNews/li",
+								"indices": [
+									136,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 46916,
+				"friends_count": 278,
+				"listed_count": 467,
+				"created_at": "Tue Jul 28 12:49:00 +0000 2009",
+				"favourites_count": 1251,
+				"utc_offset": 34200,
+				"time_zone": "Darwin",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12495,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89A649",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/751647770/f5a44bfa2e6383e85bcad2d771553702.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/751647770/f5a44bfa2e6383e85bcad2d771553702.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/550279791299944449/8InSf2Xd_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/550279791299944449/8InSf2Xd_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/60894045/1472892845",
+				"profile_link_color": "0470CF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "BDAF46",
+				"profile_text_color": "050505",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "002891d33ed032d3",
+				"url": "https://api.twitter.com/1.1/geo/id/002891d33ed032d3.json",
+				"place_type": "city",
+				"name": "Darwin",
+				"full_name": "Darwin, Northern Territory",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								130.815116992,
+								-12.521741584
+							],
+							[
+								131.05149984,
+								-12.521741584
+							],
+							[
+								131.05149984,
+								-12.330059717
+							],
+							[
+								130.815116992,
+								-12.330059717
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2458,
+			"favorite_count": 4099,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Mar 26 05:08:35 +0000 2018",
 		"id": 978136611790626800,
 		"id_str": "978136611790626817",
