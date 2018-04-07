@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Fri Apr 06 23:38:37 +0000 2018",
+		"id": 982402224193024000,
+		"id_str": "982402224193024001",
+		"text": "RT @HRH_Duke_of_Url: Needless to say, I don't think it's good news. https://t.co/LuGppvSycJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HRH_Duke_of_Url",
+					"name": "Andy Lang",
+					"id": 313329028,
+					"id_str": "313329028",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 701770454692978700,
+					"id_str": "701770454692978688",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/Cb0wgqnW4AAEqif.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cb0wgqnW4AAEqif.jpg",
+					"url": "https://t.co/LuGppvSycJ",
+					"display_url": "pic.twitter.com/LuGppvSycJ",
+					"expanded_url": "https://twitter.com/HRH_Duke_of_Url/status/701770456345530368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 380,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1144,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 671,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 701770456345530400,
+					"source_status_id_str": "701770456345530368",
+					"source_user_id": 313329028,
+					"source_user_id_str": "313329028"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 701770454692978700,
+					"id_str": "701770454692978688",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/Cb0wgqnW4AAEqif.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cb0wgqnW4AAEqif.jpg",
+					"url": "https://t.co/LuGppvSycJ",
+					"display_url": "pic.twitter.com/LuGppvSycJ",
+					"expanded_url": "https://twitter.com/HRH_Duke_of_Url/status/701770456345530368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 380,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1144,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 671,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 701770456345530400,
+					"source_status_id_str": "701770456345530368",
+					"source_user_id": 313329028,
+					"source_user_id_str": "313329028"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 74,
+			"listed_count": 25,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3068,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 22 14:08:09 +0000 2016",
+			"id": 701770456345530400,
+			"id_str": "701770456345530368",
+			"text": "Needless to say, I don't think it's good news. https://t.co/LuGppvSycJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 701770454692978700,
+						"id_str": "701770454692978688",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/Cb0wgqnW4AAEqif.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cb0wgqnW4AAEqif.jpg",
+						"url": "https://t.co/LuGppvSycJ",
+						"display_url": "pic.twitter.com/LuGppvSycJ",
+						"expanded_url": "https://twitter.com/HRH_Duke_of_Url/status/701770456345530368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 380,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1144,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 671,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 701770454692978700,
+						"id_str": "701770454692978688",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/Cb0wgqnW4AAEqif.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cb0wgqnW4AAEqif.jpg",
+						"url": "https://t.co/LuGppvSycJ",
+						"display_url": "pic.twitter.com/LuGppvSycJ",
+						"expanded_url": "https://twitter.com/HRH_Duke_of_Url/status/701770456345530368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 380,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1144,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 671,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 313329028,
+				"id_str": "313329028",
+				"name": "Andy Lang",
+				"screen_name": "HRH_Duke_of_Url",
+				"location": "Winchester, UK, EU",
+				"description": "Design. Photoshop. Web. WordPress. Arsenal. Freelancer for hire. Slightly funnier in person. RTs ≠ endorsements (but might indicate sexual attraction).",
+				"url": "https://t.co/uJ2dILELXs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uJ2dILELXs",
+								"expanded_url": "https://www.thriveuk.com",
+								"display_url": "thriveuk.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1718,
+				"friends_count": 1677,
+				"listed_count": 68,
+				"created_at": "Wed Jun 08 13:58:59 +0000 2011",
+				"favourites_count": 3466,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11685,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/477028322824577026/IQYNp75U.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/477028322824577026/IQYNp75U.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972966830619922432/xE_ZkOMx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972966830619922432/xE_ZkOMx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/313329028/1512221179",
+				"profile_link_color": "899B9F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66901,
+			"favorite_count": 94482,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 66901,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Apr 06 11:48:58 +0000 2018",
 		"id": 982223635053031400,
 		"id_str": "982223635053031424",
