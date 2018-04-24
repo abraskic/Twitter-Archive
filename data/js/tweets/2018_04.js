@@ -1,6 +1,150 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 23 23:37:29 +0000 2018",
+		"id": 988562534012665900,
+		"id_str": "988562534012665857",
+		"text": "@dcrainmakerblog It’s a shame as they make some decent products. Only reason why I ditched mine is it couldn’t reco… https://t.co/ExVi6Awydd",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dcrainmakerblog",
+					"name": "Ray Maker",
+					"id": 86429032,
+					"id_str": "86429032",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ExVi6Awydd",
+					"expanded_url": "https://twitter.com/i/web/status/988562534012665857",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 988523412782956500,
+		"in_reply_to_status_id_str": "988523412782956544",
+		"in_reply_to_user_id": 86429032,
+		"in_reply_to_user_id_str": "86429032",
+		"in_reply_to_screen_name": "dcrainmakerblog",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 74,
+			"listed_count": 25,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3067,
+			"utc_offset": 28800,
+			"time_zone": "Australia/Perth",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73492,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c019743e7c11167",
+			"url": "https://api.twitter.com/1.1/geo/id/6c019743e7c11167.json",
+			"place_type": "neighborhood",
+			"name": "Joondalup",
+			"full_name": "Joondalup, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.74986112,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.71691503
+						],
+						[
+							115.74986112,
+							-31.71691503
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 23 12:50:06 +0000 2018",
 		"id": 988399616457560000,
 		"id_str": "988399616457560065",
