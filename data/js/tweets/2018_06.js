@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sun Jun 10 13:24:59 +0000 2018",
+		"id": 1005803009438126100,
+		"id_str": "1005803009438126081",
+		"text": "@nicshields @BBC When we were still searching for #MH370 https://t.co/Mm3uLgcVL6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MH370",
+					"indices": [
+						50,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nicshields",
+					"name": "nic",
+					"id": 24886127,
+					"id_str": "24886127",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "BBC",
+					"name": "BBC",
+					"id": 19701628,
+					"id_str": "19701628",
+					"indices": [
+						12,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Mm3uLgcVL6",
+					"expanded_url": "https://twitter.com/carlyfindlay/status/446951455191101440?s=21",
+					"display_url": "twitter.com/carlyfindlay/s…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1005798552042287100,
+		"in_reply_to_status_id_str": "1005798552042287104",
+		"in_reply_to_user_id": 24886127,
+		"in_reply_to_user_id_str": "24886127",
+		"in_reply_to_screen_name": "nicshields",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 76,
+			"listed_count": 25,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73688,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c19d49ffc343fce",
+			"url": "https://api.twitter.com/1.1/geo/id/6c19d49ffc343fce.json",
+			"place_type": "neighborhood",
+			"name": "Banksia Grove",
+			"full_name": "Banksia Grove, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.79415516,
+							-31.71610899
+						],
+						[
+							115.81899912,
+							-31.71610899
+						],
+						[
+							115.81899912,
+							-31.68577296
+						],
+						[
+							115.79415516,
+							-31.68577296
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 446951455191101440,
+		"quoted_status_id_str": "446951455191101440",
+		"quoted_status": {
+			"created_at": "Fri Mar 21 10:08:25 +0000 2014",
+			"id": 446951455191101440,
+			"id_str": "446951455191101440",
+			"text": "Perth in Tasmania or Perth in Western Australia?\nThis news program is off the scent of the search for #MH370 http://t.co/yOORg38Ed6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MH370",
+						"indices": [
+							102,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 446951455035912200,
+						"id_str": "446951455035912193",
+						"indices": [
+							109,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/BjPj-vVCcAEbLvh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/BjPj-vVCcAEbLvh.jpg",
+						"url": "http://t.co/yOORg38Ed6",
+						"display_url": "pic.twitter.com/yOORg38Ed6",
+						"expanded_url": "https://twitter.com/carlyfindlay/status/446951455191101440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 540,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 446951455035912200,
+						"id_str": "446951455035912193",
+						"indices": [
+							109,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/BjPj-vVCcAEbLvh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/BjPj-vVCcAEbLvh.jpg",
+						"url": "http://t.co/yOORg38Ed6",
+						"display_url": "pic.twitter.com/yOORg38Ed6",
+						"expanded_url": "https://twitter.com/carlyfindlay/status/446951455191101440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 540,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22124212,
+				"id_str": "22124212",
+				"name": "Carly Findlay",
+				"screen_name": "carlyfindlay",
+				"location": "Melbourne, Australia",
+				"description": "writer, speaker, disability & appearance activist, writing book w/ @harpercollinsau, Ichthyosis, @refreshmentspod, fashionista. https://t.co/snTRaOIu8N",
+				"url": "https://t.co/Uy8JsO6mRE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Uy8JsO6mRE",
+								"expanded_url": "http://carlyfindlay.com.au",
+								"display_url": "carlyfindlay.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/snTRaOIu8N",
+								"expanded_url": "http://paypal.me/CarlyFindlay",
+								"display_url": "paypal.me/CarlyFindlay",
+								"indices": [
+									128,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13639,
+				"friends_count": 9830,
+				"listed_count": 400,
+				"created_at": "Fri Feb 27 09:29:08 +0000 2009",
+				"favourites_count": 19606,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 94822,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/934672858248134658/FjfZeJCD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/934672858248134658/FjfZeJCD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22124212/1473400546",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 10 08:41:52 +0000 2018",
 		"id": 1005731762515791900,
 		"id_str": "1005731762515791873",
