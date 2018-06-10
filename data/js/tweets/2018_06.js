@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sun Jun 10 08:41:52 +0000 2018",
+		"id": 1005731762515791900,
+		"id_str": "1005731762515791873",
+		"text": "RT @yipe: Alexa: remind me to feed the baby https://t.co/p3sEUcTgYa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yipe",
+					"name": "Michael Margolis",
+					"id": 14256647,
+					"id_str": "14256647",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1005555734019313700,
+					"id_str": "1005555734019313664",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DfRznMgUEAAnUbq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfRznMgUEAAnUbq.jpg",
+					"url": "https://t.co/p3sEUcTgYa",
+					"display_url": "pic.twitter.com/p3sEUcTgYa",
+					"expanded_url": "https://twitter.com/yipe/status/1005555741153902592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005555741153902600,
+					"source_status_id_str": "1005555741153902592",
+					"source_user_id": 14256647,
+					"source_user_id_str": "14256647"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1005555734019313700,
+					"id_str": "1005555734019313664",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DfRznMgUEAAnUbq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfRznMgUEAAnUbq.jpg",
+					"url": "https://t.co/p3sEUcTgYa",
+					"display_url": "pic.twitter.com/p3sEUcTgYa",
+					"expanded_url": "https://twitter.com/yipe/status/1005555741153902592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005555741153902600,
+					"source_status_id_str": "1005555741153902592",
+					"source_user_id": 14256647,
+					"source_user_id_str": "14256647"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 76,
+			"listed_count": 25,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73687,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 09 21:02:25 +0000 2018",
+			"id": 1005555741153902600,
+			"id_str": "1005555741153902592",
+			"text": "Alexa: remind me to feed the baby https://t.co/p3sEUcTgYa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1005555734019313700,
+						"id_str": "1005555734019313664",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/DfRznMgUEAAnUbq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfRznMgUEAAnUbq.jpg",
+						"url": "https://t.co/p3sEUcTgYa",
+						"display_url": "pic.twitter.com/p3sEUcTgYa",
+						"expanded_url": "https://twitter.com/yipe/status/1005555741153902592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1005555734019313700,
+						"id_str": "1005555734019313664",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/DfRznMgUEAAnUbq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfRznMgUEAAnUbq.jpg",
+						"url": "https://t.co/p3sEUcTgYa",
+						"display_url": "pic.twitter.com/p3sEUcTgYa",
+						"expanded_url": "https://twitter.com/yipe/status/1005555741153902592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14256647,
+				"id_str": "14256647",
+				"name": "Michael Margolis",
+				"screen_name": "yipe",
+				"location": "Hayes Valley, San Francisco",
+				"description": "manager, mobile experience @ dropbox.\npreviously twitter, jawbone, apple",
+				"url": "https://t.co/gqNOVyR4m7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gqNOVyR4m7",
+								"expanded_url": "http://instagram.com/yipe",
+								"display_url": "instagram.com/yipe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3860,
+				"friends_count": 921,
+				"listed_count": 180,
+				"created_at": "Sun Mar 30 06:26:56 +0000 2008",
+				"favourites_count": 115604,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22817,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1000565847293706240/OeKIWxFx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000565847293706240/OeKIWxFx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14256647/1527388463",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2267,
+			"favorite_count": 7591,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2267,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 10 07:53:20 +0000 2018",
 		"id": 1005719550543843300,
 		"id_str": "1005719550543843328",
