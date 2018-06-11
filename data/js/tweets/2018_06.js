@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 11 02:34:55 +0000 2018",
+		"id": 1006001804029538300,
+		"id_str": "1006001804029538304",
+		"text": "The KFC Four Piece meal for peace. Only available at KFC Singapore for a limited time only. https://t.co/ikix8mKXj6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ikix8mKXj6",
+					"expanded_url": "https://twitter.com/KFC_SG/status/1005041879723806721",
+					"display_url": "twitter.com/KFC_SG/status/…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 76,
+			"listed_count": 25,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				-31.74515494,
+				115.76565974
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				115.76565974,
+				-31.74515494
+			]
+		},
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1005041879723806700,
+		"quoted_status_id_str": "1005041879723806721",
+		"quoted_status": {
+			"created_at": "Fri Jun 08 11:00:31 +0000 2018",
+			"id": 1005041879723806700,
+			"id_str": "1005041879723806721",
+			"text": "Hey @realDonaldTrump &amp; Supreme Leader Kim, a historic #TrumpKim meeting deserves an epic meal. Hmu if you want to d… https://t.co/aPyjQNeupc",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TrumpKim",
+						"indices": [
+							58,
+							67
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							4,
+							20
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/aPyjQNeupc",
+						"expanded_url": "https://twitter.com/i/web/status/1005041879723806721",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 182210091,
+				"id_str": "182210091",
+				"name": "KFC_SG",
+				"screen_name": "KFC_SG",
+				"location": "Singapore",
+				"description": "Welcome to the Twittersphere of KFC Singapore. Follow us and discover the secret behind our Original Recipe Chicken. Instagram:  @kfc_sg",
+				"url": "https://t.co/WpYt9Nhzgu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WpYt9Nhzgu",
+								"expanded_url": "http://www.kfc.com.sg",
+								"display_url": "kfc.com.sg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8494,
+				"friends_count": 856,
+				"listed_count": 76,
+				"created_at": "Tue Aug 24 02:32:54 +0000 2010",
+				"favourites_count": 584,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8330,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1005036526303154176/vRIEVnQ3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005036526303154176/vRIEVnQ3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/182210091/1528455206",
+				"profile_link_color": "FF0505",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FF7230",
+				"profile_text_color": "545454",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "58a4c3a0d54e1400",
+				"url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json",
+				"place_type": "admin",
+				"name": "Central Region",
+				"full_name": "Central Region, Singapore",
+				"country_code": "SG",
+				"country": "Singapore",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								103.749959507073,
+								1.2123138339349
+							],
+							[
+								103.918426999964,
+								1.2123138339349
+							],
+							[
+								103.918426999964,
+								1.36874499902569
+							],
+							[
+								103.749959507073,
+								1.36874499902569
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1469,
+			"favorite_count": 1873,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 11 00:42:02 +0000 2018",
 		"id": 1005973395219963900,
 		"id_str": "1005973395219963904",
