@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Wed Jun 20 23:45:40 +0000 2018",
+		"id": 1009583091415855100,
+		"id_str": "1009583091415855104",
+		"text": "Just a touch over 5% of the population. Nice. https://t.co/iUhVGHanlN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iUhVGHanlN",
+					"expanded_url": "https://twitter.com/nbc4i/status/875722895485521921",
+					"display_url": "twitter.com/nbc4i/status/8…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 78,
+			"listed_count": 25,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73760,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				-31.7006685,
+				115.79575528
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				115.79575528,
+				-31.7006685
+			]
+		},
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 875722895485521900,
+		"quoted_status_id_str": "875722895485521921",
+		"quoted_status": {
+			"created_at": "Fri Jun 16 14:33:03 +0000 2017",
+			"id": 875722895485521900,
+			"id_str": "875722895485521921",
+			"text": "Study finds 16.4 million Americans think chocolate milk comes from brown cows #NBC4 https://t.co/hi9h1N0PKP https://t.co/ol3HnKPWTg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NBC4",
+						"indices": [
+							78,
+							83
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hi9h1N0PKP",
+						"expanded_url": "http://nbc4i.co/2tva3At",
+						"display_url": "nbc4i.co/2tva3At",
+						"indices": [
+							84,
+							107
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 875722580803686400,
+						"id_str": "875722580803686400",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DCcxDCaXkAAxemv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCcxDCaXkAAxemv.jpg",
+						"url": "https://t.co/ol3HnKPWTg",
+						"display_url": "pic.twitter.com/ol3HnKPWTg",
+						"expanded_url": "https://twitter.com/nbc4i/status/875722895485521921/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 650,
+								"h": 366,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 650,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 650,
+								"h": 366,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 875722580803686400,
+						"id_str": "875722580803686400",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DCcxDCaXkAAxemv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCcxDCaXkAAxemv.jpg",
+						"url": "https://t.co/ol3HnKPWTg",
+						"display_url": "pic.twitter.com/ol3HnKPWTg",
+						"expanded_url": "https://twitter.com/nbc4i/status/875722895485521921/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 650,
+								"h": 366,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 650,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 650,
+								"h": 366,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14296157,
+				"id_str": "14296157",
+				"name": "NBC4 Columbus",
+				"screen_name": "nbc4i",
+				"location": "Columbus, Ohio",
+				"description": "Your number one source in #Columbus and central Ohio for breaking news, weather and sports #NBC4 #WCMH #StormTeam4 #BuckeyeNation",
+				"url": "http://t.co/MPBbMvjuB8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MPBbMvjuB8",
+								"expanded_url": "http://www.nbc4i.com/",
+								"display_url": "nbc4i.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 158395,
+				"friends_count": 5945,
+				"listed_count": 1442,
+				"created_at": "Thu Apr 03 19:39:33 +0000 2008",
+				"favourites_count": 1238,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 146860,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948288703432216577/VQEDJ1Fo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948288703432216577/VQEDJ1Fo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14296157/1486583421",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16106,
+			"favorite_count": 22994,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 20 07:31:44 +0000 2018",
 		"id": 1009337990315847700,
 		"id_str": "1009337990315847680",
