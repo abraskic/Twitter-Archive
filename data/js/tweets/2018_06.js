@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 23 10:38:16 +0000 2018",
+		"id": 1010472097607397400,
+		"id_str": "1010472097607397381",
+		"text": "RT @anthonyjevans: https://t.co/K98qvgNbqg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anthonyjevans",
+					"name": "Anthony J. Evans",
+					"id": 46876977,
+					"id_str": "46876977",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1010117016324378600,
+					"id_str": "1010117016324378624",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DgSoExOXkAAYSNd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgSoExOXkAAYSNd.jpg",
+					"url": "https://t.co/K98qvgNbqg",
+					"display_url": "pic.twitter.com/K98qvgNbqg",
+					"expanded_url": "https://twitter.com/anthonyjevans/status/1010117022909427721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 552,
+							"h": 431,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 552,
+							"h": 431,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 552,
+							"h": 431,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010117022909427700,
+					"source_status_id_str": "1010117022909427721",
+					"source_user_id": 46876977,
+					"source_user_id_str": "46876977"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1010117016324378600,
+					"id_str": "1010117016324378624",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DgSoExOXkAAYSNd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgSoExOXkAAYSNd.jpg",
+					"url": "https://t.co/K98qvgNbqg",
+					"display_url": "pic.twitter.com/K98qvgNbqg",
+					"expanded_url": "https://twitter.com/anthonyjevans/status/1010117022909427721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 552,
+							"h": 431,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 552,
+							"h": 431,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 552,
+							"h": 431,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010117022909427700,
+					"source_status_id_str": "1010117022909427721",
+					"source_user_id": 46876977,
+					"source_user_id_str": "46876977"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 78,
+			"listed_count": 25,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3058,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73774,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 22 11:07:19 +0000 2018",
+			"id": 1010117022909427700,
+			"id_str": "1010117022909427721",
+			"text": "https://t.co/K98qvgNbqg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1010117016324378600,
+						"id_str": "1010117016324378624",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DgSoExOXkAAYSNd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgSoExOXkAAYSNd.jpg",
+						"url": "https://t.co/K98qvgNbqg",
+						"display_url": "pic.twitter.com/K98qvgNbqg",
+						"expanded_url": "https://twitter.com/anthonyjevans/status/1010117022909427721/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 552,
+								"h": 431,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 552,
+								"h": 431,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 552,
+								"h": 431,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1010117016324378600,
+						"id_str": "1010117016324378624",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DgSoExOXkAAYSNd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgSoExOXkAAYSNd.jpg",
+						"url": "https://t.co/K98qvgNbqg",
+						"display_url": "pic.twitter.com/K98qvgNbqg",
+						"expanded_url": "https://twitter.com/anthonyjevans/status/1010117022909427721/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 552,
+								"h": 431,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 552,
+								"h": 431,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 552,
+								"h": 431,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 46876977,
+				"id_str": "46876977",
+				"name": "Anthony J. Evans",
+				"screen_name": "anthonyjevans",
+				"location": "London",
+				"description": "Professor of Economics at ESCP Europe & author of 'Markets for Managers' [https://t.co/eQkJFaNAqE]",
+				"url": "https://t.co/D8iQoqxKlX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/D8iQoqxKlX",
+								"expanded_url": "http://www.anthonyjevans.com",
+								"display_url": "anthonyjevans.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/eQkJFaNAqE",
+								"expanded_url": "http://goo.gl/KjJgZS",
+								"display_url": "goo.gl/KjJgZS",
+								"indices": [
+									74,
+									97
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1411,
+				"friends_count": 380,
+				"listed_count": 69,
+				"created_at": "Sat Jun 13 12:24:13 +0000 2009",
+				"favourites_count": 2055,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10678,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/939110714618376192/fR_Iiydn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/939110714618376192/fR_Iiydn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/46876977/1454629370",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1267,
+			"favorite_count": 2780,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1267,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sat Jun 23 01:47:57 +0000 2018",
 		"id": 1010338640482824200,
 		"id_str": "1010338640482824192",
