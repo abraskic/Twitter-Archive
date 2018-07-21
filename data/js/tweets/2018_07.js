@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sat Jul 21 10:18:34 +0000 2018",
+		"id": 1020614002508906500,
+		"id_str": "1020614002508906501",
+		"text": "RT @patbcaruana: This is what must happen now. I don’t make the rules. https://t.co/1qWZAIkQaQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patbcaruana",
+					"name": "Pat Caruana",
+					"id": 355234478,
+					"id_str": "355234478",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1qWZAIkQaQ",
+					"expanded_url": "https://twitter.com/savmegafan/status/1020548476327694336",
+					"display_url": "twitter.com/savmegafan/sta…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 67,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73889,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 21 06:49:02 +0000 2018",
+			"id": 1020561269248544800,
+			"id_str": "1020561269248544769",
+			"text": "This is what must happen now. I don’t make the rules. https://t.co/1qWZAIkQaQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1qWZAIkQaQ",
+						"expanded_url": "https://twitter.com/savmegafan/status/1020548476327694336",
+						"display_url": "twitter.com/savmegafan/sta…",
+						"indices": [
+							54,
+							77
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 355234478,
+				"id_str": "355234478",
+				"name": "Pat Caruana",
+				"screen_name": "patbcaruana",
+				"location": "Cold Ibiza",
+				"description": "show some discernment before retweeting me",
+				"url": "https://t.co/MMYoU1JyNP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MMYoU1JyNP",
+								"expanded_url": "https://rightarmaround.wordpress.com/",
+								"display_url": "rightarmaround.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2553,
+				"friends_count": 1592,
+				"listed_count": 55,
+				"created_at": "Mon Aug 15 01:41:19 +0000 2011",
+				"favourites_count": 23261,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11216,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1020276068723220480/TaPQuoYK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020276068723220480/TaPQuoYK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/355234478/1522901896",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1020548476327694300,
+			"quoted_status_id_str": "1020548476327694336",
+			"quoted_status": {
+				"created_at": "Sat Jul 21 05:58:12 +0000 2018",
+				"id": 1020548476327694300,
+				"id_str": "1020548476327694336",
+				"text": "fold the sydney swans and give their licence to tasmania. @patbcaruana",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "patbcaruana",
+							"name": "Pat Caruana",
+							"id": 355234478,
+							"id_str": "355234478",
+							"indices": [
+								58,
+								70
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 876668059582214100,
+					"id_str": "876668059582214144",
+					"name": "nasty pathetic trolling PIG ,",
+					"screen_name": "savmegafan",
+					"location": "Geelong, Victoria",
+					"description": "views are obstructed by kardinia park light towers. tweets sometimes delayed by malop street works. retweets are often sarcastic",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 349,
+					"friends_count": 467,
+					"listed_count": 5,
+					"created_at": "Mon Jun 19 05:08:47 +0000 2017",
+					"favourites_count": 11385,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 5754,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1020547060834160640/lduCQbmP_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020547060834160640/lduCQbmP_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/876668059582214144/1531978612",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1020548476327694300,
+		"quoted_status_id_str": "1020548476327694336",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 21 06:28:01 +0000 2018",
 		"id": 1020555981112012800,
 		"id_str": "1020555981112012800",
