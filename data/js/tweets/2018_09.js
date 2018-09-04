@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Tue Sep 04 09:52:16 +0000 2018",
+		"id": 1036914835760410600,
+		"id_str": "1036914835760410625",
+		"text": "RT @supercujo: Reserved for Green Vehicles https://t.co/VFjTSsML9g",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "supercujo",
+					"name": "supercalifragilisticexpialicujo",
+					"id": 18132109,
+					"id_str": "18132109",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1036779071957422100,
+					"id_str": "1036779071957422080",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DmNhEqaU0AAmcPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DmNhEqaU0AAmcPV.jpg",
+					"url": "https://t.co/VFjTSsML9g",
+					"display_url": "pic.twitter.com/VFjTSsML9g",
+					"expanded_url": "https://twitter.com/supercujo/status/1036779172423581696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1036779172423581700,
+					"source_status_id_str": "1036779172423581696",
+					"source_user_id": 18132109,
+					"source_user_id_str": "18132109"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1036779071957422100,
+					"id_str": "1036779071957422080",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DmNhEqaU0AAmcPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DmNhEqaU0AAmcPV.jpg",
+					"url": "https://t.co/VFjTSsML9g",
+					"display_url": "pic.twitter.com/VFjTSsML9g",
+					"expanded_url": "https://twitter.com/supercujo/status/1036779172423581696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1036779172423581700,
+					"source_status_id_str": "1036779172423581696",
+					"source_user_id": 18132109,
+					"source_user_id_str": "18132109"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265,
+			"friends_count": 68,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 04 00:53:11 +0000 2018",
+			"id": 1036779172423581700,
+			"id_str": "1036779172423581696",
+			"text": "Reserved for Green Vehicles https://t.co/VFjTSsML9g",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1036779071957422100,
+						"id_str": "1036779071957422080",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DmNhEqaU0AAmcPV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmNhEqaU0AAmcPV.jpg",
+						"url": "https://t.co/VFjTSsML9g",
+						"display_url": "pic.twitter.com/VFjTSsML9g",
+						"expanded_url": "https://twitter.com/supercujo/status/1036779172423581696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1036779071957422100,
+						"id_str": "1036779071957422080",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DmNhEqaU0AAmcPV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmNhEqaU0AAmcPV.jpg",
+						"url": "https://t.co/VFjTSsML9g",
+						"display_url": "pic.twitter.com/VFjTSsML9g",
+						"expanded_url": "https://twitter.com/supercujo/status/1036779172423581696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18132109,
+				"id_str": "18132109",
+				"name": "supercalifragilisticexpialicujo",
+				"screen_name": "supercujo",
+				"location": "Perth",
+				"description": "It is what it is. The official Supercujo Twitter account!!! I kicked cancer's arse. No topic is off-limits for a joke. RT != endorsement",
+				"url": "https://t.co/U3cdy2CvJG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/U3cdy2CvJG",
+								"expanded_url": "http://mobro.co/supercujo",
+								"display_url": "mobro.co/supercujo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2044,
+				"friends_count": 1559,
+				"listed_count": 178,
+				"created_at": "Mon Dec 15 06:22:31 +0000 2008",
+				"favourites_count": 14679,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 112047,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/996570600612159490/8-3Eju6J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/996570600612159490/8-3Eju6J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18132109/1534669171",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "003B03",
+				"profile_text_color": "A3A3A3",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 03 10:11:46 +0000 2018",
 		"id": 1036557355914211300,
 		"id_str": "1036557355914211328",
