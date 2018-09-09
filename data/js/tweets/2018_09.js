@@ -1,6 +1,486 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Sun Sep 09 10:21:29 +0000 2018",
+		"id": 1038734128844173300,
+		"id_str": "1038734128844173314",
+		"text": "RT @Emperious_: Why this gender reveal got me in tears. 😂 https://t.co/apNGDthhaC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Emperious_",
+					"name": "Beast",
+					"id": 223646500,
+					"id_str": "223646500",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1038152906401173500,
+					"id_str": "1038152906401173504",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1038152906401173504/pu/img/TOAgLEyJrIwM6xZt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1038152906401173504/pu/img/TOAgLEyJrIwM6xZt.jpg",
+					"url": "https://t.co/apNGDthhaC",
+					"display_url": "pic.twitter.com/apNGDthhaC",
+					"expanded_url": "https://twitter.com/Emperious_/status/1038153379023933440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1038153379023933400,
+					"source_status_id_str": "1038153379023933440",
+					"source_user_id": 223646500,
+					"source_user_id_str": "223646500"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1038152906401173500,
+					"id_str": "1038152906401173504",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1038152906401173504/pu/img/TOAgLEyJrIwM6xZt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1038152906401173504/pu/img/TOAgLEyJrIwM6xZt.jpg",
+					"url": "https://t.co/apNGDthhaC",
+					"display_url": "pic.twitter.com/apNGDthhaC",
+					"expanded_url": "https://twitter.com/Emperious_/status/1038153379023933440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1038153379023933400,
+					"source_status_id_str": "1038153379023933440",
+					"source_user_id": 223646500,
+					"source_user_id_str": "223646500",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 34983,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1038152906401173504/pu/pl/mbxaF6qVUMXF3sVz.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1038152906401173504/pu/vid/480x480/RiimGocFrjjlo4ke.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1038152906401173504/pu/vid/240x240/OrBJR1XWDX1K67PQ.mp4?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1038152906401173504/pu/vid/720x720/DYXXE2NyOUmnAy46.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 223646500,
+							"id_str": "223646500",
+							"name": "Beast",
+							"screen_name": "Emperious_",
+							"location": "Chicago, IL",
+							"description": "Chicago | Artist 19 years of age, 100 years of wisdom. The Greatest Rapper to ever do it.",
+							"url": "https://t.co/OmvJI9Ag8n",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/OmvJI9Ag8n",
+											"expanded_url": "https://open.spotify.com/album/5MpKT0tZgYh5CmoW0ykBxe",
+											"display_url": "open.spotify.com/album/5MpKT0tZ…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2821,
+							"friends_count": 851,
+							"listed_count": 23,
+							"created_at": "Mon Dec 06 23:31:07 +0000 2010",
+							"favourites_count": 7583,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 64332,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C6E2EE",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1038616700051222528/ffw_-7oO_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1038616700051222528/ffw_-7oO_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/223646500/1501823403",
+							"profile_link_color": "F00E4A",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265,
+			"friends_count": 68,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74093,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 07 19:53:48 +0000 2018",
+			"id": 1038153379023933400,
+			"id_str": "1038153379023933440",
+			"text": "Why this gender reveal got me in tears. 😂 https://t.co/apNGDthhaC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1038152906401173500,
+						"id_str": "1038152906401173504",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1038152906401173504/pu/img/TOAgLEyJrIwM6xZt.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1038152906401173504/pu/img/TOAgLEyJrIwM6xZt.jpg",
+						"url": "https://t.co/apNGDthhaC",
+						"display_url": "pic.twitter.com/apNGDthhaC",
+						"expanded_url": "https://twitter.com/Emperious_/status/1038153379023933440/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1038152906401173500,
+						"id_str": "1038152906401173504",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1038152906401173504/pu/img/TOAgLEyJrIwM6xZt.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1038152906401173504/pu/img/TOAgLEyJrIwM6xZt.jpg",
+						"url": "https://t.co/apNGDthhaC",
+						"display_url": "pic.twitter.com/apNGDthhaC",
+						"expanded_url": "https://twitter.com/Emperious_/status/1038153379023933440/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 34983,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1038152906401173504/pu/pl/mbxaF6qVUMXF3sVz.m3u8?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1038152906401173504/pu/vid/480x480/RiimGocFrjjlo4ke.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1038152906401173504/pu/vid/240x240/OrBJR1XWDX1K67PQ.mp4?tag=5"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1038152906401173504/pu/vid/720x720/DYXXE2NyOUmnAy46.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 223646500,
+				"id_str": "223646500",
+				"name": "Beast",
+				"screen_name": "Emperious_",
+				"location": "Chicago, IL",
+				"description": "Chicago | Artist 19 years of age, 100 years of wisdom. The Greatest Rapper to ever do it.",
+				"url": "https://t.co/OmvJI9Ag8n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OmvJI9Ag8n",
+								"expanded_url": "https://open.spotify.com/album/5MpKT0tZgYh5CmoW0ykBxe",
+								"display_url": "open.spotify.com/album/5MpKT0tZ…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2821,
+				"friends_count": 851,
+				"listed_count": 23,
+				"created_at": "Mon Dec 06 23:31:07 +0000 2010",
+				"favourites_count": 7583,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 64332,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1038616700051222528/ffw_-7oO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1038616700051222528/ffw_-7oO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/223646500/1501823403",
+				"profile_link_color": "F00E4A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 93143,
+			"favorite_count": 238199,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 93143,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 08 13:27:18 +0000 2018",
 		"id": 1038418502854443000,
 		"id_str": "1038418502854443010",
