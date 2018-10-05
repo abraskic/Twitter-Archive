@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 04 23:51:02 +0000 2018",
+		"id": 1047997552837054500,
+		"id_str": "1047997552837054465",
+		"text": "@iamcheerbear But what is it?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iamcheerbear",
+					"name": "(All Hallows) Eve 🎃",
+					"id": 18797024,
+					"id_str": "18797024",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1047995092772970500,
+		"in_reply_to_status_id_str": "1047995092772970496",
+		"in_reply_to_user_id": 18797024,
+		"in_reply_to_user_id_str": "18797024",
+		"in_reply_to_screen_name": "iamcheerbear",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265,
+			"friends_count": 68,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3081,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74206,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 04 23:40:24 +0000 2018",
+		"id": 1047994880343994400,
+		"id_str": "1047994880343994368",
+		"text": "@iamcheerbear What’s this for? There’s like 20 people here at Joondalup waiting for Zing to open.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iamcheerbear",
+					"name": "(All Hallows) Eve 🎃",
+					"id": 18797024,
+					"id_str": "18797024",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1047974162508075000,
+		"in_reply_to_status_id_str": "1047974162508075009",
+		"in_reply_to_user_id": 18797024,
+		"in_reply_to_user_id_str": "18797024",
+		"in_reply_to_screen_name": "iamcheerbear",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265,
+			"friends_count": 68,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3081,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74206,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				-31.74369868,
+				115.76750024
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				115.76750024,
+				-31.74369868
+			]
+		},
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 03 22:43:57 +0000 2018",
 		"id": 1047618284093243400,
 		"id_str": "1047618284093243392",
