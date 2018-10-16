@@ -127,6 +127,180 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
+			"followers_count": 5776,
+			"friends_count": 939,
+			"listed_count": 24,
+			"created_at": "Sat Jan 31 02:59:21 +0000 2015",
+			"favourites_count": 4106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5348,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/767500445514215424/fwD1Lbl2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/767500445514215424/fwD1Lbl2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3004178958/1468402714",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Banksy up to his old tricks on Indian Ocean Dr (Colin M) https://t.co/ilaWyhhEtE"
+	},
+	{
+		"created_at": "Tue Oct 16 04:20:39 +0000 2018",
+		"id": 1052051673382703100,
+		"id_str": "1052051673382703106",
+		"full_text": "Banksy up to his old tricks on Indian Ocean Dr (Colin M) https://t.co/ilaWyhhEtE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1052051670346035200,
+					"id_str": "1052051670346035200",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpmja5BU8AAXwIs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpmja5BU8AAXwIs.jpg",
+					"url": "https://t.co/ilaWyhhEtE",
+					"display_url": "pic.twitter.com/ilaWyhhEtE",
+					"expanded_url": "https://twitter.com/BellTowerTimez/status/1052051673382703106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 718,
+							"h": 370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 718,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052051670346035200,
+					"id_str": "1052051670346035200",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpmja5BU8AAXwIs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpmja5BU8AAXwIs.jpg",
+					"url": "https://t.co/ilaWyhhEtE",
+					"display_url": "pic.twitter.com/ilaWyhhEtE",
+					"expanded_url": "https://twitter.com/BellTowerTimez/status/1052051673382703106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 718,
+							"h": 370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 718,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3004178958,
+			"id_str": "3004178958",
+			"name": "The Bell Tower Times",
+			"screen_name": "BellTowerTimez",
+			"location": "Perth ",
+			"description": "I write The Bell Tower Times. Embrace the Human Zoo. Keep it zesty x",
+			"url": "https://t.co/O4L6OY8Cyn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O4L6OY8Cyn",
+							"expanded_url": "https://www.facebook.com/TheBellTowerTimes",
+							"display_url": "facebook.com/TheBellTowerTi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 5775,
 			"friends_count": 939,
 			"listed_count": 24,
