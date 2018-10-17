@@ -1,6 +1,542 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 17 11:30:47 +0000 2018",
+		"id": 1052522307636191200,
+		"id_str": "1052522307636191233",
+		"full_text": "Can we please stop getting ideas of things from episodes of Black Mirror? Cheers! https://t.co/1QOxiIn0JE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1QOxiIn0JE",
+					"expanded_url": "https://twitter.com/gavinsblog/status/1052140235033862144",
+					"display_url": "twitter.com/gavinsblog/sta…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265,
+			"friends_count": 68,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3081,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74225,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				-31.7009069,
+				115.79556367
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				115.79556367,
+				-31.7009069
+			]
+		},
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052140235033862100,
+		"quoted_status_id_str": "1052140235033862144",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1QOxiIn0JE",
+			"expanded": "https://twitter.com/gavinsblog/status/1052140235033862144",
+			"display": "twitter.com/gavinsblog/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 16 10:12:34 +0000 2018",
+			"id": 1052140235033862100,
+			"id_str": "1052140235033862144",
+			"full_text": "Spot the robot dog dancing to UpTown Funk is simultaneously both terrifying and hilarious. https://t.co/UNPsXZrXvh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1052139793948262400,
+						"id_str": "1052139793948262401",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052139793948262401/pu/img/53Ck9G2tlv4i1uJ6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052139793948262401/pu/img/53Ck9G2tlv4i1uJ6.jpg",
+						"url": "https://t.co/UNPsXZrXvh",
+						"display_url": "pic.twitter.com/UNPsXZrXvh",
+						"expanded_url": "https://twitter.com/gavinsblog/status/1052140235033862144/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1052139793948262400,
+						"id_str": "1052139793948262401",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1052139793948262401/pu/img/53Ck9G2tlv4i1uJ6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1052139793948262401/pu/img/53Ck9G2tlv4i1uJ6.jpg",
+						"url": "https://t.co/UNPsXZrXvh",
+						"display_url": "pic.twitter.com/UNPsXZrXvh",
+						"expanded_url": "https://twitter.com/gavinsblog/status/1052140235033862144/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 65544,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1052139793948262401/pu/pl/X533yNjBFCSN9mHR.m3u8?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1052139793948262401/pu/vid/1280x720/gvCfsrD3l_BeevDD.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1052139793948262401/pu/vid/640x360/7_PO6A2YSJhqnYL3.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1052139793948262401/pu/vid/320x180/r7uFMC80qjjEVo07.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15908631,
+				"id_str": "15908631",
+				"name": "Gavin Sheridan",
+				"screen_name": "gavinsblog",
+				"location": "Dublin, Ireland",
+				"description": "CEO @Vizlegal | Co-founder @righttoknowie | #FOIA, #legaltech, journalism, data, OSINT, futurism | Former Innovation Director @Storyful",
+				"url": "https://t.co/zysKq5e6Jz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zysKq5e6Jz",
+								"expanded_url": "http://www.vizlegal.com",
+								"display_url": "vizlegal.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25804,
+				"friends_count": 7461,
+				"listed_count": 900,
+				"created_at": "Tue Aug 19 19:51:23 +0000 2008",
+				"favourites_count": 5781,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 70258,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/894331872716754945/0KfaOf4I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/894331872716754945/0KfaOf4I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15908631/1398247317",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15354,
+			"favorite_count": 29127,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can we please stop getting ideas of things from episodes of Black Mirror? Cheers! https://t.co/1QOxiIn0JE"
+	},
+	{
+		"created_at": "Tue Oct 16 04:20:39 +0000 2018",
+		"id": 1052051673382703100,
+		"id_str": "1052051673382703106",
+		"full_text": "Banksy up to his old tricks on Indian Ocean Dr (Colin M) https://t.co/ilaWyhhEtE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1052051670346035200,
+					"id_str": "1052051670346035200",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpmja5BU8AAXwIs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpmja5BU8AAXwIs.jpg",
+					"url": "https://t.co/ilaWyhhEtE",
+					"display_url": "pic.twitter.com/ilaWyhhEtE",
+					"expanded_url": "https://twitter.com/BellTowerTimez/status/1052051673382703106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 718,
+							"h": 370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 718,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052051670346035200,
+					"id_str": "1052051670346035200",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpmja5BU8AAXwIs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpmja5BU8AAXwIs.jpg",
+					"url": "https://t.co/ilaWyhhEtE",
+					"display_url": "pic.twitter.com/ilaWyhhEtE",
+					"expanded_url": "https://twitter.com/BellTowerTimez/status/1052051673382703106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 718,
+							"h": 370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 718,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3004178958,
+			"id_str": "3004178958",
+			"name": "The Bell Tower Times",
+			"screen_name": "BellTowerTimez",
+			"location": "Perth ",
+			"description": "I write The Bell Tower Times. Embrace the Human Zoo. Keep it zesty x",
+			"url": "https://t.co/O4L6OY8Cyn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O4L6OY8Cyn",
+							"expanded_url": "https://www.facebook.com/TheBellTowerTimes",
+							"display_url": "facebook.com/TheBellTowerTi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5783,
+			"friends_count": 940,
+			"listed_count": 24,
+			"created_at": "Sat Jan 31 02:59:21 +0000 2015",
+			"favourites_count": 4119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5357,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/767500445514215424/fwD1Lbl2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/767500445514215424/fwD1Lbl2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3004178958/1468402714",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Banksy up to his old tricks on Indian Ocean Dr (Colin M) https://t.co/ilaWyhhEtE"
+	},
+	{
 		"created_at": "Tue Oct 16 04:20:39 +0000 2018",
 		"id": 1052051673382703100,
 		"id_str": "1052051673382703106",
