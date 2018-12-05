@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 05 03:06:34 +0000 2018",
+		"id": 1070152422452916200,
+		"id_str": "1070152422452916225",
+		"full_text": "Sheep currently on the run on the Kwinana Fwy.. slowing down trains and traffic.. #perthnews https://t.co/gb2iVfmB6R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "perthnews",
+					"indices": [
+						82,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1070152364756164600,
+					"id_str": "1070152364756164608",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1070152364756164608/pu/img/uzNpSp2mLe2COMf8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1070152364756164608/pu/img/uzNpSp2mLe2COMf8.jpg",
+					"url": "https://t.co/gb2iVfmB6R",
+					"display_url": "pic.twitter.com/gb2iVfmB6R",
+					"expanded_url": "https://twitter.com/ChiaraZaffino/status/1070152422452916225/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1070152364756164600,
+					"id_str": "1070152364756164608",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1070152364756164608/pu/img/uzNpSp2mLe2COMf8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1070152364756164608/pu/img/uzNpSp2mLe2COMf8.jpg",
+					"url": "https://t.co/gb2iVfmB6R",
+					"display_url": "pic.twitter.com/gb2iVfmB6R",
+					"expanded_url": "https://twitter.com/ChiaraZaffino/status/1070152422452916225/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 8598,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1070152364756164608/pu/pl/Cf4ACLtelmRufwvM.m3u8?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1070152364756164608/pu/vid/320x180/1c5EDYhjRcrzBIUG.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1070152364756164608/pu/vid/640x360/sclODUfNeIMHx_iE.mp4?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1070152364756164608/pu/vid/1280x720/VE-IKFfVeSSBCfkD.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23914066,
+			"id_str": "23914066",
+			"name": "Chiara Zaffino",
+			"screen_name": "ChiaraZaffino",
+			"location": "Perth Australia",
+			"description": "Reporter/Presenter @10NewsFirstPER 🕔Instagram: @chiara_zaffino YouTube: https://t.co/chAVeXQTwU Views my own 👶🏻📺 @survivor_au wannabe",
+			"url": "https://t.co/s3c5Tp27qI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s3c5Tp27qI",
+							"expanded_url": "https://www.linkedin.com/in/chiarazaffino",
+							"display_url": "linkedin.com/in/chiarazaffi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/chAVeXQTwU",
+							"expanded_url": "http://bit.ly/2bTva8P",
+							"display_url": "bit.ly/2bTva8P",
+							"indices": [
+								72,
+								95
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2530,
+			"friends_count": 844,
+			"listed_count": 62,
+			"created_at": "Thu Mar 12 06:53:12 +0000 2009",
+			"favourites_count": 747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3024,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051442111357177856/ux6nwfWE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051442111357177856/ux6nwfWE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23914066/1541028377",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sheep currently on the run on the Kwinana Fwy.. slowing down trains and traffic.. #perthnews https://t.co/gb2iVfmB6R"
+	},
+	{
 		"created_at": "Wed Dec 05 04:31:08 +0000 2018",
 		"id": 1070173704246546400,
 		"id_str": "1070173704246546434",
