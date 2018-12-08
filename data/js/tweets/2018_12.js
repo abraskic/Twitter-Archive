@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 08 14:04:06 +0000 2018",
+		"id": 1071405058619715600,
+		"id_str": "1071405058619715589",
+		"full_text": "Anxiety: get ready to fight\n\nMe: what\n\nAnxiety: idk dude just get ready to fight\n\nMe: fight what\n\nAnxiety: just get ready",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 943822839513096200,
+			"id_str": "943822839513096192",
+			"name": "No Dana only Yuul",
+			"screen_name": "coffinvixen",
+			"location": "",
+			"description": "Here’s me opening up a trash can lid and inviting you into the trash can with me. lets live in this garbage together, friend.",
+			"url": "https://t.co/KXXG5wK6ZA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KXXG5wK6ZA",
+							"expanded_url": "http://coffinconfetti.tumblr.com",
+							"display_url": "coffinconfetti.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3478,
+			"friends_count": 147,
+			"listed_count": 6,
+			"created_at": "Thu Dec 21 12:37:55 +0000 2017",
+			"favourites_count": 9274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3807,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069495385171738624/t5n-Eg_K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069495385171738624/t5n-Eg_K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/943822839513096192/1543822814",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2804,
+		"favorite_count": 11875,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Anxiety: get ready to fight\n\nMe: what\n\nAnxiety: idk dude just get ready to fight\n\nMe: fight what\n\nAnxiety: just get ready"
+	},
+	{
 		"created_at": "Sat Dec 08 11:03:53 +0000 2018",
 		"id": 1071359706252230700,
 		"id_str": "1071359706252230657",
