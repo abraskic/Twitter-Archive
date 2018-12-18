@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 18 21:40:37 +0000 2018",
+		"id": 1075143822156345300,
+		"id_str": "1075143822156345345",
+		"full_text": "@fictillius I don’t get people. They absolutely have to have the closest possible parking spot but vertically you’re probably closer than most of them.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fictillius",
+					"name": "Evan",
+					"id": 7050962,
+					"id_str": "7050962",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1075143178817200100,
+		"in_reply_to_status_id_str": "1075143178817200129",
+		"in_reply_to_user_id": 7050962,
+		"in_reply_to_user_id_str": "7050962",
+		"in_reply_to_screen_name": "fictillius",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 66,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74404,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				-31.70082092,
+				115.79564107
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				115.79564107,
+				-31.70082092
+			]
+		},
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@fictillius I don’t get people. They absolutely have to have the closest possible parking spot but vertically you’re probably closer than most of them."
+	},
+	{
+		"created_at": "Tue Dec 18 02:47:41 +0000 2018",
+		"id": 1074858710449569800,
+		"id_str": "1074858710449569792",
+		"full_text": "Someone stole a package from me. Police wouldn’t do anything about it so I spent the last 6 months engineering up some vigilante justice. Revenge is a dish best served fabulously. Vid link- https://t.co/9OjD6ETdbZ https://t.co/u4o0doWglr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9OjD6ETdbZ",
+					"expanded_url": "https://youtu.be/xoxhDk-hwuo",
+					"display_url": "youtu.be/xoxhDk-hwuo",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1074858706674757600,
+					"id_str": "1074858706674757632",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/DuqqTIMVsAAMkAL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuqqTIMVsAAMkAL.jpg",
+					"url": "https://t.co/u4o0doWglr",
+					"display_url": "pic.twitter.com/u4o0doWglr",
+					"expanded_url": "https://twitter.com/MarkRober/status/1074858710449569792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1074858706674757600,
+					"id_str": "1074858706674757632",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/DuqqTIMVsAAMkAL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuqqTIMVsAAMkAL.jpg",
+					"url": "https://t.co/u4o0doWglr",
+					"display_url": "pic.twitter.com/u4o0doWglr",
+					"expanded_url": "https://twitter.com/MarkRober/status/1074858710449569792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 490932793,
+			"id_str": "490932793",
+			"name": "Mark Rober",
+			"screen_name": "MarkRober",
+			"location": "San Francisco, CA",
+			"description": "Former NASA engineer. Current YouTuber and friend of science. https://t.co/b6EBcpHJax",
+			"url": "https://t.co/HcXoi1aX6G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HcXoi1aX6G",
+							"expanded_url": "https://www.youtube.com/c/markrober",
+							"display_url": "youtube.com/c/markrober",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/b6EBcpHJax",
+							"expanded_url": "http://Instagram.com/markrober",
+							"display_url": "Instagram.com/markrober",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35731,
+			"friends_count": 134,
+			"listed_count": 212,
+			"created_at": "Mon Feb 13 02:20:43 +0000 2012",
+			"favourites_count": 2851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1854,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/717637091887198209/PSLM31Aq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/717637091887198209/PSLM31Aq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/490932793/1459932990",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9240,
+		"favorite_count": 23217,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Someone stole a package from me. Police wouldn’t do anything about it so I spent the last 6 months engineering up some vigilante justice. Revenge is a dish best served fabulously. Vid link- https://t.co/9OjD6ETdbZ https://t.co/u4o0doWglr"
+	},
+	{
 		"created_at": "Tue Dec 18 02:47:41 +0000 2018",
 		"id": 1074858710449569800,
 		"id_str": "1074858710449569792",
