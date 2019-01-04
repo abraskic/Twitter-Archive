@@ -1,6 +1,430 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 04 03:20:24 +0000 2019",
+		"id": 1081027539236139000,
+		"id_str": "1081027539236139009",
+		"full_text": "Rishab Pant, he’ll hit you for six then babysit your kids. #AUSvIND https://t.co/gifWItVqRJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AUSvIND",
+					"indices": [
+						59,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gifWItVqRJ",
+					"expanded_url": "https://twitter.com/thebharatarmy/status/1080987378590728193",
+					"display_url": "twitter.com/thebharatarmy/…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 67,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74469,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1080987378590728200,
+		"quoted_status_id_str": "1080987378590728193",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gifWItVqRJ",
+			"expanded": "https://twitter.com/thebharatarmy/status/1080987378590728193",
+			"display": "twitter.com/thebharatarmy/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 04 00:40:49 +0000 2019",
+			"id": 1080987378590728200,
+			"id_str": "1080987378590728193",
+			"full_text": "#AUSvIND \nWe’ve got Pant\nRishab Pant\nI just don’t think you’ll understand \nHe’ll hit you for a six\nHe’ll babysit your kids \nWe’ve got Rishab Pant \n.\n.\n.\n#BharatArmySongBook @RishabPant777 #BharatArmy #TeamIndia #12thMan #WeveGotPant #COTI 🇮🇳👶🍼 https://t.co/ZiXaPWqi6M",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				243
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AUSvIND",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"text": "BharatArmySongBook",
+						"indices": [
+							153,
+							172
+						]
+					},
+					{
+						"text": "BharatArmy",
+						"indices": [
+							188,
+							199
+						]
+					},
+					{
+						"text": "TeamIndia",
+						"indices": [
+							200,
+							210
+						]
+					},
+					{
+						"text": "12thMan",
+						"indices": [
+							211,
+							219
+						]
+					},
+					{
+						"text": "WeveGotPant",
+						"indices": [
+							220,
+							232
+						]
+					},
+					{
+						"text": "COTI",
+						"indices": [
+							233,
+							238
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RishabPant777",
+						"name": "Rishabh Pant",
+						"id": 730375072876105700,
+						"id_str": "730375072876105728",
+						"indices": [
+							173,
+							187
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1080985768540000300,
+						"id_str": "1080985768540000256",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1080985768540000256/pu/img/7XcoJR5mK-pz8dRA.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1080985768540000256/pu/img/7XcoJR5mK-pz8dRA.jpg",
+						"url": "https://t.co/ZiXaPWqi6M",
+						"display_url": "pic.twitter.com/ZiXaPWqi6M",
+						"expanded_url": "https://twitter.com/thebharatarmy/status/1080987378590728193/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1080985768540000300,
+						"id_str": "1080985768540000256",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1080985768540000256/pu/img/7XcoJR5mK-pz8dRA.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1080985768540000256/pu/img/7XcoJR5mK-pz8dRA.jpg",
+						"url": "https://t.co/ZiXaPWqi6M",
+						"display_url": "pic.twitter.com/ZiXaPWqi6M",
+						"expanded_url": "https://twitter.com/thebharatarmy/status/1080987378590728193/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								360,
+								203
+							],
+							"duration_millis": 37767,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1080985768540000256/pu/vid/720x406/85I203e4CJS0csIc.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1080985768540000256/pu/pl/UJuN_OD9e-IXnKNj.m3u8?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1080985768540000256/pu/vid/318x180/uo7F6eM1Err83fgt.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 281449208,
+				"id_str": "281449208",
+				"name": "The Bharat Army",
+				"screen_name": "thebharatarmy",
+				"location": "Following Team India Worldwide",
+				"description": "Global Indian Cricket Supporters Group Est in 1999. Register as a Member FREE at https://t.co/5QklRtc11q Follow us also on Facebook, Instagram & YouTube.",
+				"url": "https://t.co/5QklRtc11q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5QklRtc11q",
+								"expanded_url": "http://www.bharat-army.com",
+								"display_url": "bharat-army.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5QklRtc11q",
+								"expanded_url": "http://www.bharat-army.com",
+								"display_url": "bharat-army.com",
+								"indices": [
+									81,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12184,
+				"friends_count": 3296,
+				"listed_count": 27,
+				"created_at": "Wed Apr 13 09:31:30 +0000 2011",
+				"favourites_count": 1950,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7078,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/850216615408881664/Z1ZrF0Q3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/850216615408881664/Z1ZrF0Q3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/281449208/1532592682",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 195,
+			"favorite_count": 464,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rishab Pant, he’ll hit you for six then babysit your kids. #AUSvIND https://t.co/gifWItVqRJ"
+	},
+	{
 		"created_at": "Thu Jan 03 10:17:59 +0000 2019",
 		"id": 1080770240709967900,
 		"id_str": "1080770240709967873",
