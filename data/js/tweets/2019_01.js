@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 15 01:35:55 +0000 2019",
+		"id": 1084987512781791200,
+		"id_str": "1084987512781791232",
+		"full_text": "I just realized all the stuff Trump got for Clemson from McDonald's was on their current 2 for $5 menu and I'm wheezing https://t.co/kf3nnT7kO3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084987497367523300,
+					"id_str": "1084987497367523328",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw6mYV5U0AAMXDb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw6mYV5U0AAMXDb.jpg",
+					"url": "https://t.co/kf3nnT7kO3",
+					"display_url": "pic.twitter.com/kf3nnT7kO3",
+					"expanded_url": "https://twitter.com/twitersgoodboy/status/1084987512781791232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 638,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1088,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084987497367523300,
+					"id_str": "1084987497367523328",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw6mYV5U0AAMXDb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw6mYV5U0AAMXDb.jpg",
+					"url": "https://t.co/kf3nnT7kO3",
+					"display_url": "pic.twitter.com/kf3nnT7kO3",
+					"expanded_url": "https://twitter.com/twitersgoodboy/status/1084987512781791232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 638,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1088,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2670661892,
+			"id_str": "2670661892",
+			"name": "TGB",
+			"screen_name": "twitersgoodboy",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8080,
+			"friends_count": 613,
+			"listed_count": 69,
+			"created_at": "Tue Jul 22 21:10:27 +0000 2014",
+			"favourites_count": 312357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 113299,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F20909",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984316590731726850/8ggqOxHJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984316590731726850/8ggqOxHJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2670661892/1536974718",
+			"profile_link_color": "F00928",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 406,
+		"favorite_count": 1468,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I just realized all the stuff Trump got for Clemson from McDonald's was on their current 2 for $5 menu and I'm wheezing https://t.co/kf3nnT7kO3"
+	},
+	{
+		"created_at": "Tue Jan 15 00:10:11 +0000 2019",
+		"id": 1084965935088169000,
+		"id_str": "1084965935088168960",
+		"full_text": "When your Dad organises dinner because your Mom has to work night shift as well as her day job at TSA. https://t.co/tUAQJaccgQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084965926464761900,
+					"id_str": "1084965926464761856",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw6SwwBVsAAwoDj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw6SwwBVsAAwoDj.jpg",
+					"url": "https://t.co/tUAQJaccgQ",
+					"display_url": "pic.twitter.com/tUAQJaccgQ",
+					"expanded_url": "https://twitter.com/danilic/status/1084965935088168960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084965926464761900,
+					"id_str": "1084965926464761856",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw6SwwBVsAAwoDj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw6SwwBVsAAwoDj.jpg",
+					"url": "https://t.co/tUAQJaccgQ",
+					"display_url": "pic.twitter.com/tUAQJaccgQ",
+					"expanded_url": "https://twitter.com/danilic/status/1084965935088168960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15414356,
+			"id_str": "15414356",
+			"name": "DAN iLIC",
+			"screen_name": "danilic",
+			"location": "Sydney, New South Wales",
+			"description": "Comedy Industrialist. Broadcaster. Director. Writer. MC. Hoity-Toity. Mostly sits on Cadigal and Biddigal land. https://t.co/zSvAKT96rD",
+			"url": "https://t.co/zSvAKT96rD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zSvAKT96rD",
+							"expanded_url": "http://danilic.com",
+							"display_url": "danilic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zSvAKT96rD",
+							"expanded_url": "http://danilic.com",
+							"display_url": "danilic.com",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27948,
+			"friends_count": 8219,
+			"listed_count": 609,
+			"created_at": "Sun Jul 13 12:33:17 +0000 2008",
+			"favourites_count": 22418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1886,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1056315670479159297/tUCA9ST3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056315670479159297/tUCA9ST3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15414356/1516232371",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When your Dad organises dinner because your Mom has to work night shift as well as her day job at TSA. https://t.co/tUAQJaccgQ"
+	},
+	{
 		"created_at": "Tue Jan 15 00:10:11 +0000 2019",
 		"id": 1084965935088169000,
 		"id_str": "1084965935088168960",
