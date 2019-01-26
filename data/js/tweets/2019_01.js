@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 02:33:02 +0000 2019",
+		"id": 1087538601909338100,
+		"id_str": "1087538601909338117",
+		"full_text": "Hey Australia... you have spent a couple of years telling us we can't change the date of \"Australia day\". I hope you are all going to work on Monday because that's not Australia Day.  Wouldn't want to #ChangeTheDate now would we?\n\nOr is it all just about having a public holiday?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ChangeTheDate",
+					"indices": [
+						201,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739070594688262100,
+			"id_str": "739070594688262149",
+			"name": "Claire G. Coleman",
+			"screen_name": "clairegcoleman",
+			"location": "",
+			"description": "Wirlomin Noongar, Black&Write Indigenous Writing Fellow. Novel Terra Nullius: AU - @HachetteAus, USA - @smallbeerpress (Photo by Jen Dainer)",
+			"url": "https://t.co/PvnKb0WL9f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PvnKb0WL9f",
+							"expanded_url": "http://www.clairegcoleman.com",
+							"display_url": "clairegcoleman.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3788,
+			"friends_count": 628,
+			"listed_count": 54,
+			"created_at": "Sat Jun 04 12:25:35 +0000 2016",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8248,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/739074469403054081/aZ_GFe5b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/739074469403054081/aZ_GFe5b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739070594688262149/1500384576",
+			"profile_link_color": "4F7C6F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 159,
+		"favorite_count": 670,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hey Australia... you have spent a couple of years telling us we can't change the date of \"Australia day\". I hope you are all going to work on Monday because that's not Australia Day.  Wouldn't want to #ChangeTheDate now would we?\n\nOr is it all just about having a public holiday?"
+	},
+	{
 		"created_at": "Fri Jan 25 22:29:39 +0000 2019",
 		"id": 1088926901865898000,
 		"id_str": "1088926901865897984",
