@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 28 16:58:11 +0000 2019",
+		"id": 1089930651602767900,
+		"id_str": "1089930651602767872",
+		"full_text": "By the age of 30 you should have\n\n1. $10 in your account\n\n2. a knee pain \n\n3. anxiety\n\n4. back pain",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3177913382,
+			"id_str": "3177913382",
+			"name": "Jerry",
+			"screen_name": "Jerrypleasure",
+			"location": "",
+			"description": "𝓵𝓲𝓯𝓮 𝓲𝓼 𝓸𝓷𝓮 𝓫𝓲𝓰 𝔂𝓮𝓮𝓱𝓪𝔀",
+			"url": "https://t.co/bPIyI37B7Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bPIyI37B7Z",
+							"expanded_url": "https://twitter.com/search?q=from:Jerrypleasure/exclude:replies",
+							"display_url": "twitter.com/search?q=from:…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11636,
+			"friends_count": 11460,
+			"listed_count": 102,
+			"created_at": "Tue Apr 28 07:29:38 +0000 2015",
+			"favourites_count": 73440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081418220198866946/uXpndBHp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081418220198866946/uXpndBHp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3177913382/1545393227",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2640,
+		"favorite_count": 17858,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "By the age of 30 you should have\n\n1. $10 in your account\n\n2. a knee pain \n\n3. anxiety\n\n4. back pain"
+	},
+	{
 		"created_at": "Tue Jan 29 09:16:59 +0000 2019",
 		"id": 1090176971013685200,
 		"id_str": "1090176971013685248",
