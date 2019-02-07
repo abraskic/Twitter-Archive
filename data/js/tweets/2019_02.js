@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 06 06:35:15 +0000 2019",
+		"id": 1093035372186034200,
+		"id_str": "1093035372186034176",
+		"full_text": "\"Why do I need a 4Ghz quadcore to run facebook?\" This is why. A single word split up into 11 HTML DOM elements to avoid adblockers. https://t.co/Zv4RfInrL0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093035235103596500,
+					"id_str": "1093035235103596544",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Dys9wVNV4AAdUD5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dys9wVNV4AAdUD5.jpg",
+					"url": "https://t.co/Zv4RfInrL0",
+					"display_url": "pic.twitter.com/Zv4RfInrL0",
+					"expanded_url": "https://twitter.com/themikepan/status/1093035372186034176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1077,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 610,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1149,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093035235103596500,
+					"id_str": "1093035235103596544",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Dys9wVNV4AAdUD5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dys9wVNV4AAdUD5.jpg",
+					"url": "https://t.co/Zv4RfInrL0",
+					"display_url": "pic.twitter.com/Zv4RfInrL0",
+					"expanded_url": "https://twitter.com/themikepan/status/1093035372186034176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1077,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 610,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1149,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 281865058,
+			"id_str": "281865058",
+			"name": "Mike Pan",
+			"screen_name": "themikepan",
+			"location": "Vancouver, Canada",
+			"description": "3D Artist, Blender advocate. Dad. Founder and Art Director of https://t.co/YJVnNEytPA.  IMDB: https://t.co/97d0vQ7BvM",
+			"url": "https://t.co/pedRU9gz3z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pedRU9gz3z",
+							"expanded_url": "http://mikepan.com",
+							"display_url": "mikepan.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YJVnNEytPA",
+							"expanded_url": "http://ThePixelary.com",
+							"display_url": "ThePixelary.com",
+							"indices": [
+								62,
+								85
+							]
+						},
+						{
+							"url": "https://t.co/97d0vQ7BvM",
+							"expanded_url": "https://www.imdb.com/name/nm5319287/",
+							"display_url": "imdb.com/name/nm5319287/",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5016,
+			"friends_count": 494,
+			"listed_count": 154,
+			"created_at": "Thu Apr 14 03:42:57 +0000 2011",
+			"favourites_count": 1851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4704,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/717090579776032768/CYiVtWhd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/717090579776032768/CYiVtWhd_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2114,
+		"favorite_count": 3141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Why do I need a 4Ghz quadcore to run facebook?\" This is why. A single word split up into 11 HTML DOM elements to avoid adblockers. https://t.co/Zv4RfInrL0"
+	},
+	{
 		"created_at": "Wed Feb 06 11:36:25 +0000 2019",
 		"id": 1093111165603872800,
 		"id_str": "1093111165603872769",
