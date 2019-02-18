@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 17 13:32:31 +0000 2019",
+		"id": 1097126648384815100,
+		"id_str": "1097126648384815105",
+		"full_text": "The Olsen twins look like one of them knows how you die and the other knows when you die. https://t.co/1yKtpyruyD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097126640944119800,
+					"id_str": "1097126640944119809",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DznG3fsXgAE0_9c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznG3fsXgAE0_9c.jpg",
+					"url": "https://t.co/1yKtpyruyD",
+					"display_url": "pic.twitter.com/1yKtpyruyD",
+					"expanded_url": "https://twitter.com/lezjc/status/1097126648384815105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1028,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1028,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 446,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097126640944119800,
+					"id_str": "1097126640944119809",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DznG3fsXgAE0_9c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznG3fsXgAE0_9c.jpg",
+					"url": "https://t.co/1yKtpyruyD",
+					"display_url": "pic.twitter.com/1yKtpyruyD",
+					"expanded_url": "https://twitter.com/lezjc/status/1097126648384815105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1028,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1028,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 446,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097126640948265000,
+					"id_str": "1097126640948264960",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DznG3ftWwAAjypC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznG3ftWwAAjypC.jpg",
+					"url": "https://t.co/1yKtpyruyD",
+					"display_url": "pic.twitter.com/1yKtpyruyD",
+					"expanded_url": "https://twitter.com/lezjc/status/1097126648384815105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 820,
+							"h": 492,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 492,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097126640944066600,
+					"id_str": "1097126640944066565",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DznG3fsWsAUc-1b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznG3fsWsAUc-1b.jpg",
+					"url": "https://t.co/1yKtpyruyD",
+					"display_url": "pic.twitter.com/1yKtpyruyD",
+					"expanded_url": "https://twitter.com/lezjc/status/1097126648384815105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1320,
+							"h": 1980,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27326298,
+			"id_str": "27326298",
+			"name": "Miles JC",
+			"screen_name": "lezjc",
+			"location": "Birmingham, England",
+			"description": "Linda from HR.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1028,
+			"friends_count": 727,
+			"listed_count": 9,
+			"created_at": "Sat Mar 28 22:47:31 +0000 2009",
+			"favourites_count": 4607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089520944249520128/NtaSvTjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089520944249520128/NtaSvTjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27326298/1547118334",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "53b67b1d1cc81a51",
+			"url": "https://api.twitter.com/1.1/geo/id/53b67b1d1cc81a51.json",
+			"place_type": "city",
+			"name": "Birmingham",
+			"full_name": "Birmingham, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-2.033651,
+							52.381063
+						],
+						[
+							-1.74763,
+							52.381063
+						],
+						[
+							-1.74763,
+							52.60687
+						],
+						[
+							-2.033651,
+							52.60687
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16332,
+		"favorite_count": 71562,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Olsen twins look like one of them knows how you die and the other knows when you die. https://t.co/1yKtpyruyD"
+	},
+	{
 		"created_at": "Mon Feb 18 01:43:42 +0000 2019",
 		"id": 1097310659132289000,
 		"id_str": "1097310659132289024",
