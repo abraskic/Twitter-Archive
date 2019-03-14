@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 14 21:07:11 +0000 2019",
+		"id": 849255232202604500,
+		"id_str": "1106300765755236353",
+		"full_text": "If you wouldn't walk on it, why expect people to ride on it? East Parade, East Perth https://t.co/9QeAjbqSHc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 849254390821134300,
+					"id_str": "849254390821134336",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/C8koXnDVoAA3pX7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8koXnDVoAA3pX7.jpg",
+					"url": "https://t.co/9QeAjbqSHc",
+					"display_url": "pic.twitter.com/9QeAjbqSHc",
+					"expanded_url": "https://twitter.com/perthbiker/status/849255232202604544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1378,
+							"h": 905,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 849254390821134300,
+					"id_str": "849254390821134336",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/C8koXnDVoAA3pX7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8koXnDVoAA3pX7.jpg",
+					"url": "https://t.co/9QeAjbqSHc",
+					"display_url": "pic.twitter.com/9QeAjbqSHc",
+					"expanded_url": "https://twitter.com/perthbiker/status/849255232202604544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1378,
+							"h": 905,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 482943865,
+			"id_str": "482943865",
+			"name": "Tim Burns",
+			"screen_name": "perthbiker",
+			"location": "Perth Australia",
+			"description": "Life is more interesting walking, riding bicycles, trains and buses. And ferries.",
+			"url": "https://t.co/xdDxEWZh7T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xdDxEWZh7T",
+							"expanded_url": "http://bicycleperth.blogspot.com.au/",
+							"display_url": "bicycleperth.blogspot.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 307,
+			"listed_count": 26,
+			"created_at": "Sat Feb 04 13:36:57 +0000 2012",
+			"favourites_count": 2007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2180,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106075996657074176/g3bjK3WX_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106075996657074176/g3bjK3WX_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/482943865/1500168302",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 488,
+		"favorite_count": 684,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you wouldn't walk on it, why expect people to ride on it? East Parade, East Perth https://t.co/9QeAjbqSHc"
+	},
+	{
 		"created_at": "Thu Mar 14 12:41:17 +0000 2019",
 		"id": 1106173451130167300,
 		"id_str": "1106173451130167296",
