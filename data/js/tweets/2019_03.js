@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 26 23:16:34 +0000 2019",
+		"id": 1110320280751104000,
+		"id_str": "1110681980629204993",
+		"full_text": "Hey guys, it’s ‘Drink from a toilet if you voted for Mark Latham Day’!\nIt doesn’t have to be yours, it can be a friends, or even a public toilet!\nSo just remember, this is your day - if you voted for Mark Latham, get out there and drink from a toilet!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22885750,
+			"id_str": "22885750",
+			"name": "Hilltop Hoods",
+			"screen_name": "hilltophoods",
+			"location": "Adelaide, Australia",
+			"description": "‘The Great Expanse’ is out now!",
+			"url": "https://t.co/RHQBEx1Dw9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RHQBEx1Dw9",
+							"expanded_url": "https://hilltophoods.lnk.to/TheGreatExpanse",
+							"display_url": "hilltophoods.lnk.to/TheGreatExpanse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82850,
+			"friends_count": 675,
+			"listed_count": 456,
+			"created_at": "Thu Mar 05 05:32:47 +0000 2009",
+			"favourites_count": 6723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17887,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065724832464089088/xEaxEGoA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065724832464089088/xEaxEGoA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22885750/1550817548",
+			"profile_link_color": "F50A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "1D1B1B",
+			"profile_text_color": "AAAAAA",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 283,
+		"favorite_count": 1354,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hey guys, it’s ‘Drink from a toilet if you voted for Mark Latham Day’!\nIt doesn’t have to be yours, it can be a friends, or even a public toilet!\nSo just remember, this is your day - if you voted for Mark Latham, get out there and drink from a toilet!"
+	},
+	{
 		"created_at": "Tue Mar 26 10:07:20 +0000 2019",
 		"id": 1110483364962693100,
 		"id_str": "1110483364962693120",
