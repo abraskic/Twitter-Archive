@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 28 11:03:07 +0000 2019",
+		"id": 1110290383995572200,
+		"id_str": "1111222176403742725",
+		"full_text": "On Twitter dot com, the people are represented by two separate but equally important groups:\n\nThe Experts, who dedicate their lives to the study of their chosen field, and the Reply Guys, who are “pretty sure they know what they’re talking about.”\n\nThese are their stories.\n\n🔔🔔",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 888066140710293500,
+			"id_str": "888066140710293504",
+			"name": "The Warax. 🦛💨",
+			"screen_name": "iAmTheWarax",
+			"location": "Washington, DC",
+			"description": "i am the warax and i speak for all veterans, yes, especially you. information warfare sexxxpert and co-host of @waraxandnatasha podcast.",
+			"url": "https://t.co/ZhG1RHzGgd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZhG1RHzGgd",
+							"expanded_url": "http://patreon.com/waraxandnatasha",
+							"display_url": "patreon.com/waraxandnatasha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19605,
+			"friends_count": 735,
+			"listed_count": 175,
+			"created_at": "Thu Jul 20 16:00:42 +0000 2017",
+			"favourites_count": 72266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40471,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109151297331253249/M5mScuPV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109151297331253249/M5mScuPV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/888066140710293504/1552764805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3895,
+		"favorite_count": 16209,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "On Twitter dot com, the people are represented by two separate but equally important groups:\n\nThe Experts, who dedicate their lives to the study of their chosen field, and the Reply Guys, who are “pretty sure they know what they’re talking about.”\n\nThese are their stories.\n\n🔔🔔"
+	},
+	{
 		"created_at": "Thu Mar 28 09:50:15 +0000 2019",
 		"id": 1111203840877948900,
 		"id_str": "1111203840877948928",
