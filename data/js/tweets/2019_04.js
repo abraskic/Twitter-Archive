@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 02 08:42:31 +0000 2019",
+		"id": 1112748234559144000,
+		"id_str": "1112998735326269440",
+		"full_text": "The end is nigh! \n\nhttps://t.co/fjrtCOOFN1 https://t.co/Ops2zAIQra",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fjrtCOOFN1",
+					"expanded_url": "https://imgur.com/gallery/0WrZVLb",
+					"display_url": "imgur.com/gallery/0WrZVLb",
+					"indices": [
+						19,
+						42
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1112748026332934100,
+					"id_str": "1112748026332934151",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112748026332934151/pu/img/8mvUuQpqcaePsvs0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112748026332934151/pu/img/8mvUuQpqcaePsvs0.jpg",
+					"url": "https://t.co/Ops2zAIQra",
+					"display_url": "pic.twitter.com/Ops2zAIQra",
+					"expanded_url": "https://twitter.com/imgur/status/1112748234559143936/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112748026332934100,
+					"id_str": "1112748026332934151",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112748026332934151/pu/img/8mvUuQpqcaePsvs0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112748026332934151/pu/img/8mvUuQpqcaePsvs0.jpg",
+					"url": "https://t.co/Ops2zAIQra",
+					"display_url": "pic.twitter.com/Ops2zAIQra",
+					"expanded_url": "https://twitter.com/imgur/status/1112748234559143936/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 12600,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1112748026332934151/pu/vid/480x480/rI6-ca2LxoOiVtpr.mp4?tag=8"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1112748026332934151/pu/vid/720x720/M_Mi4g2dXKC59MIZ.mp4?tag=8"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1112748026332934151/pu/vid/320x320/-Xif5oDE4dZTy4eQ.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1112748026332934151/pu/pl/jDlzlWnpc4OuTpMO.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113211856,
+			"id_str": "113211856",
+			"name": "Imgur",
+			"screen_name": "imgur",
+			"location": "On the interwebs",
+			"description": "meh",
+			"url": "https://t.co/L1qVX1SkAT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L1qVX1SkAT",
+							"expanded_url": "http://imgur.com",
+							"display_url": "imgur.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200552,
+			"friends_count": 343,
+			"listed_count": 1773,
+			"created_at": "Thu Feb 11 02:17:35 +0000 2010",
+			"favourites_count": 6975,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21840,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "121211",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112777002073931776/xR2ZYH5O_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112777002073931776/xR2ZYH5O_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113211856/1551107770",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6766,
+		"favorite_count": 27003,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The end is nigh! \n\nhttps://t.co/fjrtCOOFN1 https://t.co/Ops2zAIQra"
+	},
+	{
 		"created_at": "Tue Apr 02 00:03:34 +0000 2019",
 		"id": 1112868137664360400,
 		"id_str": "1112868137664360448",
