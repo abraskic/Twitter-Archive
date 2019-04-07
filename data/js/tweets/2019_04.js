@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 07 01:11:41 +0000 2019",
+		"id": 1114198604573499400,
+		"id_str": "1114697218215120897",
+		"full_text": "DRINKING AT 25: Hell yeah let's go out all night and go straight to work \n\nDRINKING AT 35: Dear diary, I had a beer last month. I've had a hangover for two fortnight. I fear this is the end",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 606441611,
+			"id_str": "606441611",
+			"name": "Michael",
+			"screen_name": "Home_Halfway",
+			"location": "Chicago, IL",
+			"description": "Up-and-coming stand-up comedy producer, admin of @FeministNetflix.",
+			"url": "https://t.co/OGy34hMTVC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OGy34hMTVC",
+							"expanded_url": "https://www.gofundme.com/aidons-les-chats-des-rues",
+							"display_url": "gofundme.com/aidons-les-cha…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71545,
+			"friends_count": 2989,
+			"listed_count": 1689,
+			"created_at": "Tue Jun 12 16:25:41 +0000 2012",
+			"favourites_count": 770240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62458,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/584008679453655041/tuUu6UyI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/584008679453655041/tuUu6UyI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/606441611/1498360610",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7297,
+		"favorite_count": 70252,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "DRINKING AT 25: Hell yeah let's go out all night and go straight to work \n\nDRINKING AT 35: Dear diary, I had a beer last month. I've had a hangover for two fortnight. I fear this is the end"
+	},
+	{
 		"created_at": "Sat Apr 06 23:44:00 +0000 2019",
 		"id": 1114675152560635900,
 		"id_str": "1114675152560635904",
