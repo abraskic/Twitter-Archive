@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 07 21:55:39 +0000 2019",
+		"id": 1114961887932948500,
+		"id_str": "1115010272966479873",
+		"full_text": "Neo’s passport in The Matrix expires on September 11, 2001 https://t.co/0jQM7n0AyJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114961878013419500,
+					"id_str": "1114961878013419520",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/D3kj67UXoAApgmV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3kj67UXoAApgmV.jpg",
+					"url": "https://t.co/0jQM7n0AyJ",
+					"display_url": "pic.twitter.com/0jQM7n0AyJ",
+					"expanded_url": "https://twitter.com/RealEOC/status/1114961887932948480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 606,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 606,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114961878013419500,
+					"id_str": "1114961878013419520",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/D3kj67UXoAApgmV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3kj67UXoAApgmV.jpg",
+					"url": "https://t.co/0jQM7n0AyJ",
+					"display_url": "pic.twitter.com/0jQM7n0AyJ",
+					"expanded_url": "https://twitter.com/RealEOC/status/1114961887932948480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 606,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 606,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4147973081,
+			"id_str": "4147973081",
+			"name": "Eyes On Cinema",
+			"screen_name": "RealEOC",
+			"location": "The Dutch Lowlands of Europe",
+			"description": "YouTube channel that brings you to the sets, suites & interview halls of some of the most influential filmmakers — their crafts, philosophies & inspirations.",
+			"url": "https://t.co/GYKfiHMFih",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GYKfiHMFih",
+							"expanded_url": "https://www.youtube.com/channel/UCtPx9e7WNFtvtHaAU6WqXlA",
+							"display_url": "youtube.com/channel/UCtPx9…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60522,
+			"friends_count": 0,
+			"listed_count": 820,
+			"created_at": "Mon Nov 09 08:54:59 +0000 2015",
+			"favourites_count": 11328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4811,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/674021019384868864/qTk2uHh4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/674021019384868864/qTk2uHh4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4147973081/1450045050",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 605,
+		"favorite_count": 2840,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Neo’s passport in The Matrix expires on September 11, 2001 https://t.co/0jQM7n0AyJ"
+	},
+	{
 		"created_at": "Sun Apr 07 14:48:06 +0000 2019",
 		"id": 1114902676376961000,
 		"id_str": "1114902676376961024",
