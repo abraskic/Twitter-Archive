@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 11 23:27:26 +0000 2019",
+		"id": 1116482923417362400,
+		"id_str": "1116482923417362432",
+		"full_text": "@Barnsy_Lisa Hasn’t stopped anybody yet. People just seem to do whatever speed limit they want. No consideration for others.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Barnsy_Lisa",
+					"name": "Lisa Barnes",
+					"id": 29326170,
+					"id_str": "29326170",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1116480545817391100,
+		"in_reply_to_status_id_str": "1116480545817391104",
+		"in_reply_to_user_id": 29326170,
+		"in_reply_to_user_id_str": "29326170",
+		"in_reply_to_screen_name": "Barnsy_Lisa",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 64,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74749,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Barnsy_Lisa Hasn’t stopped anybody yet. People just seem to do whatever speed limit they want. No consideration for others."
+	},
+	{
+		"created_at": "Thu Apr 11 23:24:47 +0000 2019",
+		"id": 1116472292576387100,
+		"id_str": "1116482255071744001",
+		"full_text": "For those whom asked for it, here is my 5X5 Risk Matrix tailored for the Australian landscape..  #risk #australian https://t.co/WTrAmuARXk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "risk",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "australian",
+					"indices": [
+						103,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116472256031367200,
+					"id_str": "1116472256031367168",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/D36Bmf5UIAAbul4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D36Bmf5UIAAbul4.jpg",
+					"url": "https://t.co/WTrAmuARXk",
+					"display_url": "pic.twitter.com/WTrAmuARXk",
+					"expanded_url": "https://twitter.com/ericpink/status/1116472292576387072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1426,
+							"h": 779,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 371,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 656,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116472256031367200,
+					"id_str": "1116472256031367168",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/D36Bmf5UIAAbul4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D36Bmf5UIAAbul4.jpg",
+					"url": "https://t.co/WTrAmuARXk",
+					"display_url": "pic.twitter.com/WTrAmuARXk",
+					"expanded_url": "https://twitter.com/ericpink/status/1116472292576387072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1426,
+							"h": 779,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 371,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 656,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18996345,
+			"id_str": "18996345",
+			"name": "Eric the half a bee 🐝",
+			"screen_name": "ericpink",
+			"location": "Sydney, New South Wales",
+			"description": "X5O!P%@AP[4\\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 328,
+			"friends_count": 1227,
+			"listed_count": 13,
+			"created_at": "Wed Jan 14 21:19:10 +0000 2009",
+			"favourites_count": 3174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3302,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065763050240729089/iix30mi__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065763050240729089/iix30mi__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18996345/1518735553",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For those whom asked for it, here is my 5X5 Risk Matrix tailored for the Australian landscape..  #risk #australian https://t.co/WTrAmuARXk"
+	},
+	{
+		"created_at": "Thu Apr 11 23:24:09 +0000 2019",
+		"id": 1116482097311412200,
+		"id_str": "1116482097311412224",
+		"full_text": "Except for the part where they cost you money every month to make them run, in which case they’re a “liability” (the opposite of an asset). https://t.co/Tq89GKF0vL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tq89GKF0vL",
+					"expanded_url": "https://twitter.com/captainbruce5/status/1116477136221556736",
+					"display_url": "twitter.com/captainbruce5/…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 64,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74749,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1116477136221556700,
+		"quoted_status_id_str": "1116477136221556736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Tq89GKF0vL",
+			"expanded": "https://twitter.com/captainbruce5/status/1116477136221556736",
+			"display": "twitter.com/captainbruce5/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 11 23:04:27 +0000 2019",
+			"id": 1116477136221556700,
+			"id_str": "1116477136221556736",
+			"full_text": "@mattjhatton @RealMarkLatham A car is an asset in every sense of the word.",
+			"truncated": false,
+			"display_text_range": [
+				29,
+				74
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mattjhatton",
+						"name": "Matthew Hatton",
+						"id": 2816182406,
+						"id_str": "2816182406",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "RealMarkLatham",
+						"name": "Real Mark Latham",
+						"id": 2904009019,
+						"id_str": "2904009019",
+						"indices": [
+							13,
+							28
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1116183194980634600,
+			"in_reply_to_status_id_str": "1116183194980634624",
+			"in_reply_to_user_id": 2816182406,
+			"in_reply_to_user_id_str": "2816182406",
+			"in_reply_to_screen_name": "mattjhatton",
+			"user": {
+				"id": 1017903417207877600,
+				"id_str": "1017903417207877632",
+				"name": "Big Chungus",
+				"screen_name": "CaptainBruce5",
+				"location": "Cobar",
+				"description": "If things don't go your way, just keep complaining until your dreams come true. - Bill Clinton 1993, and the motto of most of you imbeciles on here.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41,
+				"friends_count": 275,
+				"listed_count": 2,
+				"created_at": "Fri Jul 13 22:47:41 +0000 2018",
+				"favourites_count": 645,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2307,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1093815613397422080/ah2PGLZU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093815613397422080/ah2PGLZU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1017903417207877632/1548717886",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Except for the part where they cost you money every month to make them run, in which case they’re a “liability” (the opposite of an asset). https://t.co/Tq89GKF0vL"
+	},
+	{
 		"created_at": "Thu Apr 11 21:38:58 +0000 2019",
 		"id": 1116455625381138400,
 		"id_str": "1116455625381138432",
