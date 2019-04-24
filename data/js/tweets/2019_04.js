@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 23:20:21 +0000 2019",
+		"id": 1120829795141443600,
+		"id_str": "1120829795141443584",
+		"full_text": "@navesssa I answered this question during an experiment at Christmas time four years ago. https://t.co/61GhZNr1SU",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "navesssa",
+					"name": "Vanessa Santiago 🦋🌴",
+					"id": 25957821,
+					"id_str": "25957821",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/61GhZNr1SU",
+					"expanded_url": "https://twitter.com/braskic/status/547755063754502145?s=21",
+					"display_url": "twitter.com/braskic/status…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1120826158109450200,
+		"in_reply_to_status_id_str": "1120826158109450240",
+		"in_reply_to_user_id": 25957821,
+		"in_reply_to_user_id_str": "25957821",
+		"in_reply_to_screen_name": "navesssa",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 63,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74791,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 547755063754502140,
+		"quoted_status_id_str": "547755063754502145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/61GhZNr1SU",
+			"expanded": "https://twitter.com/braskic/status/547755063754502145?s=21",
+			"display": "twitter.com/braskic/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 24 14:05:58 +0000 2014",
+			"id": 547755063754502140,
+			"id_str": "547755063754502145",
+			"full_text": "What's the maximum number of Ferrero Rocher the human body can consume in one sitting without rejection? 38. The correct answer is 38.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				134
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14866613,
+				"id_str": "14866613",
+				"name": "Andrew Braskic",
+				"screen_name": "braskic",
+				"location": "Banksia Grove, Australia",
+				"description": "Too cheap for the good shit, too good for the cheap shit.",
+				"url": "https://t.co/bH9IVISfAv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bH9IVISfAv",
+								"expanded_url": "http://brask.cc/",
+								"display_url": "brask.cc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 256,
+				"friends_count": 63,
+				"listed_count": 24,
+				"created_at": "Thu May 22 09:52:24 +0000 2008",
+				"favourites_count": 2992,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 74791,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": {
+				"type": "Point",
+				"coordinates": [
+					-31.70069472,
+					115.79589597
+				]
+			},
+			"coordinates": {
+				"type": "Point",
+				"coordinates": [
+					115.79589597,
+					-31.70069472
+				]
+			},
+			"place": {
+				"id": "0118c71c0ed41109",
+				"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+				"place_type": "city",
+				"name": "Perth (WA)",
+				"full_name": "Perth, Western Australia",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								115.617614368,
+								-32.675715325
+							],
+							[
+								116.239023008,
+								-32.675715325
+							],
+							[
+								116.239023008,
+								-31.6244855145
+							],
+							[
+								115.617614368,
+								-31.6244855145
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@navesssa I answered this question during an experiment at Christmas time four years ago. https://t.co/61GhZNr1SU"
+	},
+	{
+		"created_at": "Tue Apr 23 23:15:42 +0000 2019",
+		"id": 1120817821875753000,
+		"id_str": "1120828625413001217",
+		"full_text": "Fuck yeah https://t.co/rrc2xhyodZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1120817791748100100,
+					"id_str": "1120817791748100096",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D43x198VUAA2XpN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D43x198VUAA2XpN.jpg",
+					"url": "https://t.co/rrc2xhyodZ",
+					"display_url": "pic.twitter.com/rrc2xhyodZ",
+					"expanded_url": "https://twitter.com/peterwells/status/1120817821875752961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120817791748100100,
+					"id_str": "1120817791748100096",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D43x198VUAA2XpN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D43x198VUAA2XpN.jpg",
+					"url": "https://t.co/rrc2xhyodZ",
+					"display_url": "pic.twitter.com/rrc2xhyodZ",
+					"expanded_url": "https://twitter.com/peterwells/status/1120817821875752961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56873,
+			"id_str": "56873",
+			"name": "Peter Wells",
+			"screen_name": "peterwells",
+			"location": "Melbourne",
+			"description": "Writes for @theage and @smh on technology and podcasts - works at Swinburne Uni as a Mac Admin - tweets are mine.  peterwells@fairfaxmedia.com.au",
+			"url": "https://t.co/S1Yjxxq1Ex",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S1Yjxxq1Ex",
+							"expanded_url": "https://www.smh.com.au/by/peter-wells-ghu8k2",
+							"display_url": "smh.com.au/by/peter-wells…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4952,
+			"friends_count": 990,
+			"listed_count": 299,
+			"created_at": "Mon Dec 11 07:38:06 +0000 2006",
+			"favourites_count": 4223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46921,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1014445259013492737/2OCZJH6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014445259013492737/2OCZJH6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56873/1474844248",
+			"profile_link_color": "909496",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fuck yeah https://t.co/rrc2xhyodZ"
+	},
+	{
 		"created_at": "Tue Apr 23 07:42:03 +0000 2019",
 		"id": 1120593664030339100,
 		"id_str": "1120593664030339073",
