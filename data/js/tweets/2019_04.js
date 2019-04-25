@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 25 06:10:45 +0000 2019",
+		"id": 1121226340085243900,
+		"id_str": "1121295460944080896",
+		"full_text": "this monkey is like. properly browsing insta and it's messing with me https://t.co/9hFIQWEJsN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121226278596751400,
+					"id_str": "1121226278596751360",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121226278596751360/pu/img/OM8PssHz9R6fLQAV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121226278596751360/pu/img/OM8PssHz9R6fLQAV.jpg",
+					"url": "https://t.co/9hFIQWEJsN",
+					"display_url": "pic.twitter.com/9hFIQWEJsN",
+					"expanded_url": "https://twitter.com/dsemumi/status/1121226340085243904/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121226278596751400,
+					"id_str": "1121226278596751360",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121226278596751360/pu/img/OM8PssHz9R6fLQAV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121226278596751360/pu/img/OM8PssHz9R6fLQAV.jpg",
+					"url": "https://t.co/9hFIQWEJsN",
+					"display_url": "pic.twitter.com/9hFIQWEJsN",
+					"expanded_url": "https://twitter.com/dsemumi/status/1121226340085243904/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 59833,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121226278596751360/pu/vid/320x400/u4jC24B40NJhSglS.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1121226278596751360/pu/pl/Qun-JRbfvWgQq1bJ.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121226278596751360/pu/vid/384x480/kn17wW4UjxiPJDTZ.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2357615413,
+			"id_str": "2357615413",
+			"name": "danny",
+			"screen_name": "dsemumi",
+			"location": "nc",
+			"description": "🇪🇬 🇸🇩",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 845,
+			"friends_count": 271,
+			"listed_count": 22,
+			"created_at": "Sun Feb 23 07:16:58 +0000 2014",
+			"favourites_count": 36044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20644,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FBF9FF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119333812364873728/gDHPyjVY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119333812364873728/gDHPyjVY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2357615413/1548167250",
+			"profile_link_color": "2B882B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9946,
+		"favorite_count": 33179,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this monkey is like. properly browsing insta and it's messing with me https://t.co/9hFIQWEJsN"
+	},
+	{
 		"created_at": "Thu Apr 25 05:11:46 +0000 2019",
 		"id": 1121280618958970900,
 		"id_str": "1121280618958970880",
