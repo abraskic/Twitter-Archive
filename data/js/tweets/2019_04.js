@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 30 13:55:24 +0000 2019",
+		"id": 1123224333151653900,
+		"id_str": "1123224333151653888",
+		"full_text": "Which is great but you probably shouldn't be checking your phone while driving in the first place. https://t.co/hYPhojgxA6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hYPhojgxA6",
+					"expanded_url": "https://twitter.com/westaustralian/status/1123029279850291201",
+					"display_url": "twitter.com/westaustralian…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 64,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2994,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74811,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1123029279850291200,
+		"quoted_status_id_str": "1123029279850291201",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hYPhojgxA6",
+			"expanded": "https://twitter.com/westaustralian/status/1123029279850291201",
+			"display": "twitter.com/westaustralian…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 30 01:00:19 +0000 2019",
+			"id": 1123029279850291200,
+			"id_str": "1123029279850291201",
+			"full_text": "PSA: You'll be receiving speeding fines via email or text message in the very near future: https://t.co/Ho0zDDfmKA #perthnews https://t.co/HZf7ITPQ5b",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				125
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "perthnews",
+						"indices": [
+							115,
+							125
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ho0zDDfmKA",
+						"expanded_url": "http://bit.ly/2J5ckgL",
+						"display_url": "bit.ly/2J5ckgL",
+						"indices": [
+							91,
+							114
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1123029273244241900,
+						"id_str": "1123029273244241920",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/D5XNLIgWkAAWHq8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5XNLIgWkAAWHq8.jpg",
+						"url": "https://t.co/HZf7ITPQ5b",
+						"display_url": "pic.twitter.com/HZf7ITPQ5b",
+						"expanded_url": "https://twitter.com/westaustralian/status/1123029279850291201/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1330,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 779,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1123029273244241900,
+						"id_str": "1123029273244241920",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/D5XNLIgWkAAWHq8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5XNLIgWkAAWHq8.jpg",
+						"url": "https://t.co/HZf7ITPQ5b",
+						"display_url": "pic.twitter.com/HZf7ITPQ5b",
+						"expanded_url": "https://twitter.com/westaustralian/status/1123029279850291201/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1330,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 779,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26417909,
+				"id_str": "26417909",
+				"name": "The West Australian",
+				"screen_name": "westaustralian",
+				"location": "Perth, Western Australia",
+				"description": "The leading news source in Perth and WA. Tweet us your tips!",
+				"url": "https://t.co/TBscO0kpF0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TBscO0kpF0",
+								"expanded_url": "http://www.thewest.com.au",
+								"display_url": "thewest.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 169455,
+				"friends_count": 767,
+				"listed_count": 1268,
+				"created_at": "Wed Mar 25 03:24:02 +0000 2009",
+				"favourites_count": 305,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 84396,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/879270316110827520/AyRxPoen_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/879270316110827520/AyRxPoen_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26417909/1481483779",
+				"profile_link_color": "2868AF",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "282E33",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Which is great but you probably shouldn't be checking your phone while driving in the first place. https://t.co/hYPhojgxA6"
+	},
+	{
 		"created_at": "Tue Apr 30 08:43:57 +0000 2019",
 		"id": 1123145956168323100,
 		"id_str": "1123145956168323072",
