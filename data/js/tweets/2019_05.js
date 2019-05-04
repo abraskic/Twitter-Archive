@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 04 02:17:48 +0000 2019",
+		"id": 1124479716163866600,
+		"id_str": "1124498328220078082",
+		"full_text": "The economy is not strong. Inflation is zero and the RBA is cutting rates on Tuesday.  https://t.co/Y7km4LotJ2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y7km4LotJ2",
+					"expanded_url": "https://twitter.com/liberalaus/status/1124425901377122304",
+					"display_url": "twitter.com/liberalaus/sta…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90360929,
+			"id_str": "90360929",
+			"name": "Ben Eltham",
+			"screen_name": "beneltham",
+			"location": "Melbourne",
+			"description": "National Affairs Correspondent, New Matilda; arts journalist, Crikey; Lecturer, Monash University.",
+			"url": "https://t.co/Tkerq7Wz4J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tkerq7Wz4J",
+							"expanded_url": "https://newmatilda.com/author/ben-eltham/",
+							"display_url": "newmatilda.com/author/ben-elt…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34287,
+			"friends_count": 6104,
+			"listed_count": 692,
+			"created_at": "Mon Nov 16 09:40:20 +0000 2009",
+			"favourites_count": 9964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 75874,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982602435947511810/kYXinUST_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982602435947511810/kYXinUST_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90360929/1398643994",
+			"profile_link_color": "B30009",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1124425901377122300,
+		"quoted_status_id_str": "1124425901377122304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Y7km4LotJ2",
+			"expanded": "https://twitter.com/liberalaus/status/1124425901377122304",
+			"display": "twitter.com/liberalaus/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 03 21:30:00 +0000 2019",
+			"id": 1124425901377122300,
+			"id_str": "1124425901377122304",
+			"full_text": "The economy is strong with this one. #StarWarsDay #MayThe4thBeWithYou https://t.co/xhR8znXVJe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				69
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StarWarsDay",
+						"indices": [
+							37,
+							49
+						]
+					},
+					{
+						"text": "MayThe4thBeWithYou",
+						"indices": [
+							50,
+							69
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1124266019319455700,
+						"id_str": "1124266019319455744",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/D5ox_OqUIAA_etm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5ox_OqUIAA_etm.jpg",
+						"url": "https://t.co/xhR8znXVJe",
+						"display_url": "pic.twitter.com/xhR8znXVJe",
+						"expanded_url": "https://twitter.com/LiberalAus/status/1124425901377122304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 540,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1124266019319455700,
+						"id_str": "1124266019319455744",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/D5ox_OqUIAA_etm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5ox_OqUIAA_etm.jpg",
+						"url": "https://t.co/xhR8znXVJe",
+						"display_url": "pic.twitter.com/xhR8znXVJe",
+						"expanded_url": "https://twitter.com/LiberalAus/status/1124425901377122304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 540,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28739612,
+				"id_str": "28739612",
+				"name": "Liberal Party",
+				"screen_name": "LiberalAus",
+				"location": "Australia",
+				"description": "#BuildingOurEconomy. \n\nAuthorised by A. Hirst, Liberal Party of Australia, Cnr Blackall & Macquarie Streets, Barton ACT 2600.",
+				"url": "https://t.co/lm6Uh4R7Em",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lm6Uh4R7Em",
+								"expanded_url": "https://www.liberal.org.au",
+								"display_url": "liberal.org.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 131562,
+				"friends_count": 350,
+				"listed_count": 1235,
+				"created_at": "Sat Apr 04 04:27:55 +0000 2009",
+				"favourites_count": 120,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10727,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "006FB3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1116094390680702977/6U8Ue-sE_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116094390680702977/6U8Ue-sE_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28739612/1554934460",
+				"profile_link_color": "16305E",
+				"profile_sidebar_border_color": "569FE8",
+				"profile_sidebar_fill_color": "E5F2F8",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 99,
+			"favorite_count": 295,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 57,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The economy is not strong. Inflation is zero and the RBA is cutting rates on Tuesday.  https://t.co/Y7km4LotJ2"
+	},
+	{
 		"created_at": "Sat May 04 01:32:52 +0000 2019",
 		"id": 1124487021924237300,
 		"id_str": "1124487021924237312",
