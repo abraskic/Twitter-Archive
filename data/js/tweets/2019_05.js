@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 06 04:31:06 +0000 2019",
+		"id": 1125027053882028000,
+		"id_str": "1125256650909110273",
+		"full_text": "Security to aisle 7. Shoplifting in progress. There's no rush. https://t.co/xjPSDIepYT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125026999645474800,
+					"id_str": "1125026999645474818",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1125026999645474818/pu/img/hjSGaWHVPardmRuu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1125026999645474818/pu/img/hjSGaWHVPardmRuu.jpg",
+					"url": "https://t.co/xjPSDIepYT",
+					"display_url": "pic.twitter.com/xjPSDIepYT",
+					"expanded_url": "https://twitter.com/SlenderSherbet/status/1125027053882028033/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 482,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 482,
+							"h": 854,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125026999645474800,
+					"id_str": "1125026999645474818",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1125026999645474818/pu/img/hjSGaWHVPardmRuu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1125026999645474818/pu/img/hjSGaWHVPardmRuu.jpg",
+					"url": "https://t.co/xjPSDIepYT",
+					"display_url": "pic.twitter.com/xjPSDIepYT",
+					"expanded_url": "https://twitter.com/SlenderSherbet/status/1125027053882028033/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 482,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 482,
+							"h": 854,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							241,
+							427
+						],
+						"duration_millis": 14000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1125026999645474818/pu/vid/360x636/g6qHvDN6oy_fTwYW.mp4?tag=9"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1125026999645474818/pu/vid/320x566/q6xv2AKub-sNulGU.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1125026999645474818/pu/pl/hP-tpe44TX_Qs5BM.m3u8?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1125026999645474818/pu/vid/482x854/Z-md0tj8FBaGp9aq.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1041334590768525300,
+			"id_str": "1041334590768525312",
+			"name": "Paul Bronks",
+			"screen_name": "SlenderSherbet",
+			"location": "Sheffield, England",
+			"description": "Jew-ish. Complaints dept. @meeshyville. I do not own any of the content posted. Please DM me for credit or removal. Represented by @eversobookish at @KCAgents",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 94477,
+			"friends_count": 202,
+			"listed_count": 505,
+			"created_at": "Sun Sep 16 14:34:48 +0000 2018",
+			"favourites_count": 1212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1174,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108464241084956672/9qONy4pA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108464241084956672/9qONy4pA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1041334590768525312/1557068586",
+			"profile_link_color": "111111",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18772,
+		"favorite_count": 73569,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Security to aisle 7. Shoplifting in progress. There's no rush. https://t.co/xjPSDIepYT"
+	},
+	{
 		"created_at": "Sat May 04 11:55:07 +0000 2019",
 		"id": 1124643613718208500,
 		"id_str": "1124643613718208514",
