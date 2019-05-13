@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 13 08:32:16 +0000 2019",
+		"id": 1127854058146914300,
+		"id_str": "1127854058146914304",
+		"full_text": "Saving the environment one recyclable plastic bag at a time. https://t.co/sqeq2Rpg4H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sqeq2Rpg4H",
+					"expanded_url": "https://twitter.com/7newsmackay/status/1127793173273632768",
+					"display_url": "twitter.com/7newsmackay/st…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 63,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74864,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1127793173273632800,
+		"quoted_status_id_str": "1127793173273632768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sqeq2Rpg4H",
+			"expanded": "https://twitter.com/7newsmackay/status/1127793173273632768",
+			"display": "twitter.com/7newsmackay/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 13 04:30:20 +0000 2019",
+			"id": 1127793173273632800,
+			"id_str": "1127793173273632768",
+			"full_text": "It's believed Labor's candidate for Dawson Belinda Hassan has been targeted in an arson attempt. It's understood the fuel tank of her car was broken into and a plastic bag was stuffed into the tank and set alight. Report on 7NEWS at 6pm. #7NEWS https://t.co/2EngR4eIIX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				244
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "7NEWS",
+						"indices": [
+							238,
+							244
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1127791448609288200,
+						"id_str": "1127791448609288192",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/D6a54DLU0AEk93Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6a54DLU0AEk93Y.jpg",
+						"url": "https://t.co/2EngR4eIIX",
+						"display_url": "pic.twitter.com/2EngR4eIIX",
+						"expanded_url": "https://twitter.com/7NewsMackay/status/1127793173273632768/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1127791448609288200,
+						"id_str": "1127791448609288192",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/D6a54DLU0AEk93Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6a54DLU0AEk93Y.jpg",
+						"url": "https://t.co/2EngR4eIIX",
+						"display_url": "pic.twitter.com/2EngR4eIIX",
+						"expanded_url": "https://twitter.com/7NewsMackay/status/1127793173273632768/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"additional_media_info": {
+							"title": "Belinda Hassan's car targeted by attempted arson attack",
+							"description": "",
+							"embeddable": false,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 612320569,
+				"id_str": "612320569",
+				"name": "7NEWS Mackay",
+				"screen_name": "7NewsMackay",
+				"location": "Mackay, Queensland",
+				"description": "7NEWS Mackay brings you the latest in local news, sport and weather weeknights at 6pm, then 6:30pm on 7TWO. Email: newsmky@seven.com.au #7NEWS",
+				"url": "https://t.co/OIpV0AUA5W",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OIpV0AUA5W",
+								"expanded_url": "http://m.me/7NEWSMackay",
+								"display_url": "m.me/7NEWSMackay",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3064,
+				"friends_count": 165,
+				"listed_count": 94,
+				"created_at": "Tue Jun 19 06:16:21 +0000 2012",
+				"favourites_count": 53,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15454,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1017654753189244929/LxnjIlVO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017654753189244929/LxnjIlVO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/612320569/1488175666",
+				"profile_link_color": "051D60",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 96,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saving the environment one recyclable plastic bag at a time. https://t.co/sqeq2Rpg4H"
+	},
+	{
 		"created_at": "Sun May 12 22:34:38 +0000 2019",
 		"id": 1127703658756329500,
 		"id_str": "1127703658756329473",
