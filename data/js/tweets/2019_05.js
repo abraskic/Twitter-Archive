@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 23:45:50 +0000 2019",
+		"id": 1129171127287201800,
+		"id_str": "1129171127287201792",
+		"full_text": "Prior to Redcliffe Bridge? That's an eloquent way of putting \"the section of the new multi-billion dollar freeway we didn't finish because it wasn't within the scope of the project\". https://t.co/Uoh1GVfP86",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Uoh1GVfP86",
+					"expanded_url": "https://twitter.com/Perth_Traffic/status/1129151535672365057",
+					"display_url": "twitter.com/Perth_Traffic/…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 66,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 2999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129151535672365000,
+		"quoted_status_id_str": "1129151535672365057",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Uoh1GVfP86",
+			"expanded": "https://twitter.com/Perth_Traffic/status/1129151535672365057",
+			"display": "twitter.com/Perth_Traffic/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 16 22:27:59 +0000 2019",
+			"id": 1129151535672365000,
+			"id_str": "1129151535672365057",
+			"full_text": "UPDATE: Tonkin Hwy LEFT LANE CLOSED southbound prior to Redcliffe Bridge, Bayswater due to a CRASH, CONGESTION SLOW ON APPROACH https://t.co/fS5omtnXEs #perthtraffic",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "perthtraffic",
+						"indices": [
+							152,
+							165
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fS5omtnXEs",
+						"expanded_url": "http://ow.ly/gO7B30oKLaM",
+						"display_url": "ow.ly/gO7B30oKLaM",
+						"indices": [
+							128,
+							151
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 74385014,
+				"id_str": "74385014",
+				"name": "Main Roads WA",
+				"screen_name": "Perth_Traffic",
+				"location": "Perth, Western Australia",
+				"description": "We provide info on Perth traffic issues.\nFor Regional road issues see http://t.co/gk6HJMofPi\nNB. Comments to Perth_Traffic will be noted but not responded to",
+				"url": "http://t.co/SA1QMrkGB5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SA1QMrkGB5",
+								"expanded_url": "http://www.mainroads.wa.gov.au",
+								"display_url": "mainroads.wa.gov.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/gk6HJMofPi",
+								"expanded_url": "https://twitter.com/wa_roads",
+								"display_url": "twitter.com/wa_roads",
+								"indices": [
+									70,
+									92
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 63184,
+				"friends_count": 51,
+				"listed_count": 476,
+				"created_at": "Tue Sep 15 06:38:27 +0000 2009",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 69747,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/522961305/twitter_icon_test_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/522961305/twitter_icon_test_normal.JPG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/74385014/1483594115",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Prior to Redcliffe Bridge? That's an eloquent way of putting \"the section of the new multi-billion dollar freeway we didn't finish because it wasn't within the scope of the project\". https://t.co/Uoh1GVfP86"
+	},
+	{
 		"created_at": "Thu May 16 13:41:15 +0000 2019",
 		"id": 1129018978620256300,
 		"id_str": "1129018978620256257",
