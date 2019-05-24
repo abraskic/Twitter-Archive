@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 24 12:26:06 +0000 2019",
+		"id": 1131894182086291500,
+		"id_str": "1131899169478627329",
+		"full_text": "me when someone posts a photo of the gold coast with the caption \"where would you rather be?\" https://t.co/XIxACMmQqj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131893851210182700,
+					"id_str": "1131893851210182657",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1131893851210182657/pu/img/eijJHZ8QaUzrnArN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1131893851210182657/pu/img/eijJHZ8QaUzrnArN.jpg",
+					"url": "https://t.co/XIxACMmQqj",
+					"display_url": "pic.twitter.com/XIxACMmQqj",
+					"expanded_url": "https://twitter.com/savmegafan/status/1131894182086291456/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131893851210182700,
+					"id_str": "1131893851210182657",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1131893851210182657/pu/img/eijJHZ8QaUzrnArN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1131893851210182657/pu/img/eijJHZ8QaUzrnArN.jpg",
+					"url": "https://t.co/XIxACMmQqj",
+					"display_url": "pic.twitter.com/XIxACMmQqj",
+					"expanded_url": "https://twitter.com/savmegafan/status/1131894182086291456/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 98966,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1131893851210182657/pu/vid/480x360/ceAC2v7cmpzF_q3c.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1131893851210182657/pu/pl/-Iiy2PTjeLJkrsRM.m3u8?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1131893851210182657/pu/vid/240x180/5M2ahTsPocpw2yKb.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 876668059582214100,
+			"id_str": "876668059582214144",
+			"name": "Year of the PIG ,",
+			"screen_name": "savmegafan",
+			"location": "Geelong, Australia",
+			"description": "warning: retweets may be sarcastic, sincere or schadenfreude 🚨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382,
+			"friends_count": 383,
+			"listed_count": 8,
+			"created_at": "Mon Jun 19 05:08:47 +0000 2017",
+			"favourites_count": 24056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127847879526105088/mRTafshX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127847879526105088/mRTafshX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/876668059582214144/1556507589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "me when someone posts a photo of the gold coast with the caption \"where would you rather be?\" https://t.co/XIxACMmQqj"
+	},
+	{
 		"created_at": "Fri May 24 03:17:48 +0000 2019",
 		"id": 1131761186372874200,
 		"id_str": "1131761186372874240",
