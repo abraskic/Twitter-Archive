@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 02 10:57:02 +0000 2019",
+		"id": 1134908722990334000,
+		"id_str": "1135138247770660864",
+		"full_text": "my favorite lifehack is NYC residents who follow the \"your dog must fit in a bag to ride the subway\" rule on the slimmest technicalities possible https://t.co/O7ZTprwNWk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134908286128480300,
+					"id_str": "1134908286128480256",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/D8ABEr9V4AAEKPZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8ABEr9V4AAEKPZ.png",
+					"url": "https://t.co/O7ZTprwNWk",
+					"display_url": "pic.twitter.com/O7ZTprwNWk",
+					"expanded_url": "https://twitter.com/xtop/status/1134908722990333952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 660,
+							"h": 880,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 660,
+							"h": 880,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134908286128480300,
+					"id_str": "1134908286128480256",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/D8ABEr9V4AAEKPZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8ABEr9V4AAEKPZ.png",
+					"url": "https://t.co/O7ZTprwNWk",
+					"display_url": "pic.twitter.com/O7ZTprwNWk",
+					"expanded_url": "https://twitter.com/xtop/status/1134908722990333952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 660,
+							"h": 880,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 660,
+							"h": 880,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6994182,
+			"id_str": "6994182",
+			"name": "Christopher Sebela",
+			"screen_name": "xtop",
+			"location": "Tangent, OR",
+			"description": "Eisner-losing writer • CROWDED • TRUST FALL • TEST • SHANGHAI RED • HOUSE AMOK • HEARTTHROB • WE(L)COME BACK // Queer 🏳️‍🌈 He/Him // WME + Anonymous Content",
+			"url": "https://t.co/V4NGHntSqc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V4NGHntSqc",
+							"expanded_url": "http://www.christophersebela.com/",
+							"display_url": "christophersebela.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10888,
+			"friends_count": 939,
+			"listed_count": 302,
+			"created_at": "Thu Jun 21 13:16:36 +0000 2007",
+			"favourites_count": 23236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 125259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891797513400852480/ekI0JUda_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891797513400852480/ekI0JUda_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6994182/1533965835",
+			"profile_link_color": "FE2E80",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "384D43",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4386,
+		"favorite_count": 20046,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "my favorite lifehack is NYC residents who follow the \"your dog must fit in a bag to ride the subway\" rule on the slimmest technicalities possible https://t.co/O7ZTprwNWk"
+	},
+	{
 		"created_at": "Sat Jun 01 09:45:54 +0000 2019",
 		"id": 1134757956065513500,
 		"id_str": "1134757956065513473",
