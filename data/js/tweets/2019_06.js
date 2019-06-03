@@ -1,6 +1,627 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 03 17:33:48 +0000 2019",
+		"id": 1135600483135938600,
+		"id_str": "1135600483135938560",
+		"full_text": "Hey Craig don’t forget to refill the kombucha fridge. #WWDC19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WWDC19",
+					"indices": [
+						54,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1135597342638272500,
+		"in_reply_to_status_id_str": "1135597342638272519",
+		"in_reply_to_user_id": 14866613,
+		"in_reply_to_user_id_str": "14866613",
+		"in_reply_to_screen_name": "braskic",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 66,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				-31.70070163,
+				115.79571682
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				115.79571682,
+				-31.70070163
+			]
+		},
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Hey Craig don’t forget to refill the kombucha fridge. #WWDC19"
+	},
+	{
+		"created_at": "Mon Jun 03 17:30:47 +0000 2019",
+		"id": 1080706518415077400,
+		"id_str": "1135599725611118597",
+		"full_text": "rest of the planet: craig \n\nAmericans: creg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2701976162,
+			"id_str": "2701976162",
+			"name": "fungbunger",
+			"screen_name": "parsfarce",
+			"location": "",
+			"description": "this account does not tolerate swears",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9944,
+			"friends_count": 308,
+			"listed_count": 68,
+			"created_at": "Sat Aug 02 23:14:56 +0000 2014",
+			"favourites_count": 9326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/618918616507879424/KbgqtAX8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/618918616507879424/KbgqtAX8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2701976162/1498550454",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 158,
+		"favorite_count": 872,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "rest of the planet: craig \n\nAmericans: creg"
+	},
+	{
+		"created_at": "Mon Jun 03 17:26:53 +0000 2019",
+		"id": 1135598541479407600,
+		"id_str": "1135598744232062977",
+		"full_text": "Breathe app: Hey you should breathe\nStand app: Hey you should stand up\nNoise app: Hey it’s loud in here\nHealth app: Hey you should exercise more",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29873662,
+			"id_str": "29873662",
+			"name": "Marques Brownlee",
+			"screen_name": "MKBHD",
+			"location": "NYC",
+			"description": "Web Video Producer | ⋈ | Pro Ultimate Frisbee Player",
+			"url": "https://t.co/zGcF5QxPBI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zGcF5QxPBI",
+							"expanded_url": "http://youtube.com/MKBHD",
+							"display_url": "youtube.com/MKBHD",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3240285,
+			"friends_count": 332,
+			"listed_count": 9513,
+			"created_at": "Thu Apr 09 00:50:00 +0000 2009",
+			"favourites_count": 25283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094044059822448640/BvJ8T3jO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094044059822448640/BvJ8T3jO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29873662/1549676067",
+			"profile_link_color": "6C4585",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 408,
+		"favorite_count": 3720,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Breathe app: Hey you should breathe\nStand app: Hey you should stand up\nNoise app: Hey it’s loud in here\nHealth app: Hey you should exercise more"
+	},
+	{
+		"created_at": "Mon Jun 03 17:21:19 +0000 2019",
+		"id": 1135597342638272500,
+		"id_str": "1135597342638272519",
+		"full_text": "Apple Watch is always listening. Always. #WWDC19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WWDC19",
+					"indices": [
+						41,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1135596624795689000,
+		"in_reply_to_status_id_str": "1135596624795688960",
+		"in_reply_to_user_id": 14866613,
+		"in_reply_to_user_id_str": "14866613",
+		"in_reply_to_screen_name": "braskic",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 66,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				-31.70076308,
+				115.79568302
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				115.79568302,
+				-31.70076308
+			]
+		},
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Apple Watch is always listening. Always. #WWDC19"
+	},
+	{
+		"created_at": "Mon Jun 03 17:18:28 +0000 2019",
+		"id": 1135596624795689000,
+		"id_str": "1135596624795688960",
+		"full_text": "Apple Watch chimes at the top of the hour is going to be interesting. #WWDC19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WWDC19",
+					"indices": [
+						70,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1135595829798957000,
+		"in_reply_to_status_id_str": "1135595829798957058",
+		"in_reply_to_user_id": 14866613,
+		"in_reply_to_user_id_str": "14866613",
+		"in_reply_to_screen_name": "braskic",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 66,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				-31.70070252,
+				115.79571592
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				115.79571592,
+				-31.70070252
+			]
+		},
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Apple Watch chimes at the top of the hour is going to be interesting. #WWDC19"
+	},
+	{
 		"created_at": "Mon Jun 03 17:04:18 +0000 2019",
 		"id": 1135593060622987300,
 		"id_str": "1135593060622987269",
