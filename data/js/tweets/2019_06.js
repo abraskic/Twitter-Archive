@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 13:12:13 +0000 2019",
+		"id": 1135916035687587800,
+		"id_str": "1136621817571885056",
+		"full_text": "Basically how humanity solves problems https://t.co/jh29jAHhdZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135915991257366500,
+					"id_str": "1135915991257366534",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1135915991257366534/pu/img/mcvRGulePY3-p5S6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1135915991257366534/pu/img/mcvRGulePY3-p5S6.jpg",
+					"url": "https://t.co/jh29jAHhdZ",
+					"display_url": "pic.twitter.com/jh29jAHhdZ",
+					"expanded_url": "https://twitter.com/paraschopra/status/1135916035687587840/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 264,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 264,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 264,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135915991257366500,
+					"id_str": "1135915991257366534",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1135915991257366534/pu/img/mcvRGulePY3-p5S6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1135915991257366534/pu/img/mcvRGulePY3-p5S6.jpg",
+					"url": "https://t.co/jh29jAHhdZ",
+					"display_url": "pic.twitter.com/jh29jAHhdZ",
+					"expanded_url": "https://twitter.com/paraschopra/status/1135916035687587840/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 264,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 264,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 264,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							11,
+							20
+						],
+						"duration_millis": 28334,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1135915991257366534/pu/pl/4Hagt-y_iCP1fsb8.m3u8?tag=9"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1135915991257366534/pu/vid/264x480/wLx0Qee__QsuA1-2.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14832563,
+			"id_str": "14832563",
+			"name": "Paras Chopra",
+			"screen_name": "paraschopra",
+			"location": "Someplace wonderful",
+			"description": "Follow me if you have ever wondered why does the universe exist. Founder of @Wingify. Tweets a lot. Long form essays on https://t.co/MgPMej8ucI",
+			"url": "https://t.co/KJLMBHtsL4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KJLMBHtsL4",
+							"expanded_url": "https://invertedpassion.com/twitter-threads/",
+							"display_url": "invertedpassion.com/twitter-thread…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MgPMej8ucI",
+							"expanded_url": "http://invertedpassion.com",
+							"display_url": "invertedpassion.com",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13878,
+			"friends_count": 77,
+			"listed_count": 364,
+			"created_at": "Mon May 19 13:50:55 +0000 2008",
+			"favourites_count": 2367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108369960152322048/CQ0Ay0GC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108369960152322048/CQ0Ay0GC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14832563/1550982235",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13746,
+		"favorite_count": 15737,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Basically how humanity solves problems https://t.co/jh29jAHhdZ"
+	},
+	{
 		"created_at": "Thu Jun 06 09:31:48 +0000 2019",
 		"id": 1136566349105311700,
 		"id_str": "1136566349105311745",
