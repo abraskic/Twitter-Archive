@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 09 11:18:58 +0000 2019",
+		"id": 1137502076131565600,
+		"id_str": "1137680481955139584",
+		"full_text": "when i said “i got the horses in the back” it was in reference to reversing the ongoing climate change, water pollution, and catastrophic political climate we are witnessing in these trying times.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 754006735468261400,
+			"id_str": "754006735468261376",
+			"name": "nope",
+			"screen_name": "LilNasX",
+			"location": "atl",
+			"description": "I GOT THE HORSES IN THE BACC 👊🤠 https://t.co/oKrhV6NeOZ @igottabluecoat",
+			"url": "https://t.co/x2mNMOPFT3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x2mNMOPFT3",
+							"expanded_url": "https://youtu.be/w2Ov5jzm3j8",
+							"display_url": "youtu.be/w2Ov5jzm3j8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oKrhV6NeOZ",
+							"expanded_url": "http://instagram.com/lilnasx",
+							"display_url": "instagram.com/lilnasx",
+							"indices": [
+								32,
+								55
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1011295,
+			"friends_count": 728,
+			"listed_count": 1041,
+			"created_at": "Fri Jul 15 17:36:29 +0000 2016",
+			"favourites_count": 37665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112033582569136128/0vZG4q0Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112033582569136128/0vZG4q0Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/754006735468261376/1553964576",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60058,
+		"favorite_count": 259347,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "when i said “i got the horses in the back” it was in reference to reversing the ongoing climate change, water pollution, and catastrophic political climate we are witnessing in these trying times."
+	},
+	{
 		"created_at": "Sun Jun 09 04:53:50 +0000 2019",
 		"id": 1137583559131033600,
 		"id_str": "1137583559131033600",
