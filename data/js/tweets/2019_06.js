@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 11 00:53:35 +0000 2019",
+		"id": 857268898508542000,
+		"id_str": "1138247873038934016",
+		"full_text": "Imagine being held at gunpoint (bear with me) by a literate animal, and the only hope of rescue is (BEAR WITH ME) tweeting a coded message",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116718148,
+			"id_str": "116718148",
+			"name": "Dennis Farrell",
+			"screen_name": "DennisFarrell",
+			"location": "",
+			"description": "Something Awful writer developing my first game, a narrative comedy called Harm Other",
+			"url": "https://t.co/QKhuynGfvM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QKhuynGfvM",
+							"expanded_url": "http://HarmOther.com",
+							"display_url": "HarmOther.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2058,
+			"friends_count": 105,
+			"listed_count": 42,
+			"created_at": "Tue Feb 23 11:13:51 +0000 2010",
+			"favourites_count": 4948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092721476720046082/3PJleh7f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092721476720046082/3PJleh7f_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32447,
+		"favorite_count": 66098,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Imagine being held at gunpoint (bear with me) by a literate animal, and the only hope of rescue is (BEAR WITH ME) tweeting a coded message"
+	},
+	{
 		"created_at": "Mon Jun 10 18:09:55 +0000 2019",
 		"id": 1138146289957331000,
 		"id_str": "1138146289957330945",
