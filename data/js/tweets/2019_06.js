@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 15 12:01:54 +0000 2019",
+		"id": 1139637388693479400,
+		"id_str": "1139865613495488513",
+		"full_text": "weekend plans? https://t.co/EQJ33EhNSZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1139637367608733700,
+					"id_str": "1139637367608733696",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D9DOJdUUcAA7myM.png",
+					"media_url_https": "https://pbs.twimg.com/media/D9DOJdUUcAA7myM.png",
+					"url": "https://t.co/EQJ33EhNSZ",
+					"display_url": "pic.twitter.com/EQJ33EhNSZ",
+					"expanded_url": "https://twitter.com/BrianFukushima/status/1139637388693479424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 170,
+							"h": 95,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 95,
+							"h": 95,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 170,
+							"h": 95,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 170,
+							"h": 95,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139637367608733700,
+					"id_str": "1139637367608733696",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D9DOJdUUcAA7myM.png",
+					"media_url_https": "https://pbs.twimg.com/media/D9DOJdUUcAA7myM.png",
+					"url": "https://t.co/EQJ33EhNSZ",
+					"display_url": "pic.twitter.com/EQJ33EhNSZ",
+					"expanded_url": "https://twitter.com/BrianFukushima/status/1139637388693479424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 170,
+							"h": 95,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 95,
+							"h": 95,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 170,
+							"h": 95,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 170,
+							"h": 95,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16334550,
+			"id_str": "16334550",
+			"name": "Brian Fukushima",
+			"screen_name": "BrianFukushima",
+			"location": "Vancouver BC",
+			"description": "aspiring flaming skull  // brianwfukushima@gmail.com",
+			"url": "https://t.co/eYGKTtCTJ8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eYGKTtCTJ8",
+							"expanded_url": "http://gumroad.com/brianfukushima",
+							"display_url": "gumroad.com/brianfukushima",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4238,
+			"friends_count": 165,
+			"listed_count": 122,
+			"created_at": "Wed Sep 17 19:03:24 +0000 2008",
+			"favourites_count": 85471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039253299029979138/BIvnlddT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039253299029979138/BIvnlddT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16334550/1536611873",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1432,
+		"favorite_count": 3230,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "weekend plans? https://t.co/EQJ33EhNSZ"
+	},
+	{
 		"created_at": "Sat Jun 15 03:31:37 +0000 2019",
 		"id": 1139737194321416200,
 		"id_str": "1139737194321416192",
