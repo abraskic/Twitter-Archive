@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 18 03:57:49 +0000 2019",
+		"id": 1140769647823708200,
+		"id_str": "1140830954996371456",
+		"full_text": "\"Last week I bought 50 kilos of dried dog food instead of real groceries because the frequent flyer points on the dog food were, like, three times better than on human food... dog food is at least 28 per cent protein. Delicious, points-earning protein.\"  🤣https://t.co/1A0r1F8tvW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1A0r1F8tvW",
+					"expanded_url": "https://www.brisbanetimes.com.au/national/queensland/how-i-became-a-slave-to-the-points-20190617-p51ymu.html",
+					"display_url": "brisbanetimes.com.au/national/queen…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23563938,
+			"id_str": "23563938",
+			"name": "Adam Ware",
+			"screen_name": "tuppaware",
+			"location": "Brisbane, Queensland",
+			"description": "Aviation, Travel, IOS Development & Fine Gentlemen. Don't go bacon my heart. Creator of @ottermailapp and @infinite_storm",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1202,
+			"friends_count": 319,
+			"listed_count": 52,
+			"created_at": "Tue Mar 10 06:15:54 +0000 2009",
+			"favourites_count": 25940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138416798741614593/ZHe0CgeV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138416798741614593/ZHe0CgeV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23563938/1502186958",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Last week I bought 50 kilos of dried dog food instead of real groceries because the frequent flyer points on the dog food were, like, three times better than on human food... dog food is at least 28 per cent protein. Delicious, points-earning protein.\"  🤣https://t.co/1A0r1F8tvW"
+	},
+	{
 		"created_at": "Mon Jun 17 23:28:42 +0000 2019",
 		"id": 1140763228017840100,
 		"id_str": "1140763228017840128",
