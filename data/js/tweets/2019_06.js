@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 26 10:34:04 +0000 2019",
+		"id": 1143829774130794500,
+		"id_str": "1143829774130794496",
+		"full_text": "So good that Starc can reverse swing it again now that Warner is back from suspension. https://t.co/8J9wX5dSLM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8J9wX5dSLM",
+					"expanded_url": "https://twitter.com/icc/status/1143565526993649664",
+					"display_url": "twitter.com/icc/status/114…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 65,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1143565526993649700,
+		"quoted_status_id_str": "1143565526993649664",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8J9wX5dSLM",
+			"expanded": "https://twitter.com/icc/status/1143565526993649664",
+			"display": "twitter.com/icc/status/114…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 25 17:04:02 +0000 2019",
+			"id": 1143565526993649700,
+			"id_str": "1143565526993649664",
+			"full_text": "Starc gets Stokes with a 😍 yorker!\n#CmonAussie | #CWC19 https://t.co/9BRwsv4YpW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				55
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CmonAussie",
+						"indices": [
+							35,
+							46
+						]
+					},
+					{
+						"text": "CWC19",
+						"indices": [
+							49,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1143565424614891500,
+						"id_str": "1143565424614891520",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1143565424614891520/img/Jf4fwnHpdOiQvrGC.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1143565424614891520/img/Jf4fwnHpdOiQvrGC.jpg",
+						"url": "https://t.co/9BRwsv4YpW",
+						"display_url": "pic.twitter.com/9BRwsv4YpW",
+						"expanded_url": "https://twitter.com/ICC/status/1143565526993649664/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1143565424614891500,
+						"id_str": "1143565424614891520",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1143565424614891520/img/Jf4fwnHpdOiQvrGC.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1143565424614891520/img/Jf4fwnHpdOiQvrGC.jpg",
+						"url": "https://t.co/9BRwsv4YpW",
+						"display_url": "pic.twitter.com/9BRwsv4YpW",
+						"expanded_url": "https://twitter.com/ICC/status/1143565526993649664/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 39160,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1143565424614891520/vid/1280x720/6GRSBnU54SaOBrti.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1143565424614891520/pl/122lBnoGPT0W8kFk.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1143565424614891520/vid/640x360/3SUOLTF34kO2jhCP.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1143565424614891520/vid/480x270/YEOKNFkgoEc6ZSFe.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 177547780,
+				"id_str": "177547780",
+				"name": "ICC",
+				"screen_name": "ICC",
+				"location": "Dubai",
+				"description": "The official Twitter account of the International Cricket Council; world cricket’s governing body.",
+				"url": "https://t.co/RCIBI6izTv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RCIBI6izTv",
+								"expanded_url": "http://www.icc-cricket.com",
+								"display_url": "icc-cricket.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9041000,
+				"friends_count": 541,
+				"listed_count": 4897,
+				"created_at": "Thu Aug 12 12:32:41 +0000 2010",
+				"favourites_count": 949,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 73803,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000805",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/853850199609024512/Rjw4RCp7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/853850199609024512/Rjw4RCp7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/177547780/1561526748",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6299,
+			"favorite_count": 37457,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So good that Starc can reverse swing it again now that Warner is back from suspension. https://t.co/8J9wX5dSLM"
+	},
+	{
 		"created_at": "Tue Jun 25 22:20:27 +0000 2019",
 		"id": 1143645156580577300,
 		"id_str": "1143645156580577283",
