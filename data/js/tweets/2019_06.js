@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 27 09:24:10 +0000 2019",
+		"id": 1143911117183488000,
+		"id_str": "1144174572989628421",
+		"full_text": "it’s that easy! https://t.co/B13GxdpwKG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1143911110208315400,
+					"id_str": "1143911110208315393",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D9_9GBKW4AEOq0I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9_9GBKW4AEOq0I.jpg",
+					"url": "https://t.co/B13GxdpwKG",
+					"display_url": "pic.twitter.com/B13GxdpwKG",
+					"expanded_url": "https://twitter.com/TommySiegel/status/1143911117183488000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 649,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 977,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 977,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143911110208315400,
+					"id_str": "1143911110208315393",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D9_9GBKW4AEOq0I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9_9GBKW4AEOq0I.jpg",
+					"url": "https://t.co/B13GxdpwKG",
+					"display_url": "pic.twitter.com/B13GxdpwKG",
+					"expanded_url": "https://twitter.com/TommySiegel/status/1143911117183488000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 649,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 977,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 977,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 449546974,
+			"id_str": "449546974",
+			"name": "Tommy Siegel",
+			"screen_name": "TommySiegel",
+			"location": "Brooklyn",
+			"description": "doing a cartoon every day for 500 days, against my better judgement. music too!!",
+			"url": "https://t.co/9NjetzZiYK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9NjetzZiYK",
+							"expanded_url": "https://www.patreon.com/tommysiegel",
+							"display_url": "patreon.com/tommysiegel",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12813,
+			"friends_count": 1185,
+			"listed_count": 81,
+			"created_at": "Thu Dec 29 06:59:13 +0000 2011",
+			"favourites_count": 27055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971044769844654080/1DyRfTbj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971044769844654080/1DyRfTbj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/449546974/1496754691",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3192,
+		"favorite_count": 7669,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "it’s that easy! https://t.co/B13GxdpwKG"
+	},
+	{
 		"created_at": "Thu Jun 27 02:28:21 +0000 2019",
 		"id": 1144069929236254700,
 		"id_str": "1144069929236254721",
