@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 09 22:03:52 +0000 2019",
+		"id": 1148627348172025900,
+		"id_str": "1148714413291012096",
+		"full_text": "Amazon, 1999: A book store, but online!\n\nAmazon, 2019: WE WANT TO BUILD SOMETHING CALLED A “WAR CLOUD.” https://t.co/kFUE1klDJ4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kFUE1klDJ4",
+					"expanded_url": "https://twitter.com/ap/status/1148623110146592773",
+					"display_url": "twitter.com/ap/status/1148…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 634734888,
+			"id_str": "634734888",
+			"name": "Parker Molloy",
+			"screen_name": "ParkerMolloy",
+			"location": "Chicago, IL",
+			"description": "@mmfa Editor-at-large. @KaylaPekkala's wife. 📖 book rep: @DaraKaye at @RossYoon. All opinions my own, etc.",
+			"url": "https://t.co/psthvYRwjH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/psthvYRwjH",
+							"expanded_url": "http://parkermolloy.com/",
+							"display_url": "parkermolloy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191580,
+			"friends_count": 2023,
+			"listed_count": 2479,
+			"created_at": "Fri Jul 13 15:32:43 +0000 2012",
+			"favourites_count": 180190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087741249195511808/jmC1yyIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087741249195511808/jmC1yyIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/634734888/1557527942",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1d9a5370a355ab0c",
+			"url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json",
+			"place_type": "city",
+			"name": "Chicago",
+			"full_name": "Chicago, IL",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-87.940033,
+							41.644102
+						],
+						[
+							-87.523993,
+							41.644102
+						],
+						[
+							-87.523993,
+							42.0230669
+						],
+						[
+							-87.940033,
+							42.0230669
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1148623110146592800,
+		"quoted_status_id_str": "1148623110146592773",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kFUE1klDJ4",
+			"expanded": "https://twitter.com/ap/status/1148623110146592773",
+			"display": "twitter.com/ap/status/1148…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 09 16:01:04 +0000 2019",
+			"id": 1148623110146592800,
+			"id_str": "1148623110146592773",
+			"full_text": "Amazon and Microsoft are battling for a $10B prize to build the U.S. military its first \"war cloud.\" The project would store and process vast amounts of classified data, allowing the Pentagon to use artificial intelligence to speed up its war planning. https://t.co/BbWsRBnY9z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BbWsRBnY9z",
+						"expanded_url": "http://apne.ws/XFKt2ZJ",
+						"display_url": "apne.ws/XFKt2ZJ",
+						"indices": [
+							253,
+							276
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 51241574,
+				"id_str": "51241574",
+				"name": "The Associated Press",
+				"screen_name": "AP",
+				"location": "Global",
+				"description": "News from The Associated Press, and a taste of the great journalism produced by AP members and customers. Managed 24/7 by these editors: https://t.co/D0hLCc7ShX",
+				"url": "https://t.co/48pFaJVRcr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/48pFaJVRcr",
+								"expanded_url": "https://apnews.com/",
+								"display_url": "apnews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/D0hLCc7ShX",
+								"expanded_url": "http://apne.ws/APSocial",
+								"display_url": "apne.ws/APSocial",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13400454,
+				"friends_count": 7128,
+				"listed_count": 94944,
+				"created_at": "Fri Jun 26 21:48:52 +0000 2009",
+				"favourites_count": 2301,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 246404,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/461964160838803457/8z9FImcv_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/461964160838803457/8z9FImcv_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/51241574/1540331058",
+				"profile_link_color": "CC3300",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 683,
+			"favorite_count": 633,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3696,
+		"favorite_count": 12049,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amazon, 1999: A book store, but online!\n\nAmazon, 2019: WE WANT TO BUILD SOMETHING CALLED A “WAR CLOUD.” https://t.co/kFUE1klDJ4"
+	},
+	{
 		"created_at": "Tue Jul 09 03:53:30 +0000 2019",
 		"id": 1148440010535759900,
 		"id_str": "1148440010535759874",
