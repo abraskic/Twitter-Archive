@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 26 03:21:48 +0000 2019",
+		"id": 1154574554674729000,
+		"id_str": "1154592628169555971",
+		"full_text": "I also think we need to get rid of public holidays in favour of individuals choosing the days they wish to commemorate or observe.\nWhy should a Hindu or Muslim be prevented from working on Easter or Christmas? via @qz https://t.co/EhP0xYUu3z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "qz",
+					"name": "Quartz",
+					"id": 573918122,
+					"id_str": "573918122",
+					"indices": [
+						214,
+						217
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EhP0xYUu3z",
+					"expanded_url": "https://qz.com/co/2558369",
+					"display_url": "qz.com/co/2558369",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://qz.com\" rel=\"nofollow\">Quartz App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17386686,
+			"id_str": "17386686",
+			"name": "(╯°□°)╯︵ ┻━┻",
+			"screen_name": "PolemiCol",
+			"location": "Australia",
+			"description": "secular liberal socialist humanist dystopian realist xenophile infovore contrarian; for justice freedom equity responsibility sustainability",
+			"url": "https://t.co/kSY1HT3cHQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kSY1HT3cHQ",
+							"expanded_url": "http://about.me/polemicol",
+							"display_url": "about.me/polemicol",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1419,
+			"friends_count": 818,
+			"listed_count": 114,
+			"created_at": "Fri Nov 14 12:49:37 +0000 2008",
+			"favourites_count": 108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/923520678933839872/ysLR5bKP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/923520678933839872/ysLR5bKP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17386686/1472372656",
+			"profile_link_color": "8B542B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I also think we need to get rid of public holidays in favour of individuals choosing the days they wish to commemorate or observe.\nWhy should a Hindu or Muslim be prevented from working on Easter or Christmas? via @qz https://t.co/EhP0xYUu3z"
+	},
+	{
 		"created_at": "Thu Jul 25 14:39:48 +0000 2019",
 		"id": 1154400862485090300,
 		"id_str": "1154400862485090304",
