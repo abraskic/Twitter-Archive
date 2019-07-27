@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 27 06:48:57 +0000 2019",
+		"id": 1154336067568357400,
+		"id_str": "1155007146515292160",
+		"full_text": "Engadine Maccas. https://t.co/nLpwCO1Ky2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nLpwCO1Ky2",
+					"expanded_url": "https://twitter.com/60mins/status/1153945430557786112",
+					"display_url": "twitter.com/60mins/status/…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2459630112,
+			"id_str": "2459630112",
+			"name": "Matt Burke",
+			"screen_name": "matttburke",
+			"location": "",
+			"description": "Twitter user",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4366,
+			"friends_count": 1638,
+			"listed_count": 44,
+			"created_at": "Wed Apr 23 12:06:49 +0000 2014",
+			"favourites_count": 7587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994838086063411201/Wdr33Xmv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994838086063411201/Wdr33Xmv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2459630112/1534768671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1153945430557786000,
+		"quoted_status_id_str": "1153945430557786112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nLpwCO1Ky2",
+			"expanded": "https://twitter.com/60mins/status/1153945430557786112",
+			"display": "twitter.com/60mins/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 24 08:30:04 +0000 2019",
+			"id": 1153945430557786000,
+			"id_str": "1153945430557786112",
+			"full_text": "A story so important it can’t be missed. SUNDAY on #60Mins, the major investigation, six months in the making, which will shock Australia. https://t.co/Q10rXBsLyf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "60Mins",
+						"indices": [
+							51,
+							58
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1153945078185914400,
+						"id_str": "1153945078185914368",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/EAOjH1LUcAE17CY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAOjH1LUcAE17CY.jpg",
+						"url": "https://t.co/Q10rXBsLyf",
+						"display_url": "pic.twitter.com/Q10rXBsLyf",
+						"expanded_url": "https://twitter.com/60Mins/status/1153945430557786112/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1153945078185914400,
+						"id_str": "1153945078185914368",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/EAOjH1LUcAE17CY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAOjH1LUcAE17CY.jpg",
+						"url": "https://t.co/Q10rXBsLyf",
+						"display_url": "pic.twitter.com/Q10rXBsLyf",
+						"expanded_url": "https://twitter.com/60Mins/status/1153945430557786112/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 30000,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1153945078185914368/vid/1280x720/Cq2rdYQU0afYgRUm.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1153945078185914368/pl/yXbeQqDYi4Wva0bj.m3u8?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1153945078185914368/vid/480x270/bLr7nbkyvPAi1b6F.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1153945078185914368/vid/640x360/mB54pkV_kJ7asg5R.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38576013,
+				"id_str": "38576013",
+				"name": "60 Minutes Australia",
+				"screen_name": "60Mins",
+				"location": "Australia",
+				"description": "Sunday on @Channel9 | Join the conversation using #60Mins | Find us on Facebook: https://t.co/iFLBMq5xAM | Community Guidelines: https://t.co/h3hABkSNCP",
+				"url": "https://t.co/XXv362pDGE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XXv362pDGE",
+								"expanded_url": "https://www.9now.com.au/60-minutes",
+								"display_url": "9now.com.au/60-minutes",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iFLBMq5xAM",
+								"expanded_url": "http://facebook.com/60Minutes9",
+								"display_url": "facebook.com/60Minutes9",
+								"indices": [
+									81,
+									104
+								]
+							},
+							{
+								"url": "https://t.co/h3hABkSNCP",
+								"expanded_url": "http://9jump.in/8oT7O4S",
+								"display_url": "9jump.in/8oT7O4S",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 155693,
+				"friends_count": 201,
+				"listed_count": 688,
+				"created_at": "Fri May 08 01:42:56 +0000 2009",
+				"favourites_count": 847,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 14891,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1095562092101263360/ODxMJItc_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095562092101263360/ODxMJItc_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38576013/1550036866",
+				"profile_link_color": "870605",
+				"profile_sidebar_border_color": "E9E9E9",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 96,
+			"favorite_count": 368,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 24,
+		"favorite_count": 257,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "Engadine Maccas. https://t.co/nLpwCO1Ky2"
+	},
+	{
 		"created_at": "Fri Jul 26 12:26:21 +0000 2019",
 		"id": 1154729668299255800,
 		"id_str": "1154729668299255808",
