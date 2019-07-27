@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 27 09:37:20 +0000 2019",
+		"id": 1155026846741745700,
+		"id_str": "1155049520327090176",
+		"full_text": "A real jaywalker checks for police, THEN checks for traffic. Rookies. https://t.co/ZTJiKHbo9e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZTJiKHbo9e",
+					"expanded_url": "https://twitter.com/7NewsSydney/status/1154938899531067392",
+					"display_url": "twitter.com/7NewsSydney/st…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43244971,
+			"id_str": "43244971",
+			"name": "Matt Okine",
+			"screen_name": "mattokine",
+			"location": "Sydney, Australia",
+			"description": "Comedian // Creator of 'The Other Guy' on @hulu & @stanaustralia // Debut novel out Oct 2019 thru @hachetteaus // Make music as 'Boilermakers' //",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24502,
+			"friends_count": 942,
+			"listed_count": 133,
+			"created_at": "Fri May 29 01:49:49 +0000 2009",
+			"favourites_count": 20166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3322742337/7c8ad69e48acd1d1efa00d20c47306ab_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3322742337/7c8ad69e48acd1d1efa00d20c47306ab_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43244971/1556000879",
+			"profile_link_color": "0EE8DD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1154938899531067400,
+		"quoted_status_id_str": "1154938899531067392",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZTJiKHbo9e",
+			"expanded": "https://twitter.com/7NewsSydney/status/1154938899531067392",
+			"display": "twitter.com/7NewsSydney/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 27 02:17:46 +0000 2019",
+			"id": 1154938899531067400,
+			"id_str": "1154938899531067392",
+			"full_text": "136 pedestrians were handed infringement notices by police who conducted patrols in North Sydney, Chatswood, Crows Nest, Newtown and Broadway this week. Most of the fines were for \"cross when traffic control light is not green.\" https://t.co/OF81oZFF1j #7NEWS https://t.co/XNAFi8Na8R",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "7NEWS",
+						"indices": [
+							253,
+							259
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OF81oZFF1j",
+						"expanded_url": "http://www.7NEWS.com.au",
+						"display_url": "7NEWS.com.au",
+						"indices": [
+							229,
+							252
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1154934359306039300,
+						"id_str": "1154934359306039296",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/EAcqbmeU0AEBSx1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAcqbmeU0AEBSx1.jpg",
+						"url": "https://t.co/XNAFi8Na8R",
+						"display_url": "pic.twitter.com/XNAFi8Na8R",
+						"expanded_url": "https://twitter.com/7NewsSydney/status/1154938899531067392/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 631,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1009,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1154934359306039300,
+						"id_str": "1154934359306039296",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/EAcqbmeU0AEBSx1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAcqbmeU0AEBSx1.jpg",
+						"url": "https://t.co/XNAFi8Na8R",
+						"display_url": "pic.twitter.com/XNAFi8Na8R",
+						"expanded_url": "https://twitter.com/7NewsSydney/status/1154938899531067392/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 631,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1009,
+								"resize": "fit"
+							}
+						},
+						"additional_media_info": {
+							"title": "136 pedestrians fined in Sydney ",
+							"description": "",
+							"embeddable": false,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 156464691,
+				"id_str": "156464691",
+				"name": "7NEWS Sydney",
+				"screen_name": "7NewsSydney",
+				"location": "Sydney",
+				"description": "First For News in Sydney with @MarkFerguson_7 @michaelusher @Mel_Mclaughlin @JimWilsonTV @DavidWBrown7 https://t.co/dOBmFmUJhs",
+				"url": "https://t.co/DU1c7lI1wg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DU1c7lI1wg",
+								"expanded_url": "http://www.7NEWS.com.au",
+								"display_url": "7NEWS.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dOBmFmUJhs",
+								"expanded_url": "http://facebook.com/7newssydney",
+								"display_url": "facebook.com/7newssydney",
+								"indices": [
+									103,
+									126
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 311470,
+				"friends_count": 227,
+				"listed_count": 1418,
+				"created_at": "Thu Jun 17 01:05:23 +0000 2010",
+				"favourites_count": 8907,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 202233,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/762825331837284352/DmJacDyw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/762825331837284352/DmJacDyw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/156464691/1479177517",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 96,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A real jaywalker checks for police, THEN checks for traffic. Rookies. https://t.co/ZTJiKHbo9e"
+	},
+	{
 		"created_at": "Sat Jul 27 06:48:57 +0000 2019",
 		"id": 1154336067568357400,
 		"id_str": "1155007146515292160",
