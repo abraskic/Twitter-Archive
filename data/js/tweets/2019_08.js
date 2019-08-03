@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 03 12:05:17 +0000 2019",
+		"id": 1157226564993421300,
+		"id_str": "1157623467878957061",
+		"full_text": "Really boils your piss when someone steals your free lane when approaching the lights and then puts in a pathetic pole position performance. Salt in the wound.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3004178958,
+			"id_str": "3004178958",
+			"name": "The Bell Tower Times",
+			"screen_name": "BellTowerTimez",
+			"location": "Perth",
+			"description": "I write The Bell Tower Times. Embrace the Human Zoo. Keep it zesty x",
+			"url": "https://t.co/TWoqaCpo72",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TWoqaCpo72",
+							"expanded_url": "http://www.thebelltowertimes.com",
+							"display_url": "thebelltowertimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7693,
+			"friends_count": 1250,
+			"listed_count": 29,
+			"created_at": "Sat Jan 31 02:59:21 +0000 2015",
+			"favourites_count": 8015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/767500445514215424/fwD1Lbl2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/767500445514215424/fwD1Lbl2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3004178958/1548118974",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Really boils your piss when someone steals your free lane when approaching the lights and then puts in a pathetic pole position performance. Salt in the wound."
+	},
+	{
 		"created_at": "Sat Aug 03 09:55:47 +0000 2019",
 		"id": 1157590879541923800,
 		"id_str": "1157590879541923841",
