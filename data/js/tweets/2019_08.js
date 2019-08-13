@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 13 05:12:30 +0000 2019",
+		"id": 1160963912289935400,
+		"id_str": "1161143469215059968",
+		"full_text": "I need this 🙌 https://t.co/LhSgiZ4Z7a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160870414375104500,
+					"id_str": "1160870414375104513",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1160870414375104513/pu/img/WxGPUvn2bu5REdiZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1160870414375104513/pu/img/WxGPUvn2bu5REdiZ.jpg",
+					"url": "https://t.co/LhSgiZ4Z7a",
+					"display_url": "pic.twitter.com/LhSgiZ4Z7a",
+					"expanded_url": "https://twitter.com/SpicyWengz/status/1160870448852328448/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 270,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 270,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 270,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1160870448852328400,
+					"source_status_id_str": "1160870448852328448",
+					"source_user_id": 1139951615857823700,
+					"source_user_id_str": "1139951615857823746"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160870414375104500,
+					"id_str": "1160870414375104513",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1160870414375104513/pu/img/WxGPUvn2bu5REdiZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1160870414375104513/pu/img/WxGPUvn2bu5REdiZ.jpg",
+					"url": "https://t.co/LhSgiZ4Z7a",
+					"display_url": "pic.twitter.com/LhSgiZ4Z7a",
+					"expanded_url": "https://twitter.com/SpicyWengz/status/1160870448852328448/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 270,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 270,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 270,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1160870448852328400,
+					"source_status_id_str": "1160870448852328448",
+					"source_user_id": 1139951615857823700,
+					"source_user_id_str": "1139951615857823746",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 10200,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1160870414375104513/pu/vid/270x480/q9dQsd9pcQLw46-4.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1160870414375104513/pu/pl/hg-9NoaAepX7Z8uj.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1139951615857823700,
+							"id_str": "1139951615857823746",
+							"name": "🌟Spicy Wengz🌟",
+							"screen_name": "SpicyWengz",
+							"location": "",
+							"description": "🍻Taking donations for beers🍻 https://t.co/LoEUDNXhw6",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/LoEUDNXhw6",
+											"expanded_url": "https://www.paypal.me/SpicyWengz",
+											"display_url": "paypal.me/SpicyWengz",
+											"indices": [
+												29,
+												52
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 5833,
+							"friends_count": 26,
+							"listed_count": 30,
+							"created_at": "Sat Jun 15 17:43:39 +0000 2019",
+							"favourites_count": 4917,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 2392,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1160524744053141509/1AQ3FneM_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160524744053141509/1AQ3FneM_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139951615857823746/1565604926",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2960062013,
+			"id_str": "2960062013",
+			"name": "CCTV IDIOTS",
+			"screen_name": "cctv_idiots",
+			"location": "",
+			"description": "Exposing idiotic behavior from all over the world caught on camera.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 404662,
+			"friends_count": 39,
+			"listed_count": 1496,
+			"created_at": "Sun Jan 04 11:21:36 +0000 2015",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875927695774928896/2yTT2WNE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875927695774928896/2yTT2WNE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2960062013/1420371286",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4957,
+		"favorite_count": 14657,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I need this 🙌 https://t.co/LhSgiZ4Z7a"
+	},
+	{
 		"created_at": "Mon Aug 12 22:56:30 +0000 2019",
 		"id": 1161048846375350300,
 		"id_str": "1161048846375350272",
