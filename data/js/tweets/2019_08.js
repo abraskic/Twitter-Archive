@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 23 11:00:59 +0000 2019",
+		"id": 1164739715439874000,
+		"id_str": "1164855046447616001",
+		"full_text": "Just remembered the giant cow. Simpler times. https://t.co/KyfEYQKrwB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1164739709009985500,
+					"id_str": "1164739709009985536",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/ECn8mCNVAAAiI1i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECn8mCNVAAAiI1i.jpg",
+					"url": "https://t.co/KyfEYQKrwB",
+					"display_url": "pic.twitter.com/KyfEYQKrwB",
+					"expanded_url": "https://twitter.com/Picketer/status/1164739715439874048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1164739709009985500,
+					"id_str": "1164739709009985536",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/ECn8mCNVAAAiI1i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECn8mCNVAAAiI1i.jpg",
+					"url": "https://t.co/KyfEYQKrwB",
+					"display_url": "pic.twitter.com/KyfEYQKrwB",
+					"expanded_url": "https://twitter.com/Picketer/status/1164739715439874048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144707987,
+			"id_str": "144707987",
+			"name": "Tim Lyons",
+			"screen_name": "Picketer",
+			"location": "墨尔本, Australia",
+			"description": "Ex union boss. Works on organising governance labour tax finance super democracy China. Fellow @percapita. Subordinating the market to democracy.（I’m) Stranded.",
+			"url": "https://t.co/LjGY4TKN1o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LjGY4TKN1o",
+							"expanded_url": "https://reveille.org.au",
+							"display_url": "reveille.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7554,
+			"friends_count": 1384,
+			"listed_count": 132,
+			"created_at": "Mon May 17 03:02:45 +0000 2010",
+			"favourites_count": 25502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F00C0C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063737316672364546/7eYiXi4b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063737316672364546/7eYiXi4b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144707987/1537609979",
+			"profile_link_color": "E80E0E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just remembered the giant cow. Simpler times. https://t.co/KyfEYQKrwB"
+	},
+	{
 		"created_at": "Fri Aug 23 04:35:53 +0000 2019",
 		"id": 1164758133287211000,
 		"id_str": "1164758133287211008",
