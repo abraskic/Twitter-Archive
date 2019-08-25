@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 25 09:45:09 +0000 2019",
+		"id": 1165477934125080600,
+		"id_str": "1165560735289622528",
+		"full_text": "When you really love Mission tortilla chips 😍 #AFLDogsCrows https://t.co/B2RGWuD4AZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AFLDogsCrows",
+					"indices": [
+						46,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1165477868312219600,
+					"id_str": "1165477868312219648",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1165477868312219648/pu/img/NuQaB1oRLLSrpfi2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1165477868312219648/pu/img/NuQaB1oRLLSrpfi2.jpg",
+					"url": "https://t.co/B2RGWuD4AZ",
+					"display_url": "pic.twitter.com/B2RGWuD4AZ",
+					"expanded_url": "https://twitter.com/JBarney1994/status/1165477934125080577/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165477868312219600,
+					"id_str": "1165477868312219648",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1165477868312219648/pu/img/NuQaB1oRLLSrpfi2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1165477868312219648/pu/img/NuQaB1oRLLSrpfi2.jpg",
+					"url": "https://t.co/B2RGWuD4AZ",
+					"display_url": "pic.twitter.com/B2RGWuD4AZ",
+					"expanded_url": "https://twitter.com/JBarney1994/status/1165477934125080577/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							80,
+							37
+						],
+						"duration_millis": 8707,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165477868312219648/pu/vid/582x270/l9GATNJsVJh-3C6v.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165477868312219648/pu/vid/778x360/YS5hNq8ISY4nFaWR.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165477868312219648/pu/vid/1280x592/qACEsZCm5tHgVc-0.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1165477868312219648/pu/pl/37qi_FfYE9Eiw_xu.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2529890340,
+			"id_str": "2529890340",
+			"name": "Josh Barnstable",
+			"screen_name": "JBarney1994",
+			"location": "Instagram: barney_94",
+			"description": "Television graphics operator @Foxfooty @aflwomens @BBL @NBL. Podcaster @NorthTalkPod. Product of the Goulburn Valley. North nuffie.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 826,
+			"friends_count": 567,
+			"listed_count": 20,
+			"created_at": "Wed May 28 12:24:22 +0000 2014",
+			"favourites_count": 29193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146661432047464448/WXRKo3_e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146661432047464448/WXRKo3_e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2529890340/1556411345",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 297,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When you really love Mission tortilla chips 😍 #AFLDogsCrows https://t.co/B2RGWuD4AZ"
+	},
+	{
 		"created_at": "Sun Aug 25 05:28:48 +0000 2019",
 		"id": 1165496224490766300,
 		"id_str": "1165496224490766336",
