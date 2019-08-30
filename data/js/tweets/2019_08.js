@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 30 00:26:36 +0000 2019",
+		"id": 1167077388095606800,
+		"id_str": "1167232114804215808",
+		"full_text": "“I know how bathrooms should be used” says guy who shat his pants in Engadine Maccas in 1997 https://t.co/HOsE6UUhcp https://t.co/jtDaCJCJ3r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HOsE6UUhcp",
+					"expanded_url": "https://chaser.com.au/general-news/i-know-how-bathrooms-should-be-used-says-guy-who-shat-his-pants-in-engadine-maccas-in-1997",
+					"display_url": "chaser.com.au/general-news/i…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1167077381359554600,
+					"id_str": "1167077381359554560",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EDJKseVUUAAyhl_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDJKseVUUAAyhl_.jpg",
+					"url": "https://t.co/jtDaCJCJ3r",
+					"display_url": "pic.twitter.com/jtDaCJCJ3r",
+					"expanded_url": "https://twitter.com/chaser/status/1167077388095606785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 409,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 722,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 722,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167077381359554600,
+					"id_str": "1167077381359554560",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EDJKseVUUAAyhl_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDJKseVUUAAyhl_.jpg",
+					"url": "https://t.co/jtDaCJCJ3r",
+					"display_url": "pic.twitter.com/jtDaCJCJ3r",
+					"expanded_url": "https://twitter.com/chaser/status/1167077388095606785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 409,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 722,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 722,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38612007,
+			"id_str": "38612007",
+			"name": "The Chaser",
+			"screen_name": "chaser",
+			"location": "Sydney",
+			"description": "Australian, and occasionally un-Australian, comedy group. Subscribe to The Chaser Quarterly now. Radio Chaser 3-4pm @TripleMSydney and weekends nationally.",
+			"url": "https://t.co/bN7NlvIT9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bN7NlvIT9q",
+							"expanded_url": "http://www.chaser.com.au",
+							"display_url": "chaser.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72574,
+			"friends_count": 110,
+			"listed_count": 870,
+			"created_at": "Fri May 08 05:12:41 +0000 2009",
+			"favourites_count": 654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/989394984863383552/Z2RUR5E3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/989394984863383552/Z2RUR5E3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38612007/1539011733",
+			"profile_link_color": "D71920",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 227,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“I know how bathrooms should be used” says guy who shat his pants in Engadine Maccas in 1997 https://t.co/HOsE6UUhcp https://t.co/jtDaCJCJ3r"
+	},
+	{
+		"created_at": "Fri Aug 30 00:19:48 +0000 2019",
+		"id": 1167230402789957600,
+		"id_str": "1167230402789957632",
+		"full_text": "Here’s my US map. And yes New Jersey is a photo of a toll booth. Sorry not sorry. https://t.co/IakYjzFWvL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167230396230062000,
+					"id_str": "1167230396230062080",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EDLV3HJU0AA_5JN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDLV3HJU0AA_5JN.jpg",
+					"url": "https://t.co/IakYjzFWvL",
+					"display_url": "pic.twitter.com/IakYjzFWvL",
+					"expanded_url": "https://twitter.com/braskic/status/1167230402789957632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167230396230062000,
+					"id_str": "1167230396230062080",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EDLV3HJU0AA_5JN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDLV3HJU0AA_5JN.jpg",
+					"url": "https://t.co/IakYjzFWvL",
+					"display_url": "pic.twitter.com/IakYjzFWvL",
+					"expanded_url": "https://twitter.com/braskic/status/1167230402789957632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1167229953265426400,
+		"in_reply_to_status_id_str": "1167229953265426432",
+		"in_reply_to_user_id": 14866613,
+		"in_reply_to_user_id_str": "14866613",
+		"in_reply_to_screen_name": "braskic",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 68,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75218,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s my US map. And yes New Jersey is a photo of a toll booth. Sorry not sorry. https://t.co/IakYjzFWvL"
+	},
+	{
 		"created_at": "Thu Aug 29 10:48:54 +0000 2019",
 		"id": 1167026331973849000,
 		"id_str": "1167026331973849089",
