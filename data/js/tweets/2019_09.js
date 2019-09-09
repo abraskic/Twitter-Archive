@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 09 10:06:59 +0000 2019",
+		"id": 1170870351162593300,
+		"id_str": "1171002051750330369",
+		"full_text": "When mum says we can have maccas for dinner 🙌🏼 \n\n https://t.co/dMs545R2os",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170749949824290800,
+					"id_str": "1170749949824290817",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170749949824290817/pu/img/Za-N_1dMOOyMZKZM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170749949824290817/pu/img/Za-N_1dMOOyMZKZM.jpg",
+					"url": "https://t.co/dMs545R2os",
+					"display_url": "pic.twitter.com/dMs545R2os",
+					"expanded_url": "https://twitter.com/rohan_connolly/status/1170750150882422784/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1170750150882422800,
+					"source_status_id_str": "1170750150882422784",
+					"source_user_id": 516212230,
+					"source_user_id_str": "516212230"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170749949824290800,
+					"id_str": "1170749949824290817",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170749949824290817/pu/img/Za-N_1dMOOyMZKZM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170749949824290817/pu/img/Za-N_1dMOOyMZKZM.jpg",
+					"url": "https://t.co/dMs545R2os",
+					"display_url": "pic.twitter.com/dMs545R2os",
+					"expanded_url": "https://twitter.com/rohan_connolly/status/1170750150882422784/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1170750150882422800,
+					"source_status_id_str": "1170750150882422784",
+					"source_user_id": 516212230,
+					"source_user_id_str": "516212230",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 17263,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1170749949824290817/pu/pl/B4gIWx1Vsdi99ey6.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170749949824290817/pu/vid/640x360/x1_tojpVM_hp-QiL.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170749949824290817/pu/vid/1280x720/2rWYFTQp7v5zY6PS.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170749949824290817/pu/vid/480x270/Ds9e5yHukUZElE1j.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 516212230,
+							"id_str": "516212230",
+							"name": "Rohan Connolly",
+							"screen_name": "rohan_connolly",
+							"location": "Melbourne",
+							"description": "Talk & write footy for 3AW, Macquarie Sports Radio, Footyology, Sporting News. Rock music tragic. What else is there?",
+							"url": "https://t.co/1iAer7ixMt",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/1iAer7ixMt",
+											"expanded_url": "http://www.footyology.com.au/",
+											"display_url": "footyology.com.au",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 48633,
+							"friends_count": 1511,
+							"listed_count": 386,
+							"created_at": "Tue Mar 06 05:11:30 +0000 2012",
+							"favourites_count": 10667,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 79947,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/772806929361932290/jFSjOPlN_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/772806929361932290/jFSjOPlN_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/516212230/1358344880",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23003467,
+			"id_str": "23003467",
+			"name": "Georgie Parker",
+			"screen_name": "georgieparker",
+			"location": "Perth/Adelaide/Melbourne",
+			"description": "Not an actress || Airport Etiquette Expert || Avid Nuggets fan - both 🏀 and 🐓 || Olympian || Pest",
+			"url": "https://t.co/xJ5xWdJiSz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xJ5xWdJiSz",
+							"expanded_url": "http://instagram.com/georgie_parker19/",
+							"display_url": "instagram.com/georgie_parker…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21376,
+			"friends_count": 611,
+			"listed_count": 141,
+			"created_at": "Fri Mar 06 00:21:55 +0000 2009",
+			"favourites_count": 16516,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167367833174429696/40Ka7TMf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167367833174429696/40Ka7TMf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23003467/1479801377",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 145,
+		"favorite_count": 1649,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When mum says we can have maccas for dinner 🙌🏼 \n\n https://t.co/dMs545R2os"
+	},
+	{
 		"created_at": "Fri Sep 06 22:53:24 +0000 2019",
 		"id": 1170107760999927800,
 		"id_str": "1170107760999927808",
