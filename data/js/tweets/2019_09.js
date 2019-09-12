@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 12 10:03:58 +0000 2019",
+		"id": 1171953997432770600,
+		"id_str": "1172088455288905728",
+		"full_text": "Future iPhones leaked. https://t.co/1HvEsvR8GL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171953947919016000,
+					"id_str": "1171953947919015936",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1171953947919015936/pu/img/_pyGINDXMRtRwyJT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1171953947919015936/pu/img/_pyGINDXMRtRwyJT.jpg",
+					"url": "https://t.co/1HvEsvR8GL",
+					"display_url": "pic.twitter.com/1HvEsvR8GL",
+					"expanded_url": "https://twitter.com/bastardsheep/status/1171953997432770560/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 428,
+							"h": 604,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 428,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 428,
+							"h": 604,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171953947919016000,
+					"id_str": "1171953947919015936",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1171953947919015936/pu/img/_pyGINDXMRtRwyJT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1171953947919015936/pu/img/_pyGINDXMRtRwyJT.jpg",
+					"url": "https://t.co/1HvEsvR8GL",
+					"display_url": "pic.twitter.com/1HvEsvR8GL",
+					"expanded_url": "https://twitter.com/bastardsheep/status/1171953997432770560/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 428,
+							"h": 604,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 428,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 428,
+							"h": 604,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							107,
+							151
+						],
+						"duration_millis": 7970,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1171953947919015936/pu/pl/xLyDfQaxEvmtx2oG.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1171953947919015936/pu/vid/428x604/W16NP_YCtk93gw98.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1171953947919015936/pu/vid/320x450/hIc4IJvMFL171eVE.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16278101,
+			"id_str": "16278101",
+			"name": "Sheepie",
+			"screen_name": "bastardsheep",
+			"location": "Sydney, Australia.",
+			"description": "By day I'm a mild mannered IT guy from Sydney Australia. By night I am Bastard Sheep: #nopants advocate, hobbyist photographer, drinker of fine wines & coffee.",
+			"url": "https://t.co/IMG0XSN88b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IMG0XSN88b",
+							"expanded_url": "http://bastardsheep.com/",
+							"display_url": "bastardsheep.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1216,
+			"friends_count": 491,
+			"listed_count": 121,
+			"created_at": "Sun Sep 14 00:30:51 +0000 2008",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171675791022673921/_cO8r130_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171675791022673921/_cO8r130_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16278101/1567328948",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Future iPhones leaked. https://t.co/1HvEsvR8GL"
+	},
+	{
 		"created_at": "Wed Sep 11 23:14:04 +0000 2019",
 		"id": 1171924902745477000,
 		"id_str": "1171924902745477120",
