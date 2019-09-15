@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 15 01:34:55 +0000 2019",
+		"id": 1172946706226278400,
+		"id_str": "1173047511440744450",
+		"full_text": "My roommate got super stoned a couple weeks back and found out you can order a personalized big toblerone. He immediately forgot about it until it showed up last night https://t.co/7NFydTqRQk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172946703495778300,
+					"id_str": "1172946703495778304",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EEckz_JU0AAS-T8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEckz_JU0AAS-T8.jpg",
+					"url": "https://t.co/7NFydTqRQk",
+					"display_url": "pic.twitter.com/7NFydTqRQk",
+					"expanded_url": "https://twitter.com/gordihyena/status/1172946706226278400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172946703495778300,
+					"id_str": "1172946703495778304",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EEckz_JU0AAS-T8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEckz_JU0AAS-T8.jpg",
+					"url": "https://t.co/7NFydTqRQk",
+					"display_url": "pic.twitter.com/7NFydTqRQk",
+					"expanded_url": "https://twitter.com/gordihyena/status/1172946706226278400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25561840,
+			"id_str": "25561840",
+			"name": "Gordi 🌻",
+			"screen_name": "gordihyena",
+			"location": "Capitol Hill, Seattle, WA",
+			"description": "Bright future, bad hangover. irresponsible owner of two old cars. he/him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1082,
+			"friends_count": 1040,
+			"listed_count": 8,
+			"created_at": "Fri Mar 20 19:41:38 +0000 2009",
+			"favourites_count": 3256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753985743572185088/xPxISnLE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753985743572185088/xPxISnLE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25561840/1538267429",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25865,
+		"favorite_count": 124936,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My roommate got super stoned a couple weeks back and found out you can order a personalized big toblerone. He immediately forgot about it until it showed up last night https://t.co/7NFydTqRQk"
+	},
+	{
 		"created_at": "Sat Sep 14 03:24:51 +0000 2019",
 		"id": 1172712787555958800,
 		"id_str": "1172712787555958786",
