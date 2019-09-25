@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 24 23:25:09 +0000 2019",
+		"id": 1176638733963030500,
+		"id_str": "1176638733963030528",
+		"full_text": "The number of #perthdrivers driving to their own conditions I see every morning is outstanding. Indicators and headlights people! https://t.co/ry5E7V6A55",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "perthdrivers",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ry5E7V6A55",
+					"expanded_url": "https://twitter.com/weather_wa/status/1176619850048819201",
+					"display_url": "twitter.com/weather_wa/sta…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 68,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1176619850048819200,
+		"quoted_status_id_str": "1176619850048819201",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ry5E7V6A55",
+			"expanded": "https://twitter.com/weather_wa/status/1176619850048819201",
+			"display": "twitter.com/weather_wa/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 24 22:10:07 +0000 2019",
+			"id": 1176619850048819200,
+			"id_str": "1176619850048819201",
+			"full_text": "@RKMac65 @BunburyWeather @Vicki_White_ @baxlex @drstip @paulmp @perthovalman @aussie_robbob @BigV2011WCE @Barnsy_Lisa @ImTheOnlyAstro @Richard_Kreider @Sparrow_65 @ManjitK6987 @BedfordAWS @WendyBirdOZ @TheWAWG @perthobs A Road Weather Alert Has Been Issued For The #Perth Metro Area With Fog Making Road Conditions Dangerous This Morning Especially In The Northern And Eastern Suburbs. #PerthNews #PerthTraffic #PerthWeather",
+			"truncated": false,
+			"display_text_range": [
+				220,
+				424
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Perth",
+						"indices": [
+							265,
+							271
+						]
+					},
+					{
+						"text": "PerthNews",
+						"indices": [
+							386,
+							396
+						]
+					},
+					{
+						"text": "PerthTraffic",
+						"indices": [
+							397,
+							410
+						]
+					},
+					{
+						"text": "PerthWeather",
+						"indices": [
+							411,
+							424
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RKMac65",
+						"name": "Rhonda 🌈",
+						"id": 461533861,
+						"id_str": "461533861",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "BunburyWeather",
+						"name": "SW Weather",
+						"id": 2789736120,
+						"id_str": "2789736120",
+						"indices": [
+							9,
+							24
+						]
+					},
+					{
+						"screen_name": "Vicki_White_",
+						"name": "Vicki White | VLWphotography",
+						"id": 3243935844,
+						"id_str": "3243935844",
+						"indices": [
+							25,
+							38
+						]
+					},
+					{
+						"screen_name": "baxlex",
+						"name": "Scott",
+						"id": 179511988,
+						"id_str": "179511988",
+						"indices": [
+							39,
+							46
+						]
+					},
+					{
+						"screen_name": "drstip",
+						"name": "Dr Ionizing Stip 🌈 🧶☠️ ☢️",
+						"id": 258298063,
+						"id_str": "258298063",
+						"indices": [
+							47,
+							54
+						]
+					},
+					{
+						"screen_name": "paulmp",
+						"name": "Paul Pichugin",
+						"id": 22744846,
+						"id_str": "22744846",
+						"indices": [
+							55,
+							62
+						]
+					},
+					{
+						"screen_name": "perthovalman",
+						"name": "paul gallagher",
+						"id": 42854780,
+						"id_str": "42854780",
+						"indices": [
+							63,
+							76
+						]
+					},
+					{
+						"screen_name": "aussie_robbob",
+						"name": "Rob C",
+						"id": 4374920592,
+						"id_str": "4374920592",
+						"indices": [
+							77,
+							91
+						]
+					},
+					{
+						"screen_name": "BigV2011WCE",
+						"name": "Victor Yong",
+						"id": 191761621,
+						"id_str": "191761621",
+						"indices": [
+							92,
+							104
+						]
+					},
+					{
+						"screen_name": "Barnsy_Lisa",
+						"name": "Lisa Barnes",
+						"id": 29326170,
+						"id_str": "29326170",
+						"indices": [
+							105,
+							117
+						]
+					},
+					{
+						"screen_name": "ImTheOnlyAstro",
+						"name": "TheOnlyAstro",
+						"id": 500446308,
+						"id_str": "500446308",
+						"indices": [
+							118,
+							133
+						]
+					},
+					{
+						"screen_name": "Richard_Kreider",
+						"name": "Richard Kreider",
+						"id": 1674489318,
+						"id_str": "1674489318",
+						"indices": [
+							134,
+							150
+						]
+					},
+					{
+						"screen_name": "Sparrow_65",
+						"name": "Sparrow65",
+						"id": 125515218,
+						"id_str": "125515218",
+						"indices": [
+							151,
+							162
+						]
+					},
+					{
+						"screen_name": "ManjitK6987",
+						"name": "💧Manjit Kaur",
+						"id": 775918317764644900,
+						"id_str": "775918317764644864",
+						"indices": [
+							163,
+							175
+						]
+					},
+					{
+						"screen_name": "BedfordAWS",
+						"name": "Bedford weather🌧️⛈️🌞⚡",
+						"id": 299460412,
+						"id_str": "299460412",
+						"indices": [
+							176,
+							187
+						]
+					},
+					{
+						"screen_name": "WendyBirdOZ",
+						"name": "Wendy",
+						"id": 2195966832,
+						"id_str": "2195966832",
+						"indices": [
+							188,
+							200
+						]
+					},
+					{
+						"screen_name": "TheWAWG",
+						"name": "The WA Weather Group",
+						"id": 176041453,
+						"id_str": "176041453",
+						"indices": [
+							201,
+							209
+						]
+					},
+					{
+						"screen_name": "perthobs",
+						"name": "Perth Observatory",
+						"id": 3229987878,
+						"id_str": "3229987878",
+						"indices": [
+							210,
+							219
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1176619212791410700,
+			"in_reply_to_status_id_str": "1176619212791410690",
+			"in_reply_to_user_id": 986092014,
+			"in_reply_to_user_id_str": "986092014",
+			"in_reply_to_screen_name": "weather_wa",
+			"user": {
+				"id": 986092014,
+				"id_str": "986092014",
+				"name": "Weather WA",
+				"screen_name": "weather_wa",
+				"location": "Perth, Western Australia",
+				"description": "#AvGeek Photographer and weather enthusiast living in Perth, Western Australia.",
+				"url": "http://t.co/yduvqZcvKF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yduvqZcvKF",
+								"expanded_url": "http://www.redbubble.com/people/eos20",
+								"display_url": "redbubble.com/people/eos20",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3983,
+				"friends_count": 180,
+				"listed_count": 178,
+				"created_at": "Mon Dec 03 07:01:28 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 100450,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080162818152849410/0P3hit3R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080162818152849410/0P3hit3R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/986092014/1514867039",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The number of #perthdrivers driving to their own conditions I see every morning is outstanding. Indicators and headlights people! https://t.co/ry5E7V6A55"
+	},
+	{
 		"created_at": "Tue Sep 24 11:00:57 +0000 2019",
 		"id": 1176149505110106000,
 		"id_str": "1176451448944521220",
