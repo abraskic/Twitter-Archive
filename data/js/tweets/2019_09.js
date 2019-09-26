@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 26 00:31:06 +0000 2019",
+		"id": 1177001969774235600,
+		"id_str": "1177017719100559360",
+		"full_text": "Trump is done https://t.co/Chr3op0ULS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1177001967471624200,
+					"id_str": "1177001967471624192",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/EFWNDasVAAAjiMU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFWNDasVAAAjiMU.jpg",
+					"url": "https://t.co/Chr3op0ULS",
+					"display_url": "pic.twitter.com/Chr3op0ULS",
+					"expanded_url": "https://twitter.com/supercujo/status/1177001969774235649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 464,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 464,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177001967471624200,
+					"id_str": "1177001967471624192",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/EFWNDasVAAAjiMU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFWNDasVAAAjiMU.jpg",
+					"url": "https://t.co/Chr3op0ULS",
+					"display_url": "pic.twitter.com/Chr3op0ULS",
+					"expanded_url": "https://twitter.com/supercujo/status/1177001969774235649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 464,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 464,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18132109,
+			"id_str": "18132109",
+			"name": "スパクジョ",
+			"screen_name": "supercujo",
+			"location": "Perth",
+			"description": "It is what it is. The official Supercujo Twitter account!!! I kicked cancer's arse. No topic is off-limits for a joke. RT != endorsement",
+			"url": "https://t.co/U3cdy2CvJG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U3cdy2CvJG",
+							"expanded_url": "http://mobro.co/supercujo",
+							"display_url": "mobro.co/supercujo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2010,
+			"friends_count": 1593,
+			"listed_count": 170,
+			"created_at": "Mon Dec 15 06:22:31 +0000 2008",
+			"favourites_count": 19646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 116925,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127801817557913600/-eNaJmbO_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127801817557913600/-eNaJmbO_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18132109/1561360123",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "003B03",
+			"profile_text_color": "A3A3A3",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trump is done https://t.co/Chr3op0ULS"
+	},
+	{
 		"created_at": "Tue Sep 24 23:25:09 +0000 2019",
 		"id": 1176638733963030500,
 		"id_str": "1176638733963030528",
