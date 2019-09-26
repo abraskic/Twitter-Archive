@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 26 06:26:08 +0000 2019",
+		"id": 1177107066806124500,
+		"id_str": "1177107066806124544",
+		"full_text": "@backtowinnipeg https://t.co/ZKc80brRnV",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "backtowinnipeg",
+					"name": "Trixie “Climate Fanatic” Mattorpel",
+					"id": 23413689,
+					"id_str": "23413689",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZKc80brRnV",
+					"expanded_url": "https://twitter.com/basilzoccali/status/1177034393094766592?s=21",
+					"display_url": "twitter.com/basilzoccali/s…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1177100810506793000,
+		"in_reply_to_status_id_str": "1177100810506792961",
+		"in_reply_to_user_id": 23413689,
+		"in_reply_to_user_id_str": "23413689",
+		"in_reply_to_screen_name": "backtowinnipeg",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 68,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1177034393094766600,
+		"quoted_status_id_str": "1177034393094766592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZKc80brRnV",
+			"expanded": "https://twitter.com/basilzoccali/status/1177034393094766592?s=21",
+			"display": "twitter.com/basilzoccali/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 26 01:37:22 +0000 2019",
+			"id": 1177034393094766600,
+			"id_str": "1177034393094766592",
+			"full_text": "Well there's a big, big sound.\n#AFLGF https://t.co/efg9OesUnw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				37
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AFLGF",
+						"indices": [
+							31,
+							37
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1177034260751863800,
+						"id_str": "1177034260751863809",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1177034260751863809/pu/img/rYppqZNtCIl3a6yg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1177034260751863809/pu/img/rYppqZNtCIl3a6yg.jpg",
+						"url": "https://t.co/efg9OesUnw",
+						"display_url": "pic.twitter.com/efg9OesUnw",
+						"expanded_url": "https://twitter.com/BasilZoccali/status/1177034393094766592/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1177034260751863800,
+						"id_str": "1177034260751863809",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1177034260751863809/pu/img/rYppqZNtCIl3a6yg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1177034260751863809/pu/img/rYppqZNtCIl3a6yg.jpg",
+						"url": "https://t.co/efg9OesUnw",
+						"display_url": "pic.twitter.com/efg9OesUnw",
+						"expanded_url": "https://twitter.com/BasilZoccali/status/1177034393094766592/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 58792,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1177034260751863809/pu/vid/640x360/cWYOJtM2ta8-fLvP.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1177034260751863809/pu/vid/1280x720/3PR-EqndG0YyiJx0.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1177034260751863809/pu/vid/480x270/PmkfNiE6xczHY6lh.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1177034260751863809/pu/pl/YarbDNTrRuQu50ZJ.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 566881605,
+				"id_str": "566881605",
+				"name": "Basil Zoccali",
+				"screen_name": "BasilZoccali",
+				"location": "Melbourne, Australia",
+				"description": "Currently | @idcollective_pr\nPreviously | @EssendonFc",
+				"url": "https://t.co/F5oIXQKGbF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F5oIXQKGbF",
+								"expanded_url": "https://www.instagram.com/basilz/",
+								"display_url": "instagram.com/basilz/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1516,
+				"friends_count": 736,
+				"listed_count": 9,
+				"created_at": "Mon Apr 30 01:10:00 +0000 2012",
+				"favourites_count": 7470,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1887,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/998420572932456449/44ArPQSW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/998420572932456449/44ArPQSW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/566881605/1481330369",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 290,
+			"favorite_count": 961,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@backtowinnipeg https://t.co/ZKc80brRnV"
+	},
+	{
 		"created_at": "Thu Sep 26 06:14:25 +0000 2019",
 		"id": 1177104114691346400,
 		"id_str": "1177104114691346432",
