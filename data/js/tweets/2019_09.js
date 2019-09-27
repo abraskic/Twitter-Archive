@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 27 06:45:51 +0000 2019",
+		"id": 1177466322097041400,
+		"id_str": "1177474414230659072",
+		"full_text": "Important safety announcement re #bigbigsound https://t.co/CPPP4PYe4y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bigbigsound",
+					"indices": [
+						33,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1177466078445703200,
+					"id_str": "1177466078445703168",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EFczKOzUEAApiaZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFczKOzUEAApiaZ.jpg",
+					"url": "https://t.co/CPPP4PYe4y",
+					"display_url": "pic.twitter.com/CPPP4PYe4y",
+					"expanded_url": "https://twitter.com/theamwu/status/1177466322097041409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1462,
+							"h": 1462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177466078445703200,
+					"id_str": "1177466078445703168",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EFczKOzUEAApiaZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFczKOzUEAApiaZ.jpg",
+					"url": "https://t.co/CPPP4PYe4y",
+					"display_url": "pic.twitter.com/CPPP4PYe4y",
+					"expanded_url": "https://twitter.com/theamwu/status/1177466322097041409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1462,
+							"h": 1462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63028705,
+			"id_str": "63028705",
+			"name": "The AMWU",
+			"screen_name": "theamwu",
+			"location": "Australia",
+			"description": "Strong on the streets, spicy in the tweets. 😎 [Authorised by Paul Bastian, for the Australian Manufacturing Workers’ Union, Sydney.]",
+			"url": "https://t.co/eEz0XUXptU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eEz0XUXptU",
+							"expanded_url": "http://www.amwu.org.au",
+							"display_url": "amwu.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12467,
+			"friends_count": 4116,
+			"listed_count": 182,
+			"created_at": "Wed Aug 05 04:13:03 +0000 2009",
+			"favourites_count": 3527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/719389903457374213/ice3KtT__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/719389903457374213/ice3KtT__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63028705/1558500130",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Important safety announcement re #bigbigsound https://t.co/CPPP4PYe4y"
+	},
+	{
 		"created_at": "Fri Sep 27 05:59:35 +0000 2019",
 		"id": 1177462772046549000,
 		"id_str": "1177462772046548993",
