@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 28 02:28:10 +0000 2019",
+		"id": 1177417297960456200,
+		"id_str": "1177771955102969857",
+		"full_text": "Please tell me this #BigBigSound hasn't been done yet: https://t.co/XrgZqCJbcD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BigBigSound",
+					"indices": [
+						20,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1177416111198896000,
+					"id_str": "1177416111198896128",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1177416111198896128/pu/img/owjRYK_Clw8fOVl6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1177416111198896128/pu/img/owjRYK_Clw8fOVl6.jpg",
+					"url": "https://t.co/XrgZqCJbcD",
+					"display_url": "pic.twitter.com/XrgZqCJbcD",
+					"expanded_url": "https://twitter.com/SYMorawetz/status/1177417297960456192/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177416111198896000,
+					"id_str": "1177416111198896128",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1177416111198896128/pu/img/owjRYK_Clw8fOVl6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1177416111198896128/pu/img/owjRYK_Clw8fOVl6.jpg",
+					"url": "https://t.co/XrgZqCJbcD",
+					"display_url": "pic.twitter.com/XrgZqCJbcD",
+					"expanded_url": "https://twitter.com/SYMorawetz/status/1177417297960456192/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28262,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1177416111198896128/pu/vid/480x270/dZzLHITaLeXmAagN.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1177416111198896128/pu/vid/960x540/elULNTfg50wPb_ji.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1177416111198896128/pu/vid/640x360/XFc32n8yYep8UMm6.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1177416111198896128/pu/pl/2i72Xn_0uzPHIXGQ.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 314420119,
+			"id_str": "314420119",
+			"name": "Simon Morawetz",
+			"screen_name": "SYMorawetz",
+			"location": "Melbourne",
+			"description": "Back at uni. 3-time Simpsons Trivia champion. Worth a follow. 日本語が少し話せる。 #Always",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722,
+			"friends_count": 595,
+			"listed_count": 16,
+			"created_at": "Fri Jun 10 06:59:59 +0000 2011",
+			"favourites_count": 4835,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/793491920643248128/jjb4xD4q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/793491920643248128/jjb4xD4q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/314420119/1398005465",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 311,
+		"favorite_count": 1865,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please tell me this #BigBigSound hasn't been done yet: https://t.co/XrgZqCJbcD"
+	},
+	{
 		"created_at": "Sat Sep 28 01:24:37 +0000 2019",
 		"id": 1177755962762915800,
 		"id_str": "1177755962762915840",
