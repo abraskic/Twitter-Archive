@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 18 10:15:05 +0000 2019",
+		"id": 1184997971584110600,
+		"id_str": "1185137216902664192",
+		"full_text": "My friends recommending I make a positive change in my life but then me getting right back on my bullshit 0.2 seconds later https://t.co/TmgZAwRsMB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1184997867783643100,
+					"id_str": "1184997867783643136",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184997867783643136/pu/img/f0uC-5sinPFI3_nw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184997867783643136/pu/img/f0uC-5sinPFI3_nw.jpg",
+					"url": "https://t.co/TmgZAwRsMB",
+					"display_url": "pic.twitter.com/TmgZAwRsMB",
+					"expanded_url": "https://twitter.com/JoshButler/status/1184997971584110592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1184997867783643100,
+					"id_str": "1184997867783643136",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184997867783643136/pu/img/f0uC-5sinPFI3_nw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184997867783643136/pu/img/f0uC-5sinPFI3_nw.jpg",
+					"url": "https://t.co/TmgZAwRsMB",
+					"display_url": "pic.twitter.com/TmgZAwRsMB",
+					"expanded_url": "https://twitter.com/JoshButler/status/1184997971584110592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 3275,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1184997867783643136/pu/vid/960x720/GFTMV4PdnnG-kCSz.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1184997867783643136/pu/vid/360x270/0H984h5TAlXkNFxH.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1184997867783643136/pu/vid/480x360/XUxTSUeF4vQV22rE.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1184997867783643136/pu/pl/N5cJCJ1IRFMpxHxp.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1184991942402166800,
+		"in_reply_to_status_id_str": "1184991942402166784",
+		"in_reply_to_user_id": 60496760,
+		"in_reply_to_user_id_str": "60496760",
+		"in_reply_to_screen_name": "JoshButler",
+		"user": {
+			"id": 60496760,
+			"id_str": "60496760",
+			"name": "Josh Butler",
+			"screen_name": "JoshButler",
+			"location": "Sydney, Australia",
+			"description": "Senior reporter @10daily • DMs open • Signal/Telegram/WhatsApp available • Wickr: jb238 • send tips/memes • jobutler@networkten.com.au •",
+			"url": "https://t.co/tJRwIElMlN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tJRwIElMlN",
+							"expanded_url": "https://10daily.com.au/authors/josh-butler",
+							"display_url": "10daily.com.au/authors/josh-b…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20923,
+			"friends_count": 3489,
+			"listed_count": 342,
+			"created_at": "Mon Jul 27 05:11:58 +0000 2009",
+			"favourites_count": 44675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 39772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/885392731492687872/yUhcGbHG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/885392731492687872/yUhcGbHG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60496760/1551568254",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 549,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My friends recommending I make a positive change in my life but then me getting right back on my bullshit 0.2 seconds later https://t.co/TmgZAwRsMB"
+	},
+	{
 		"created_at": "Wed Oct 16 04:19:33 +0000 2019",
 		"id": 1184322966898634800,
 		"id_str": "1184322966898634753",
