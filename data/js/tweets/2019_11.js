@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 29 10:02:33 +0000 2019",
+		"id": 1200354351996293000,
+		"id_str": "1200354351996293121",
+		"full_text": "Quick somebody with a pool go halfsies with me on this inflatable bin chicken so we can be influencers like these people. https://t.co/0V982ALQyu https://t.co/cKIPrHcS8A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0V982ALQyu",
+					"expanded_url": "https://www.ozbargain.com.au/node/501332",
+					"display_url": "ozbargain.com.au/node/501332",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1200354260401000400,
+					"id_str": "1200354260401000448",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EKiD1w_UEAAQm4R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKiD1w_UEAAQm4R.jpg",
+					"url": "https://t.co/cKIPrHcS8A",
+					"display_url": "pic.twitter.com/cKIPrHcS8A",
+					"expanded_url": "https://twitter.com/braskic/status/1200354351996293121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1157,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1444,
+							"h": 1392,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 39,
+									"y": 308,
+									"h": 94,
+									"w": 94
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 68,
+									"y": 544,
+									"h": 167,
+									"w": 167
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 83,
+									"y": 655,
+									"h": 201,
+									"w": 201
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 83,
+									"y": 655,
+									"h": 201,
+									"w": 201
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200354260401000400,
+					"id_str": "1200354260401000448",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EKiD1w_UEAAQm4R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKiD1w_UEAAQm4R.jpg",
+					"url": "https://t.co/cKIPrHcS8A",
+					"display_url": "pic.twitter.com/cKIPrHcS8A",
+					"expanded_url": "https://twitter.com/braskic/status/1200354351996293121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1157,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1444,
+							"h": 1392,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 39,
+									"y": 308,
+									"h": 94,
+									"w": 94
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 68,
+									"y": 544,
+									"h": 167,
+									"w": 167
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 83,
+									"y": 655,
+									"h": 201,
+									"w": 201
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 83,
+									"y": 655,
+									"h": 201,
+									"w": 201
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1200354260405215200,
+					"id_str": "1200354260405215233",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EKiD1xAUYAEQrXa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKiD1xAUYAEQrXa.jpg",
+					"url": "https://t.co/cKIPrHcS8A",
+					"display_url": "pic.twitter.com/cKIPrHcS8A",
+					"expanded_url": "https://twitter.com/braskic/status/1200354351996293121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1178,
+							"h": 1174,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1178,
+							"h": 1174,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1200354260413583400,
+					"id_str": "1200354260413583365",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EKiD1xCUEAUS3tF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKiD1xCUEAUS3tF.jpg",
+					"url": "https://t.co/cKIPrHcS8A",
+					"display_url": "pic.twitter.com/cKIPrHcS8A",
+					"expanded_url": "https://twitter.com/braskic/status/1200354351996293121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 615,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 1390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1086,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 466,
+									"y": 240,
+									"h": 61,
+									"w": 61
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1054,
+									"y": 544,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 823,
+									"y": 425,
+									"h": 107,
+									"w": 107
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1054,
+									"y": 544,
+									"h": 138,
+									"w": 138
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 67,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Quick somebody with a pool go halfsies with me on this inflatable bin chicken so we can be influencers like these people. https://t.co/0V982ALQyu https://t.co/cKIPrHcS8A"
+	},
+	{
 		"created_at": "Thu Nov 28 21:51:32 +0000 2019",
 		"id": 1200170383736885200,
 		"id_str": "1200170383736885248",
