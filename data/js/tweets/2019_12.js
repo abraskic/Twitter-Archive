@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 06 01:33:13 +0000 2019",
+		"id": 1202759043061702700,
+		"id_str": "1202762889116782593",
+		"full_text": "35°C at 9am completely normel. https://t.co/nqTilLmfte",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202759005887586300,
+					"id_str": "1202759005887586304",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELEO8YBU4AA3FzM.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELEO8YBU4AA3FzM.jpg",
+					"url": "https://t.co/nqTilLmfte",
+					"display_url": "pic.twitter.com/nqTilLmfte",
+					"expanded_url": "https://twitter.com/Epigrammist/status/1202759043061702656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202759005887586300,
+					"id_str": "1202759005887586304",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELEO8YBU4AA3FzM.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELEO8YBU4AA3FzM.jpg",
+					"url": "https://t.co/nqTilLmfte",
+					"display_url": "pic.twitter.com/nqTilLmfte",
+					"expanded_url": "https://twitter.com/Epigrammist/status/1202759043061702656/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ELEO8YBU4AA3FzM.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31065693,
+			"id_str": "31065693",
+			"name": "Toby G",
+			"screen_name": "Epigrammist",
+			"location": "Freo,Whadjuk, Westralia",
+			"description": "I shall not be stepping aside during the police criminal investigation.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1605,
+			"friends_count": 983,
+			"listed_count": 135,
+			"created_at": "Tue Apr 14 05:22:49 +0000 2009",
+			"favourites_count": 295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 288825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187684306572869632/XIiH09oo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187684306572869632/XIiH09oo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/31065693/1450317480",
+			"profile_link_color": "3A3AD1",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDEBFA",
+			"profile_text_color": "575555",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "35°C at 9am completely normel. https://t.co/nqTilLmfte"
+	},
+	{
 		"created_at": "Fri Dec 06 00:31:32 +0000 2019",
 		"id": 1202747365779636200,
 		"id_str": "1202747365779636224",
