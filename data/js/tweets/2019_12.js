@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 02:14:38 +0000 2019",
+		"id": 1204204945240518700,
+		"id_str": "1204222862363508736",
+		"full_text": "Do you prefer your Sydney with or without smoke? https://t.co/APoH20eB6p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204204936113750000,
+					"id_str": "1204204936113750016",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/ELYyAl3VAAAwWCo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELYyAl3VAAAwWCo.jpg",
+					"url": "https://t.co/APoH20eB6p",
+					"display_url": "pic.twitter.com/APoH20eB6p",
+					"expanded_url": "https://twitter.com/fictillius/status/1204204945240518657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204204936113750000,
+					"id_str": "1204204936113750016",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/ELYyAl3VAAAwWCo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELYyAl3VAAAwWCo.jpg",
+					"url": "https://t.co/APoH20eB6p",
+					"display_url": "pic.twitter.com/APoH20eB6p",
+					"expanded_url": "https://twitter.com/fictillius/status/1204204945240518657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1204204936117907500,
+					"id_str": "1204204936117907456",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/ELYyAl4UcAAABtK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELYyAl4UcAAABtK.jpg",
+					"url": "https://t.co/APoH20eB6p",
+					"display_url": "pic.twitter.com/APoH20eB6p",
+					"expanded_url": "https://twitter.com/fictillius/status/1204204945240518657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7050962,
+			"id_str": "7050962",
+			"name": "Quiet, Evan",
+			"screen_name": "fictillius",
+			"location": "Sydney, Australia",
+			"description": "Rent seeking green leftie. Right wing nut. Green, Labor & Liberal stooge all rolled into one. Tweets are mine not my employers, they can get their own.",
+			"url": "https://t.co/W1OD5naKWb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W1OD5naKWb",
+							"expanded_url": "http://fictilli.us",
+							"display_url": "fictilli.us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3703,
+			"friends_count": 4359,
+			"listed_count": 196,
+			"created_at": "Sun Jun 24 13:50:14 +0000 2007",
+			"favourites_count": 10218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 84084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129734736950300675/5FDLsqm9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129734736950300675/5FDLsqm9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7050962/1556168116",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do you prefer your Sydney with or without smoke? https://t.co/APoH20eB6p"
+	},
+	{
 		"created_at": "Mon Dec 09 13:41:31 +0000 2019",
 		"id": 1204033333954408400,
 		"id_str": "1204033333954408448",
