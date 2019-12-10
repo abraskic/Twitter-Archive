@@ -1,6 +1,103 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 04:25:22 +0000 2019",
+		"id": 1204214999075324000,
+		"id_str": "1204255763952103424",
+		"full_text": "September: Children should stay in school rather than striking over the climate. \n\nOctober:  Speeches like these give children unnecessary anxiety over the climate.\n\nDecember: Please come and pick your children up from school because the air is poison.\n\n*sings national anthem*",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29947296,
+			"id_str": "29947296",
+			"name": "Adam Liaw",
+			"screen_name": "adamliaw",
+			"location": "Australia",
+			"description": "Cooks food. Writes books. Columnist for @GoodFoodAU and @SundayLifeAU. Makes TV shows, too. @UNICEFAustralia and @Adelaide_FC Ambassador.",
+			"url": "https://t.co/nvSYoZWenJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nvSYoZWenJ",
+							"expanded_url": "https://www.instagram.com/adamliaw/",
+							"display_url": "instagram.com/adamliaw/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84164,
+			"friends_count": 1341,
+			"listed_count": 690,
+			"created_at": "Thu Apr 09 08:25:57 +0000 2009",
+			"favourites_count": 2751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875548651799445508/3k4a-xNg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875548651799445508/3k4a-xNg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29947296/1489125817",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1243,
+		"favorite_count": 2806,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "September: Children should stay in school rather than striking over the climate. \n\nOctober:  Speeches like these give children unnecessary anxiety over the climate.\n\nDecember: Please come and pick your children up from school because the air is poison.\n\n*sings national anthem*"
+	},
+	{
 		"created_at": "Tue Dec 10 02:14:38 +0000 2019",
 		"id": 1204204945240518700,
 		"id_str": "1204222862363508736",
