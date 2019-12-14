@@ -1,6 +1,441 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 14 10:57:29 +0000 2019",
+		"id": 1205803992057430000,
+		"id_str": "1205803992057430016",
+		"full_text": "I can tell you, with 100% certainty, Dave Warner isn’t that clever. #AUSvsNZ https://t.co/HehzvIeY6m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AUSvsNZ",
+					"indices": [
+						68,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HehzvIeY6m",
+					"expanded_url": "https://twitter.com/foxcricket/status/1205784497397977088",
+					"display_url": "twitter.com/foxcricket/sta…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 250,
+			"friends_count": 65,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1205784497397977000,
+		"quoted_status_id_str": "1205784497397977088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HehzvIeY6m",
+			"expanded": "https://twitter.com/foxcricket/status/1205784497397977088",
+			"display": "twitter.com/foxcricket/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 14 09:40:01 +0000 2019",
+			"id": 1205784497397977000,
+			"id_str": "1205784497397977088",
+			"full_text": "‘Would he be that clever?’\n\nDid Warner dupe New Zealand into burning review? 🤔🤔🤔\n\n👉 https://t.co/N5d4TzBjeH https://t.co/AfBntMna3Q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/N5d4TzBjeH",
+						"expanded_url": "https://bit.ly/2sprRBB",
+						"display_url": "bit.ly/2sprRBB",
+						"indices": [
+							84,
+							107
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1205784480071307300,
+						"id_str": "1205784480071307264",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/ELvOmJpUUAAbxcs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELvOmJpUUAAbxcs.jpg",
+						"url": "https://t.co/AfBntMna3Q",
+						"display_url": "pic.twitter.com/AfBntMna3Q",
+						"expanded_url": "https://twitter.com/FoxCricket/status/1205784497397977088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 462,
+										"y": 419,
+										"h": 150,
+										"w": 150
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 262,
+										"y": 237,
+										"h": 85,
+										"w": 85
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 740,
+										"y": 671,
+										"h": 241,
+										"w": 241
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 740,
+										"y": 671,
+										"h": 241,
+										"w": 241
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1205784480071307300,
+						"id_str": "1205784480071307264",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/ELvOmJpUUAAbxcs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELvOmJpUUAAbxcs.jpg",
+						"url": "https://t.co/AfBntMna3Q",
+						"display_url": "pic.twitter.com/AfBntMna3Q",
+						"expanded_url": "https://twitter.com/FoxCricket/status/1205784497397977088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 462,
+										"y": 419,
+										"h": 150,
+										"w": 150
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 262,
+										"y": 237,
+										"h": 85,
+										"w": 85
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 740,
+										"y": 671,
+										"h": 241,
+										"w": 241
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 740,
+										"y": 671,
+										"h": 241,
+										"w": 241
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 206079538,
+				"id_str": "206079538",
+				"name": "Fox Cricket",
+				"screen_name": "FoxCricket",
+				"location": "Australia",
+				"description": "Behind the scenes action, tweets from our coveted team of commentators, feature articles https://t.co/MvFz2pM4Iz & the latest info on Fox Cricket shows.",
+				"url": "https://t.co/7gzpwBOyKY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7gzpwBOyKY",
+								"expanded_url": "http://www.foxsports.com.au/cricket",
+								"display_url": "foxsports.com.au/cricket",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MvFz2pM4Iz",
+								"expanded_url": "http://foxsports.com.au",
+								"display_url": "foxsports.com.au",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 130848,
+				"friends_count": 711,
+				"listed_count": 431,
+				"created_at": "Fri Oct 22 07:00:18 +0000 2010",
+				"favourites_count": 223,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14960,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1039370522398576641/p8RUcFnc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039370522398576641/p8RUcFnc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/206079538/1568962107",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I can tell you, with 100% certainty, Dave Warner isn’t that clever. #AUSvsNZ https://t.co/HehzvIeY6m"
+	},
+	{
 		"created_at": "Fri Dec 13 12:26:34 +0000 2019",
 		"id": 1205464023795286000,
 		"id_str": "1205464023795286018",
