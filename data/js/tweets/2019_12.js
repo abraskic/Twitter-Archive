@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 19 10:48:23 +0000 2019",
+		"id": 1207407754618589200,
+		"id_str": "1207613643006722049",
+		"full_text": "Tech tip for people who aren't as tech-savvy as me:\n\nWhen you press the h button on your keyboard, you get a lower-case h. But what if you want an upper-case h? Easy! Just go to the wikipedia page on horses, copy the upper-case h and paste it into your document. Problem solved 👍 https://t.co/5oMQNXngS0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1207407749203669000,
+					"id_str": "1207407749203668993",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EMGS82ZWsAEjw_T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMGS82ZWsAEjw_T.jpg",
+					"url": "https://t.co/5oMQNXngS0",
+					"display_url": "pic.twitter.com/5oMQNXngS0",
+					"expanded_url": "https://twitter.com/Michael1979/status/1207407754618589186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 476,
+							"h": 205,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 476,
+							"h": 205,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 205,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207407749203669000,
+					"id_str": "1207407749203668993",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EMGS82ZWsAEjw_T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMGS82ZWsAEjw_T.jpg",
+					"url": "https://t.co/5oMQNXngS0",
+					"display_url": "pic.twitter.com/5oMQNXngS0",
+					"expanded_url": "https://twitter.com/Michael1979/status/1207407754618589186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 476,
+							"h": 205,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 476,
+							"h": 205,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 205,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20668891,
+			"id_str": "20668891",
+			"name": "Sir Michael",
+			"screen_name": "Michael1979",
+			"location": "Waterford, Ireland",
+			"description": "A serious man submitting serious posts for serious people. Recent webpostings - https://t.co/KGfoh2izHv",
+			"url": "https://t.co/ZLpWlM4hZr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZLpWlM4hZr",
+							"expanded_url": "https://ko-fi.com/sirmichael",
+							"display_url": "ko-fi.com/sirmichael",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KGfoh2izHv",
+							"expanded_url": "https://twitter.com/search?q=from:Michael1979%20-filter:replies",
+							"display_url": "twitter.com/search?q=from:…",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 88398,
+			"friends_count": 1227,
+			"listed_count": 688,
+			"created_at": "Thu Feb 12 11:22:21 +0000 2009",
+			"favourites_count": 73650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2542151234/4lzo4nfnjzrohvr2ltku_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2542151234/4lzo4nfnjzrohvr2ltku_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20668891/1524831693",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7640,
+		"favorite_count": 28453,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tech tip for people who aren't as tech-savvy as me:\n\nWhen you press the h button on your keyboard, you get a lower-case h. But what if you want an upper-case h? Easy! Just go to the wikipedia page on horses, copy the upper-case h and paste it into your document. Problem solved 👍 https://t.co/5oMQNXngS0"
+	},
+	{
 		"created_at": "Wed Dec 18 12:40:58 +0000 2019",
 		"id": 1207279589480747000,
 		"id_str": "1207279589480747009",
