@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 21 10:22:14 +0000 2019",
+		"id": 1208331837933678600,
+		"id_str": "1208331837933678592",
+		"full_text": "And the last route out of Sydney’s almost gone. https://t.co/5c1FoMxOYg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5c1FoMxOYg",
+					"expanded_url": "https://twitter.com/dmmaus/status/1208238045159284742",
+					"display_url": "twitter.com/dmmaus/status/…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 250,
+			"friends_count": 65,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1208238045159284700,
+		"quoted_status_id_str": "1208238045159284742",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5c1FoMxOYg",
+			"expanded": "https://twitter.com/dmmaus/status/1208238045159284742",
+			"display": "twitter.com/dmmaus/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 21 04:09:32 +0000 2019",
+			"id": 1208238045159284700,
+			"id_str": "1208238045159284742",
+			"full_text": "There are now only 2 routes out of Sydney. Every other road is blocked by fire. https://t.co/Njx6LveYKq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1208238035197821000,
+						"id_str": "1208238035197820939",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/EMSGF2wVAAs3QLS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMSGF2wVAAs3QLS.jpg",
+						"url": "https://t.co/Njx6LveYKq",
+						"display_url": "pic.twitter.com/Njx6LveYKq",
+						"expanded_url": "https://twitter.com/dmmaus/status/1208238045159284742/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1789,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 594,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1048,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 191,
+										"y": 875,
+										"h": 71,
+										"w": 71
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 63,
+										"y": 290,
+										"h": 23,
+										"w": 23
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 214,
+										"y": 980,
+										"h": 80,
+										"w": 80
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 112,
+										"y": 513,
+										"h": 41,
+										"w": 41
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1208238035197821000,
+						"id_str": "1208238035197820939",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/EMSGF2wVAAs3QLS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMSGF2wVAAs3QLS.jpg",
+						"url": "https://t.co/Njx6LveYKq",
+						"display_url": "pic.twitter.com/Njx6LveYKq",
+						"expanded_url": "https://twitter.com/dmmaus/status/1208238045159284742/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1789,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 594,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1048,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 191,
+										"y": 875,
+										"h": 71,
+										"w": 71
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 63,
+										"y": 290,
+										"h": 23,
+										"w": 23
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 214,
+										"y": 980,
+										"h": 80,
+										"w": 80
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 112,
+										"y": 513,
+										"h": 41,
+										"w": 41
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://twitterrific.com/mac\" rel=\"nofollow\">Twitterrific for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 222728014,
+				"id_str": "222728014",
+				"name": "David Morgan-Mar",
+				"screen_name": "dmmaus",
+				"location": "Sydney, Australia",
+				"description": "Comic author: Irregular Webcomic!, Darths & Droids, Eavesdropper, Planet of Hats, etc. Physicist, photographer, tabletop gamer, educator.",
+				"url": "https://t.co/uJWffFoi5b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uJWffFoi5b",
+								"expanded_url": "http://www.dangermouse.net",
+								"display_url": "dangermouse.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 528,
+				"friends_count": 26,
+				"listed_count": 29,
+				"created_at": "Sat Dec 04 07:51:39 +0000 2010",
+				"favourites_count": 58,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4291,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/682442203478667264/2X1vktCS_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/682442203478667264/2X1vktCS_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/222728014/1451542223",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 906,
+			"favorite_count": 1037,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And the last route out of Sydney’s almost gone. https://t.co/5c1FoMxOYg"
+	},
+	{
 		"created_at": "Thu Dec 19 20:59:30 +0000 2019",
 		"id": 1207767435777953800,
 		"id_str": "1207767435777953797",
