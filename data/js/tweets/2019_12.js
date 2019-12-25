@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 25 05:22:53 +0000 2019",
+		"id": 1209372935548371000,
+		"id_str": "1209706056613392384",
+		"full_text": "Did you want to stop for a Big Mac, Sir! https://t.co/rMZvYPlZa4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1209372928539672600,
+					"id_str": "1209372928539672576",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/EMiORV6UwAAMfmR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMiORV6UwAAMfmR.jpg",
+					"url": "https://t.co/rMZvYPlZa4",
+					"display_url": "pic.twitter.com/rMZvYPlZa4",
+					"expanded_url": "https://twitter.com/mfsampson/status/1209372935548370946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 433,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 433,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1209372928539672600,
+					"id_str": "1209372928539672576",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/EMiORV6UwAAMfmR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMiORV6UwAAMfmR.jpg",
+					"url": "https://t.co/rMZvYPlZa4",
+					"display_url": "pic.twitter.com/rMZvYPlZa4",
+					"expanded_url": "https://twitter.com/mfsampson/status/1209372935548370946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 433,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 433,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 192457318,
+			"id_str": "192457318",
+			"name": "Mike Sampson",
+			"screen_name": "mfsampson",
+			"location": "Sydney",
+			"description": "☁️ Cloud Wrangler ☁️",
+			"url": "https://t.co/0jzQsNr0ix",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0jzQsNr0ix",
+							"expanded_url": "http://sda.io",
+							"display_url": "sda.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 571,
+			"friends_count": 1282,
+			"listed_count": 56,
+			"created_at": "Sun Sep 19 05:51:27 +0000 2010",
+			"favourites_count": 57600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202097017650110464/W_HeRM7A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202097017650110464/W_HeRM7A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/192457318/1422345444",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did you want to stop for a Big Mac, Sir! https://t.co/rMZvYPlZa4"
+	},
+	{
 		"created_at": "Wed Dec 25 00:49:34 +0000 2019",
 		"id": 1209637271126737000,
 		"id_str": "1209637271126736896",
