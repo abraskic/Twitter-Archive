@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 26 11:31:52 +0000 2019",
+		"id": 1209909258969665500,
+		"id_str": "1210161300916994048",
+		"full_text": "Welcome to the nothing time. https://t.co/4qA38s36zX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1209909250056761300,
+					"id_str": "1209909250056761344",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EMp2DXQXsAA3UB5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMp2DXQXsAA3UB5.jpg",
+					"url": "https://t.co/4qA38s36zX",
+					"display_url": "pic.twitter.com/4qA38s36zX",
+					"expanded_url": "https://twitter.com/chazhutton/status/1209909258969665536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 747,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 747,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 231,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 231,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 231,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 153,
+									"y": 209,
+									"h": 116,
+									"w": 116
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1209909250056761300,
+					"id_str": "1209909250056761344",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EMp2DXQXsAA3UB5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMp2DXQXsAA3UB5.jpg",
+					"url": "https://t.co/4qA38s36zX",
+					"display_url": "pic.twitter.com/4qA38s36zX",
+					"expanded_url": "https://twitter.com/chazhutton/status/1209909258969665536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 747,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 747,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 231,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 231,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 231,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 153,
+									"y": 209,
+									"h": 116,
+									"w": 116
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43644872,
+			"id_str": "43644872",
+			"name": "Chaz Hutton",
+			"screen_name": "chazhutton",
+			"location": "Berlin, Germany",
+			"description": "Professional Idiot. The guy who draws https://t.co/kHhzu4BtHl You can also buy prints here: https://t.co/98ri7TpGjW",
+			"url": "https://t.co/WNYOtGTxGz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WNYOtGTxGz",
+							"expanded_url": "http://patreon.com/ChazHutton",
+							"display_url": "patreon.com/ChazHutton",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kHhzu4BtHl",
+							"expanded_url": "https://Instagram.com/instachaaz/",
+							"display_url": "Instagram.com/instachaaz/",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/98ri7TpGjW",
+							"expanded_url": "https://prinstachaaz.com/",
+							"display_url": "prinstachaaz.com",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15830,
+			"friends_count": 2384,
+			"listed_count": 197,
+			"created_at": "Sun May 31 05:00:59 +0000 2009",
+			"favourites_count": 13896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/784018366960984064/Hl3aIJA3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/784018366960984064/Hl3aIJA3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43644872/1472635324",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 240,
+		"favorite_count": 810,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Welcome to the nothing time. https://t.co/4qA38s36zX"
+	},
+	{
 		"created_at": "Thu Dec 26 04:34:40 +0000 2019",
 		"id": 1210056308335923200,
 		"id_str": "1210056308335923200",
