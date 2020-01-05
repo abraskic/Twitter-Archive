@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 05 10:47:35 +0000 2020",
+		"id": 1213760465815261200,
+		"id_str": "1213774034397040641",
+		"full_text": "\"Get in, we're gonna fight fires!\" https://t.co/U9wRjRzoun",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213760461268648000,
+					"id_str": "1213760461268647936",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/ENgktXBVAAAXqcU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENgktXBVAAAXqcU.jpg",
+					"url": "https://t.co/U9wRjRzoun",
+					"display_url": "pic.twitter.com/U9wRjRzoun",
+					"expanded_url": "https://twitter.com/ellybaxterpr/status/1213760465815261184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 433,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 433,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213760461268648000,
+					"id_str": "1213760461268647936",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/ENgktXBVAAAXqcU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENgktXBVAAAXqcU.jpg",
+					"url": "https://t.co/U9wRjRzoun",
+					"display_url": "pic.twitter.com/U9wRjRzoun",
+					"expanded_url": "https://twitter.com/ellybaxterpr/status/1213760465815261184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 433,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 433,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20221582,
+			"id_str": "20221582",
+			"name": "Elly Baxter",
+			"screen_name": "ellybaxterpr",
+			"location": "Sydney",
+			"description": "PR consult promoting arts & ideas. My tweets don't reflect my clients' opinions, unless they like them! Gin supporter @theginstress. She/her.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2310,
+			"friends_count": 977,
+			"listed_count": 98,
+			"created_at": "Fri Feb 06 07:26:56 +0000 2009",
+			"favourites_count": 19521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE588A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203882442941071361/v-zzNAuX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203882442941071361/v-zzNAuX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20221582/1506848229",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Get in, we're gonna fight fires!\" https://t.co/U9wRjRzoun"
+	},
+	{
 		"created_at": "Sat Jan 04 07:42:11 +0000 2020",
 		"id": 1213364990998020000,
 		"id_str": "1213364990998020096",
