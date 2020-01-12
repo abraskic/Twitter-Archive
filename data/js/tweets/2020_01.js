@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 12 11:23:54 +0000 2020",
+		"id": 1216319890778247200,
+		"id_str": "1216319890778247168",
+		"full_text": "Shame @Dominos_AU has a Sunday surcharge or this Garlic Bread Pizza monstrosity from their \"secret menu\" would 100% be dinner tonight. https://t.co/Xtv1XOZzsN https://t.co/sYpFyDPtm8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dominos_AU",
+					"name": "Domino's Australia",
+					"id": 17830080,
+					"id_str": "17830080",
+					"indices": [
+						6,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Xtv1XOZzsN",
+					"expanded_url": "http://bit.ly/SecretDominosMenu",
+					"display_url": "bit.ly/SecretDominosM…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216319882603556900,
+					"id_str": "1216319882603556864",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EOE8fSfUcAAsOXZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOE8fSfUcAAsOXZ.jpg",
+					"url": "https://t.co/sYpFyDPtm8",
+					"display_url": "pic.twitter.com/sYpFyDPtm8",
+					"expanded_url": "https://twitter.com/braskic/status/1216319890778247168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 550,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216319882603556900,
+					"id_str": "1216319882603556864",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EOE8fSfUcAAsOXZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOE8fSfUcAAsOXZ.jpg",
+					"url": "https://t.co/sYpFyDPtm8",
+					"display_url": "pic.twitter.com/sYpFyDPtm8",
+					"expanded_url": "https://twitter.com/braskic/status/1216319890778247168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 550,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 550,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 64,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shame @Dominos_AU has a Sunday surcharge or this Garlic Bread Pizza monstrosity from their \"secret menu\" would 100% be dinner tonight. https://t.co/Xtv1XOZzsN https://t.co/sYpFyDPtm8"
+	},
+	{
 		"created_at": "Sat Jan 11 10:01:28 +0000 2020",
 		"id": 1215936755414622200,
 		"id_str": "1215936755414622210",
