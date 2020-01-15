@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 13:13:55 +0000 2020",
+		"id": 1217434739092508700,
+		"id_str": "1217434739092508672",
+		"full_text": "Shut up and take my money @PrimeVideo. https://t.co/lHsIE0IoUb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PrimeVideo",
+					"name": "Prime Video",
+					"id": 17220817,
+					"id_str": "17220817",
+					"indices": [
+						26,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lHsIE0IoUb",
+					"expanded_url": "https://twitter.com/cricketcomau/status/1217355740681310208",
+					"display_url": "twitter.com/cricketcomau/s…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249,
+			"friends_count": 64,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217355740681310200,
+		"quoted_status_id_str": "1217355740681310208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lHsIE0IoUb",
+			"expanded": "https://twitter.com/cricketcomau/status/1217355740681310208",
+			"display": "twitter.com/cricketcomau/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 15 08:00:00 +0000 2020",
+			"id": 1217355740681310200,
+			"id_str": "1217355740681310208",
+			"full_text": "👀 SPECIAL SNEAK PEEK 👀\n\nWatch the dramatic scenes unfold in the Aussie camp during the epic Ashes battle between Steve Smith and Jofra Archer at Lord's.\n\nDon't miss @thetest_amazon from March 12... https://t.co/qtEF4qRIkp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				197
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thetest_amazon",
+						"name": "The Test",
+						"id": 1198786981779492900,
+						"id_str": "1198786981779492864",
+						"indices": [
+							165,
+							180
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1217346617801498600,
+						"id_str": "1217346617801498624",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/EOTlRVcU8AU0_Zj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOTlRVcU8AU0_Zj.jpg",
+						"url": "https://t.co/qtEF4qRIkp",
+						"display_url": "pic.twitter.com/qtEF4qRIkp",
+						"expanded_url": "https://twitter.com/cricketcomau/status/1217355740681310208/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1217346617801498600,
+						"id_str": "1217346617801498624",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/EOTlRVcU8AU0_Zj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOTlRVcU8AU0_Zj.jpg",
+						"url": "https://t.co/qtEF4qRIkp",
+						"display_url": "pic.twitter.com/qtEF4qRIkp",
+						"expanded_url": "https://twitter.com/cricketcomau/status/1217355740681310208/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 341800,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1217346617801498624/vid/640x360/Kpurjbv1TF0AiW2f.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1217346617801498624/vid/480x270/73I3YpBMP_j8d6-m.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1217346617801498624/pl/BMSLyhg--GbZ0myo.m3u8?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1217346617801498624/vid/1280x720/vaCHQ-Ci-LDh8GVJ.mp4?tag=13"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17692554,
+				"id_str": "17692554",
+				"name": "cricket.com.au",
+				"screen_name": "cricketcomau",
+				"location": "Australia",
+				"description": "Cricket news, scores and highlights produced by Cricket Australia's digital content team. Follow @CricketAus for official CA communication.",
+				"url": "https://t.co/fJ2gRSK7px",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fJ2gRSK7px",
+								"expanded_url": "http://www.cricket.com.au",
+								"display_url": "cricket.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1140197,
+				"friends_count": 455,
+				"listed_count": 3001,
+				"created_at": "Thu Nov 27 23:08:53 +0000 2008",
+				"favourites_count": 3938,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 128114,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000502",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1213832438654201856/ht5Imgot_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213832438654201856/ht5Imgot_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17692554/1576063919",
+				"profile_link_color": "000500",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "D1DA69",
+				"profile_text_color": "212121",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1377,
+			"favorite_count": 5197,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shut up and take my money @PrimeVideo. https://t.co/lHsIE0IoUb"
+	},
+	{
 		"created_at": "Tue Jan 14 23:11:16 +0000 2020",
 		"id": 1217222681407307800,
 		"id_str": "1217222681407307776",
