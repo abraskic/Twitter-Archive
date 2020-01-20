@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 20 21:54:55 +0000 2020",
+		"id": 1219020371430531000,
+		"id_str": "1219377791763763200",
+		"full_text": "What’s up YouTube? Doing a review of my hotel bathtub in Seattle. https://t.co/zngzH9wlRA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1219020256653369300,
+					"id_str": "1219020256653369344",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1219020256653369344/pu/img/SXYZKDmfh1aiBuAn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1219020256653369344/pu/img/SXYZKDmfh1aiBuAn.jpg",
+					"url": "https://t.co/zngzH9wlRA",
+					"display_url": "pic.twitter.com/zngzH9wlRA",
+					"expanded_url": "https://twitter.com/brother_dag/status/1219020371430531072/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219020256653369300,
+					"id_str": "1219020256653369344",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1219020256653369344/pu/img/SXYZKDmfh1aiBuAn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1219020256653369344/pu/img/SXYZKDmfh1aiBuAn.jpg",
+					"url": "https://t.co/zngzH9wlRA",
+					"display_url": "pic.twitter.com/zngzH9wlRA",
+					"expanded_url": "https://twitter.com/brother_dag/status/1219020371430531072/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 39872,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219020256653369344/pu/vid/360x640/Tl-4w1XY29q0JQ9c.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219020256653369344/pu/vid/320x568/mS8Qpe1_Hg5-HKGb.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1219020256653369344/pu/pl/Yw8vzVsBEcxc2aC6.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219020256653369344/pu/vid/720x1280/CEIk4lYDNu5CpUpr.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 97009441,
+			"id_str": "97009441",
+			"name": "gotta get off this site",
+			"screen_name": "brother_dag",
+			"location": "chicago",
+			"description": "huh, wild...",
+			"url": "https://t.co/QbIcnylhf7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QbIcnylhf7",
+							"expanded_url": "https://www.adamsondag.com/",
+							"display_url": "adamsondag.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1264,
+			"friends_count": 493,
+			"listed_count": 46,
+			"created_at": "Tue Dec 15 16:15:28 +0000 2009",
+			"favourites_count": 117945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1A1A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218428669812781056/T4sgOtCv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218428669812781056/T4sgOtCv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/97009441/1575478539",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1131,
+		"favorite_count": 3909,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What’s up YouTube? Doing a review of my hotel bathtub in Seattle. https://t.co/zngzH9wlRA"
+	},
+	{
 		"created_at": "Mon Jan 20 11:08:55 +0000 2020",
 		"id": 1219215223363518500,
 		"id_str": "1219215223363518464",
