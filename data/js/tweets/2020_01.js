@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 31 11:06:36 +0000 2020",
+		"id": 1223200907032051700,
+		"id_str": "1223200907032051712",
+		"full_text": "Kohli is not human. https://t.co/Gap8eO9RQo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gap8eO9RQo",
+					"expanded_url": "https://twitter.com/naveensurana05/status/1223183467904524290",
+					"display_url": "twitter.com/naveensurana05…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249,
+			"friends_count": 65,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1223183467904524300,
+		"quoted_status_id_str": "1223183467904524290",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Gap8eO9RQo",
+			"expanded": "https://twitter.com/naveensurana05/status/1223183467904524290",
+			"display": "twitter.com/naveensurana05…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 31 09:57:19 +0000 2020",
+			"id": 1223183467904524300,
+			"id_str": "1223183467904524290",
+			"full_text": "Brilliance from King Kohli💉 https://t.co/svgSg7zIN4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				51
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1223182980396417000,
+						"id_str": "1223182980396417024",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1223182980396417024/pu/img/8yw4wG1aUgAihvD0.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1223182980396417024/pu/img/8yw4wG1aUgAihvD0.jpg",
+						"url": "https://t.co/svgSg7zIN4",
+						"display_url": "pic.twitter.com/svgSg7zIN4",
+						"expanded_url": "https://twitter.com/RishavKisku/status/1223183150647365632/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1223183150647365600,
+						"source_status_id_str": "1223183150647365632",
+						"source_user_id": 201202022,
+						"source_user_id_str": "201202022",
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1223182980396417000,
+						"id_str": "1223182980396417024",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1223182980396417024/pu/img/8yw4wG1aUgAihvD0.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1223182980396417024/pu/img/8yw4wG1aUgAihvD0.jpg",
+						"url": "https://t.co/svgSg7zIN4",
+						"display_url": "pic.twitter.com/svgSg7zIN4",
+						"expanded_url": "https://twitter.com/RishavKisku/status/1223183150647365632/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1223183150647365600,
+						"source_status_id_str": "1223183150647365632",
+						"source_user_id": 201202022,
+						"source_user_id_str": "201202022",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 12098,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1223182980396417024/pu/vid/320x568/TafHy-7XqPiVZzoK.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1223182980396417024/pu/vid/360x640/Vq3QFx0YzXyJPDCM.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1223182980396417024/pu/pl/XqD_jgjoMw4fb0XR.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1223182980396417024/pu/vid/720x1280/VpCP2MZLcRX-HjRw.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 201202022,
+								"id_str": "201202022",
+								"name": "Rishav Kisku",
+								"screen_name": "RishavKisku",
+								"location": "India",
+								"description": "Well,this is me",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 20,
+								"friends_count": 229,
+								"listed_count": 0,
+								"created_at": "Mon Oct 11 09:51:37 +0000 2010",
+								"favourites_count": 234,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 54,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "352726",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1186233103028637697/eBM-8wXq_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186233103028637697/eBM-8wXq_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/201202022/1490344116",
+								"profile_link_color": "D02B55",
+								"profile_sidebar_border_color": "829D5E",
+								"profile_sidebar_fill_color": "99CC33",
+								"profile_text_color": "3E4415",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"can_media_tag": true,
+								"followed_by": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1080032097652355100,
+				"id_str": "1080032097652355073",
+				"name": "Cricket Freak",
+				"screen_name": "naveensurana05",
+				"location": "LiveforKohliBatting",
+				"description": "Like Red Ball More than White Ball ! ICC = Kohli. Ben Stokes FC💉",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1501,
+				"friends_count": 235,
+				"listed_count": 7,
+				"created_at": "Tue Jan 01 09:24:52 +0000 2019",
+				"favourites_count": 38754,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 58329,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1222361222814801920/Si3uUpuf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222361222814801920/Si3uUpuf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1080032097652355073/1580268589",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 166,
+			"favorite_count": 290,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "Kohli is not human. https://t.co/Gap8eO9RQo"
+	},
+	{
 		"created_at": "Fri Jan 31 04:11:34 +0000 2020",
 		"id": 1223096460381569000,
 		"id_str": "1223096460381569025",
