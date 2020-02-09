@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 09 10:34:13 +0000 2020",
+		"id": 1226439094206492700,
+		"id_str": "1226454245404135424",
+		"full_text": "Only in Australia 🙄 https://t.co/zfcdgQXUEk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226439085264273400,
+					"id_str": "1226439085264273408",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EQUv2Z_VAAADJJr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQUv2Z_VAAADJJr.jpg",
+					"url": "https://t.co/zfcdgQXUEk",
+					"display_url": "pic.twitter.com/zfcdgQXUEk",
+					"expanded_url": "https://twitter.com/TheAmandaRose/status/1226439094206492672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 607,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 607,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226439085264273400,
+					"id_str": "1226439085264273408",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EQUv2Z_VAAADJJr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQUv2Z_VAAADJJr.jpg",
+					"url": "https://t.co/zfcdgQXUEk",
+					"display_url": "pic.twitter.com/zfcdgQXUEk",
+					"expanded_url": "https://twitter.com/TheAmandaRose/status/1226439094206492672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 607,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 607,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 315747481,
+			"id_str": "315747481",
+			"name": "Amanda Rose",
+			"screen_name": "TheAmandaRose",
+			"location": "Faith • Family • Fitness ",
+			"description": "Speaker • Connector • Founder Western Sydney Women & @businesswomantv • NED Excelsia College.\nBBus(Mktg & Psy) • MAComnMgt • PGCertEdLead •",
+			"url": "https://t.co/YbSZZ1GW9H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YbSZZ1GW9H",
+							"expanded_url": "https://youtu.be/LBmGAk-paq0",
+							"display_url": "youtu.be/LBmGAk-paq0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4559,
+			"friends_count": 2772,
+			"listed_count": 379,
+			"created_at": "Sun Jun 12 11:24:13 +0000 2011",
+			"favourites_count": 15027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A4D160",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1221261214476488704/-3rmUc1D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221261214476488704/-3rmUc1D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/315747481/1576108011",
+			"profile_link_color": "A4D160",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 609,
+		"favorite_count": 1523,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Only in Australia 🙄 https://t.co/zfcdgQXUEk"
+	},
+	{
 		"created_at": "Sun Feb 09 08:28:21 +0000 2020",
 		"id": 1226422572352323600,
 		"id_str": "1226422572352323584",
