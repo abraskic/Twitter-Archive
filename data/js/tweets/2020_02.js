@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 26 07:57:14 +0000 2020",
+		"id": 1232575333682933800,
+		"id_str": "1232575333682933766",
+		"full_text": "Qantas really do make the best inflight safety videos. https://t.co/mN5U9wRQNL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mN5U9wRQNL",
+					"expanded_url": "https://twitter.com/qantas/status/1232440580514336774",
+					"display_url": "twitter.com/qantas/status/…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": "https://t.co/bH9IVISfAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVISfAv",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 65,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1232440580514336800,
+		"quoted_status_id_str": "1232440580514336774",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mN5U9wRQNL",
+			"expanded": "https://twitter.com/qantas/status/1232440580514336774",
+			"display": "twitter.com/qantas/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 25 23:01:46 +0000 2020",
+			"id": 1232440580514336800,
+			"id_str": "1232440580514336774",
+			"full_text": "Take a trip down memory lane - all the way back to the roaring 20s - in our nostalgic, new inflight safety video. #Qantas100\n\nFind out more: https://t.co/mQ1skByH30 https://t.co/pbfiBpfNRD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Qantas100",
+						"indices": [
+							114,
+							124
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mQ1skByH30",
+						"expanded_url": "http://bit.ly/32pB1vQ",
+						"display_url": "bit.ly/32pB1vQ",
+						"indices": [
+							141,
+							164
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1232439458437353500,
+						"id_str": "1232439458437353474",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1232439458437353474/img/SSkDuyGPObtuT4Qk.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1232439458437353474/img/SSkDuyGPObtuT4Qk.jpg",
+						"url": "https://t.co/pbfiBpfNRD",
+						"display_url": "pic.twitter.com/pbfiBpfNRD",
+						"expanded_url": "https://twitter.com/Qantas/status/1232440580514336774/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1232439458437353500,
+						"id_str": "1232439458437353474",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1232439458437353474/img/SSkDuyGPObtuT4Qk.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1232439458437353474/img/SSkDuyGPObtuT4Qk.jpg",
+						"url": "https://t.co/pbfiBpfNRD",
+						"display_url": "pic.twitter.com/pbfiBpfNRD",
+						"expanded_url": "https://twitter.com/Qantas/status/1232440580514336774/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 500834,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1232439458437353474/vid/1280x720/2Vg-Po5LQoc2MH5Z.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1232439458437353474/pl/lHmXKx1nlaaoV4RX.m3u8?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1232439458437353474/vid/480x270/N-pyXJHz3GD-MNGp.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1232439458437353474/vid/640x360/dq8VZmLQ2RXtZivN.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 218730857,
+				"id_str": "218730857",
+				"name": "Qantas",
+				"screen_name": "Qantas",
+				"location": "Australia",
+				"description": "The official Qantas Twitter page to share information & get feedback. We’re online 24 hours a day, 7 days a week. \nHouse Rules: https://t.co/1wxi2LsDE9",
+				"url": "https://t.co/6EDyaCeKOj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6EDyaCeKOj",
+								"expanded_url": "https://www.qantas.com/",
+								"display_url": "qantas.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1wxi2LsDE9",
+								"expanded_url": "http://bit.ly/QFhouserules",
+								"display_url": "bit.ly/QFhouserules",
+								"indices": [
+									128,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 493858,
+				"friends_count": 6327,
+				"listed_count": 2620,
+				"created_at": "Tue Nov 23 03:29:25 +0000 2010",
+				"favourites_count": 5425,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 189287,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "212121",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1231797507635568640/hSGiR99n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231797507635568640/hSGiR99n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/218730857/1573774846",
+				"profile_link_color": "E0001A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F2F2F2",
+				"profile_text_color": "565656",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 99,
+			"favorite_count": 300,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Qantas really do make the best inflight safety videos. https://t.co/mN5U9wRQNL"
+	},
+	{
 		"created_at": "Mon Feb 24 07:15:08 +0000 2020",
 		"id": 1231839963857076200,
 		"id_str": "1231839963857076224",
