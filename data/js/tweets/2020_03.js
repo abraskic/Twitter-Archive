@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 04 11:56:46 +0000 2020",
+		"id": 1235172328570359800,
+		"id_str": "1235172328570359810",
+		"full_text": "At the rate we’re going we are going to end human civilisation ourselves before then. https://t.co/0cJ1kt9RU2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0cJ1kt9RU2",
+					"expanded_url": "https://twitter.com/daily_express/status/1234596211665047553",
+					"display_url": "twitter.com/daily_express/…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249,
+			"friends_count": 65,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1234596211665047600,
+		"quoted_status_id_str": "1234596211665047553",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0cJ1kt9RU2",
+			"expanded": "https://twitter.com/daily_express/status/1234596211665047553",
+			"display": "twitter.com/daily_express/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 02 21:47:29 +0000 2020",
+			"id": 1234596211665047600,
+			"id_str": "1234596211665047553",
+			"full_text": "A 4.1KM asteroid will close-in on Earth in April, NASA has confirmed - Could end human civilisation if it hits\nhttps://t.co/ViEX9JAOTm https://t.co/l9foef5QmF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				134
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ViEX9JAOTm",
+						"expanded_url": "https://www.express.co.uk/news/science/1249990/Asteroid-warning-NASA-tracks-4KM-killer-asteroid-hit-Earth-end-civilisation-asteroid-news",
+						"display_url": "express.co.uk/news/science/1…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1234596043641294800,
+						"id_str": "1234596043641294848",
+						"indices": [
+							135,
+							158
+						],
+						"media_url": "http://pbs.twimg.com/media/ESIqj35XkAAHrN2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESIqj35XkAAHrN2.jpg",
+						"url": "https://t.co/l9foef5QmF",
+						"display_url": "pic.twitter.com/l9foef5QmF",
+						"expanded_url": "https://twitter.com/Daily_Express/status/1234596211665047553/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 712,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 403,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 712,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1234596043641294800,
+						"id_str": "1234596043641294848",
+						"indices": [
+							135,
+							158
+						],
+						"media_url": "http://pbs.twimg.com/media/ESIqj35XkAAHrN2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESIqj35XkAAHrN2.jpg",
+						"url": "https://t.co/l9foef5QmF",
+						"display_url": "pic.twitter.com/l9foef5QmF",
+						"expanded_url": "https://twitter.com/Daily_Express/status/1234596211665047553/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 712,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 403,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 712,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17895820,
+				"id_str": "17895820",
+				"name": "Daily Express",
+				"screen_name": "Daily_Express",
+				"location": "London",
+				"description": "http://t.co/xNo7rgb8JJ - Home of the Daily and Sunday Express",
+				"url": "http://t.co/s6YQUMB0NH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/s6YQUMB0NH",
+								"expanded_url": "http://www.express.co.uk",
+								"display_url": "express.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/xNo7rgb8JJ",
+								"expanded_url": "http://Express.co.uk",
+								"display_url": "Express.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 826072,
+				"friends_count": 624,
+				"listed_count": 3437,
+				"created_at": "Fri Dec 05 12:05:48 +0000 2008",
+				"favourites_count": 61,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 721570,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "7B6085",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1230887617358651392/uq4jNSJa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230887617358651392/uq4jNSJa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17895820/1582302707",
+				"profile_link_color": "13AEB8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17683,
+			"favorite_count": 49556,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At the rate we’re going we are going to end human civilisation ourselves before then. https://t.co/0cJ1kt9RU2"
+	},
+	{
 		"created_at": "Wed Mar 04 11:01:09 +0000 2020",
 		"id": 1235158333822136300,
 		"id_str": "1235158333822136320",
