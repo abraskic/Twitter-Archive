@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 04 01:01:10 +0000 2020",
+		"id": 1234771903971090400,
+		"id_str": "1235007344771121152",
+		"full_text": "I, for one, welcome our new Coronavirus overlord. Either fully healthy, quarantine, sick time off work, or the sweet release of death. There are no bad options.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28061587,
+			"id_str": "28061587",
+			"name": "𝘿𝘼𝙉𝙉",
+			"screen_name": "d_wolff",
+			"location": "Perth, WA",
+			"description": "Works on contingency? No, money down!",
+			"url": "https://t.co/qxweOKPMpt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qxweOKPMpt",
+							"expanded_url": "http://thedann.com",
+							"display_url": "thedann.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 895,
+			"friends_count": 539,
+			"listed_count": 46,
+			"created_at": "Wed Apr 01 06:07:38 +0000 2009",
+			"favourites_count": 8276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154754945310048256/GrY5e8b__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154754945310048256/GrY5e8b__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I, for one, welcome our new Coronavirus overlord. Either fully healthy, quarantine, sick time off work, or the sweet release of death. There are no bad options."
+	},
+	{
 		"created_at": "Tue Mar 03 09:57:57 +0000 2020",
 		"id": 1234780039700336600,
 		"id_str": "1234780039700336640",
