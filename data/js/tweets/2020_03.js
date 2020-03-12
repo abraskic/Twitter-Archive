@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 12 12:36:59 +0000 2020",
+		"id": 1238081553999134700,
+		"id_str": "1238081553999134721",
+		"full_text": "Breaking news: car drivers can no longer drive cars in car driving event because of coronavirus. More at 11. https://t.co/RVObJacmIl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RVObJacmIl",
+					"expanded_url": "https://twitter.com/shanemcinnes/status/1238066343083036674",
+					"display_url": "twitter.com/shanemcinnes/s…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249,
+			"friends_count": 65,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238066343083036700,
+		"quoted_status_id_str": "1238066343083036674",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RVObJacmIl",
+			"expanded": "https://twitter.com/shanemcinnes/status/1238066343083036674",
+			"display": "twitter.com/shanemcinnes/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 12 11:36:33 +0000 2020",
+			"id": 1238066343083036700,
+			"id_str": "1238066343083036674",
+			"full_text": "BREAKING: \n\nMcLaren team WITHDRAWS from #AusGP after team member tests positive to the coronavirus. \n\nWho was this team member is contact with? How long before he went into quarantine?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				184
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AusGP",
+						"indices": [
+							40,
+							46
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43091701,
+				"id_str": "43091701",
+				"name": "Shane McInnes",
+				"screen_name": "shanemcinnes",
+				"location": "Melbourne, Victoria",
+				"description": "Sports Broadcaster @3AW693 & @6PR (Nine Radio). Host @ReadySetTokyo. Talking sport🏟, current affairs🇦🇺🇺🇸, travel✈️",
+				"url": "https://t.co/vEeKewagNY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vEeKewagNY",
+								"expanded_url": "http://www.3aw.com.au",
+								"display_url": "3aw.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4909,
+				"friends_count": 2823,
+				"listed_count": 77,
+				"created_at": "Thu May 28 11:31:13 +0000 2009",
+				"favourites_count": 6799,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15329,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1224259811337891840/c3tBF5aA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224259811337891840/c3tBF5aA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43091701/1580721261",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Breaking news: car drivers can no longer drive cars in car driving event because of coronavirus. More at 11. https://t.co/RVObJacmIl"
+	},
+	{
 		"created_at": "Thu Mar 12 11:08:48 +0000 2020",
 		"id": 1238059359709487000,
 		"id_str": "1238059359709487105",
