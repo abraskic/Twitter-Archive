@@ -1,6 +1,96 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 09:08:47 +0000 2020",
+		"id": 1238719446279000000,
+		"id_str": "1238753933805228032",
+		"full_text": "OK I've said it once, but I'll say it again for the people in the back.\n\nUNIVERSAL\n\nBASIC\n\nINCOME\n\n#Covid_19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Covid_19",
+					"indices": [
+						99,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 734703554,
+			"id_str": "734703554",
+			"name": "฿Ø₲ ₩ł₮₵Ⱨ",
+			"screen_name": "VonBitchPants",
+			"location": "Bucket of Haunted Bog Water",
+			"description": "Farmer's daughter, big tiddy Goth. Mother of one small dragon.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 408,
+			"friends_count": 472,
+			"listed_count": 8,
+			"created_at": "Fri Aug 03 11:17:32 +0000 2012",
+			"favourites_count": 44283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181089193214140416/BBNehFJ__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181089193214140416/BBNehFJ__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/734703554/1552523254",
+			"profile_link_color": "704980",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "OK I've said it once, but I'll say it again for the people in the back.\n\nUNIVERSAL\n\nBASIC\n\nINCOME\n\n#Covid_19"
+	},
+	{
 		"created_at": "Fri Mar 13 23:37:09 +0000 2020",
 		"id": 1238545438476730400,
 		"id_str": "1238610075909885952",
