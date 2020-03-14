@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 23:37:09 +0000 2020",
+		"id": 1238545438476730400,
+		"id_str": "1238610075909885952",
+		"full_text": "Sicily has figured out this whole self-isolation thing.\n\n#COVID19 #CoronavirusPandemic \n\nhttps://t.co/93whPVtQcR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						57,
+						65
+					]
+				},
+				{
+					"text": "CoronavirusPandemic",
+					"indices": [
+						66,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238533812902125600,
+					"id_str": "1238533812902125576",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238533812902125576/pu/img/X6QKKwt-0FXTwADg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238533812902125576/pu/img/X6QKKwt-0FXTwADg.jpg",
+					"url": "https://t.co/93whPVtQcR",
+					"display_url": "pic.twitter.com/93whPVtQcR",
+					"expanded_url": "https://twitter.com/restivogab/status/1238534135318265860/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1238534135318265900,
+					"source_status_id_str": "1238534135318265860",
+					"source_user_id": 1208357548610470000,
+					"source_user_id_str": "1208357548610469890"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238533812902125600,
+					"id_str": "1238533812902125576",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238533812902125576/pu/img/X6QKKwt-0FXTwADg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238533812902125576/pu/img/X6QKKwt-0FXTwADg.jpg",
+					"url": "https://t.co/93whPVtQcR",
+					"display_url": "pic.twitter.com/93whPVtQcR",
+					"expanded_url": "https://twitter.com/restivogab/status/1238534135318265860/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1238534135318265900,
+					"source_status_id_str": "1238534135318265860",
+					"source_user_id": 1208357548610470000,
+					"source_user_id_str": "1208357548610469890",
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							53
+						],
+						"duration_millis": 95852,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1238533812902125576/pu/pl/RS4N7_co3_MzTHpO.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238533812902125576/pu/vid/480x848/snzOMwP9aZlTna4X.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238533812902125576/pu/vid/360x636/I_HtBmxr-zzmF_Kc.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238533812902125576/pu/vid/320x564/8muST0ZbavVRLHyJ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1208357548610470000,
+							"id_str": "1208357548610469890",
+							"name": "Gabriele Restivo 2",
+							"screen_name": "restivogab",
+							"location": "Milano, Lombardia",
+							"description": "Capitano @safetyplayers; #sicurezzasullavoro @isfmworldwide. Ex @agentianonimi. Qui parlo di calcio e @Juventus sportivamente. Non parlo di arbitri",
+							"url": "https://t.co/P7dgzRSMNJ",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/P7dgzRSMNJ",
+											"expanded_url": "http://www.isfm.it",
+											"display_url": "isfm.it",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 410,
+							"friends_count": 826,
+							"listed_count": 1,
+							"created_at": "Sat Dec 21 12:04:34 +0000 2019",
+							"favourites_count": 7389,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 2079,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1208357784380723201/foF5kx0o_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208357784380723201/foF5kx0o_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1208357548610469890/1576931800",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 466519303,
+			"id_str": "466519303",
+			"name": "John Nichols",
+			"screen_name": "NicholsUprising",
+			"location": "Wisconsin, USA",
+			"description": "Author: THE FIGHT FOR THE SOUL OF THE DEMOCRATIC PARTY (Verso: May 2020). @TheNation. @CapTimes. @freepress. @theprogressive. Follower of Tom Paine.",
+			"url": "https://t.co/5INkOzJebM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5INkOzJebM",
+							"expanded_url": "https://www.thenation.com/next-left/",
+							"display_url": "thenation.com/next-left/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79573,
+			"friends_count": 265,
+			"listed_count": 2036,
+			"created_at": "Tue Jan 17 14:05:56 +0000 2012",
+			"favourites_count": 344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 42302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/441901473299853312/KQn3SLti_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/441901473299853312/KQn3SLti_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/466519303/1583458008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25304,
+		"favorite_count": 86299,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sicily has figured out this whole self-isolation thing.\n\n#COVID19 #CoronavirusPandemic \n\nhttps://t.co/93whPVtQcR"
+	},
+	{
 		"created_at": "Fri Mar 13 03:42:01 +0000 2020",
 		"id": 1238309314831376400,
 		"id_str": "1238309314831376385",
