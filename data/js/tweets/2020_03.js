@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 15 22:23:25 +0000 2020",
+		"id": 1239164479419621400,
+		"id_str": "1239316296896065537",
+		"full_text": "“Ask not what staying home on the couch can do for you, but what staying home on the couch can do for your country.”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 433439383,
+			"id_str": "433439383",
+			"name": "Kashana",
+			"screen_name": "kashanacauley",
+			"location": "Los Angeles, CA ",
+			"description": "(TV) writer. deadly with a butter knife.",
+			"url": "https://t.co/pRDpV11Yt0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pRDpV11Yt0",
+							"expanded_url": "http://kashanacauley.com",
+							"display_url": "kashanacauley.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108811,
+			"friends_count": 373,
+			"listed_count": 1252,
+			"created_at": "Sat Dec 10 15:30:58 +0000 2011",
+			"favourites_count": 170657,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/939596663085088768/z5LXJE1Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/939596663085088768/z5LXJE1Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/433439383/1454110247",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16899,
+		"favorite_count": 59302,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“Ask not what staying home on the couch can do for you, but what staying home on the couch can do for your country.”"
+	},
+	{
 		"created_at": "Sat Mar 14 09:08:47 +0000 2020",
 		"id": 1238719446279000000,
 		"id_str": "1238753933805228032",
