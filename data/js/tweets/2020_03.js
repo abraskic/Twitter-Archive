@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 23 09:33:08 +0000 2020",
+		"id": 1241843944238923800,
+		"id_str": "1242021553631444993",
+		"full_text": "Ok how about this:\n\nNo more billionaires. None.\n\nAfter you reach $999 million, every red cent goes to schools and health care.\n\nYou get a trophy that says, “I won capitalism” and we name a dog park after you.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1241839627993895000,
+		"in_reply_to_status_id_str": "1241839627993894912",
+		"in_reply_to_user_id": 594175899,
+		"in_reply_to_user_id_str": "594175899",
+		"in_reply_to_screen_name": "Mikel_Jollett",
+		"user": {
+			"id": 594175899,
+			"id_str": "594175899",
+			"name": "Mikel Jollett",
+			"screen_name": "Mikel_Jollett",
+			"location": "Silver Lake, CA",
+			"description": "sha la la la la, man",
+			"url": "https://t.co/LeTrpML82j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LeTrpML82j",
+							"expanded_url": "http://theairbornetoxicevent.com",
+							"display_url": "theairbornetoxicevent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249336,
+			"friends_count": 852,
+			"listed_count": 2870,
+			"created_at": "Tue May 29 22:37:51 +0000 2012",
+			"favourites_count": 156112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 42476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238959667998416896/vJKHHSB7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238959667998416896/vJKHHSB7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/594175899/1583529548",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2864,
+		"favorite_count": 9932,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Ok how about this:\n\nNo more billionaires. None.\n\nAfter you reach $999 million, every red cent goes to schools and health care.\n\nYou get a trophy that says, “I won capitalism” and we name a dog park after you."
+	},
+	{
 		"created_at": "Mon Mar 23 06:45:18 +0000 2020",
 		"id": 1241979316017041400,
 		"id_str": "1241979316017041410",
