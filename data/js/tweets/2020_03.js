@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 27 02:41:36 +0000 2020",
+		"id": 1243255591591710700,
+		"id_str": "1243367538869719040",
+		"full_text": "Lol we’re a bunch of paycheck to paycheck employees living in apartments owned by paycheck to paycheck landlords and working for paycheck to paycheck corporations. Lmao whole economy full of broke bitches. Whose idea was this?!?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 157096271,
+			"id_str": "157096271",
+			"name": "Mikenson 🇭🇹",
+			"screen_name": "mikeapedia101",
+			"location": "Helping The Bear",
+			"description": "I know I'm gon' get got. But Ima get mine more than I get got though. - Marshawn Lynch",
+			"url": "https://t.co/j0BA95CevI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j0BA95CevI",
+							"expanded_url": "http://mikeapedia101.tumblr.com/",
+							"display_url": "mikeapedia101.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1150,
+			"friends_count": 910,
+			"listed_count": 71,
+			"created_at": "Fri Jun 18 21:17:08 +0000 2010",
+			"favourites_count": 3249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 232904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151956161010262018/7QjESc5x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151956161010262018/7QjESc5x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/157096271/1542201576",
+			"profile_link_color": "F53131",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32947,
+		"favorite_count": 125707,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Lol we’re a bunch of paycheck to paycheck employees living in apartments owned by paycheck to paycheck landlords and working for paycheck to paycheck corporations. Lmao whole economy full of broke bitches. Whose idea was this?!?"
+	},
+	{
 		"created_at": "Wed Mar 25 11:28:15 +0000 2020",
 		"id": 1242775299391021000,
 		"id_str": "1242775299391021056",
