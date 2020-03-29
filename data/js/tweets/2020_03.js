@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 29 13:42:09 +0000 2020",
+		"id": 1244258546654392300,
+		"id_str": "1244258546654392320",
+		"full_text": "6 bands/6 people\n\n1. Angels and Airwaves\n2. Jimmy Eat World\n3. U2\n4. Gang of Youths\n5. Coldplay\n6. R.E.M\n\n@twcau @spirit_of_aus @capey @Epigrammist @stokegriff @iamcheerbear https://t.co/pcKeztvDOR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twcau",
+					"name": "Scared Arnott’s Iced Vovo Chocolate Block",
+					"id": 17439480,
+					"id_str": "17439480",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"screen_name": "spirit_of_aus",
+					"name": "spirit of australia",
+					"id": 238122972,
+					"id_str": "238122972",
+					"indices": [
+						113,
+						127
+					]
+				},
+				{
+					"screen_name": "capey",
+					"name": "Luke Caporn",
+					"id": 28299141,
+					"id_str": "28299141",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"screen_name": "Epigrammist",
+					"name": "Toby Wash Your Hands Keep 2m Away",
+					"id": 31065693,
+					"id_str": "31065693",
+					"indices": [
+						135,
+						147
+					]
+				},
+				{
+					"screen_name": "stokegriff",
+					"name": "Stokegriff",
+					"id": 15278158,
+					"id_str": "15278158",
+					"indices": [
+						148,
+						159
+					]
+				},
+				{
+					"screen_name": "iamcheerbear",
+					"name": "Eve Michele ✨🍒",
+					"id": 18797024,
+					"id_str": "18797024",
+					"indices": [
+						160,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pcKeztvDOR",
+					"expanded_url": "https://twitter.com/iamcheerbear/status/1244249686141046784",
+					"display_url": "twitter.com/iamcheerbear/s…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 247,
+			"friends_count": 64,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3061,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1244249686141046800,
+		"quoted_status_id_str": "1244249686141046784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pcKeztvDOR",
+			"expanded": "https://twitter.com/iamcheerbear/status/1244249686141046784",
+			"display": "twitter.com/iamcheerbear/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 29 13:06:56 +0000 2020",
+			"id": 1244249686141046800,
+			"id_str": "1244249686141046784",
+			"full_text": "6 bands/6 people\n\n1. Kisschasy\n2. Something Corporate\n3. Simple Plan\n4. Green Day\n5. MEST\n6. The Offspring\n\n@brookewhatnow @ribbononmywrist @braskic @heartzmakebeatz @moonxsugar @JonathanBrozkii https://t.co/WAR5YN9rwE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				194
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "brookewhatnow",
+						"name": "Brookelz",
+						"id": 25229763,
+						"id_str": "25229763",
+						"indices": [
+							108,
+							122
+						]
+					},
+					{
+						"screen_name": "ribbononmywrist",
+						"name": "Mae 💖💐",
+						"id": 17421082,
+						"id_str": "17421082",
+						"indices": [
+							123,
+							139
+						]
+					},
+					{
+						"screen_name": "braskic",
+						"name": "Andrew Braskic",
+						"id": 14866613,
+						"id_str": "14866613",
+						"indices": [
+							140,
+							148
+						]
+					},
+					{
+						"screen_name": "heartzmakebeatz",
+						"name": "Emmsy ғ̶ᴘ̶ᴇ̶ ||-//",
+						"id": 293570482,
+						"id_str": "293570482",
+						"indices": [
+							149,
+							165
+						]
+					},
+					{
+						"screen_name": "moonxsugar",
+						"name": "🌛 𝓳𝓪𝓲𝓶𝓲𝓮 🌜",
+						"id": 38824614,
+						"id_str": "38824614",
+						"indices": [
+							166,
+							177
+						]
+					},
+					{
+						"screen_name": "JonathanBrozkii",
+						"name": "Jonathan - Brozkii",
+						"id": 291925400,
+						"id_str": "291925400",
+						"indices": [
+							178,
+							194
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WAR5YN9rwE",
+						"expanded_url": "https://twitter.com/lethaann/status/1244248886421729281",
+						"display_url": "twitter.com/lethaann/statu…",
+						"indices": [
+							195,
+							218
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18797024,
+				"id_str": "18797024",
+				"name": "Eve Michele ✨🍒",
+				"screen_name": "iamcheerbear",
+				"location": "perth, land of oz.",
+				"description": "painter of pictures & singer of songs 💖💖💖 friend code: SW-0705-8021-5337",
+				"url": "https://t.co/qdwhv6yudu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qdwhv6yudu",
+								"expanded_url": "http://youtube.com/iamcheerbear",
+								"display_url": "youtube.com/iamcheerbear",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1342,
+				"friends_count": 835,
+				"listed_count": 23,
+				"created_at": "Fri Jan 09 09:19:34 +0000 2009",
+				"favourites_count": 14994,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 117837,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1126354677182844929/kugRQZ2N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126354677182844929/kugRQZ2N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18797024/1510513419",
+				"profile_link_color": "26A5FF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "9E9E9E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1244248886421729300,
+			"quoted_status_id_str": "1244248886421729281",
+			"quoted_status_permalink": {
+				"url": "https://t.co/WAR5YN9rwE",
+				"expanded": "https://twitter.com/lethaann/status/1244248886421729281",
+				"display": "twitter.com/lethaann/statu…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "6 bands/6 people\n\n1. Angels and Airwaves\n2. Jimmy Eat World\n3. U2\n4. Gang of Youths\n5. Coldplay\n6. R.E.M\n\n@twcau @spirit_of_aus @capey @Epigrammist @stokegriff @iamcheerbear https://t.co/pcKeztvDOR"
+	},
+	{
 		"created_at": "Sun Mar 29 13:07:16 +0000 2020",
 		"id": 1244249770492752000,
 		"id_str": "1244249770492751872",
