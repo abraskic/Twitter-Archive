@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 02:08:29 +0000 2020",
+		"id": 1247207703086280700,
+		"id_str": "1247345469920907264",
+		"full_text": "I bloody love Jamie Oliver’s Keep Cooking and Carry On because he says you can substitute ingredients for ones you do have in the cupboard. I made his Aubergine Curry Dal with Herby Flatbreads tonight. https://t.co/kYvOnE2LFv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247207699521175600,
+					"id_str": "1247207699521175554",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EU74y3MXgAIsksG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU74y3MXgAIsksG.jpg",
+					"url": "https://t.co/kYvOnE2LFv",
+					"display_url": "pic.twitter.com/kYvOnE2LFv",
+					"expanded_url": "https://twitter.com/fabulucy/status/1247207703086280709/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247207699521175600,
+					"id_str": "1247207699521175554",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EU74y3MXgAIsksG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU74y3MXgAIsksG.jpg",
+					"url": "https://t.co/kYvOnE2LFv",
+					"display_url": "pic.twitter.com/kYvOnE2LFv",
+					"expanded_url": "https://twitter.com/fabulucy/status/1247207703086280709/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 32034018,
+			"id_str": "32034018",
+			"name": "Tuppence Pennyapple III",
+			"screen_name": "fabulucy",
+			"location": "",
+			"description": "Avoiding issues and dumbing down with humour since 2009. All tweets guaranteed 87.13% virus free.",
+			"url": "https://t.co/oI9rC5a15X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oI9rC5a15X",
+							"expanded_url": "http://google.co.uk",
+							"display_url": "google.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13020,
+			"friends_count": 2684,
+			"listed_count": 43,
+			"created_at": "Thu Apr 16 17:56:41 +0000 2009",
+			"favourites_count": 23249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238555836475154432/3LGMBw66_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238555836475154432/3LGMBw66_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/32034018/1575965231",
+			"profile_link_color": "FC0303",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6305,
+		"favorite_count": 45285,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I bloody love Jamie Oliver’s Keep Cooking and Carry On because he says you can substitute ingredients for ones you do have in the cupboard. I made his Aubergine Curry Dal with Herby Flatbreads tonight. https://t.co/kYvOnE2LFv"
+	},
+	{
 		"created_at": "Mon Apr 06 02:56:30 +0000 2020",
 		"id": 1246995166944096300,
 		"id_str": "1246995166944096256",
