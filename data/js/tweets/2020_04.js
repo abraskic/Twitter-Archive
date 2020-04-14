@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 04:08:06 +0000 2020",
+		"id": 1249798306454212600,
+		"id_str": "1249912286635896832",
+		"full_text": "Due to less air pollution the sky is so clear ! I can see the Universal logo ! https://t.co/EqiqIDL4JJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249798241094439000,
+					"id_str": "1249798241094438912",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EVgs4OlXkAAW7hc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVgs4OlXkAAW7hc.jpg",
+					"url": "https://t.co/EqiqIDL4JJ",
+					"display_url": "pic.twitter.com/EqiqIDL4JJ",
+					"expanded_url": "https://twitter.com/romainrevert/status/1249798306454212610/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1512,
+							"h": 851,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249798241094439000,
+					"id_str": "1249798241094438912",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EVgs4OlXkAAW7hc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVgs4OlXkAAW7hc.jpg",
+					"url": "https://t.co/EqiqIDL4JJ",
+					"display_url": "pic.twitter.com/EqiqIDL4JJ",
+					"expanded_url": "https://twitter.com/romainrevert/status/1249798306454212610/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1512,
+							"h": 851,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30858790,
+			"id_str": "30858790",
+			"name": "Romain Revert",
+			"screen_name": "romainrevert",
+			"location": "Paris",
+			"description": "#3D #2D #VR Artist // Character FX on Minions the rise of Gru // Director of @HugeAppointment",
+			"url": "https://t.co/KG12K6Ltng",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KG12K6Ltng",
+							"expanded_url": "https://www.artstation.com/romainr",
+							"display_url": "artstation.com/romainr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1139,
+			"friends_count": 978,
+			"listed_count": 70,
+			"created_at": "Mon Apr 13 12:53:10 +0000 2009",
+			"favourites_count": 9698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/657315512720994304/uxUFG1Ig_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/657315512720994304/uxUFG1Ig_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/30858790/1553304775",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91673,
+		"favorite_count": 393791,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Due to less air pollution the sky is so clear ! I can see the Universal logo ! https://t.co/EqiqIDL4JJ"
+	},
+	{
 		"created_at": "Tue Apr 14 02:03:35 +0000 2020",
 		"id": 1249880954442637300,
 		"id_str": "1249880954442637313",
