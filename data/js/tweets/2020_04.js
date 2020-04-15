@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 13:51:48 +0000 2020",
+		"id": 1250397687146561500,
+		"id_str": "1250421571207872513",
+		"full_text": "You've invented the lunch break https://t.co/MstwQ1pZCP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250397643412471800,
+					"id_str": "1250397643412471811",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EVpOCCOWAAMjAbu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVpOCCOWAAMjAbu.jpg",
+					"url": "https://t.co/MstwQ1pZCP",
+					"display_url": "pic.twitter.com/MstwQ1pZCP",
+					"expanded_url": "https://twitter.com/JThomsonCook/status/1250397687146561538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 511,
+							"h": 328,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 328,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 511,
+							"h": 328,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250397643412471800,
+					"id_str": "1250397643412471811",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EVpOCCOWAAMjAbu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVpOCCOWAAMjAbu.jpg",
+					"url": "https://t.co/MstwQ1pZCP",
+					"display_url": "pic.twitter.com/MstwQ1pZCP",
+					"expanded_url": "https://twitter.com/JThomsonCook/status/1250397687146561538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 511,
+							"h": 328,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 328,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 511,
+							"h": 328,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 298630349,
+			"id_str": "298630349",
+			"name": "Jeremy Thomson-Cook",
+			"screen_name": "JThomsonCook",
+			"location": "London",
+			"description": "Founder @ComCurCon, Chief Economist @meetequals,  Dulwich, Fintech, Lib Dem, mental health policy. Also renovating a house IG: @Renovate228. All thoughts my own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 766,
+			"friends_count": 717,
+			"listed_count": 42,
+			"created_at": "Sat May 14 17:10:13 +0000 2011",
+			"favourites_count": 2816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/996375479132344320/s4p0As_A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/996375479132344320/s4p0As_A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/298630349/1460220444",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 499,
+		"favorite_count": 1503,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You've invented the lunch break https://t.co/MstwQ1pZCP"
+	},
+	{
 		"created_at": "Wed Apr 15 11:19:52 +0000 2020",
 		"id": 1250383334619766800,
 		"id_str": "1250383334619766784",
