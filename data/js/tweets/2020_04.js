@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 19 10:33:22 +0000 2020",
+		"id": 1251821184234041300,
+		"id_str": "1251821184234041344",
+		"full_text": "There’s literally no point waking up before 8am because Nook’s Cranny isn’t open. https://t.co/qDLjSo8Gz2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qDLjSo8Gz2",
+					"expanded_url": "https://twitter.com/tahk0/status/1251746406089416706",
+					"display_url": "twitter.com/tahk0/status/1…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Too cheap for the good shit, too good for the cheap shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 247,
+			"friends_count": 65,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3087,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1251746406089416700,
+		"quoted_status_id_str": "1251746406089416706",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qDLjSo8Gz2",
+			"expanded": "https://twitter.com/tahk0/status/1251746406089416706",
+			"display": "twitter.com/tahk0/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 19 05:36:14 +0000 2020",
+			"id": 1251746406089416700,
+			"id_str": "1251746406089416706",
+			"full_text": "I’ve realized, in the age of quarantine, I rely entirely on animal crossing to have a functioning sleep schedule so I don’t miss out on day events and stores being open",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36519939,
+				"id_str": "36519939",
+				"name": "TAHK0 ☕️",
+				"screen_name": "TAHK0",
+				"location": "Pallet Town",
+				"description": "Pixel Artist (https://t.co/WHTMxRxcvQ) ✨ Owns @SplatoonCafe ✨ @ZeldaUniverse Writer ✨ Posts obscure discoveries about video games ✨ https://t.co/9NRHlVRp9C ☕️",
+				"url": "https://t.co/23ZyRF7qrZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/23ZyRF7qrZ",
+								"expanded_url": "https://www.youtube.com/c/tahk0",
+								"display_url": "youtube.com/c/tahk0",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WHTMxRxcvQ",
+								"expanded_url": "http://tahk0.myshopify.com",
+								"display_url": "tahk0.myshopify.com",
+								"indices": [
+									14,
+									37
+								]
+							},
+							{
+								"url": "https://t.co/9NRHlVRp9C",
+								"expanded_url": "http://www.twitch.tv/tahk0",
+								"display_url": "twitch.tv/tahk0",
+								"indices": [
+									132,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 21704,
+				"friends_count": 1321,
+				"listed_count": 141,
+				"created_at": "Wed Apr 29 23:30:05 +0000 2009",
+				"favourites_count": 110222,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 90503,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A30000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1054112988196552704/1GKq-MNw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054112988196552704/1GKq-MNw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36519939/1535451343",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 118,
+			"favorite_count": 831,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There’s literally no point waking up before 8am because Nook’s Cranny isn’t open. https://t.co/qDLjSo8Gz2"
+	},
+	{
 		"created_at": "Sat Apr 18 08:03:48 +0000 2020",
 		"id": 1251421157909123000,
 		"id_str": "1251421157909123072",
