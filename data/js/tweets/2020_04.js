@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 23 03:44:35 +0000 2020",
+		"id": 1253133702307201000,
+		"id_str": "1253167859187900417",
+		"full_text": "@animalcrossing @NintendoAmerica https://t.co/aoYHIwZBr6",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "animalcrossing",
+					"name": "Tom Nook",
+					"id": 1377451009,
+					"id_str": "1377451009",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "NintendoAmerica",
+					"name": "Nintendo of America",
+					"id": 5162861,
+					"id_str": "5162861",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1253133696728739800,
+					"id_str": "1253133696728739841",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/EWQGdTGWsAEhcjS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWQGdTGWsAEhcjS.jpg",
+					"url": "https://t.co/aoYHIwZBr6",
+					"display_url": "pic.twitter.com/aoYHIwZBr6",
+					"expanded_url": "https://twitter.com/WaffleMantis/status/1253133702307201028/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1158,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2046,
+							"h": 1974,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253133696728739800,
+					"id_str": "1253133696728739841",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/EWQGdTGWsAEhcjS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWQGdTGWsAEhcjS.jpg",
+					"url": "https://t.co/aoYHIwZBr6",
+					"display_url": "pic.twitter.com/aoYHIwZBr6",
+					"expanded_url": "https://twitter.com/WaffleMantis/status/1253133702307201028/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1158,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2046,
+							"h": 1974,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1253133279965769700,
+		"in_reply_to_status_id_str": "1253133279965769728",
+		"in_reply_to_user_id": 1377451009,
+		"in_reply_to_user_id_str": "1377451009",
+		"in_reply_to_screen_name": "animalcrossing",
+		"user": {
+			"id": 3064648774,
+			"id_str": "3064648774",
+			"name": "WaffleMantis",
+			"screen_name": "WaffleMantis",
+			"location": "",
+			"description": "Zelda • Animal Crossing • Mario • Fire Emblem • Smash Bros. etc. Hi there! huge Nintendo geek and nerd. SW:3842-7980-3406",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 289,
+			"listed_count": 0,
+			"created_at": "Fri Feb 27 22:42:32 +0000 2015",
+			"favourites_count": 14631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246943027123322881/SIi6rPIj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246943027123322881/SIi6rPIj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3064648774/1578613391",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 128,
+		"favorite_count": 1051,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@animalcrossing @NintendoAmerica https://t.co/aoYHIwZBr6"
+	},
+	{
 		"created_at": "Wed Apr 22 12:05:40 +0000 2020",
 		"id": 1252931574112215000,
 		"id_str": "1252931574112215041",
