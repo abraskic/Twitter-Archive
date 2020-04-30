@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 30 03:43:52 +0000 2020",
+		"id": 1255691301678284800,
+		"id_str": "1255704394198204417",
+		"full_text": "You happy now?!?! https://t.co/lKPx7uw0NW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1255691273052188700,
+					"id_str": "1255691273052188672",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EW0cj1XVcAAwVzV.png",
+					"media_url_https": "https://pbs.twimg.com/media/EW0cj1XVcAAwVzV.png",
+					"url": "https://t.co/lKPx7uw0NW",
+					"display_url": "pic.twitter.com/lKPx7uw0NW",
+					"expanded_url": "https://twitter.com/supercujo/status/1255691301678284801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 560,
+							"h": 371,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 371,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 560,
+							"h": 371,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255691273052188700,
+					"id_str": "1255691273052188672",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EW0cj1XVcAAwVzV.png",
+					"media_url_https": "https://pbs.twimg.com/media/EW0cj1XVcAAwVzV.png",
+					"url": "https://t.co/lKPx7uw0NW",
+					"display_url": "pic.twitter.com/lKPx7uw0NW",
+					"expanded_url": "https://twitter.com/supercujo/status/1255691301678284801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 560,
+							"h": 371,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 371,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 560,
+							"h": 371,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18132109,
+			"id_str": "18132109",
+			"name": "スパクジョ",
+			"screen_name": "supercujo",
+			"location": "Perth",
+			"description": "It is what it is. The official Supercujo Twitter account!!! I kicked cancer's arse. No topic is off-limits for a joke. RT != endorsement",
+			"url": "https://t.co/U3cdy2CvJG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U3cdy2CvJG",
+							"expanded_url": "http://mobro.co/supercujo",
+							"display_url": "mobro.co/supercujo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1981,
+			"friends_count": 1601,
+			"listed_count": 168,
+			"created_at": "Mon Dec 15 06:22:31 +0000 2008",
+			"favourites_count": 23249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 120731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127801817557913600/-eNaJmbO_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127801817557913600/-eNaJmbO_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18132109/1561360123",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "003B03",
+			"profile_text_color": "A3A3A3",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You happy now?!?! https://t.co/lKPx7uw0NW"
+	},
+	{
 		"created_at": "Thu Apr 30 01:04:49 +0000 2020",
 		"id": 1255664368546508800,
 		"id_str": "1255664368546508800",
