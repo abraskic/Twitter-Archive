@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 11 22:46:45 +0000 2020",
+		"id": 1259218563673424000,
+		"id_str": "1259978279806623744",
+		"full_text": "Looks like Elon musk lost his kid https://t.co/kXtp5pTkPb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259218548334792700,
+					"id_str": "1259218548334792704",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EXmkmRwUEAAnW45.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXmkmRwUEAAnW45.jpg",
+					"url": "https://t.co/kXtp5pTkPb",
+					"display_url": "pic.twitter.com/kXtp5pTkPb",
+					"expanded_url": "https://twitter.com/Kane__Stanley/status/1259218563673423873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259218548334792700,
+					"id_str": "1259218548334792704",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EXmkmRwUEAAnW45.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXmkmRwUEAAnW45.jpg",
+					"url": "https://t.co/kXtp5pTkPb",
+					"display_url": "pic.twitter.com/kXtp5pTkPb",
+					"expanded_url": "https://twitter.com/Kane__Stanley/status/1259218563673423873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4703227278,
+			"id_str": "4703227278",
+			"name": "Kane",
+			"screen_name": "Kane__Stanley",
+			"location": "Dublin City, Ireland",
+			"description": "👋 I'm a motion designer at @surveymonkey. I also play too much FIFA",
+			"url": "https://t.co/QTVCsCnPoJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTVCsCnPoJ",
+							"expanded_url": "https://www.behance.net/kanestanley",
+							"display_url": "behance.net/kanestanley",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149,
+			"friends_count": 489,
+			"listed_count": 3,
+			"created_at": "Sun Jan 03 15:03:44 +0000 2016",
+			"favourites_count": 1092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834775881117634561/ASHy29YT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834775881117634561/ASHy29YT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4703227278/1509715587",
+			"profile_link_color": "003200",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 370,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looks like Elon musk lost his kid https://t.co/kXtp5pTkPb"
+	},
+	{
 		"created_at": "Mon May 11 12:14:09 +0000 2020",
 		"id": 1259819077448556500,
 		"id_str": "1259819077448556544",
