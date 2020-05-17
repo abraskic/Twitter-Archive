@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 17 21:42:24 +0000 2020",
+		"id": 1262012531809202200,
+		"id_str": "1262136410980540416",
+		"full_text": "Just the beginning https://t.co/OIN2574HbU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OIN2574HbU",
+					"expanded_url": "https://twitter.com/SimoLove/status/1261998195086778368",
+					"display_url": "twitter.com/SimoLove/statu…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16712753,
+			"id_str": "16712753",
+			"name": "Ryan Egan",
+			"screen_name": "rynobi",
+			"location": "Melbourne, Victoria",
+			"description": "Senior Producer for @DoubleJRadio. ABC office dad for the Melbourne @triplej team.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4555,
+			"friends_count": 3442,
+			"listed_count": 200,
+			"created_at": "Sun Oct 12 22:14:31 +0000 2008",
+			"favourites_count": 21619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1474095791/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1474095791/image_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16712753/1409051885",
+			"profile_link_color": "264757",
+			"profile_sidebar_border_color": "000A17",
+			"profile_sidebar_fill_color": "EEFA6C",
+			"profile_text_color": "095463",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1261998195086778400,
+		"quoted_status_id_str": "1261998195086778368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OIN2574HbU",
+			"expanded": "https://twitter.com/SimoLove/status/1261998195086778368",
+			"display": "twitter.com/SimoLove/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 17 12:33:11 +0000 2020",
+			"id": 1261998195086778400,
+			"id_str": "1261998195086778368",
+			"full_text": "BREAKING: @maccas has closed 12 Vic stores after a truck driver tested positive to #Covid19\nThey “made deliveries to 12 restaurants &amp; interacted with a small no. of restaurant employees on each occasion while asymptomatic &amp; unaware they had contracted COVID-19” @10NewsFirstMelb https://t.co/YpIPux2apt https://t.co/cTUvSFPmag",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				310
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Covid19",
+						"indices": [
+							83,
+							91
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "maccas",
+						"name": "McDonald's Australia",
+						"id": 2931768596,
+						"id_str": "2931768596",
+						"indices": [
+							10,
+							17
+						]
+					},
+					{
+						"screen_name": "10NewsFirstMelb",
+						"name": "10 News First Melbourne",
+						"id": 227195141,
+						"id_str": "227195141",
+						"indices": [
+							270,
+							286
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YpIPux2apt",
+						"expanded_url": "https://twitter.com/simolove/status/1261169718188113922",
+						"display_url": "twitter.com/simolove/statu…",
+						"indices": [
+							287,
+							310
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1261998188388511700,
+						"id_str": "1261998188388511744",
+						"indices": [
+							311,
+							334
+						],
+						"media_url": "http://pbs.twimg.com/media/EYOEqn4VcAAK8Be.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYOEqn4VcAAK8Be.jpg",
+						"url": "https://t.co/cTUvSFPmag",
+						"display_url": "pic.twitter.com/cTUvSFPmag",
+						"expanded_url": "https://twitter.com/SimoLove/status/1261998195086778368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 485,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 699,
+								"h": 499,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 699,
+								"h": 499,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1261998188388511700,
+						"id_str": "1261998188388511744",
+						"indices": [
+							311,
+							334
+						],
+						"media_url": "http://pbs.twimg.com/media/EYOEqn4VcAAK8Be.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYOEqn4VcAAK8Be.jpg",
+						"url": "https://t.co/cTUvSFPmag",
+						"display_url": "pic.twitter.com/cTUvSFPmag",
+						"expanded_url": "https://twitter.com/SimoLove/status/1261998195086778368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 485,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 699,
+								"h": 499,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 699,
+								"h": 499,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25793174,
+				"id_str": "25793174",
+				"name": "Simon Love",
+				"screen_name": "SimoLove",
+				"location": "Melbourne, Australia",
+				"description": "State Political Reporter - Network 10 @10NewsFirstMelb - Dream big / live life / make a difference. My news & views. RTs may not be. slove@networkten.com.au",
+				"url": "https://t.co/D9Ulppcfp9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/D9Ulppcfp9",
+								"expanded_url": "https://10daily.com.au/authors/simon-love",
+								"display_url": "10daily.com.au/authors/simon-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4255,
+				"friends_count": 3519,
+				"listed_count": 87,
+				"created_at": "Sun Mar 22 07:13:20 +0000 2009",
+				"favourites_count": 3696,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11306,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/712939134260629504/8AmK1vFz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/712939134260629504/8AmK1vFz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25793174/1554287455",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1261169718188114000,
+			"quoted_status_id_str": "1261169718188113922",
+			"quoted_status_permalink": {
+				"url": "https://t.co/YpIPux2apt",
+				"expanded": "https://twitter.com/simolove/status/1261169718188113922",
+				"display": "twitter.com/simolove/statu…"
+			},
+			"retweet_count": 42,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just the beginning https://t.co/OIN2574HbU"
+	},
+	{
 		"created_at": "Sun May 17 12:07:16 +0000 2020",
 		"id": 1261991675246731300,
 		"id_str": "1261991675246731264",
