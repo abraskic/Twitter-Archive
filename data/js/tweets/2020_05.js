@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 18 04:30:27 +0000 2020",
+		"id": 1261922260132102100,
+		"id_str": "1262239099194208258",
+		"full_text": "Ask not what your local pub can do for you, ask what you can do for your local pub",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3004178958,
+			"id_str": "3004178958",
+			"name": "The Bell Tower Times",
+			"screen_name": "BellTowerTimes",
+			"location": "Perth",
+			"description": "Perth's zestiest news",
+			"url": "https://t.co/TWoqaCpo72",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TWoqaCpo72",
+							"expanded_url": "http://www.thebelltowertimes.com",
+							"display_url": "thebelltowertimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10506,
+			"friends_count": 962,
+			"listed_count": 33,
+			"created_at": "Sat Jan 31 02:59:21 +0000 2015",
+			"favourites_count": 10680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216554724477898752/G4uoNI8b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216554724477898752/G4uoNI8b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3004178958/1548118974",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Ask not what your local pub can do for you, ask what you can do for your local pub"
+	},
+	{
 		"created_at": "Sun May 17 21:42:24 +0000 2020",
 		"id": 1262012531809202200,
 		"id_str": "1262136410980540416",
