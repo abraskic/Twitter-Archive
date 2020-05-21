@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 12:01:11 +0000 2020",
+		"id": 1263183121706598400,
+		"id_str": "1263439692936044545",
+		"full_text": "What absolute dystopian hell world are we living in. https://t.co/Srnot6ZUji",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1263183113473097700,
+					"id_str": "1263183113473097738",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/EYe6WVzWAAoMa4J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYe6WVzWAAoMa4J.jpg",
+					"url": "https://t.co/Srnot6ZUji",
+					"display_url": "pic.twitter.com/Srnot6ZUji",
+					"expanded_url": "https://twitter.com/Firr/status/1263183121706598404/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263183113473097700,
+					"id_str": "1263183113473097738",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/EYe6WVzWAAoMa4J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYe6WVzWAAoMa4J.jpg",
+					"url": "https://t.co/Srnot6ZUji",
+					"display_url": "pic.twitter.com/Srnot6ZUji",
+					"expanded_url": "https://twitter.com/Firr/status/1263183121706598404/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15620758,
+			"id_str": "15620758",
+			"name": "Firr",
+			"screen_name": "Firr",
+			"location": "he/him/his",
+			"description": "Yes, I invented the furry fandom. you're welcome.",
+			"url": "https://t.co/DdgDCGUJ63",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DdgDCGUJ63",
+							"expanded_url": "http://www.bonernoise.com",
+							"display_url": "bonernoise.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10331,
+			"friends_count": 499,
+			"listed_count": 77,
+			"created_at": "Sun Jul 27 15:20:25 +0000 2008",
+			"favourites_count": 2222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247592914265538563/2wXCsx1Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247592914265538563/2wXCsx1Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15620758/1535055584",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39948,
+		"favorite_count": 202393,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What absolute dystopian hell world are we living in. https://t.co/Srnot6ZUji"
+	},
+	{
 		"created_at": "Thu May 21 03:53:20 +0000 2020",
 		"id": 1263316921644007400,
 		"id_str": "1263316921644007424",
