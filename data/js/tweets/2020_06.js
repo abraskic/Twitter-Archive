@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 08:49:55 +0000 2020",
+		"id": 1269433872074375200,
+		"id_str": "1269552156752793601",
+		"full_text": "https://t.co/xBoO36NZES",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269433865376014300,
+					"id_str": "1269433865376014337",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ3vX_OWoAE6ptv.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZ3vX_OWoAE6ptv.png",
+					"url": "https://t.co/xBoO36NZES",
+					"display_url": "pic.twitter.com/xBoO36NZES",
+					"expanded_url": "https://twitter.com/claco/status/1269433872074375171/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 730,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 730,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 671,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269433865376014300,
+					"id_str": "1269433865376014337",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ3vX_OWoAE6ptv.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZ3vX_OWoAE6ptv.png",
+					"url": "https://t.co/xBoO36NZES",
+					"display_url": "pic.twitter.com/xBoO36NZES",
+					"expanded_url": "https://twitter.com/claco/status/1269433872074375171/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 730,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 730,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 671,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14816130,
+			"id_str": "14816130",
+			"name": "Chris Laco",
+			"screen_name": "claco",
+			"location": "Tallmadge, OH",
+			"description": "SRE @FlatironHealth. General nerd. Computers. Drums. Scotch. Cigars. Opinions. @WasteBits CoFounder. @TheStartupBus Alumni. \n\n330-790-1450",
+			"url": "https://t.co/T7EijTYQMS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T7EijTYQMS",
+							"expanded_url": "http://about.me/chrislaco",
+							"display_url": "about.me/chrislaco",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1728,
+			"friends_count": 1478,
+			"listed_count": 186,
+			"created_at": "Sun May 18 00:24:31 +0000 2008",
+			"favourites_count": 27245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264598630134157312/D-aUtPtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264598630134157312/D-aUtPtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14816130/1563324487",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/xBoO36NZES"
+	},
+	{
 		"created_at": "Sat Jun 06 13:17:11 +0000 2020",
 		"id": 1269011371145846800,
 		"id_str": "1269257026732875776",
