@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 14 22:04:18 +0000 2020",
+		"id": 1271903871044972500,
+		"id_str": "1272288780943126528",
+		"full_text": "I would love to show someone from 1995 this picture and ask them what they think is happening here https://t.co/Y6a50Q3zmy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271903866506801200,
+					"id_str": "1271903866506801152",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Eaa10-eVcAA9neJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eaa10-eVcAA9neJ.jpg",
+					"url": "https://t.co/Y6a50Q3zmy",
+					"display_url": "pic.twitter.com/Y6a50Q3zmy",
+					"expanded_url": "https://twitter.com/MikeRoyce/status/1271903871044972544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 858,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1908,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271903866506801200,
+					"id_str": "1271903866506801152",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Eaa10-eVcAA9neJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eaa10-eVcAA9neJ.jpg",
+					"url": "https://t.co/Y6a50Q3zmy",
+					"display_url": "pic.twitter.com/Y6a50Q3zmy",
+					"expanded_url": "https://twitter.com/MikeRoyce/status/1271903871044972544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 858,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1908,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90804970,
+			"id_str": "90804970",
+			"name": "Mike Royce",
+			"screen_name": "MikeRoyce",
+			"location": "Los Angeles",
+			"description": "One Day at a Time Tues 9:30 on @poptv / season 1-3 on @Netflix / Men of a Certain Age on @HBOMax / Enlisted on DVD / writer on Everybody Loves Raymond •• he/him",
+			"url": "https://t.co/QkwuXdNP30",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QkwuXdNP30",
+							"expanded_url": "https://www.netflix.com/title/80095532?s=i&trkid=14170056",
+							"display_url": "netflix.com/title/80095532…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19713,
+			"friends_count": 2461,
+			"listed_count": 282,
+			"created_at": "Wed Nov 18 04:58:10 +0000 2009",
+			"favourites_count": 97852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 29467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174541528447893504/c1n4R5OA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174541528447893504/c1n4R5OA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90804970/1580340766",
+			"profile_link_color": "021414",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8559,
+		"favorite_count": 68441,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I would love to show someone from 1995 this picture and ask them what they think is happening here https://t.co/Y6a50Q3zmy"
+	},
+	{
 		"created_at": "Sun Jun 14 06:10:08 +0000 2020",
 		"id": 1272048658637193200,
 		"id_str": "1272048658637193216",
