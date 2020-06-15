@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 10:40:18 +0000 2020",
+		"id": 1272479038267732000,
+		"id_str": "1272479038267731968",
+		"full_text": "Gotta give the smokers some nice scenery to spend their fag break in. https://t.co/wiwIBu402h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wiwIBu402h",
+					"expanded_url": "https://twitter.com/joonwanntimes/status/1272423615015813120",
+					"display_url": "twitter.com/joonwanntimes/…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Sleep is for the week(nights)",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 243,
+			"friends_count": 64,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1272423615015813000,
+		"quoted_status_id_str": "1272423615015813120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wiwIBu402h",
+			"expanded": "https://twitter.com/joonwanntimes/status/1272423615015813120",
+			"display": "twitter.com/joonwanntimes/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 15 07:00:04 +0000 2020",
+			"id": 1272423615015813000,
+			"id_str": "1272423615015813120",
+			"full_text": ".@City_Joondalup #council has deferred plans to develop a garden in honour of the City’s relationship with #Jinan in China, and explore alternative options for the $2.15m set aside for the project #Joondalup #perthnews https://t.co/K95FLjUPQ9 https://t.co/JtoHN77Bou",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				242
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "council",
+						"indices": [
+							17,
+							25
+						]
+					},
+					{
+						"text": "Jinan",
+						"indices": [
+							107,
+							113
+						]
+					},
+					{
+						"text": "Joondalup",
+						"indices": [
+							197,
+							207
+						]
+					},
+					{
+						"text": "perthnews",
+						"indices": [
+							208,
+							218
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "City_Joondalup",
+						"name": "City of Joondalup",
+						"id": 1097089476,
+						"id_str": "1097089476",
+						"indices": [
+							1,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/K95FLjUPQ9",
+						"expanded_url": "https://www.perthnow.com.au/community-news/joondalup-times/jinan-garden-project-for-joondalup-deferred-c-1101946",
+						"display_url": "perthnow.com.au/community-news…",
+						"indices": [
+							219,
+							242
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1272423610951532500,
+						"id_str": "1272423610951532545",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/EaiOiFaWAAE73N2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaiOiFaWAAE73N2.jpg",
+						"url": "https://t.co/JtoHN77Bou",
+						"display_url": "pic.twitter.com/JtoHN77Bou",
+						"expanded_url": "https://twitter.com/JoonWannTimes/status/1272423615015813120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1272423610951532500,
+						"id_str": "1272423610951532545",
+						"indices": [
+							243,
+							266
+						],
+						"media_url": "http://pbs.twimg.com/media/EaiOiFaWAAE73N2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaiOiFaWAAE73N2.jpg",
+						"url": "https://t.co/JtoHN77Bou",
+						"display_url": "pic.twitter.com/JtoHN77Bou",
+						"expanded_url": "https://twitter.com/JoonWannTimes/status/1272423615015813120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1873927464,
+				"id_str": "1873927464",
+				"name": "JoonWannTimes",
+				"screen_name": "JoonWannTimes",
+				"location": "Perth, WA",
+				"description": "Community newspaper from Burns Beach to Marmion to Landsdale. The 1974-established Wanneroo-Joondalup Times is published Thursdays.",
+				"url": "https://t.co/93FtYmZRKr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/93FtYmZRKr",
+								"expanded_url": "http://www.communitynews.com.au",
+								"display_url": "communitynews.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1869,
+				"friends_count": 576,
+				"listed_count": 111,
+				"created_at": "Tue Sep 17 03:28:59 +0000 2013",
+				"favourites_count": 77,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11861,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000468206807/29be43d9baf0ebf9862b816594c3bc68_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000468206807/29be43d9baf0ebf9862b816594c3bc68_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gotta give the smokers some nice scenery to spend their fag break in. https://t.co/wiwIBu402h"
+	},
+	{
 		"created_at": "Mon Jun 15 10:09:21 +0000 2020",
 		"id": 1272471249583632400,
 		"id_str": "1272471249583632384",
