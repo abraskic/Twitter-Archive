@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 18 09:00:40 +0000 2020",
+		"id": 1273439271022522400,
+		"id_str": "1273541126587203584",
+		"full_text": "You do not have the right to remain silent but deadly. https://t.co/n7e4JE96wC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n7e4JE96wC",
+					"expanded_url": "https://7news.com.au/news/crime/man-fined-for-farting-with-full-intent-in-front-of-police-c-1107043",
+					"display_url": "7news.com.au/news/crime/man…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31065693,
+			"id_str": "31065693",
+			"name": "Tobæ-12 Wash Your Hands.",
+			"screen_name": "Epigrammist",
+			"location": "Freo,Whadjuk, Westralia",
+			"description": "Chief Financial Officer, Antifa Pty Ltd.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1632,
+			"friends_count": 998,
+			"listed_count": 129,
+			"created_at": "Tue Apr 14 05:22:49 +0000 2009",
+			"favourites_count": 316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 300588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244788269147029504/7Hg72T2E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244788269147029504/7Hg72T2E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/31065693/1450317480",
+			"profile_link_color": "3A3AD1",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDEBFA",
+			"profile_text_color": "575555",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You do not have the right to remain silent but deadly. https://t.co/n7e4JE96wC"
+	},
+	{
 		"created_at": "Tue Jun 16 07:08:55 +0000 2020",
 		"id": 1272788228567785500,
 		"id_str": "1272788228567785472",
