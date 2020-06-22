@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 22 11:55:05 +0000 2020",
+		"id": 1275034570740519000,
+		"id_str": "1275034570740518916",
+		"full_text": "Pandemic is over guys. Everyone do whatever the fuck you want. https://t.co/pxJTrLONSz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pxJTrLONSz",
+					"expanded_url": "https://twitter.com/markmcgowanmp/status/1274935202645594113",
+					"display_url": "twitter.com/markmcgowanmp/…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Sleep is for the week(nights)",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 243,
+			"friends_count": 63,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1274935202645594000,
+		"quoted_status_id_str": "1274935202645594113",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pxJTrLONSz",
+			"expanded": "https://twitter.com/markmcgowanmp/status/1274935202645594113",
+			"display": "twitter.com/markmcgowanmp/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 22 05:20:14 +0000 2020",
+			"id": 1274935202645594000,
+			"id_str": "1274935202645594113",
+			"full_text": "In line with expert health advice, Phase 4 of eased restrictions in Western Australia will commence this Saturday 27 June. https://t.co/dU0MsKq3Wu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				122
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1274934618811068400,
+						"id_str": "1274934618811068416",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/EbF6R-oU8AAydoF.png",
+						"media_url_https": "https://pbs.twimg.com/media/EbF6R-oU8AAydoF.png",
+						"url": "https://t.co/dU0MsKq3Wu",
+						"display_url": "pic.twitter.com/dU0MsKq3Wu",
+						"expanded_url": "https://twitter.com/MarkMcGowanMP/status/1274935202645594113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1670,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 554,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 978,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1274934618811068400,
+						"id_str": "1274934618811068416",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/EbF6R-oU8AAydoF.png",
+						"media_url_https": "https://pbs.twimg.com/media/EbF6R-oU8AAydoF.png",
+						"url": "https://t.co/dU0MsKq3Wu",
+						"display_url": "pic.twitter.com/dU0MsKq3Wu",
+						"expanded_url": "https://twitter.com/MarkMcGowanMP/status/1274935202645594113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1670,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 554,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 978,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 430452224,
+				"id_str": "430452224",
+				"name": "Mark McGowan",
+				"screen_name": "MarkMcGowanMP",
+				"location": "Rockingham, Perth (WA)",
+				"description": "Dad to Samuel, Alexander and Amelia. Husband to Sarah. Premier of Western Australia. Rockingham local.",
+				"url": "https://t.co/8RUiL5da2B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8RUiL5da2B",
+								"expanded_url": "http://premier.wa.gov.au",
+								"display_url": "premier.wa.gov.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39625,
+				"friends_count": 655,
+				"listed_count": 241,
+				"created_at": "Wed Dec 07 05:42:53 +0000 2011",
+				"favourites_count": 517,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6234,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "913434",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1092659095088164864/295cwTE4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092659095088164864/295cwTE4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/430452224/1591326192",
+				"profile_link_color": "BF311B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 180,
+			"favorite_count": 785,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pandemic is over guys. Everyone do whatever the fuck you want. https://t.co/pxJTrLONSz"
+	},
+	{
 		"created_at": "Mon Jun 22 11:11:38 +0000 2020",
 		"id": 1275023635216920600,
 		"id_str": "1275023635216920576",
