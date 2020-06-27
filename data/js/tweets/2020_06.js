@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 26 23:45:10 +0000 2020",
+		"id": 1276662822001275000,
+		"id_str": "1276662822001274880",
+		"full_text": "Working both days on my birthday weekend because all the other staff have booked it off and I’m a sucker for punishment.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Sleep is for the week(nights)",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 242,
+			"friends_count": 63,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6c019743e7c11167",
+			"url": "https://api.twitter.com/1.1/geo/id/6c019743e7c11167.json",
+			"place_type": "neighborhood",
+			"name": "Joondalup",
+			"full_name": "Joondalup, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.74986112,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.76237502
+						],
+						[
+							115.79226012,
+							-31.71691503
+						],
+						[
+							115.74986112,
+							-31.71691503
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Working both days on my birthday weekend because all the other staff have booked it off and I’m a sucker for punishment."
+	},
+	{
+		"created_at": "Fri Jun 26 23:42:11 +0000 2020",
+		"id": 1276409668668014600,
+		"id_str": "1276662071929630720",
+		"full_text": "\"I hope this email finds you well\"\n- trite\n- boring\n- if i were doing well i wouldn't be reading email\n\n\"This email has found you.\"\n- always true\n- deeply ominous\n- implies more emails might also find me, which i am suddenly quite worried about",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14412937,
+			"id_str": "14412937",
+			"name": "eevee",
+			"screen_name": "eevee",
+			"location": "Colorado Springs, CO",
+			"description": "hacker, game dev, artist, miscellaneous; see https://t.co/w3CnZKgcFS\n\n• she/her 🦊🏳️‍⚧️ • 💍 @glitchedpuppet • other half of @floraverse •\n\nweird furry porn → 🔞 @squishfox",
+			"url": "https://t.co/dQVZ3aZIqu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dQVZ3aZIqu",
+							"expanded_url": "https://eev.ee/",
+							"display_url": "eev.ee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/w3CnZKgcFS",
+							"expanded_url": "http://eev.ee",
+							"display_url": "eev.ee",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14250,
+			"friends_count": 352,
+			"listed_count": 342,
+			"created_at": "Wed Apr 16 21:08:32 +0000 2008",
+			"favourites_count": 211150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 161588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0A3A6A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070456634118307840/s8TJXv02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070456634118307840/s8TJXv02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14412937/1497394786",
+			"profile_link_color": "4380BF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1726,
+		"favorite_count": 5834,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "\"I hope this email finds you well\"\n- trite\n- boring\n- if i were doing well i wouldn't be reading email\n\n\"This email has found you.\"\n- always true\n- deeply ominous\n- implies more emails might also find me, which i am suddenly quite worried about"
+	},
+	{
 		"created_at": "Fri Jun 26 10:38:44 +0000 2020",
 		"id": 1276464907169304600,
 		"id_str": "1276464907169304581",
