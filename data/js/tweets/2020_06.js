@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 28 00:58:51 +0000 2020",
+		"id": 1276884674300838000,
+		"id_str": "1277043750229827585",
+		"full_text": "I’m beginning to think “hindsight is 2020” was some kind of message from a future time traveler that we all misunderstood.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 105939814,
+			"id_str": "105939814",
+			"name": "Victoria Guida",
+			"screen_name": "vtg2",
+			"location": "",
+			"description": "Economic policy enthusiast for @politico. Retweet ≠ endorse. I like learning things & explaining things\nEmail: vguida@politico.com\nSecure: vguida@protonmail.com",
+			"url": "https://t.co/4JGitbh9uW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4JGitbh9uW",
+							"expanded_url": "https://www.politico.com/staff/victoria-guida",
+							"display_url": "politico.com/staff/victoria…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12794,
+			"friends_count": 1196,
+			"listed_count": 348,
+			"created_at": "Mon Jan 18 00:41:51 +0000 2010",
+			"favourites_count": 7881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952621208197107712/H5eqULGQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952621208197107712/H5eqULGQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105939814/1562258701",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17514,
+		"favorite_count": 70008,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’m beginning to think “hindsight is 2020” was some kind of message from a future time traveler that we all misunderstood."
+	},
+	{
 		"created_at": "Sat Jun 27 10:19:48 +0000 2020",
 		"id": 1276822532377636900,
 		"id_str": "1276822532377636864",
