@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 02 10:45:55 +0000 2020",
+		"id": 1278519051438833700,
+		"id_str": "1278641042250592257",
+		"full_text": "playing Pong with the moon 🌴 🌕 🌴 https://t.co/BKHQwjkee1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1278518963836645400,
+					"id_str": "1278518963836645378",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1278518963836645378/pu/img/Z1fbyrDFujUcipUt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1278518963836645378/pu/img/Z1fbyrDFujUcipUt.jpg",
+					"url": "https://t.co/BKHQwjkee1",
+					"display_url": "pic.twitter.com/BKHQwjkee1",
+					"expanded_url": "https://twitter.com/coolcoffeedan/status/1278519051438833664/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278518963836645400,
+					"id_str": "1278518963836645378",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1278518963836645378/pu/img/Z1fbyrDFujUcipUt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1278518963836645378/pu/img/Z1fbyrDFujUcipUt.jpg",
+					"url": "https://t.co/BKHQwjkee1",
+					"display_url": "pic.twitter.com/BKHQwjkee1",
+					"expanded_url": "https://twitter.com/coolcoffeedan/status/1278519051438833664/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 33498,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278518963836645378/pu/vid/720x900/ocdjlTbHuqi_Om4i.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1278518963836645378/pu/pl/4Y1-FWHjjz_nQoj8.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278518963836645378/pu/vid/360x450/wEWuDCxDLkEC6r3E.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278518963836645378/pu/vid/320x400/8wWdJ5sFxMCpenfR.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18505773,
+			"id_str": "18505773",
+			"name": "Coolman Coffeedan",
+			"screen_name": "coolcoffeedan",
+			"location": "NYC",
+			"description": "Danny Casale | A Bad Animator 👽",
+			"url": "https://t.co/NnIPagF00Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NnIPagF00Y",
+							"expanded_url": "http://www.instagram.com/coolman_coffeedan",
+							"display_url": "instagram.com/coolman_coffee…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64277,
+			"friends_count": 450,
+			"listed_count": 326,
+			"created_at": "Wed Dec 31 13:15:01 +0000 2008",
+			"favourites_count": 8814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877555898994089985/xovN7rkr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877555898994089985/xovN7rkr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18505773/1546198043",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 192,
+		"favorite_count": 1446,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "playing Pong with the moon 🌴 🌕 🌴 https://t.co/BKHQwjkee1"
+	},
+	{
 		"created_at": "Thu Jul 02 08:29:19 +0000 2020",
 		"id": 1278523069108121600,
 		"id_str": "1278606667756695553",
