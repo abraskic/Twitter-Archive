@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 03 04:20:11 +0000 2020",
+		"id": 1278498758225952800,
+		"id_str": "1278906357391884288",
+		"full_text": "My gym just went bankrupt. Who's the quitter now?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 747618653936488400,
+			"id_str": "747618653936488448",
+			"name": "Raag Agrawal",
+			"screen_name": "raagagrawal",
+			"location": "Scarsdale, NY",
+			"description": "MD-PhD Candidate @UCLA-@Caltech; Contributor @Exponentsmag; Formerly: @Columbia, @Cambridge_uni; email: agrawalraag(at)gmail(dot)com",
+			"url": "https://t.co/TKIvjsa9ad",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TKIvjsa9ad",
+							"expanded_url": "http://raagagrawal.com",
+							"display_url": "raagagrawal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 734,
+			"friends_count": 665,
+			"listed_count": 6,
+			"created_at": "Tue Jun 28 02:32:32 +0000 2016",
+			"favourites_count": 42737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050480134837415937/30T8o2H0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050480134837415937/30T8o2H0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/747618653936488448/1592011319",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16537,
+		"favorite_count": 161897,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "My gym just went bankrupt. Who's the quitter now?"
+	},
+	{
 		"created_at": "Thu Jul 02 13:10:50 +0000 2020",
 		"id": 1278677514915680300,
 		"id_str": "1278677514915680264",
