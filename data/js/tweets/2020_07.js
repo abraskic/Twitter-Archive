@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 14 12:13:35 +0000 2020",
+		"id": 1283011762208432000,
+		"id_str": "1283011762208432129",
+		"full_text": "@fictillius We had something like that in Perth a few years ago, except they wanted to trade it for a carton of piss and it was most likely stolen. https://t.co/UDFl8nQTgl",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fictillius",
+					"name": "🦠 Evan",
+					"id": 7050962,
+					"id_str": "7050962",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UDFl8nQTgl",
+					"expanded_url": "https://twitter.com/BellTowerTimes/status/1060679552974827520?s=20",
+					"display_url": "twitter.com/BellTowerTimes…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1282981094703247400,
+		"in_reply_to_status_id_str": "1282981094703247360",
+		"in_reply_to_user_id": 7050962,
+		"in_reply_to_user_id_str": "7050962",
+		"in_reply_to_screen_name": "fictillius",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Sleep is for the week(nights)",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 242,
+			"friends_count": 62,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060679552974827500,
+		"quoted_status_id_str": "1060679552974827520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UDFl8nQTgl",
+			"expanded": "https://twitter.com/BellTowerTimes/status/1060679552974827520?s=20",
+			"display": "twitter.com/BellTowerTimes…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 08 23:44:46 +0000 2018",
+			"id": 1060679552974827500,
+			"id_str": "1060679552974827520",
+			"full_text": "Oh boy, Perth Beer Economy doing what is does best https://t.co/5U2yHmc0A6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				50
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1060678789670170600,
+						"id_str": "1060678789670170625",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DrhJvU8U8AEwQrs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrhJvU8U8AEwQrs.jpg",
+						"url": "https://t.co/5U2yHmc0A6",
+						"display_url": "pic.twitter.com/5U2yHmc0A6",
+						"expanded_url": "https://twitter.com/BellTowerTimez/status/1060679552974827520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 447,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1644,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 788,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1060678789670170600,
+						"id_str": "1060678789670170625",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DrhJvU8U8AEwQrs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrhJvU8U8AEwQrs.jpg",
+						"url": "https://t.co/5U2yHmc0A6",
+						"display_url": "pic.twitter.com/5U2yHmc0A6",
+						"expanded_url": "https://twitter.com/BellTowerTimez/status/1060679552974827520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 447,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1644,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 788,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3004178958,
+				"id_str": "3004178958",
+				"name": "The Bell Tower Times",
+				"screen_name": "BellTowerTimes",
+				"location": "Perth",
+				"description": "Perth's Zestiest News",
+				"url": "https://t.co/TWoqaCpo72",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TWoqaCpo72",
+								"expanded_url": "http://www.thebelltowertimes.com",
+								"display_url": "thebelltowertimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11072,
+				"friends_count": 952,
+				"listed_count": 31,
+				"created_at": "Sat Jan 31 02:59:21 +0000 2015",
+				"favourites_count": 11121,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15562,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1216554724477898752/G4uoNI8b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216554724477898752/G4uoNI8b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3004178958/1548118974",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@fictillius We had something like that in Perth a few years ago, except they wanted to trade it for a carton of piss and it was most likely stolen. https://t.co/UDFl8nQTgl"
+	},
+	{
 		"created_at": "Mon Jul 13 22:48:49 +0000 2020",
 		"id": 1282809234464202800,
 		"id_str": "1282809234464202752",
