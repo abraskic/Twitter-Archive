@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 16 03:41:11 +0000 2020",
+		"id": 1283135425717174300,
+		"id_str": "1283607584348372993",
+		"full_text": "This bird dancing to alarm ringtones has more rythm than most of us https://t.co/6YvBPAsXOq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1283135383073632300,
+					"id_str": "1283135383073632257",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1283135383073632257/pu/img/ibq5BwzcdEeFwOr2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1283135383073632257/pu/img/ibq5BwzcdEeFwOr2.jpg",
+					"url": "https://t.co/6YvBPAsXOq",
+					"display_url": "pic.twitter.com/6YvBPAsXOq",
+					"expanded_url": "https://twitter.com/TheGallowBoob/status/1283135425717174278/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283135383073632300,
+					"id_str": "1283135383073632257",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1283135383073632257/pu/img/ibq5BwzcdEeFwOr2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1283135383073632257/pu/img/ibq5BwzcdEeFwOr2.jpg",
+					"url": "https://t.co/6YvBPAsXOq",
+					"display_url": "pic.twitter.com/6YvBPAsXOq",
+					"expanded_url": "https://twitter.com/TheGallowBoob/status/1283135425717174278/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 42701,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1283135383073632257/pu/vid/320x320/wy-gbbzCw9dIRrtb.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1283135383073632257/pu/vid/400x400/qIxBl8U2KAURItpS.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1283135383073632257/pu/pl/ZwUNjycHZLCaUqRG.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3150201569,
+			"id_str": "3150201569",
+			"name": "Rob Tempo🌩",
+			"screen_name": "TheGallowBoob",
+			"location": "England, United Kingdom",
+			"description": "Rob - Director of Social Media & Community @Tempo_Storm - The internet was a mistake 🌍 Formerly: @unilad @BoredPanda @jukinmedia",
+			"url": "https://t.co/kGGi9nQqVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kGGi9nQqVq",
+							"expanded_url": "https://www.instagram.com/thegallowboob/",
+							"display_url": "instagram.com/thegallowboob/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5329,
+			"friends_count": 1131,
+			"listed_count": 21,
+			"created_at": "Thu Apr 09 03:55:47 +0000 2015",
+			"favourites_count": 19319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269293960138293248/wIP4YPLI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269293960138293248/wIP4YPLI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3150201569/1588703495",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1283,
+		"favorite_count": 3462,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This bird dancing to alarm ringtones has more rythm than most of us https://t.co/6YvBPAsXOq"
+	},
+	{
 		"created_at": "Wed Jul 15 22:49:38 +0000 2020",
 		"id": 1283534216643227600,
 		"id_str": "1283534216643227649",
