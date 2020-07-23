@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 23 04:21:31 +0000 2020",
+		"id": 1286154452727001000,
+		"id_str": "1286154452727001090",
+		"full_text": "Now that social distancing is out the window we will be back in lockdown in two weeks time. https://t.co/7P3MrcGVgu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7P3MrcGVgu",
+					"expanded_url": "https://twitter.com/abcperth/status/1286063566127128577",
+					"display_url": "twitter.com/abcperth/statu…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Sleep is for the week(nights)",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 242,
+			"friends_count": 62,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1286063566127128600,
+		"quoted_status_id_str": "1286063566127128577",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7P3MrcGVgu",
+			"expanded": "https://twitter.com/abcperth/status/1286063566127128577",
+			"display": "twitter.com/abcperth/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 22 22:20:22 +0000 2020",
+			"id": 1286063566127128600,
+			"id_str": "1286063566127128577",
+			"full_text": "Warning over WA hotel quarantine 'time bomb' as staff say rules repeatedly broken https://t.co/RTP0fouuTP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RTP0fouuTP",
+						"expanded_url": "http://www.abc.net.au/news/2020-07-23/wa-coronavirus-hotel-quarantine-major-breaches-revealed-by-staff/12481774",
+						"display_url": "abc.net.au/news/2020-07-2…",
+						"indices": [
+							82,
+							105
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16213339,
+				"id_str": "16213339",
+				"name": "ABC Perth",
+				"screen_name": "abcperth",
+				"location": "Perth",
+				"description": "ABC Local Radio Perth & ABC News I Listen online: https://t.co/ThPW2gXKY0 This is an official @abcaustralia account.",
+				"url": "https://t.co/8aAn5oDVkW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8aAn5oDVkW",
+								"expanded_url": "http://www.abc.net.au/perth",
+								"display_url": "abc.net.au/perth",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ThPW2gXKY0",
+								"expanded_url": "http://bit.ly/ABCRadioPerth",
+								"display_url": "bit.ly/ABCRadioPerth",
+								"indices": [
+									50,
+									73
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 66871,
+				"friends_count": 1856,
+				"listed_count": 728,
+				"created_at": "Tue Sep 09 23:37:34 +0000 2008",
+				"favourites_count": 4910,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 59138,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFAFA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875608978729730049/1OWY8_Dq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875608978729730049/1OWY8_Dq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16213339/1592541331",
+				"profile_link_color": "272FC2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E3E3E3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Now that social distancing is out the window we will be back in lockdown in two weeks time. https://t.co/7P3MrcGVgu"
+	},
+	{
 		"created_at": "Tue Jul 21 13:03:51 +0000 2020",
 		"id": 1285561123865936000,
 		"id_str": "1285561123865935873",
