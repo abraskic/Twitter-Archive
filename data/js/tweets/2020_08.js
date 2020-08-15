@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 15 01:47:35 +0000 2020",
+		"id": 1294448727525007400,
+		"id_str": "1294450634364600321",
+		"full_text": "NBA tap to cheer function is extremely my jam 👏 https://t.co/j4XOuTQPkn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1294448725482340400,
+					"id_str": "1294448725482340354",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EfbOQe5VAAIDOZe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfbOQe5VAAIDOZe.jpg",
+					"url": "https://t.co/j4XOuTQPkn",
+					"display_url": "pic.twitter.com/j4XOuTQPkn",
+					"expanded_url": "https://twitter.com/kaydo/status/1294448727525007364/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 922,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 306,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294448725482340400,
+					"id_str": "1294448725482340354",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EfbOQe5VAAIDOZe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfbOQe5VAAIDOZe.jpg",
+					"url": "https://t.co/j4XOuTQPkn",
+					"display_url": "pic.twitter.com/j4XOuTQPkn",
+					"expanded_url": "https://twitter.com/kaydo/status/1294448727525007364/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 922,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 306,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1087481,
+			"id_str": "1087481",
+			"name": "Kate McNamara",
+			"screen_name": "kaydo",
+			"location": "Canberra",
+			"description": "kaydo™ - 😱 - 凯特  \n- These are not the views of my employer \n- (╯°□°)╯︵ ┻━┻",
+			"url": "https://t.co/nBUIq9DIZ4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nBUIq9DIZ4",
+							"expanded_url": "http://katemcnamara.com.au",
+							"display_url": "katemcnamara.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1643,
+			"friends_count": 4315,
+			"listed_count": 67,
+			"created_at": "Tue Mar 13 13:47:40 +0000 2007",
+			"favourites_count": 47873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/508971269694291968/qAgfUgiG_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/508971269694291968/qAgfUgiG_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1087481/1555320749",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FDEDF5",
+			"profile_sidebar_fill_color": "FAF9F5",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01e4b0c84959d430",
+			"url": "https://api.twitter.com/1.1/geo/id/01e4b0c84959d430.json",
+			"place_type": "city",
+			"name": "Canberra",
+			"full_name": "Canberra, Australian Capital Territory",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							148.9959216,
+							-35.480260417
+						],
+						[
+							149.263643456,
+							-35.480260417
+						],
+						[
+							149.263643456,
+							-35.147699163
+						],
+						[
+							148.9959216,
+							-35.147699163
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NBA tap to cheer function is extremely my jam 👏 https://t.co/j4XOuTQPkn"
+	},
+	{
 		"created_at": "Fri Aug 14 10:26:13 +0000 2020",
 		"id": 1294218763785527300,
 		"id_str": "1294218763785527297",
