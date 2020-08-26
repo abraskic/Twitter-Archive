@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 26 01:17:55 +0000 2020",
+		"id": 1298429434223923200,
+		"id_str": "1298429434223923200",
+		"full_text": "Put this brainless slime over a map of Perth and it would form the Kwinana/Mitchell freeways. https://t.co/ZZ0A1bmYIk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZZ0A1bmYIk",
+					"expanded_url": "https://twitter.com/Rainmaker1973/status/1298221232823967744",
+					"display_url": "twitter.com/Rainmaker1973/…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Sleep is for the week(nights)",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 240,
+			"friends_count": 65,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1298221232823967700,
+		"quoted_status_id_str": "1298221232823967744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZZ0A1bmYIk",
+			"expanded": "https://twitter.com/Rainmaker1973/status/1298221232823967744",
+			"display": "twitter.com/Rainmaker1973/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 25 11:30:36 +0000 2020",
+			"id": 1298221232823967700,
+			"id_str": "1298221232823967744",
+			"full_text": "When scientists put slime mold over a map of Tokyo, with food used to represent urban areas, and after a day the mold created a network nearly identical to Tokyo's rail network: all this without any brain https://t.co/v5iBESZUGK https://t.co/z6C56PV536",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				228
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/v5iBESZUGK",
+						"expanded_url": "http://ow.ly/7CA730o4Sjk",
+						"display_url": "ow.ly/7CA730o4Sjk",
+						"indices": [
+							205,
+							228
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1298219967368831000,
+						"id_str": "1298219967368830983",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1298219967368830983/pu/img/mmx_HBwuOlAZ30Ze.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1298219967368830983/pu/img/mmx_HBwuOlAZ30Ze.jpg",
+						"url": "https://t.co/z6C56PV536",
+						"display_url": "pic.twitter.com/z6C56PV536",
+						"expanded_url": "https://twitter.com/Rainmaker1973/status/1298221232823967744/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 256,
+								"h": 256,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 256,
+								"h": 256,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 256,
+								"h": 256,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1298219967368831000,
+						"id_str": "1298219967368830983",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1298219967368830983/pu/img/mmx_HBwuOlAZ30Ze.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1298219967368830983/pu/img/mmx_HBwuOlAZ30Ze.jpg",
+						"url": "https://t.co/z6C56PV536",
+						"display_url": "pic.twitter.com/z6C56PV536",
+						"expanded_url": "https://twitter.com/Rainmaker1973/status/1298221232823967744/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 256,
+								"h": 256,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 256,
+								"h": 256,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 256,
+								"h": 256,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 28819,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1298219967368830983/pu/pl/YevsUEWziHAQdJvG.m3u8?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1298219967368830983/pu/vid/256x256/FNLTrVV9QYwFcj64.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 177101260,
+				"id_str": "177101260",
+				"name": "Massimo",
+				"screen_name": "Rainmaker1973",
+				"location": "Italy, North by Northwest",
+				"description": "Astronomy, astronautics, meteorology, physics. @Coelum_news columnist. Engineer, trying to build the big picture of #science via pics, videos & links",
+				"url": "https://t.co/p999QzDjSI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/p999QzDjSI",
+								"expanded_url": "https://www.facebook.com/Rainmaker1973/",
+								"display_url": "facebook.com/Rainmaker1973/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 174659,
+				"friends_count": 285,
+				"listed_count": 1509,
+				"created_at": "Wed Aug 11 07:13:13 +0000 2010",
+				"favourites_count": 1143,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 161277,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/177101260/1422214939",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 367,
+			"favorite_count": 1459,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Put this brainless slime over a map of Perth and it would form the Kwinana/Mitchell freeways. https://t.co/ZZ0A1bmYIk"
+	},
+	{
 		"created_at": "Tue Aug 25 12:15:24 +0000 2020",
 		"id": 1298232206364569600,
 		"id_str": "1298232508564160514",
