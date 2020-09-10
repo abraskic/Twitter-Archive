@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 10 21:24:57 +0000 2020",
+		"id": 1304169013098868700,
+		"id_str": "1304169013098868736",
+		"full_text": "Am I okay? Not really. Am I making small changes and slowly working towards making things okay? Always.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Sleep is for the week(nights and also weekends)",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 240,
+			"friends_count": 65,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Am I okay? Not really. Am I making small changes and slowly working towards making things okay? Always."
+	},
+	{
+		"created_at": "Thu Sep 10 21:21:50 +0000 2020",
+		"id": 1304080076925853700,
+		"id_str": "1304168229795819521",
+		"full_text": "Blade Runner: Armageddon https://t.co/LozpNrfKmT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303909097616502800,
+					"id_str": "1303909097616502785",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1303909097616502785/pu/img/cCJFfQ4DkqY5LHSU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1303909097616502785/pu/img/cCJFfQ4DkqY5LHSU.jpg",
+					"url": "https://t.co/LozpNrfKmT",
+					"display_url": "pic.twitter.com/LozpNrfKmT",
+					"expanded_url": "https://twitter.com/Bunny_Godfather/status/1303909838376722432/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1303909838376722400,
+					"source_status_id_str": "1303909838376722432",
+					"source_user_id": 36287570,
+					"source_user_id_str": "36287570"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303909097616502800,
+					"id_str": "1303909097616502785",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1303909097616502785/pu/img/cCJFfQ4DkqY5LHSU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1303909097616502785/pu/img/cCJFfQ4DkqY5LHSU.jpg",
+					"url": "https://t.co/LozpNrfKmT",
+					"display_url": "pic.twitter.com/LozpNrfKmT",
+					"expanded_url": "https://twitter.com/Bunny_Godfather/status/1303909838376722432/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1303909838376722400,
+					"source_status_id_str": "1303909838376722432",
+					"source_user_id": 36287570,
+					"source_user_id_str": "36287570",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45042,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1303909097616502785/pu/vid/480x270/Vj4g2EaCyWu82YT7.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1303909097616502785/pu/vid/640x360/HRRVRxQzVr0QjiC_.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1303909097616502785/pu/vid/1280x720/yKms8iYrqduIi-M9.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1303909097616502785/pu/pl/AkSb5eYANyK8hXaq.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 36287570,
+							"id_str": "36287570",
+							"name": "Andreas_sensei",
+							"screen_name": "Bunny_Godfather",
+							"location": "Yokohama",
+							"description": "German by birth but living in Japan since 1995 with my wife and 2 free roaming rabbits. Love to cycling along the Tsurumi river and other places.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1041,
+							"friends_count": 1520,
+							"listed_count": 47,
+							"created_at": "Wed Apr 29 04:32:44 +0000 2009",
+							"favourites_count": 4995,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 23004,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "022330",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1298801180118679552/bO1qlcdf_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1298801180118679552/bO1qlcdf_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/36287570/1500856082",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "C0DFEC",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116409070,
+			"id_str": "116409070",
+			"name": "Ced®",
+			"screen_name": "cedfunches",
+			"location": "Earth",
+			"description": "Founder + CEO I create products, design+build brands, and invest in companies. Past: @voxmedia @uofsandiego @NBA @WNBA",
+			"url": "https://t.co/t75zncrsAT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t75zncrsAT",
+							"expanded_url": "http://cedfunches.com",
+							"display_url": "cedfunches.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9003,
+			"friends_count": 1295,
+			"listed_count": 382,
+			"created_at": "Mon Feb 22 10:22:12 +0000 2010",
+			"favourites_count": 63792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 82706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253498445182058497/XoDoPCuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253498445182058497/XoDoPCuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116409070/1598959519",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5909,
+		"favorite_count": 26126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Blade Runner: Armageddon https://t.co/LozpNrfKmT"
+	},
+	{
 		"created_at": "Wed Sep 09 10:47:09 +0000 2020",
 		"id": 1303646115682685000,
 		"id_str": "1303646115682684928",
