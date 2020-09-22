@@ -1,6 +1,444 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 22 04:08:05 +0000 2020",
+		"id": 1308256729877024800,
+		"id_str": "1308256729877024768",
+		"full_text": "Jaeger getting ready to battle the Kaijus. https://t.co/one5PdBLcC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/one5PdBLcC",
+					"expanded_url": "https://twitter.com/catsuka/status/1308068858541023232",
+					"display_url": "twitter.com/catsuka/status…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Sleep is for the week(nights and also weekends)",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 240,
+			"friends_count": 65,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1308068858541023200,
+		"quoted_status_id_str": "1308068858541023232",
+		"quoted_status_permalink": {
+			"url": "https://t.co/one5PdBLcC",
+			"expanded": "https://twitter.com/catsuka/status/1308068858541023232",
+			"display": "twitter.com/catsuka/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 21 15:41:33 +0000 2020",
+			"id": 1308068858541023200,
+			"id_str": "1308068858541023232",
+			"full_text": "Life-sized Gundam in Yokohama is now in testing mode.\nhttps://t.co/51HVoraPb7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				77
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1308037986680934400,
+						"id_str": "1308037986680934402",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1308037986680934402/pu/img/sGo373S9KvcVA7_K.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1308037986680934402/pu/img/sGo373S9KvcVA7_K.jpg",
+						"url": "https://t.co/51HVoraPb7",
+						"display_url": "pic.twitter.com/51HVoraPb7",
+						"expanded_url": "https://twitter.com/yoshi115t/status/1308038123339694080/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1308038123339694000,
+						"source_status_id_str": "1308038123339694080",
+						"source_user_id": 176454418,
+						"source_user_id_str": "176454418"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1308037986680934400,
+						"id_str": "1308037986680934402",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1308037986680934402/pu/img/sGo373S9KvcVA7_K.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1308037986680934402/pu/img/sGo373S9KvcVA7_K.jpg",
+						"url": "https://t.co/51HVoraPb7",
+						"display_url": "pic.twitter.com/51HVoraPb7",
+						"expanded_url": "https://twitter.com/yoshi115t/status/1308038123339694080/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1308038123339694000,
+						"source_status_id_str": "1308038123339694080",
+						"source_user_id": 176454418,
+						"source_user_id_str": "176454418",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 116367,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1308037986680934402/pu/vid/640x360/EWadsl4pcm5AoaFu.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1308037986680934402/pu/vid/480x270/65-D3G9WvFmg7xe1.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1308037986680934402/pu/vid/1280x720/uOz_C4lpVtQZhBkV.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1308037986680934402/pu/pl/-ALJ6xy29-mEUy3b.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 176454418,
+								"id_str": "176454418",
+								"name": "よ っ く ん /手洗いうがいをしっかりと",
+								"screen_name": "yoshi115t",
+								"location": "ガンダムのあるところならどこでも",
+								"description": "ただのガンダム好き（※メーカー・版権元の者ではありません） 基本的に、公開された情報やアイテムを扱います。 未発表情報や雑誌発売前情報には触れません。 扱う画像は撮影が認められている場や許可を得た物のみで、秘匿された物やオフレコを暴いたりする事はありません。 日々の記録はブログでまとめています(滞り気味)、隠れ広島人。",
+								"url": "https://t.co/PQlaHu3PcP",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/PQlaHu3PcP",
+												"expanded_url": "http://gundamcafe.blog.fc2.com/archives.html",
+												"display_url": "gundamcafe.blog.fc2.com/archives.html",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 9088,
+								"friends_count": 444,
+								"listed_count": 122,
+								"created_at": "Mon Aug 09 15:48:11 +0000 2010",
+								"favourites_count": 34231,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 117290,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "FFFFFF",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/876088051671355392/1i9FrvRh_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/876088051671355392/1i9FrvRh_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/176454418/1521271666",
+								"profile_link_color": "8F8F8F",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "EBEBEB",
+								"profile_text_color": "5E5E5E",
+								"profile_use_background_image": false,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40436619,
+				"id_str": "40436619",
+				"name": "Catsuka",
+				"screen_name": "catsuka",
+				"location": "France",
+				"description": "Catsuka is a website about animation (since 2000) run by one guy.\n20th anniversary page : https://t.co/Jb25P4w2d9\nPatreon : https://t.co/cFIhdhzYjU",
+				"url": "https://t.co/XQnLkOI5yY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XQnLkOI5yY",
+								"expanded_url": "http://www.catsuka.com",
+								"display_url": "catsuka.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Jb25P4w2d9",
+								"expanded_url": "http://catsuka.com/20years/",
+								"display_url": "catsuka.com/20years/",
+								"indices": [
+									90,
+									113
+								]
+							},
+							{
+								"url": "https://t.co/cFIhdhzYjU",
+								"expanded_url": "http://patreon.com/catsuka",
+								"display_url": "patreon.com/catsuka",
+								"indices": [
+									124,
+									147
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 82422,
+				"friends_count": 379,
+				"listed_count": 822,
+				"created_at": "Sat May 16 09:07:20 +0000 2009",
+				"favourites_count": 3084,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17270,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877998712810860545/s69vpm3k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877998712810860545/s69vpm3k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40436619/1398196951",
+				"profile_link_color": "DC4620",
+				"profile_sidebar_border_color": "36403E",
+				"profile_sidebar_fill_color": "B5C2BF",
+				"profile_text_color": "12312B",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29206,
+			"favorite_count": 88764,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jaeger getting ready to battle the Kaijus. https://t.co/one5PdBLcC"
+	},
+	{
 		"created_at": "Mon Sep 21 22:33:29 +0000 2020",
 		"id": 1308172524732080000,
 		"id_str": "1308172524732080128",
