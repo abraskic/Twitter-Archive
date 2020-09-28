@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 28 09:45:37 +0000 2020",
+		"id": 1310345885365264400,
+		"id_str": "1310516000614264833",
+		"full_text": "ABC: His taxes\nCNN: His taxes  \nAnimal Planet: His taxes \nCartoon Network: His taxes\nFOX News: Hearty fall soup recipes\nHearty Fall Soup Channel: His taxes",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 57707396,
+			"id_str": "57707396",
+			"name": "Quinn Sutherland",
+			"screen_name": "ReelQuinn",
+			"location": "",
+			"description": "Disgraced cyclist. This is the best day of my life.",
+			"url": "http://t.co/Xo7S4A1J0v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Xo7S4A1J0v",
+							"expanded_url": "http://conversationswithdeath.tumblr.com",
+							"display_url": "conversationswithdeath.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27769,
+			"friends_count": 2401,
+			"listed_count": 441,
+			"created_at": "Fri Jul 17 17:51:18 +0000 2009",
+			"favourites_count": 274411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216176099413184513/MoWYPAqr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216176099413184513/MoWYPAqr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/57707396/1577373191",
+			"profile_link_color": "07080A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32737,
+		"favorite_count": 187588,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "ABC: His taxes\nCNN: His taxes  \nAnimal Planet: His taxes \nCartoon Network: His taxes\nFOX News: Hearty fall soup recipes\nHearty Fall Soup Channel: His taxes"
+	},
+	{
 		"created_at": "Sat Sep 26 09:33:39 +0000 2020",
 		"id": 1309788212483600400,
 		"id_str": "1309788212483600387",
