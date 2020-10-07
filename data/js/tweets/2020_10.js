@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 07 03:43:41 +0000 2020",
+		"id": 1313608413234958300,
+		"id_str": "1313686407529918464",
+		"full_text": "What he’s typed will be a window into his madness. https://t.co/xpBlnJ6YNC https://t.co/6ZsJ3f2JOY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xpBlnJ6YNC",
+					"expanded_url": "https://twitter.com/realdonaldtrump/status/1313489465139134464",
+					"display_url": "twitter.com/realdonaldtrum…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313608409023877000,
+					"id_str": "1313608409023877120",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejrf42HVkAAfLzc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejrf42HVkAAfLzc.jpg",
+					"url": "https://t.co/6ZsJ3f2JOY",
+					"display_url": "pic.twitter.com/6ZsJ3f2JOY",
+					"expanded_url": "https://twitter.com/backtowinnipeg/status/1313608413234958336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 641,
+							"h": 478,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 641,
+							"h": 478,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 641,
+							"h": 478,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313608409023877000,
+					"id_str": "1313608409023877120",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejrf42HVkAAfLzc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejrf42HVkAAfLzc.jpg",
+					"url": "https://t.co/6ZsJ3f2JOY",
+					"display_url": "pic.twitter.com/6ZsJ3f2JOY",
+					"expanded_url": "https://twitter.com/backtowinnipeg/status/1313608413234958336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 641,
+							"h": 478,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 641,
+							"h": 478,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 641,
+							"h": 478,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23413689,
+			"id_str": "23413689",
+			"name": "Mildred Ratorpleched 🍑",
+			"screen_name": "backtowinnipeg",
+			"location": "Sydney, New South Wales",
+			"description": "Historian. Super 🌈 gay 🌈 with @horizonyourunto. I like games and TV shows. A lot. All views my own. (she/her)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1094,
+			"friends_count": 1211,
+			"listed_count": 58,
+			"created_at": "Mon Mar 09 07:49:17 +0000 2009",
+			"favourites_count": 31955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 118048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001400",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228946351271972865/qan_8Dki_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228946351271972865/qan_8Dki_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23413689/1535771375",
+			"profile_link_color": "003C00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6428B",
+			"profile_text_color": "B77791",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313489465139134500,
+		"quoted_status_id_str": "1313489465139134464",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xpBlnJ6YNC",
+			"expanded": "https://twitter.com/realdonaldtrump/status/1313489465139134464",
+			"display": "twitter.com/realdonaldtrum…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 06 14:41:06 +0000 2020",
+			"id": 1313489465139134500,
+			"id_str": "1313489465139134464",
+			"full_text": "FEELING GREAT!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				14
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25073877,
+				"id_str": "25073877",
+				"name": "Donald J. Trump",
+				"screen_name": "realDonaldTrump",
+				"location": "Washington, DC",
+				"description": "45th President of the United States of America🇺🇸",
+				"url": "https://t.co/OMxB0x7xC5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OMxB0x7xC5",
+								"expanded_url": "http://www.Instagram.com/realDonaldTrump",
+								"display_url": "Instagram.com/realDonaldTrump",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 87096158,
+				"friends_count": 50,
+				"listed_count": 121001,
+				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+				"favourites_count": 5,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 56721,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6D5C18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C5CEC0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 65070,
+			"favorite_count": 501782,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What he’s typed will be a window into his madness. https://t.co/xpBlnJ6YNC https://t.co/6ZsJ3f2JOY"
+	},
+	{
 		"created_at": "Tue Oct 06 11:59:20 +0000 2020",
 		"id": 1313448755362889700,
 		"id_str": "1313448755362889728",
