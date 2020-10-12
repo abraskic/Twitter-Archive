@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 12 11:57:08 +0000 2020",
+		"id": 1314605456845807600,
+		"id_str": "1315622527520002048",
+		"full_text": "Me last year: I can’t wait for 2020. It’ll definitely be better than 2019\n\n2020: https://t.co/echUgOGId2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314605454199120000,
+					"id_str": "1314605454199119872",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej5qsg1UYAA8pMN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej5qsg1UYAA8pMN.jpg",
+					"url": "https://t.co/echUgOGId2",
+					"display_url": "pic.twitter.com/echUgOGId2",
+					"expanded_url": "https://twitter.com/P4Gavin/status/1314605456845807616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1279,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314605454199120000,
+					"id_str": "1314605454199119872",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej5qsg1UYAA8pMN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej5qsg1UYAA8pMN.jpg",
+					"url": "https://t.co/echUgOGId2",
+					"display_url": "pic.twitter.com/echUgOGId2",
+					"expanded_url": "https://twitter.com/P4Gavin/status/1314605456845807616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1279,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 763574485299531800,
+			"id_str": "763574485299531776",
+			"name": "BLM | Gavin 🎃",
+			"screen_name": "P4Gavin",
+			"location": "16, He/Him, Bi",
+			"description": "Certified Idiot • Edelgard & Miu Stan • Jojo • Nier • Monogatari (I know, ugh) • Persona • Alt: @Gavins_Alt • Priv: @Gavins_priv • 💞 @Ashylegs2 💖",
+			"url": "https://t.co/6KHgY0eRSG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6KHgY0eRSG",
+							"expanded_url": "https://www.viz.com/shonenjump/chapters/jojos-bizarre-adventure-part-4-diamond-is-unbreakable",
+							"display_url": "viz.com/shonenjump/cha…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1692,
+			"friends_count": 708,
+			"listed_count": 33,
+			"created_at": "Thu Aug 11 03:15:18 +0000 2016",
+			"favourites_count": 32057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312181410103324672/SLsMsMF0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312181410103324672/SLsMsMF0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/763574485299531776/1601927941",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7692,
+		"favorite_count": 30333,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Me last year: I can’t wait for 2020. It’ll definitely be better than 2019\n\n2020: https://t.co/echUgOGId2"
+	},
+	{
 		"created_at": "Mon Oct 12 04:53:26 +0000 2020",
 		"id": 1315515898912895000,
 		"id_str": "1315515898912894976",
