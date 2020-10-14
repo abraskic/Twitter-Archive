@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 14 03:20:04 +0000 2020",
+		"id": 1316130810089570300,
+		"id_str": "1316217180132790272",
+		"full_text": "If you paid $12.99 a month for an Amazon Prime membership, you paid more to Amazon than it paid in federal income taxes over the past 3 years combined—after making nearly $30 billion in profits. Yes. It's time to make corporations pay their fair share of taxes.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29442313,
+			"id_str": "29442313",
+			"name": "Bernie Sanders",
+			"screen_name": "SenSanders",
+			"location": "Vermont/DC",
+			"description": "U.S. Senator Bernie Sanders of Vermont is the longest-serving independent in congressional history.",
+			"url": "http://t.co/8AS4FI1oge",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/8AS4FI1oge",
+							"expanded_url": "http://www.sanders.senate.gov/",
+							"display_url": "sanders.senate.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10372855,
+			"friends_count": 2336,
+			"listed_count": 25902,
+			"created_at": "Tue Apr 07 13:02:35 +0000 2009",
+			"favourites_count": 360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/794619281271033856/Fs0QQaH7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/794619281271033856/Fs0QQaH7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29442313/1430854323",
+			"profile_link_color": "03102D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D6CCB6",
+			"profile_text_color": "304562",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23271,
+		"favorite_count": 111114,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If you paid $12.99 a month for an Amazon Prime membership, you paid more to Amazon than it paid in federal income taxes over the past 3 years combined—after making nearly $30 billion in profits. Yes. It's time to make corporations pay their fair share of taxes."
+	},
+	{
 		"created_at": "Mon Oct 12 11:57:08 +0000 2020",
 		"id": 1314605456845807600,
 		"id_str": "1315622527520002048",
