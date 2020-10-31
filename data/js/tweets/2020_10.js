@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 30 23:49:36 +0000 2020",
+		"id": 1322281520304922600,
+		"id_str": "1322324807782817793",
+		"full_text": "cities boarding up storefronts in preparation for a US election is a hell of a thing to think about https://t.co/SxvNT65F0l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SxvNT65F0l",
+					"expanded_url": "https://twitter.com/jachristian/status/1322262720171831296",
+					"display_url": "twitter.com/jachristian/st…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154221292,
+			"id_str": "154221292",
+			"name": "Casey Neistat",
+			"screen_name": "Casey",
+			"location": "nyc",
+			"description": "family + work",
+			"url": "https://t.co/G29ueAVHlb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G29ueAVHlb",
+							"expanded_url": "http://www.youtube.com/caseyneistat",
+							"display_url": "youtube.com/caseyneistat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2091532,
+			"friends_count": 2525,
+			"listed_count": 4505,
+			"created_at": "Thu Jun 10 17:54:33 +0000 2010",
+			"favourites_count": 51032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "616161",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/481123524329734146/jk4aTqws_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/481123524329734146/jk4aTqws_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154221292/1403543694",
+			"profile_link_color": "943D3D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1322262720171831300,
+		"quoted_status_id_str": "1322262720171831296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SxvNT65F0l",
+			"expanded": "https://twitter.com/jachristian/status/1322262720171831296",
+			"display": "twitter.com/jachristian/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 30 19:42:53 +0000 2020",
+			"id": 1322262720171831300,
+			"id_str": "1322262720171831296",
+			"full_text": "They’re boarding up everything, even Salesforce Tower https://t.co/3SirSyRIw1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				53
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1322262715449012200,
+						"id_str": "1322262715449012230",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/Elme7x4U8AYzHZk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Elme7x4U8AYzHZk.jpg",
+						"url": "https://t.co/3SirSyRIw1",
+						"display_url": "pic.twitter.com/3SirSyRIw1",
+						"expanded_url": "https://twitter.com/jachristian/status/1322262720171831296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 439,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2047,
+								"h": 1323,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 776,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1322262715449012200,
+						"id_str": "1322262715449012230",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/Elme7x4U8AYzHZk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Elme7x4U8AYzHZk.jpg",
+						"url": "https://t.co/3SirSyRIw1",
+						"display_url": "pic.twitter.com/3SirSyRIw1",
+						"expanded_url": "https://twitter.com/jachristian/status/1322262720171831296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 439,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2047,
+								"h": 1323,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 776,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26914630,
+				"id_str": "26914630",
+				"name": "Jessica Christian",
+				"screen_name": "jachristian",
+				"location": "Oakland, CA",
+				"description": "Staff photojournalist | @sfchronicle",
+				"url": "https://t.co/znHPGaESmw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/znHPGaESmw",
+								"expanded_url": "http://sfchronicle.com/subscribe",
+								"display_url": "sfchronicle.com/subscribe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15449,
+				"friends_count": 4820,
+				"listed_count": 401,
+				"created_at": "Fri Mar 27 01:35:44 +0000 2009",
+				"favourites_count": 40675,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21527,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1291773552329285632/RNgdsk47_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291773552329285632/RNgdsk47_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26914630/1512503384",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "E1F0F2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 159,
+			"favorite_count": 650,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1109,
+		"favorite_count": 9259,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "cities boarding up storefronts in preparation for a US election is a hell of a thing to think about https://t.co/SxvNT65F0l"
+	},
+	{
 		"created_at": "Fri Oct 30 09:13:48 +0000 2020",
 		"id": 1322104407744413700,
 		"id_str": "1322104407744413696",
