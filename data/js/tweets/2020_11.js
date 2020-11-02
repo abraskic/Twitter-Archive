@@ -1,6 +1,166 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 02 04:11:35 +0000 2020",
+		"id": 1322721687847149600,
+		"id_str": "1323115512893644800",
+		"full_text": "King https://t.co/sBXE9CQrMX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1322721682889482200,
+					"id_str": "1322721682889482241",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/EltAXM1VoAEEU1T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EltAXM1VoAEEU1T.jpg",
+					"url": "https://t.co/sBXE9CQrMX",
+					"display_url": "pic.twitter.com/sBXE9CQrMX",
+					"expanded_url": "https://twitter.com/SEIFFERTOVAL/status/1322721687847149570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1721,
+							"h": 817,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 323,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322721682889482200,
+					"id_str": "1322721682889482241",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/EltAXM1VoAEEU1T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EltAXM1VoAEEU1T.jpg",
+					"url": "https://t.co/sBXE9CQrMX",
+					"display_url": "pic.twitter.com/sBXE9CQrMX",
+					"expanded_url": "https://twitter.com/SEIFFERTOVAL/status/1322721687847149570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1721,
+							"h": 817,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 323,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369362502,
+			"id_str": "369362502",
+			"name": "49",
+			"screen_name": "SEIFFERTOVAL",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1127,
+			"friends_count": 523,
+			"listed_count": 8,
+			"created_at": "Wed Sep 07 07:01:56 +0000 2011",
+			"favourites_count": 33595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297755355930271744/Ddcg0PhX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297755355930271744/Ddcg0PhX_normal.jpg",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "King https://t.co/sBXE9CQrMX"
+	},
+	{
 		"created_at": "Sun Nov 01 10:49:23 +0000 2020",
 		"id": 1322853234663305200,
 		"id_str": "1322853234663305217",
