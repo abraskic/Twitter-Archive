@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 09:31:25 +0000 2020",
+		"id": 1323473243940876300,
+		"id_str": "1323558389041954816",
+		"full_text": "Normel country. https://t.co/JppsERI4RE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JppsERI4RE",
+					"expanded_url": "https://twitter.com/SBSNews/status/1323468442742054912",
+					"display_url": "twitter.com/SBSNews/status…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31065693,
+			"id_str": "31065693",
+			"name": "Tobæ-12 Wash Your Hands.",
+			"screen_name": "Epigrammist",
+			"location": "Freo,Whadjuk, Westralia",
+			"description": "Chief Financial Officer, Antifa Pty Ltd.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1657,
+			"friends_count": 980,
+			"listed_count": 128,
+			"created_at": "Tue Apr 14 05:22:49 +0000 2009",
+			"favourites_count": 323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 307660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244788269147029504/7Hg72T2E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244788269147029504/7Hg72T2E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/31065693/1450317480",
+			"profile_link_color": "3A3AD1",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDEBFA",
+			"profile_text_color": "575555",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1323468442742055000,
+		"quoted_status_id_str": "1323468442742054912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JppsERI4RE",
+			"expanded": "https://twitter.com/SBSNews/status/1323468442742054912",
+			"display": "twitter.com/SBSNews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 03 03:34:00 +0000 2020",
+			"id": 1323468442742055000,
+			"id_str": "1323468442742054912",
+			"full_text": "From Louis Vuitton to Target, businesses across the US are being boarded up ahead of the presidential election results. https://t.co/yHVruufm8q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				119
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1323451343974002700,
+						"id_str": "1323451343974002688",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1323451343974002688/img/z5jyCcpNUrVhJPXP.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1323451343974002688/img/z5jyCcpNUrVhJPXP.jpg",
+						"url": "https://t.co/yHVruufm8q",
+						"display_url": "pic.twitter.com/yHVruufm8q",
+						"expanded_url": "https://twitter.com/SBSNews/status/1323468442742054912/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1323451343974002700,
+						"id_str": "1323451343974002688",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1323451343974002688/img/z5jyCcpNUrVhJPXP.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1323451343974002688/img/z5jyCcpNUrVhJPXP.jpg",
+						"url": "https://t.co/yHVruufm8q",
+						"display_url": "pic.twitter.com/yHVruufm8q",
+						"expanded_url": "https://twitter.com/SBSNews/status/1323468442742054912/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 61760,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1323451343974002688/pl/7EQHbIjRLC8NRitN.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1323451343974002688/vid/480x480/r1InbpKuHUhRehM_.mp4?tag=13"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1323451343974002688/vid/720x720/DmwsrwqajQuqnR6R.mp4?tag=13"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1323451343974002688/vid/320x320/rxFZw8khoOF-Yn8e.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8197942,
+				"id_str": "8197942",
+				"name": "SBS News",
+				"screen_name": "SBSNews",
+				"location": "Australia",
+				"description": "Bringing you the national 🇦🇺 and global 🌏 news that matters.",
+				"url": "https://t.co/wyFBtTH4kz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wyFBtTH4kz",
+								"expanded_url": "http://www.sbsnews.com.au",
+								"display_url": "sbsnews.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 403867,
+				"friends_count": 1008,
+				"listed_count": 3861,
+				"created_at": "Wed Aug 15 06:40:45 +0000 2007",
+				"favourites_count": 305,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 151300,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDEDEE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1150618293654261760/keXFsLzP_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150618293654261760/keXFsLzP_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8197942/1592457803",
+				"profile_link_color": "165CA7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6E6E6",
+				"profile_text_color": "474747",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 113,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Normel country. https://t.co/JppsERI4RE"
+	},
+	{
 		"created_at": "Mon Nov 02 10:01:57 +0000 2020",
 		"id": 1323203687808790500,
 		"id_str": "1323203687808790528",
