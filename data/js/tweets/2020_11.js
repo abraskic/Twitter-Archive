@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 04 23:07:24 +0000 2020",
+		"id": 1324078979775684600,
+		"id_str": "1324126127791599616",
+		"full_text": "Live look at the White House bunker where Trump is trying to stop the counting of ballots. \n\nThe internet remains undefeated... https://t.co/nd79MMYSuS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323795777009844200,
+					"id_str": "1323795777009844224",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1323795777009844224/img/u-0l7Zu1C5G2UpCN.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1323795777009844224/img/u-0l7Zu1C5G2UpCN.jpg",
+					"url": "https://t.co/nd79MMYSuS",
+					"display_url": "pic.twitter.com/nd79MMYSuS",
+					"expanded_url": "https://twitter.com/adrielhampton/status/1323796490188324864/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1323796490188324900,
+					"source_status_id_str": "1323796490188324864",
+					"source_user_id": 16397938,
+					"source_user_id_str": "16397938"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323795777009844200,
+					"id_str": "1323795777009844224",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1323795777009844224/img/u-0l7Zu1C5G2UpCN.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1323795777009844224/img/u-0l7Zu1C5G2UpCN.jpg",
+					"url": "https://t.co/nd79MMYSuS",
+					"display_url": "pic.twitter.com/nd79MMYSuS",
+					"expanded_url": "https://twitter.com/adrielhampton/status/1323796490188324864/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1323796490188324900,
+					"source_status_id_str": "1323796490188324864",
+					"source_user_id": 16397938,
+					"source_user_id_str": "16397938",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 208988,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1323795777009844224/vid/480x270/kKW5GE6-7jpEWx2o.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1323795777009844224/vid/1280x720/LmHx9Hixu2pOmFJL.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1323795777009844224/vid/640x360/EY8yyj2icYiRYbCO.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1323795777009844224/pl/Hf_UNNERsJ03LhUn.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 16397938,
+							"id_str": "16397938",
+							"name": "Brett Banditelli is tired but somehow working",
+							"screen_name": "banditelli",
+							"location": "The city of Angels",
+							"description": "Eagle Scout. Breathing class war like a dragon breathes fire. As long as it takes IS a promise. Overwhelmed. Stay hydrated. Organize. We will win.",
+							"url": "https://t.co/sCY5G1LqK9",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/sCY5G1LqK9",
+											"expanded_url": "http://facebook.com/solidarity",
+											"display_url": "facebook.com/solidarity",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 17042,
+							"friends_count": 506,
+							"listed_count": 327,
+							"created_at": "Mon Sep 22 01:38:12 +0000 2008",
+							"favourites_count": 178,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 227513,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1211687082738864128/mzznndGR_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211687082738864128/mzznndGR_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/16397938/1391138170",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "CCCCBA",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 324703658,
+			"id_str": "324703658",
+			"name": "Rex Chapman🏇🏼",
+			"screen_name": "RexChapman",
+			"location": "Lexington/Phoenix ",
+			"description": "I hold the microphone like a grudge",
+			"url": "https://t.co/WW075Yadro",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WW075Yadro",
+							"expanded_url": "http://adultswim.com/streams",
+							"display_url": "adultswim.com/streams",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1004915,
+			"friends_count": 18288,
+			"listed_count": 3180,
+			"created_at": "Mon Jun 27 02:36:27 +0000 2011",
+			"favourites_count": 188640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0E21F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055264484745494530/QLX6B5o9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055264484745494530/QLX6B5o9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/324703658/1539742514",
+			"profile_link_color": "2C12EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "100D14",
+			"profile_text_color": "EB0E20",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7327,
+		"favorite_count": 23168,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Live look at the White House bunker where Trump is trying to stop the counting of ballots. \n\nThe internet remains undefeated... https://t.co/nd79MMYSuS"
+	},
+	{
 		"created_at": "Wed Nov 04 10:05:27 +0000 2020",
 		"id": 1323929344486432800,
 		"id_str": "1323929344486432769",
