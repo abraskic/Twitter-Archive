@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 15 22:14:15 +0000 2020",
+		"id": 1328099016236703700,
+		"id_str": "1328099016236703744",
+		"full_text": "So you like doughnuts, eh? Well have all the doughnuts in the world! https://t.co/HjqaYBpnAS https://t.co/5A0sdPNpLT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HjqaYBpnAS",
+					"expanded_url": "https://twitter.com/vicgovdhhs/status/1328091177921417219",
+					"display_url": "twitter.com/vicgovdhhs/sta…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328098936641396700,
+					"id_str": "1328098936641396736",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Em5a8kEVoAAEZ0L.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Em5a8kEVoAAEZ0L.jpg",
+					"url": "https://t.co/5A0sdPNpLT",
+					"display_url": "pic.twitter.com/5A0sdPNpLT",
+					"expanded_url": "https://twitter.com/braskic/status/1328099016236703744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328098936641396700,
+					"id_str": "1328098936641396736",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Em5a8kEVoAAEZ0L.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Em5a8kEVoAAEZ0L.jpg",
+					"url": "https://t.co/5A0sdPNpLT",
+					"display_url": "pic.twitter.com/5A0sdPNpLT",
+					"expanded_url": "https://twitter.com/braskic/status/1328099016236703744/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Em5a8kEVoAAEZ0L.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Sleep is for the week(nights and also weekends)",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 236,
+			"friends_count": 64,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1328091177921417200,
+		"quoted_status_id_str": "1328091177921417219",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HjqaYBpnAS",
+			"expanded": "https://twitter.com/vicgovdhhs/status/1328091177921417219",
+			"display": "twitter.com/vicgovdhhs/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 15 21:43:06 +0000 2020",
+			"id": 1328091177921417200,
+			"id_str": "1328091177921417219",
+			"full_text": "Yesterday there were 0 new cases, 0 lives lost and 0 cases with an unknown source reported. Three active cases remain. There were 6,695 test results received – thank you, #EveryTestHelps\nInformation: https://t.co/eTputEZdhs\n#StaySafeStayOpen #COVID19Vic https://t.co/8d9Ds697Iw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EveryTestHelps",
+						"indices": [
+							171,
+							186
+						]
+					},
+					{
+						"text": "StaySafeStayOpen",
+						"indices": [
+							224,
+							241
+						]
+					},
+					{
+						"text": "COVID19Vic",
+						"indices": [
+							242,
+							253
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eTputEZdhs",
+						"expanded_url": "https://www.dhhs.vic.gov.au/averages-easing-restrictions-covid-19",
+						"display_url": "dhhs.vic.gov.au/averages-easin…",
+						"indices": [
+							200,
+							223
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1328091176302489600,
+						"id_str": "1328091176302489601",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/Em5T42jXMAE2LuY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Em5T42jXMAE2LuY.jpg",
+						"url": "https://t.co/8d9Ds697Iw",
+						"display_url": "pic.twitter.com/8d9Ds697Iw",
+						"expanded_url": "https://twitter.com/VicGovDHHS/status/1328091177921417219/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1328091176302489600,
+						"id_str": "1328091176302489601",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/Em5T42jXMAE2LuY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Em5T42jXMAE2LuY.jpg",
+						"url": "https://t.co/8d9Ds697Iw",
+						"display_url": "pic.twitter.com/8d9Ds697Iw",
+						"expanded_url": "https://twitter.com/VicGovDHHS/status/1328091177921417219/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43064490,
+				"id_str": "43064490",
+				"name": "VicGovDHHS",
+				"screen_name": "VicGovDHHS",
+				"location": "Victoria, Australia",
+				"description": "The Department of Health and Human Services delivers policies, programs and services that support and enhance the health and wellbeing of all Victorians.",
+				"url": "http://t.co/xjuf1x8hp0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xjuf1x8hp0",
+								"expanded_url": "http://dhhs.vic.gov.au/",
+								"display_url": "dhhs.vic.gov.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 155086,
+				"friends_count": 713,
+				"listed_count": 729,
+				"created_at": "Thu May 28 06:58:43 +0000 2009",
+				"favourites_count": 701,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8470,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/811761840875151361/ln9Cdd5G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/811761840875151361/ln9Cdd5G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43064490/1597496443",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "E9E9E9",
+				"profile_sidebar_fill_color": "F1F1F1",
+				"profile_text_color": "545454",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 223,
+			"favorite_count": 1658,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So you like doughnuts, eh? Well have all the doughnuts in the world! https://t.co/HjqaYBpnAS https://t.co/5A0sdPNpLT"
+	},
+	{
 		"created_at": "Sun Nov 15 11:10:49 +0000 2020",
 		"id": 1327932059357040600,
 		"id_str": "1327932059357040643",
