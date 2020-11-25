@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 25 09:38:28 +0000 2020",
+		"id": 1331532695805956000,
+		"id_str": "1331532695805956096",
+		"full_text": "We've gone from an app that's meant to do this for us to manually scanning a QR code everywhere we go. Cool, cool, cool. https://t.co/LMKfVSlsxH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LMKfVSlsxH",
+					"expanded_url": "https://twitter.com/MarkMcGowanMP/status/1331471537505910784",
+					"display_url": "twitter.com/MarkMcGowanMP/…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Sleep is for the week(nights and also weekends)",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 65,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1331471537505910800,
+		"quoted_status_id_str": "1331471537505910784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LMKfVSlsxH",
+			"expanded": "https://twitter.com/MarkMcGowanMP/status/1331471537505910784",
+			"display": "twitter.com/MarkMcGowanMP/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 25 05:35:26 +0000 2020",
+			"id": 1331471537505910800,
+			"id_str": "1331471537505910784",
+			"full_text": "Even if it's unlikely, it's vital that we have the protections in place that we need for the worst case scenario.\n\nSo, in line with health advice, from 5 December, particular WA venues and businesses will need to maintain mandatory contact registers to support contact tracing. https://t.co/UpcF10neaT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1331470332843024400,
+						"id_str": "1331470332843024385",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EnpVNpoUYAEcTW7.png",
+						"media_url_https": "https://pbs.twimg.com/media/EnpVNpoUYAEcTW7.png",
+						"url": "https://t.co/UpcF10neaT",
+						"display_url": "pic.twitter.com/UpcF10neaT",
+						"expanded_url": "https://twitter.com/MarkMcGowanMP/status/1331471537505910784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 414,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 731,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1248,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1331470332843024400,
+						"id_str": "1331470332843024385",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EnpVNpoUYAEcTW7.png",
+						"media_url_https": "https://pbs.twimg.com/media/EnpVNpoUYAEcTW7.png",
+						"url": "https://t.co/UpcF10neaT",
+						"display_url": "pic.twitter.com/UpcF10neaT",
+						"expanded_url": "https://twitter.com/MarkMcGowanMP/status/1331471537505910784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 414,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 731,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1248,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 430452224,
+				"id_str": "430452224",
+				"name": "Mark McGowan",
+				"screen_name": "MarkMcGowanMP",
+				"location": "Rockingham, Perth (WA)",
+				"description": "Dad to Samuel, Alexander and Amelia. Husband to Sarah. Premier of Western Australia. Rockingham local.",
+				"url": "https://t.co/8RUiL5da2B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8RUiL5da2B",
+								"expanded_url": "http://premier.wa.gov.au",
+								"display_url": "premier.wa.gov.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49747,
+				"friends_count": 641,
+				"listed_count": 267,
+				"created_at": "Wed Dec 07 05:42:53 +0000 2011",
+				"favourites_count": 510,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6490,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "913434",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1092659095088164864/295cwTE4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092659095088164864/295cwTE4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/430452224/1605772175",
+				"profile_link_color": "BF311B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 164,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We've gone from an app that's meant to do this for us to manually scanning a QR code everywhere we go. Cool, cool, cool. https://t.co/LMKfVSlsxH"
+	},
+	{
 		"created_at": "Tue Nov 24 21:43:55 +0000 2020",
 		"id": 1331352876229161000,
 		"id_str": "1331352876229160961",
