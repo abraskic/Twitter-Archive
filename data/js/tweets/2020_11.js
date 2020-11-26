@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 26 22:25:51 +0000 2020",
+		"id": 1332088202048401400,
+		"id_str": "1332088202048401408",
+		"full_text": "Victoria achieves elimination, your move @MarkMcGowanMP. https://t.co/5iHu5HlJYp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkMcGowanMP",
+					"name": "Mark McGowan",
+					"id": 430452224,
+					"id_str": "430452224",
+					"indices": [
+						41,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5iHu5HlJYp",
+					"expanded_url": "https://twitter.com/vicgovdhhs/status/1332068932270903297",
+					"display_url": "twitter.com/vicgovdhhs/sta…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Sleep is for the week(nights and also weekends)",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 65,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1332068932270903300,
+		"quoted_status_id_str": "1332068932270903297",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5iHu5HlJYp",
+			"expanded": "https://twitter.com/vicgovdhhs/status/1332068932270903297",
+			"display": "twitter.com/vicgovdhhs/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 26 21:09:16 +0000 2020",
+			"id": 1332068932270903300,
+			"id_str": "1332068932270903297",
+			"full_text": "Congratulations Victoria, 28 consecutive days of 0 new cases reported 💕\nYesterday there were 0 lives lost and 9,828 test results received. There are 0 active cases. \nMore detail: https://t.co/pcll7ySEgz #StaySafeStayOpen #COVID19VicData https://t.co/bOrsxTQn3q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				236
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StaySafeStayOpen",
+						"indices": [
+							203,
+							220
+						]
+					},
+					{
+						"text": "COVID19VicData",
+						"indices": [
+							221,
+							236
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pcll7ySEgz",
+						"expanded_url": "https://dhhs.vic.gov.au/averages-easing-restrictions-covid-19",
+						"display_url": "dhhs.vic.gov.au/averages-easin…",
+						"indices": [
+							179,
+							202
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1332068930580586500,
+						"id_str": "1332068930580586496",
+						"indices": [
+							237,
+							260
+						],
+						"media_url": "http://pbs.twimg.com/media/Enx1on-XIAA85LH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Enx1on-XIAA85LH.jpg",
+						"url": "https://t.co/bOrsxTQn3q",
+						"display_url": "pic.twitter.com/bOrsxTQn3q",
+						"expanded_url": "https://twitter.com/VicGovDHHS/status/1332068932270903297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1332068930580586500,
+						"id_str": "1332068930580586496",
+						"indices": [
+							237,
+							260
+						],
+						"media_url": "http://pbs.twimg.com/media/Enx1on-XIAA85LH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Enx1on-XIAA85LH.jpg",
+						"url": "https://t.co/bOrsxTQn3q",
+						"display_url": "pic.twitter.com/bOrsxTQn3q",
+						"expanded_url": "https://twitter.com/VicGovDHHS/status/1332068932270903297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43064490,
+				"id_str": "43064490",
+				"name": "VicGovDHHS",
+				"screen_name": "VicGovDHHS",
+				"location": "Victoria, Australia",
+				"description": "The Department of Health and Human Services delivers policies, programs and services that support and enhance the health and wellbeing of all Victorians.",
+				"url": "http://t.co/xjuf1x8hp0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xjuf1x8hp0",
+								"expanded_url": "http://dhhs.vic.gov.au/",
+								"display_url": "dhhs.vic.gov.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 159175,
+				"friends_count": 715,
+				"listed_count": 738,
+				"created_at": "Thu May 28 06:58:43 +0000 2009",
+				"favourites_count": 705,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8578,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/811761840875151361/ln9Cdd5G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/811761840875151361/ln9Cdd5G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43064490/1597496443",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "E9E9E9",
+				"profile_sidebar_fill_color": "F1F1F1",
+				"profile_text_color": "545454",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 811,
+			"favorite_count": 5629,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Victoria achieves elimination, your move @MarkMcGowanMP. https://t.co/5iHu5HlJYp"
+	},
+	{
 		"created_at": "Thu Nov 26 11:46:00 +0000 2020",
 		"id": 1331927179152638000,
 		"id_str": "1331927179152637953",
