@@ -1,6 +1,420 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 27 02:09:12 +0000 2020",
+		"id": 1332144412541915100,
+		"id_str": "1332144412541915139",
+		"full_text": "Museums https://t.co/HBPNn4mFNo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1332144384960131000,
+					"id_str": "1332144384960131072",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/Eny6QpcUcAA-g7D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eny6QpcUcAA-g7D.jpg",
+					"url": "https://t.co/HBPNn4mFNo",
+					"display_url": "pic.twitter.com/HBPNn4mFNo",
+					"expanded_url": "https://twitter.com/braskic/status/1332144412541915139/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1332144384960131000,
+					"id_str": "1332144384960131072",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/Eny6QpcUcAA-g7D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eny6QpcUcAA-g7D.jpg",
+					"url": "https://t.co/HBPNn4mFNo",
+					"display_url": "pic.twitter.com/HBPNn4mFNo",
+					"expanded_url": "https://twitter.com/braskic/status/1332144412541915139/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Sleep is for the week(nights and also weekends)",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 65,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "127c06d971975000",
+			"url": "https://api.twitter.com/1.1/geo/id/127c06d971975000.json",
+			"place_type": "poi",
+			"name": "WA Museum Boola Bardip",
+			"full_name": "WA Museum Boola Bardip",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.861811,
+							-31.949621
+						],
+						[
+							115.861811,
+							-31.949621
+						],
+						[
+							115.861811,
+							-31.949621
+						],
+						[
+							115.861811,
+							-31.949621
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Museums https://t.co/HBPNn4mFNo"
+	},
+	{
+		"created_at": "Fri Nov 27 02:06:24 +0000 2020",
+		"id": 1331799755903537200,
+		"id_str": "1332143705671667712",
+		"full_text": "Melbourne is healing. https://t.co/QxyEH6CsP1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1331799730783805400,
+					"id_str": "1331799730783805442",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EnuAzIlUYAIsCD3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnuAzIlUYAIsCD3.jpg",
+					"url": "https://t.co/QxyEH6CsP1",
+					"display_url": "pic.twitter.com/QxyEH6CsP1",
+					"expanded_url": "https://twitter.com/RyanSheales/status/1331799755903537157/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331799730783805400,
+					"id_str": "1331799730783805442",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EnuAzIlUYAIsCD3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnuAzIlUYAIsCD3.jpg",
+					"url": "https://t.co/QxyEH6CsP1",
+					"display_url": "pic.twitter.com/QxyEH6CsP1",
+					"expanded_url": "https://twitter.com/RyanSheales/status/1331799755903537157/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43834966,
+			"id_str": "43834966",
+			"name": "Ryan Sheales",
+			"screen_name": "RyanSheales",
+			"location": "Victoria, Australia",
+			"description": "Comms lead at @VCOSS—Victoria’s peak social advocacy body. Not their spokesman. Once ABC News, The Project and other places. Loves puns, hates injustice.",
+			"url": "https://t.co/DryHUSS5ed",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DryHUSS5ed",
+							"expanded_url": "http://ryansheales.com",
+							"display_url": "ryansheales.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8102,
+			"friends_count": 3836,
+			"listed_count": 208,
+			"created_at": "Mon Jun 01 05:13:34 +0000 2009",
+			"favourites_count": 7424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "191A19",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281509786207412224/IAmCbPSh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281509786207412224/IAmCbPSh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43834966/1587858125",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "0C8DC9",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01864a8a64df9dc4",
+			"url": "https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json",
+			"place_type": "city",
+			"name": "Melbourne",
+			"full_name": "Melbourne, Victoria",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							144.593741856,
+							-38.433859306
+						],
+						[
+							145.512528832,
+							-38.433859306
+						],
+						[
+							145.512528832,
+							-37.5112737225
+						],
+						[
+							144.593741856,
+							-37.5112737225
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 198,
+		"favorite_count": 1851,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Melbourne is healing. https://t.co/QxyEH6CsP1"
+	},
+	{
 		"created_at": "Thu Nov 26 22:25:51 +0000 2020",
 		"id": 1332088202048401400,
 		"id_str": "1332088202048401408",
