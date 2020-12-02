@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 02 13:40:48 +0000 2020",
+		"id": 1334087577033347000,
+		"id_str": "1334130398050222087",
+		"full_text": "LOOK AT THIS ABSOLUTE NONSENSE 🔥🔥🔥 #AUSvsIND https://t.co/eAyPuDduXl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AUSvsIND",
+					"indices": [
+						35,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334087270664528000,
+					"id_str": "1334087270664527872",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EoOhTXlUYAEjNUJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoOhTXlUYAEjNUJ.jpg",
+					"url": "https://t.co/eAyPuDduXl",
+					"display_url": "pic.twitter.com/eAyPuDduXl",
+					"expanded_url": "https://twitter.com/FoxCricket/status/1334087329271619586/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1334087329271619600,
+					"source_status_id_str": "1334087329271619586",
+					"source_user_id": 206079538,
+					"source_user_id_str": "206079538"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334087270664528000,
+					"id_str": "1334087270664527872",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EoOhTXlUYAEjNUJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoOhTXlUYAEjNUJ.jpg",
+					"url": "https://t.co/eAyPuDduXl",
+					"display_url": "pic.twitter.com/eAyPuDduXl",
+					"expanded_url": "https://twitter.com/FoxCricket/status/1334087329271619586/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1334087329271619600,
+					"source_status_id_str": "1334087329271619586",
+					"source_user_id": 206079538,
+					"source_user_id_str": "206079538",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21040,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1334087270664527872/vid/640x360/W_vgi7EJScvRjm1y.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1334087270664527872/vid/1280x720/xZJ230Bo9asPd18b.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1334087270664527872/vid/480x270/xkm6eoUokHWrd78R.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1334087270664527872/pl/FKJX0m8j_UYmCGn4.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 206079538,
+							"id_str": "206079538",
+							"name": "Fox Cricket",
+							"screen_name": "FoxCricket",
+							"location": "Australia",
+							"description": "Welcome to your home of cricket 🏏\n📺 #FoxCricket 501\n📱Visit Website👇",
+							"url": "https://t.co/hnqGVXgRcx",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/hnqGVXgRcx",
+											"expanded_url": "https://www.foxsports.com.au/cricket",
+											"display_url": "foxsports.com.au/cricket",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 140124,
+							"friends_count": 709,
+							"listed_count": 455,
+							"created_at": "Fri Oct 22 07:00:18 +0000 2010",
+							"favourites_count": 230,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 19416,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "022330",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1039370522398576641/p8RUcFnc_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039370522398576641/p8RUcFnc_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/206079538/1583712348",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "C0DFEC",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 204546104,
+			"id_str": "204546104",
+			"name": "Steve Smith",
+			"screen_name": "stevesmithffx",
+			"location": "Australia",
+			"description": "Digital media. @NBA / @NBL words for @ESPN and @ESPNAusNZ",
+			"url": "https://t.co/lx9apzPyNI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lx9apzPyNI",
+							"expanded_url": "https://au.linkedin.com/pub/steve-smith/a7/57/9a5",
+							"display_url": "au.linkedin.com/pub/steve-smit…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8118,
+			"friends_count": 1468,
+			"listed_count": 102,
+			"created_at": "Mon Oct 18 23:12:54 +0000 2010",
+			"favourites_count": 73010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 121348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105806000714539009/DBQTYw4g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105806000714539009/DBQTYw4g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/204546104/1589982743",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 495,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LOOK AT THIS ABSOLUTE NONSENSE 🔥🔥🔥 #AUSvsIND https://t.co/eAyPuDduXl"
+	},
+	{
 		"created_at": "Wed Dec 02 10:43:30 +0000 2020",
 		"id": 1334085777647571000,
 		"id_str": "1334085777647570946",
