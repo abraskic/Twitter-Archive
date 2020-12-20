@@ -1,6 +1,442 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 20 02:41:38 +0000 2020",
+		"id": 1340427404846661600,
+		"id_str": "1340487494203142144",
+		"full_text": "Sydney Christmas 2019 vs Sydney Christmas 2020:\n\n@shishberg #COVID19nsw https://t.co/ra4IKEiHiH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19nsw",
+					"indices": [
+						60,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shishberg",
+					"name": "David McLeish",
+					"id": 20044099,
+					"id_str": "20044099",
+					"indices": [
+						49,
+						59
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1340427400539074600,
+					"id_str": "1340427400539074561",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EponnnBU8AEP0mV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EponnnBU8AEP0mV.jpg",
+					"url": "https://t.co/ra4IKEiHiH",
+					"display_url": "pic.twitter.com/ra4IKEiHiH",
+					"expanded_url": "https://twitter.com/byronkaye/status/1340427404846661633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 384,
+							"h": 333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 384,
+							"h": 333,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340427400539074600,
+					"id_str": "1340427400539074561",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EponnnBU8AEP0mV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EponnnBU8AEP0mV.jpg",
+					"url": "https://t.co/ra4IKEiHiH",
+					"display_url": "pic.twitter.com/ra4IKEiHiH",
+					"expanded_url": "https://twitter.com/byronkaye/status/1340427404846661633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 384,
+							"h": 333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 384,
+							"h": 333,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1340427400547500000,
+					"id_str": "1340427400547500032",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EponnnDVgAAaDYb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EponnnDVgAAaDYb.jpg",
+					"url": "https://t.co/ra4IKEiHiH",
+					"display_url": "pic.twitter.com/ra4IKEiHiH",
+					"expanded_url": "https://twitter.com/byronkaye/status/1340427404846661633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1022,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1022,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2990400792,
+			"id_str": "2990400792",
+			"name": "Byron Kaye",
+			"screen_name": "byronkaye",
+			"location": "Sydney, New South Wales",
+			"description": "Reuters journo",
+			"url": "https://t.co/o1PV2aSyLv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o1PV2aSyLv",
+							"expanded_url": "http://www.thomsonreuters.com",
+							"display_url": "thomsonreuters.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18009,
+			"friends_count": 16643,
+			"listed_count": 82,
+			"created_at": "Mon Jan 19 23:59:43 +0000 2015",
+			"favourites_count": 1189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1165920970009219074/BKXgzPUt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165920970009219074/BKXgzPUt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2990400792/1431664824",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 373,
+		"favorite_count": 920,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sydney Christmas 2019 vs Sydney Christmas 2020:\n\n@shishberg #COVID19nsw https://t.co/ra4IKEiHiH"
+	},
+	{
+		"created_at": "Sun Dec 20 02:39:33 +0000 2020",
+		"id": 1340419828687892500,
+		"id_str": "1340486971353833472",
+		"full_text": "PLEASE if you attended the beginners trapeze class in St Peters go and get tested immediately...........! For bpd. https://t.co/JWJr8lDzCQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JWJr8lDzCQ",
+					"expanded_url": "https://twitter.com/nswhealth/status/1340273426083184642",
+					"display_url": "twitter.com/nswhealth/stat…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17149683,
+			"id_str": "17149683",
+			"name": "jennui",
+			"screen_name": "jonnoxrevanche",
+			"location": "They/them",
+			"description": "sweet baby crystal powered by god! email me: jonnorevanche@gmail.com",
+			"url": "https://t.co/Pyioce0QiY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Pyioce0QiY",
+							"expanded_url": "http://cargocollective.com/jonnorevanche/about",
+							"display_url": "cargocollective.com/jonnorevanche/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6372,
+			"friends_count": 865,
+			"listed_count": 30,
+			"created_at": "Tue Nov 04 05:36:41 +0000 2008",
+			"favourites_count": 233781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "404040",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240658920575651842/JYTtvHps_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240658920575651842/JYTtvHps_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17149683/1607321146",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1340273426083184600,
+		"quoted_status_id_str": "1340273426083184642",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JWJr8lDzCQ",
+			"expanded": "https://twitter.com/nswhealth/status/1340273426083184642",
+			"display": "twitter.com/nswhealth/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 19 12:31:00 +0000 2020",
+			"id": 1340273426083184600,
+			"id_str": "1340273426083184642",
+			"full_text": "- Sydney Trapeze School, St Peters: Tuesday 15 December, 10am – 12pm (only staff and patrons who attended the class for beginners)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1340273424338309000,
+			"in_reply_to_status_id_str": "1340273424338309120",
+			"in_reply_to_user_id": 40778270,
+			"in_reply_to_user_id_str": "40778270",
+			"in_reply_to_screen_name": "NSWHealth",
+			"user": {
+				"id": 40778270,
+				"id_str": "40778270",
+				"name": "NSW Health",
+				"screen_name": "NSWHealth",
+				"location": "NSW Australia",
+				"description": "Healthy People - now and in the future. In an emergency, always call Triple Zero (000).",
+				"url": "http://t.co/nj18qSOAKz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/nj18qSOAKz",
+								"expanded_url": "http://www.health.nsw.gov.au",
+								"display_url": "health.nsw.gov.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 101763,
+				"friends_count": 327,
+				"listed_count": 708,
+				"created_at": "Mon May 18 01:09:11 +0000 2009",
+				"favourites_count": 1318,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5152,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1234266889217404928/XidqeFXc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234266889217404928/XidqeFXc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40778270/1593493704",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 251,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PLEASE if you attended the beginners trapeze class in St Peters go and get tested immediately...........! For bpd. https://t.co/JWJr8lDzCQ"
+	},
+	{
 		"created_at": "Sat Dec 19 11:45:07 +0000 2020",
 		"id": 1340261879009091600,
 		"id_str": "1340261879009091584",
