@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 06 22:57:59 +0000 2021",
+		"id": 1346951228924723200,
+		"id_str": "1346954192686968832",
+		"full_text": "How it started:                How it's going: https://t.co/ali2faXGER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1346951060846379000,
+					"id_str": "1346951060846379008",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/ErFU2neVgAAU7iw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErFU2neVgAAU7iw.jpg",
+					"url": "https://t.co/ali2faXGER",
+					"display_url": "pic.twitter.com/ali2faXGER",
+					"expanded_url": "https://twitter.com/PhillyD/status/1346951228924723204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 958,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346951060846379000,
+					"id_str": "1346951060846379008",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/ErFU2neVgAAU7iw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErFU2neVgAAU7iw.jpg",
+					"url": "https://t.co/ali2faXGER",
+					"display_url": "pic.twitter.com/ali2faXGER",
+					"expanded_url": "https://twitter.com/PhillyD/status/1346951228924723204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 958,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1346951176432963600,
+					"id_str": "1346951176432963584",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/ErFU9WEU0AAlKv6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErFU9WEU0AAlKv6.jpg",
+					"url": "https://t.co/ali2faXGER",
+					"display_url": "pic.twitter.com/ali2faXGER",
+					"expanded_url": "https://twitter.com/PhillyD/status/1346951228924723204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1368,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6351572,
+			"id_str": "6351572",
+			"name": "Philip DeFranco 👊🏻",
+			"screen_name": "PhillyD",
+			"location": "California, USA",
+			"description": "I talk about and try to make the news consumable for a living. +1 (813) 213-4423",
+			"url": "https://t.co/xQdWg6v8XC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xQdWg6v8XC",
+							"expanded_url": "http://youtube.com/defranco",
+							"display_url": "youtube.com/defranco",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1266247,
+			"friends_count": 1446,
+			"listed_count": 6393,
+			"created_at": "Sat May 26 23:56:07 +0000 2007",
+			"favourites_count": 13873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1339285139881246721/QenxWGtw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339285139881246721/QenxWGtw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6351572/1608069943",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20469,
+		"favorite_count": 54443,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How it started:                How it's going: https://t.co/ali2faXGER"
+	},
+	{
 		"created_at": "Wed Jan 06 22:08:19 +0000 2021",
 		"id": 1226875570132115500,
 		"id_str": "1346941693489156096",
