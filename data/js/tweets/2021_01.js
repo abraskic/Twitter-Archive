@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 08 23:59:46 +0000 2021",
+		"id": 1347687688778891300,
+		"id_str": "1347694515465773056",
+		"full_text": "🍩 for Queensland, 1 hotel cleaner got the virus, caused a lockdown of 2.5m people, all states shut off to Brisbane, 2 states closed off to Queensland.\n\n91 contacts of this cleaner have now tested negative. The sooner we get this vaccine the better, to save us from ourselves https://t.co/q6Oblpu9jy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q6Oblpu9jy",
+					"expanded_url": "https://twitter.com/newscomauhq/status/1347681139226341378",
+					"display_url": "twitter.com/newscomauhq/st…",
+					"indices": [
+						275,
+						298
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 767279520,
+			"id_str": "767279520",
+			"name": "David Berkelmans",
+			"screen_name": "DavidBerkelmans",
+			"location": "Canberra",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 342,
+			"friends_count": 742,
+			"listed_count": 15,
+			"created_at": "Sun Aug 19 09:45:16 +0000 2012",
+			"favourites_count": 4059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289155900201005057/SrkifunZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289155900201005057/SrkifunZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/767279520/1590831405",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347681139226341400,
+		"quoted_status_id_str": "1347681139226341378",
+		"quoted_status_permalink": {
+			"url": "https://t.co/q6Oblpu9jy",
+			"expanded": "https://twitter.com/newscomauhq/status/1347681139226341378",
+			"display": "twitter.com/newscomauhq/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 08 23:06:36 +0000 2021",
+			"id": 1347681139226341400,
+			"id_str": "1347681139226341378",
+			"full_text": "#BREAKING: Queensland has recorded no new virus cases as Greater Brisbane enters day one of a three day lockdown in a bid to contain a mutant strain of COVID-19. https://t.co/x6df9VOofS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				185
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BREAKING",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/x6df9VOofS",
+						"expanded_url": "https://www.news.com.au/lifestyle/health/health-problems/queensland-records-no-new-coronavirus-cases/news-story/ea78610e29be6632a84a4f2ccbc6e610",
+						"display_url": "news.com.au/lifestyle/heal…",
+						"indices": [
+							162,
+							185
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15250661,
+				"id_str": "15250661",
+				"name": "news.com.au",
+				"screen_name": "newscomauHQ",
+				"location": "Australia",
+				"description": "Australia's number one news site. Bringing you the latest breaking news from Australia and around the world.",
+				"url": "https://t.co/2imUDGKnpC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2imUDGKnpC",
+								"expanded_url": "http://www.news.com.au",
+								"display_url": "news.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 551207,
+				"friends_count": 4242,
+				"listed_count": 3560,
+				"created_at": "Fri Jun 27 02:03:07 +0000 2008",
+				"favourites_count": 1907,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 256958,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1098007143330902016/NxA76ZiP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098007143330902016/NxA76ZiP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15250661/1601958020",
+				"profile_link_color": "0A6395",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EDEDED",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 42,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🍩 for Queensland, 1 hotel cleaner got the virus, caused a lockdown of 2.5m people, all states shut off to Brisbane, 2 states closed off to Queensland.\n\n91 contacts of this cleaner have now tested negative. The sooner we get this vaccine the better, to save us from ourselves https://t.co/q6Oblpu9jy"
+	},
+	{
 		"created_at": "Fri Jan 08 09:41:27 +0000 2021",
 		"id": 1347478515231248400,
 		"id_str": "1347478515231248386",
