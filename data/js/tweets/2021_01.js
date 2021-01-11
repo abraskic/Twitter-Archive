@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 11 03:59:16 +0000 2021",
+		"id": 1348479565807509500,
+		"id_str": "1348479565807509507",
+		"full_text": "It’s Armadale Melbourne not Armadale Perth just FYI. #savedyouaclick https://t.co/GmiExJjURA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "savedyouaclick",
+					"indices": [
+						53,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GmiExJjURA",
+					"expanded_url": "https://twitter.com/9newsmelb/status/1348427995392876544",
+					"display_url": "twitter.com/9newsmelb/stat…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Sleep is for the week(nights and also weekends)",
+			"url": "https://t.co/bH9IVIAEbV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bH9IVIAEbV",
+							"expanded_url": "http://brask.cc/",
+							"display_url": "brask.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 239,
+			"friends_count": 66,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1348427995392876500,
+		"quoted_status_id_str": "1348427995392876544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GmiExJjURA",
+			"expanded": "https://twitter.com/9newsmelb/status/1348427995392876544",
+			"display": "twitter.com/9newsmelb/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 11 00:34:21 +0000 2021",
+			"id": 1348427995392876500,
+			"id_str": "1348427995392876544",
+			"full_text": "#BREAKING: A child has tested positive to #coronavirus overseas, two days after attending a childcare centre in #Armadale. #9News \n\nREAD ABOUT IT: https://t.co/OOQyKBaQRA https://t.co/YfYGNNeIvy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BREAKING",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "coronavirus",
+						"indices": [
+							42,
+							54
+						]
+					},
+					{
+						"text": "Armadale",
+						"indices": [
+							112,
+							121
+						]
+					},
+					{
+						"text": "9News",
+						"indices": [
+							123,
+							129
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OOQyKBaQRA",
+						"expanded_url": "http://9Soci.al/Td2I30rs6dU",
+						"display_url": "9Soci.al/Td2I30rs6dU",
+						"indices": [
+							147,
+							170
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1348427987733991400,
+						"id_str": "1348427987733991429",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/EraUHE4UUAUd0Yf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EraUHE4UUAUd0Yf.jpg",
+						"url": "https://t.co/YfYGNNeIvy",
+						"display_url": "pic.twitter.com/YfYGNNeIvy",
+						"expanded_url": "https://twitter.com/9NewsMelb/status/1348427995392876544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1348427987733991400,
+						"id_str": "1348427987733991429",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/EraUHE4UUAUd0Yf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EraUHE4UUAUd0Yf.jpg",
+						"url": "https://t.co/YfYGNNeIvy",
+						"display_url": "pic.twitter.com/YfYGNNeIvy",
+						"expanded_url": "https://twitter.com/9NewsMelb/status/1348427995392876544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 183036128,
+				"id_str": "183036128",
+				"name": "9News Melbourne",
+				"screen_name": "9NewsMelb",
+				"location": "Melbourne, Australia",
+				"description": "@PHitchener9 and @alicialoxley present Melbourne’s #9News on @Channel9 at 4.00pm/6.00pm. Simulcast on @899TheLight. Community Guidelines: https://t.co/h3hABkSNCP",
+				"url": "http://t.co/mTeTNcmhaU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/mTeTNcmhaU",
+								"expanded_url": "http://9News.com.au/Victoria",
+								"display_url": "9News.com.au/Victoria",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/h3hABkSNCP",
+								"expanded_url": "http://9jump.in/8oT7O4S",
+								"display_url": "9jump.in/8oT7O4S",
+								"indices": [
+									138,
+									161
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 163035,
+				"friends_count": 2307,
+				"listed_count": 1145,
+				"created_at": "Thu Aug 26 00:33:14 +0000 2010",
+				"favourites_count": 2341,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 257765,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1219129633230053377/M_twVrXj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219129633230053377/M_twVrXj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183036128/1579498117",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s Armadale Melbourne not Armadale Perth just FYI. #savedyouaclick https://t.co/GmiExJjURA"
+	},
+	{
 		"created_at": "Sun Jan 10 23:16:21 +0000 2021",
 		"id": 1348408366263988200,
 		"id_str": "1348408366263988224",
