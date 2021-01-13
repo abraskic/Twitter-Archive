@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 13 10:15:28 +0000 2021",
+		"id": 1349220523604013000,
+		"id_str": "1349299016614383618",
+		"full_text": "Year 2048: We use the train to visit the airport and tell our grand kids how we would come here to leave the state, but now all that exists outside our border is a covid infected wasteland. The airport is now a museum and a monument to our successful hard border. https://t.co/rK5uerEb0V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rK5uerEb0V",
+					"expanded_url": "https://twitter.com/Rita_Saffioti/status/1349139449100128257",
+					"display_url": "twitter.com/Rita_Saffioti/…",
+					"indices": [
+						264,
+						287
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21607574,
+			"id_str": "21607574",
+			"name": "Damien",
+			"screen_name": "DamoMK",
+			"location": "Perth, Western Australia",
+			"description": "slow runner, bean counter, #foreverfreo sucker.",
+			"url": "https://t.co/hz7YyJ4CtC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hz7YyJ4CtC",
+							"expanded_url": "https://www.strava.com/athletes/damomk",
+							"display_url": "strava.com/athletes/damomk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1252,
+			"friends_count": 726,
+			"listed_count": 53,
+			"created_at": "Sun Feb 22 22:50:49 +0000 2009",
+			"favourites_count": 7169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311599991555645441/y6WMZSDY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311599991555645441/y6WMZSDY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21607574/1522717142",
+			"profile_link_color": "2A0D45",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1349139449100128300,
+		"quoted_status_id_str": "1349139449100128257",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rK5uerEb0V",
+			"expanded": "https://twitter.com/Rita_Saffioti/status/1349139449100128257",
+			"display": "twitter.com/Rita_Saffioti/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 12 23:41:25 +0000 2021",
+			"id": 1349139449100128300,
+			"id_str": "1349139449100128257",
+			"full_text": "Work is progressing well on the METRONET Forrestfield-Airport Link with the team currently laying track for the airport-bound trains. \n\nAlmost 9 kilometres of skeleton track has now been laid on the project! https://t.co/K3xk3ScUQo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				207
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1349139260784349200,
+						"id_str": "1349139260784349187",
+						"indices": [
+							208,
+							231
+						],
+						"media_url": "http://pbs.twimg.com/media/ErkbAneVkAMPQTm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErkbAneVkAMPQTm.jpg",
+						"url": "https://t.co/K3xk3ScUQo",
+						"display_url": "pic.twitter.com/K3xk3ScUQo",
+						"expanded_url": "https://twitter.com/Rita_Saffioti/status/1349139449100128257/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 750,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 750,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1349139260784349200,
+						"id_str": "1349139260784349187",
+						"indices": [
+							208,
+							231
+						],
+						"media_url": "http://pbs.twimg.com/media/ErkbAneVkAMPQTm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErkbAneVkAMPQTm.jpg",
+						"url": "https://t.co/K3xk3ScUQo",
+						"display_url": "pic.twitter.com/K3xk3ScUQo",
+						"expanded_url": "https://twitter.com/Rita_Saffioti/status/1349139449100128257/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 750,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 750,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1349139297509625900,
+						"id_str": "1349139297509625856",
+						"indices": [
+							208,
+							231
+						],
+						"media_url": "http://pbs.twimg.com/media/ErkbCwSU0AAbom2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErkbCwSU0AAbom2.jpg",
+						"url": "https://t.co/K3xk3ScUQo",
+						"display_url": "pic.twitter.com/K3xk3ScUQo",
+						"expanded_url": "https://twitter.com/Rita_Saffioti/status/1349139449100128257/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 750,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1349139314358198300,
+						"id_str": "1349139314358198273",
+						"indices": [
+							208,
+							231
+						],
+						"media_url": "http://pbs.twimg.com/media/ErkbDvDVoAE4i1m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErkbDvDVoAE4i1m.jpg",
+						"url": "https://t.co/K3xk3ScUQo",
+						"display_url": "pic.twitter.com/K3xk3ScUQo",
+						"expanded_url": "https://twitter.com/Rita_Saffioti/status/1349139449100128257/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 750,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 750,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 252473123,
+				"id_str": "252473123",
+				"name": "Rita Saffioti",
+				"screen_name": "Rita_Saffioti",
+				"location": "Perth, Australia",
+				"description": "Mum of three. Big Dockers fan. WA Minister for Transport and Planning. WA Labor MP for West Swan.",
+				"url": "https://t.co/1q4ldgZzzs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1q4ldgZzzs",
+								"expanded_url": "https://www.facebook.com/RitaSaffiotiMLA/",
+								"display_url": "facebook.com/RitaSaffiotiML…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6380,
+				"friends_count": 646,
+				"listed_count": 95,
+				"created_at": "Tue Feb 15 08:01:20 +0000 2011",
+				"favourites_count": 873,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2192,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/723790815718305793/LYoHqaV7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/723790815718305793/LYoHqaV7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/252473123/1494055546",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Year 2048: We use the train to visit the airport and tell our grand kids how we would come here to leave the state, but now all that exists outside our border is a covid infected wasteland. The airport is now a museum and a monument to our successful hard border. https://t.co/rK5uerEb0V"
+	},
+	{
 		"created_at": "Wed Jan 13 09:57:57 +0000 2021",
 		"id": 1349294604697313300,
 		"id_str": "1349294604697313282",
