@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 23 08:37:18 +0000 2021",
+		"id": 1352890342698172400,
+		"id_str": "1352898186948427776",
+		"full_text": "Two things are clear:\n\n1. Now that a politician has made the Hottest 100, it is no longer hot. Sorry about that.\n2. It's officially time to get on the beers.\n\nCongrats @mashdnkutcher - I look forward to our next ‘collaboration’. https://t.co/HKrE8tIbQD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mashdnkutcher",
+					"name": "MASHD N KUTCHER",
+					"id": 901409892,
+					"id_str": "901409892",
+					"indices": [
+						168,
+						182
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HKrE8tIbQD",
+					"expanded_url": "https://twitter.com/triplej/status/1352888447891959810",
+					"display_url": "twitter.com/triplej/status…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 228535666,
+			"id_str": "228535666",
+			"name": "Dan Andrews",
+			"screen_name": "DanielAndrewsMP",
+			"location": "Melbourne, Australia",
+			"description": "Premier of Victoria.",
+			"url": "https://t.co/HhLhQASoqi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HhLhQASoqi",
+							"expanded_url": "http://www.danandrews.com.au",
+							"display_url": "danandrews.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314315,
+			"friends_count": 3088,
+			"listed_count": 834,
+			"created_at": "Mon Dec 20 00:56:03 +0000 2010",
+			"favourites_count": 2052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C2082D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331366264695001088/C1Dx50yP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331366264695001088/C1Dx50yP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/228535666/1542511812",
+			"profile_link_color": "BF2D1A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1352888447891959800,
+		"quoted_status_id_str": "1352888447891959810",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HKrE8tIbQD",
+			"expanded": "https://twitter.com/triplej/status/1352888447891959810",
+			"display": "twitter.com/triplej/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 23 07:58:36 +0000 2021",
+			"id": 1352888447891959800,
+			"id_str": "1352888447891959810",
+			"full_text": "#12 @mashdnkutcher - 'Get On The Beers' [Ft. @DanielAndrewsMP] #Hottest100 https://t.co/9CfBL9237e",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Hottest100",
+						"indices": [
+							63,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mashdnkutcher",
+						"name": "MASHD N KUTCHER",
+						"id": 901409892,
+						"id_str": "901409892",
+						"indices": [
+							4,
+							18
+						]
+					},
+					{
+						"screen_name": "DanielAndrewsMP",
+						"name": "Dan Andrews",
+						"id": 228535666,
+						"id_str": "228535666",
+						"indices": [
+							45,
+							61
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1352887142343614500,
+						"id_str": "1352887142343614464",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/EsZrsCSVoAAYs7p.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EsZrsCSVoAAYs7p.jpg",
+						"url": "https://t.co/9CfBL9237e",
+						"display_url": "pic.twitter.com/9CfBL9237e",
+						"expanded_url": "https://twitter.com/triplej/status/1352888447891959810/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1352887142343614500,
+						"id_str": "1352887142343614464",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/EsZrsCSVoAAYs7p.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EsZrsCSVoAAYs7p.jpg",
+						"url": "https://t.co/9CfBL9237e",
+						"display_url": "pic.twitter.com/9CfBL9237e",
+						"expanded_url": "https://twitter.com/triplej/status/1352888447891959810/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1962711,
+				"id_str": "1962711",
+				"name": "triple j",
+				"screen_name": "triplej",
+				"location": "Australia",
+				"description": "We love music. @triplejplays for playlists. Download the triple j app 📲",
+				"url": "https://t.co/g93vXcPCgm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/g93vXcPCgm",
+								"expanded_url": "https://www.abc.net.au/triplej/app/",
+								"display_url": "abc.net.au/triplej/app/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 532538,
+				"friends_count": 250,
+				"listed_count": 2226,
+				"created_at": "Fri Mar 23 01:26:20 +0000 2007",
+				"favourites_count": 904,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 26585,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1328136538518024195/4m6ZRxGy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1328136538518024195/4m6ZRxGy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1962711/1584665954",
+				"profile_link_color": "4D4D4D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F01D1D",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 874,
+			"favorite_count": 3585,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1848,
+		"favorite_count": 8854,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Two things are clear:\n\n1. Now that a politician has made the Hottest 100, it is no longer hot. Sorry about that.\n2. It's officially time to get on the beers.\n\nCongrats @mashdnkutcher - I look forward to our next ‘collaboration’. https://t.co/HKrE8tIbQD"
+	},
+	{
 		"created_at": "Sat Jan 23 03:16:45 +0000 2021",
 		"id": 1352817519518617600,
 		"id_str": "1352817519518617600",
