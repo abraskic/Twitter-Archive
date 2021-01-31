@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 31 22:14:10 +0000 2021",
+		"id": 1355991237631692800,
+		"id_str": "1356002863521009667",
+		"full_text": "😂 https://t.co/ZZTR9k91qg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1355991231780724700,
+					"id_str": "1355991231780724739",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/EtFy10jVoAM-mQE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtFy10jVoAM-mQE.jpg",
+					"url": "https://t.co/ZZTR9k91qg",
+					"display_url": "pic.twitter.com/ZZTR9k91qg",
+					"expanded_url": "https://twitter.com/fictillius/status/1355991237631692801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 975,
+							"h": 963,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 672,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 975,
+							"h": 963,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1355991231780724700,
+					"id_str": "1355991231780724739",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/EtFy10jVoAM-mQE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtFy10jVoAM-mQE.jpg",
+					"url": "https://t.co/ZZTR9k91qg",
+					"display_url": "pic.twitter.com/ZZTR9k91qg",
+					"expanded_url": "https://twitter.com/fictillius/status/1355991237631692801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 975,
+							"h": 963,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 672,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 975,
+							"h": 963,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7050962,
+			"id_str": "7050962",
+			"name": "🦠 😷 Evan",
+			"screen_name": "fictillius",
+			"location": "Sydney, Australia",
+			"description": "Paid COVID-19 troll. Rent seeking green leftie. Right wing nut. Green, Labor & Liberal stooge all rolled into one. Tweets are mine not my employers.",
+			"url": "https://t.co/W1OD5naKWb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W1OD5naKWb",
+							"expanded_url": "http://fictilli.us",
+							"display_url": "fictilli.us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4199,
+			"friends_count": 4640,
+			"listed_count": 186,
+			"created_at": "Sun Jun 24 13:50:14 +0000 2007",
+			"favourites_count": 34855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 102212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129734736950300675/5FDLsqm9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129734736950300675/5FDLsqm9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7050962/1582254056",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😂 https://t.co/ZZTR9k91qg"
+	},
+	{
 		"created_at": "Sun Jan 31 17:20:30 +0000 2021",
 		"id": 1355928959821570000,
 		"id_str": "1355928959821570050",
