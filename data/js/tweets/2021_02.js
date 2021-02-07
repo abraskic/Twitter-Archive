@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 07 15:55:02 +0000 2021",
+		"id": 1358444167404286000,
+		"id_str": "1358444167404285953",
+		"full_text": "This is what happens when Victorians surrender their faith in Dan Murphy’s not Dan Andrews. 👀 https://t.co/X2iG2gNcNX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X2iG2gNcNX",
+					"expanded_url": "https://twitter.com/vicgovdh/status/1358397250410598400",
+					"display_url": "twitter.com/vicgovdh/statu…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Sleep is for the week(nights and also weekends)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 240,
+			"friends_count": 67,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1358397250410598400,
+		"quoted_status_id_str": "1358397250410598400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/X2iG2gNcNX",
+			"expanded": "https://twitter.com/vicgovdh/status/1358397250410598400",
+			"display": "twitter.com/vicgovdh/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 07 12:48:36 +0000 2021",
+			"id": 1358397250410598400,
+			"id_str": "1358397250410598400",
+			"full_text": "A Hotel Quarantine worker at the Holiday Inn at Melbourne Airport has tested positive to coronavirus (COVID-19). The individual was tested on 4 Feb, returning a negative result.  They returned to work 7 Feb, developed symptoms, were tested and returned a positive result.\n\n(1/4)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43064490,
+				"id_str": "43064490",
+				"name": "VicGovDH",
+				"screen_name": "VicGovDH",
+				"location": "Victoria, Australia",
+				"description": "The Department of Health delivers policies, programs and services that support and enhance the health and wellbeing of all Victorians.",
+				"url": "https://t.co/aDGpC5Amf5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aDGpC5Amf5",
+								"expanded_url": "https://www.vic.gov.au/department-health",
+								"display_url": "vic.gov.au/department-hea…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 189074,
+				"friends_count": 717,
+				"listed_count": 822,
+				"created_at": "Thu May 28 06:58:43 +0000 2009",
+				"favourites_count": 768,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9271,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/811761840875151361/ln9Cdd5G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/811761840875151361/ln9Cdd5G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43064490/1597496443",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "E9E9E9",
+				"profile_sidebar_fill_color": "F1F1F1",
+				"profile_text_color": "545454",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 309,
+			"favorite_count": 453,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is what happens when Victorians surrender their faith in Dan Murphy’s not Dan Andrews. 👀 https://t.co/X2iG2gNcNX"
+	},
+	{
 		"created_at": "Sat Feb 06 10:58:54 +0000 2021",
 		"id": 1358007254419558400,
 		"id_str": "1358007254419558400",
