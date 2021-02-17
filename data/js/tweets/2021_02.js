@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 17 10:53:55 +0000 2021",
+		"id": 1361992265351131100,
+		"id_str": "1361992265351131136",
+		"full_text": "Of fuckin' course it's the Golden Triangle. Probably yoloing daddy's money. https://t.co/gsD4hZCExT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gsD4hZCExT",
+					"expanded_url": "https://twitter.com/BellTowerTimes/status/1361910326774562817",
+					"display_url": "twitter.com/BellTowerTimes…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "Sleep is for the week(nights and also weekends)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 241,
+			"friends_count": 67,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1361910326774562800,
+		"quoted_status_id_str": "1361910326774562817",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gsD4hZCExT",
+			"expanded": "https://twitter.com/BellTowerTimes/status/1361910326774562817",
+			"display": "twitter.com/BellTowerTimes…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 17 05:28:19 +0000 2021",
+			"id": 1361910326774562800,
+			"id_str": "1361910326774562817",
+			"full_text": "He's off to the moon #stonks https://t.co/RklNDekMdw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				28
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "stonks",
+						"indices": [
+							21,
+							28
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1361910318797004800,
+						"id_str": "1361910318797004805",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/EuZ6OB_VoAU0Mta.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuZ6OB_VoAU0Mta.jpg",
+						"url": "https://t.co/RklNDekMdw",
+						"display_url": "pic.twitter.com/RklNDekMdw",
+						"expanded_url": "https://twitter.com/BellTowerTimes/status/1361910326774562817/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 1122,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 497,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 877,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1361910318797004800,
+						"id_str": "1361910318797004805",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/EuZ6OB_VoAU0Mta.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuZ6OB_VoAU0Mta.jpg",
+						"url": "https://t.co/RklNDekMdw",
+						"display_url": "pic.twitter.com/RklNDekMdw",
+						"expanded_url": "https://twitter.com/BellTowerTimes/status/1361910326774562817/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 1122,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 497,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 877,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3004178958,
+				"id_str": "3004178958",
+				"name": "The Bell Tower Times",
+				"screen_name": "BellTowerTimes",
+				"location": "Perth",
+				"description": "Zesty news served fresh",
+				"url": "https://t.co/TWoqaCpo72",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TWoqaCpo72",
+								"expanded_url": "http://www.thebelltowertimes.com",
+								"display_url": "thebelltowertimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12232,
+				"friends_count": 861,
+				"listed_count": 33,
+				"created_at": "Sat Jan 31 02:59:21 +0000 2015",
+				"favourites_count": 12400,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17503,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1216554724477898752/G4uoNI8b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216554724477898752/G4uoNI8b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3004178958/1548118974",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0118c71c0ed41109",
+				"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+				"place_type": "city",
+				"name": "Perth (WA)",
+				"full_name": "Perth, Western Australia",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								115.617614368,
+								-32.675715325
+							],
+							[
+								116.239023008,
+								-32.675715325
+							],
+							[
+								116.239023008,
+								-31.6244855145
+							],
+							[
+								115.617614368,
+								-31.6244855145
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Of fuckin' course it's the Golden Triangle. Probably yoloing daddy's money. https://t.co/gsD4hZCExT"
+	},
+	{
 		"created_at": "Sun Feb 14 10:24:06 +0000 2021",
 		"id": 1360897596995215400,
 		"id_str": "1360897596995215361",
