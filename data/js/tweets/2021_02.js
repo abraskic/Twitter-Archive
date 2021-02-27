@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 27 12:20:29 +0000 2021",
+		"id": 1365637928131514400,
+		"id_str": "1365637928131514370",
+		"full_text": "Counterpoint: @Qantas could offer me 50 FF points for proof of vaccination and I’d accept. https://t.co/sFBTiT2tD8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Qantas",
+					"name": "Qantas",
+					"id": 218730857,
+					"id_str": "218730857",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sFBTiT2tD8",
+					"expanded_url": "https://twitter.com/auspatriot_/status/1365456286880391168",
+					"display_url": "twitter.com/auspatriot_/st…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Banksia Grove, Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who you think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 241,
+			"friends_count": 68,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1365456286880391200,
+		"quoted_status_id_str": "1365456286880391168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sFBTiT2tD8",
+			"expanded": "https://twitter.com/auspatriot_/status/1365456286880391168",
+			"display": "twitter.com/auspatriot_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 27 00:18:42 +0000 2021",
+			"id": 1365456286880391200,
+			"id_str": "1365456286880391168",
+			"full_text": "Even if @Qantas decide to reverse this in the future, I will NEVER fly with them again. I cancelled my Frequant flyer account them months ago. I will not support a business that supports the deep state. #BoycottQantas #CancelQantas https://t.co/XpLvQvIBi4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				231
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BoycottQantas",
+						"indices": [
+							203,
+							217
+						]
+					},
+					{
+						"text": "CancelQantas",
+						"indices": [
+							218,
+							231
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Qantas",
+						"name": "Qantas",
+						"id": 218730857,
+						"id_str": "218730857",
+						"indices": [
+							8,
+							15
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1365456278793777200,
+						"id_str": "1365456278793777152",
+						"indices": [
+							232,
+							255
+						],
+						"media_url": "http://pbs.twimg.com/media/EvMTQEXUcAARJhO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvMTQEXUcAARJhO.jpg",
+						"url": "https://t.co/XpLvQvIBi4",
+						"display_url": "pic.twitter.com/XpLvQvIBi4",
+						"expanded_url": "https://twitter.com/AusPatriot_/status/1365456286880391168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 798,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 798,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 502,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1365456278793777200,
+						"id_str": "1365456278793777152",
+						"indices": [
+							232,
+							255
+						],
+						"media_url": "http://pbs.twimg.com/media/EvMTQEXUcAARJhO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvMTQEXUcAARJhO.jpg",
+						"url": "https://t.co/XpLvQvIBi4",
+						"display_url": "pic.twitter.com/XpLvQvIBi4",
+						"expanded_url": "https://twitter.com/AusPatriot_/status/1365456286880391168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 798,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 798,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 502,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1243744912723439600,
+				"id_str": "1243744912723439616",
+				"name": "🇦🇺AusPatriot🇦🇺",
+				"screen_name": "AusPatriot_",
+				"location": "Gods Universe ",
+				"description": "Ephesians 6:10-18 #SoldierOfChrist ✝️ WHEN TYRANNY BECOMES LAW, REBELLION BECOMES DUTY ⚖️Proudly followed by @GoJackFlynn and many other great Patriots 🙏",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3534,
+				"friends_count": 2974,
+				"listed_count": 6,
+				"created_at": "Sat Mar 28 03:41:23 +0000 2020",
+				"favourites_count": 9704,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4031,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1335420999643217922/lLw25fhh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335420999643217922/lLw25fhh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1243744912723439616/1610859621",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 165,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Counterpoint: @Qantas could offer me 50 FF points for proof of vaccination and I’d accept. https://t.co/sFBTiT2tD8"
+	},
+	{
 		"created_at": "Wed Feb 24 12:37:09 +0000 2021",
 		"id": 1364554960961110000,
 		"id_str": "1364554960961110016",
