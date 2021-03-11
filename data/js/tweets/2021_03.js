@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 11 11:55:05 +0000 2021",
+		"id": 1369477106783187000,
+		"id_str": "1369980192744075266",
+		"full_text": "Every McDonald’s should have a flag they fly at half mast when the ice cream machine is broken",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 319746584,
+			"id_str": "319746584",
+			"name": "Shakira",
+			"screen_name": "jodecicry",
+			"location": "",
+			"description": "Post Production Manager @fieldofvision. They/them.",
+			"url": "https://t.co/0jKSebWn4J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0jKSebWn4J",
+							"expanded_url": "http://shakiraevans.com",
+							"display_url": "shakiraevans.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20695,
+			"friends_count": 494,
+			"listed_count": 157,
+			"created_at": "Sat Jun 18 17:23:21 +0000 2011",
+			"favourites_count": 102861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "070719",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334301355364773888/116A6T8g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334301355364773888/116A6T8g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/319746584/1608177271",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33235,
+		"favorite_count": 317542,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Every McDonald’s should have a flag they fly at half mast when the ice cream machine is broken"
+	},
+	{
 		"created_at": "Wed Mar 10 11:09:04 +0000 2021",
 		"id": 1369606221938847700,
 		"id_str": "1369606221938847745",
