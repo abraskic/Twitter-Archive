@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 19 09:04:46 +0000 2021",
+		"id": 1383992543910584300,
+		"id_str": "1384070457565925394",
+		"full_text": "Why don't more students cycle to school? https://t.co/Mz1u4gZTvH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1383992469293961200,
+					"id_str": "1383992469293961216",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1383992469293961216/pu/img/L_8pzsVjX7eXpMlI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1383992469293961216/pu/img/L_8pzsVjX7eXpMlI.jpg",
+					"url": "https://t.co/Mz1u4gZTvH",
+					"display_url": "pic.twitter.com/Mz1u4gZTvH",
+					"expanded_url": "https://twitter.com/liveable_melb/status/1383992543910584324/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1383992469293961200,
+					"id_str": "1383992469293961216",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1383992469293961216/pu/img/L_8pzsVjX7eXpMlI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1383992469293961216/pu/img/L_8pzsVjX7eXpMlI.jpg",
+					"url": "https://t.co/Mz1u4gZTvH",
+					"display_url": "pic.twitter.com/Mz1u4gZTvH",
+					"expanded_url": "https://twitter.com/liveable_melb/status/1383992543910584324/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23457,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1383992469293961216/pu/vid/640x360/pzRMaIAX-cZBsmAR.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1383992469293961216/pu/vid/480x270/winNgql6s3pB0-dP.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1383992469293961216/pu/pl/aaj7n1NemN2cBWUx.m3u8?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1383992469293961216/pu/vid/1280x720/ekrtmYP2C-OqXprJ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21973392,
+			"id_str": "21973392",
+			"name": "Liveable Melbourne",
+			"screen_name": "liveable_melb",
+			"location": "Melbourne, Victoria",
+			"description": "Melbournian for a more liveable city. Better transportation options. Bicycle, e-scooter, PT, walk. Prioritise streets & public space for people and living.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 612,
+			"friends_count": 174,
+			"listed_count": 4,
+			"created_at": "Thu Feb 26 04:59:25 +0000 2009",
+			"favourites_count": 3548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194493523946426368/XooA_FcB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194493523946426368/XooA_FcB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21973392/1532956482",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 293,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why don't more students cycle to school? https://t.co/Mz1u4gZTvH"
+	},
+	{
 		"created_at": "Mon Apr 19 02:37:59 +0000 2021",
 		"id": 1383973121393238000,
 		"id_str": "1383973121393238024",
