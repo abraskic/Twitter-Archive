@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 21 13:01:49 +0000 2021",
+		"id": 1384854889529028600,
+		"id_str": "1384854889529028609",
+		"full_text": "Shut the borders. Short sharp lockdown. Also what is COVID-19? https://t.co/7LpfmKHkAb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7LpfmKHkAb",
+					"expanded_url": "https://twitter.com/watoday/status/1384816983967879170",
+					"display_url": "twitter.com/watoday/status…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 68,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3301,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1384816983967879200,
+		"quoted_status_id_str": "1384816983967879170",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7LpfmKHkAb",
+			"expanded": "https://twitter.com/watoday/status/1384816983967879170",
+			"display": "twitter.com/watoday/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 21 10:31:12 +0000 2021",
+			"id": 1384816983967879200,
+			"id_str": "1384816983967879170",
+			"full_text": "#BREAKING Guests contract COVID-19 in Perth hotel quarantine as virus seems to seep between doors #perthnews #wanews https://t.co/5o0jHxKVtV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BREAKING",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "perthnews",
+						"indices": [
+							98,
+							108
+						]
+					},
+					{
+						"text": "wanews",
+						"indices": [
+							109,
+							116
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5o0jHxKVtV",
+						"expanded_url": "https://www.watoday.com.au/national/western-australia/guests-contract-covid-19-in-perth-hotel-quarantine-as-virus-seems-to-seep-between-doors-20210421-p57lai.html",
+						"display_url": "watoday.com.au/national/weste…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15339488,
+				"id_str": "15339488",
+				"name": "WAtoday",
+				"screen_name": "WAtoday",
+				"location": "Perth",
+				"description": "WA's best online news provider",
+				"url": "https://t.co/fsN03O5GCz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fsN03O5GCz",
+								"expanded_url": "http://www.watoday.com.au",
+								"display_url": "watoday.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 113440,
+				"friends_count": 591,
+				"listed_count": 753,
+				"created_at": "Mon Jul 07 06:33:36 +0000 2008",
+				"favourites_count": 20,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 57116,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/993437562382372865/Fe22Jb5L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/993437562382372865/Fe22Jb5L_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shut the borders. Short sharp lockdown. Also what is COVID-19? https://t.co/7LpfmKHkAb"
+	},
+	{
 		"created_at": "Tue Apr 20 08:48:22 +0000 2021",
 		"id": 1384428719930892300,
 		"id_str": "1384428719930892288",
