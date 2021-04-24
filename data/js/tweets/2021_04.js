@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sat Apr 24 08:06:38 +0000 2021",
+		"id": 1385867767262322700,
+		"id_str": "1385867767262322690",
+		"full_text": "Transmission within a restaurant setting now confirmed. If you were at any of the below you need to self quarantine for 14 days. #COVID19 https://t.co/vkfgefIaso https://t.co/dvT8eQap0K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						129,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vkfgefIaso",
+					"expanded_url": "https://twitter.com/wahealth/status/1385857718389403648",
+					"display_url": "twitter.com/wahealth/statu…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1385867758814994400,
+					"id_str": "1385867758814994435",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EzuXYk3VoAMW6o8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzuXYk3VoAMW6o8.jpg",
+					"url": "https://t.co/dvT8eQap0K",
+					"display_url": "pic.twitter.com/dvT8eQap0K",
+					"expanded_url": "https://twitter.com/braskic/status/1385867767262322690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1385867758814994400,
+					"id_str": "1385867758814994435",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EzuXYk3VoAMW6o8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzuXYk3VoAMW6o8.jpg",
+					"url": "https://t.co/dvT8eQap0K",
+					"display_url": "pic.twitter.com/dvT8eQap0K",
+					"expanded_url": "https://twitter.com/braskic/status/1385867767262322690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 68,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1385857718389403600,
+		"quoted_status_id_str": "1385857718389403648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vkfgefIaso",
+			"expanded": "https://twitter.com/wahealth/status/1385857718389403648",
+			"display": "twitter.com/wahealth/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 24 07:26:42 +0000 2021",
+			"id": 1385857718389403600,
+			"id_str": "1385857718389403648",
+			"full_text": "Media statement: New community case confirmed – get tested if you have been to a listed location or are symptomatic https://t.co/s9xMjNKr9u",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				139
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/s9xMjNKr9u",
+						"expanded_url": "https://bit.ly/3aBjIgu",
+						"display_url": "bit.ly/3aBjIgu",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 106918444,
+				"id_str": "106918444",
+				"name": "WA Health",
+				"screen_name": "WAHealth",
+				"location": "Western Australia",
+				"description": "Twitter account for the Department of Health, Western Australia. Follow us for updates, news and links. View social media terms of use https://t.co/00DWaDIwLa",
+				"url": "http://t.co/M99C6SlGSB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/M99C6SlGSB",
+								"expanded_url": "http://www.health.wa.gov.au",
+								"display_url": "health.wa.gov.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/00DWaDIwLa",
+								"expanded_url": "https://bit.ly/366HlvY",
+								"display_url": "bit.ly/366HlvY",
+								"indices": [
+									135,
+									158
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12106,
+				"friends_count": 401,
+				"listed_count": 219,
+				"created_at": "Thu Jan 21 02:24:56 +0000 2010",
+				"favourites_count": 255,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3801,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1008880018800324608/ol9M05gt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008880018800324608/ol9M05gt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/106918444/1432621685",
+				"profile_link_color": "005B38",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Transmission within a restaurant setting now confirmed. If you were at any of the below you need to self quarantine for 14 days. #COVID19 https://t.co/vkfgefIaso https://t.co/dvT8eQap0K"
+	},
+	{
 		"created_at": "Sat Apr 24 05:54:44 +0000 2021",
 		"id": 1385834573666287600,
 		"id_str": "1385834573666287618",
