@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 02 22:58:34 +0000 2021",
+		"id": 1388925005312921600,
+		"id_str": "1388991333935714307",
+		"full_text": "Jesus it only took them a year to accept this painfully obvious fact https://t.co/RVsBGyjp4I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RVsBGyjp4I",
+					"expanded_url": "https://twitter.com/JOHNJOHNSTONED/status/1388865542702911495",
+					"display_url": "twitter.com/JOHNJOHNSTONED…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2770511,
+			"id_str": "2770511",
+			"name": "Devar",
+			"screen_name": "Devar",
+			"location": "Perth, Australia",
+			"description": "paymail: devar@moneybutton.com\nhandcash: $devar\n\nbeep/bop/boop",
+			"url": "https://t.co/DFBt2EwkXE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DFBt2EwkXE",
+							"expanded_url": "https://twet.ch/inv/devar",
+							"display_url": "twet.ch/inv/devar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1171,
+			"friends_count": 710,
+			"listed_count": 65,
+			"created_at": "Thu Mar 29 02:31:13 +0000 2007",
+			"favourites_count": 8366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000040",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226184746729787393/K2K9VYjr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226184746729787393/K2K9VYjr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2770511/1578473234",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFDB77",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1388865542702911500,
+		"quoted_status_id_str": "1388865542702911495",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RVsBGyjp4I",
+			"expanded": "https://twitter.com/JOHNJOHNSTONED/status/1388865542702911495",
+			"display": "twitter.com/JOHNJOHNSTONED…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 02 14:38:43 +0000 2021",
+			"id": 1388865542702911500,
+			"id_str": "1388865542702911495",
+			"full_text": "BREAKING🔥🔥🔥\n\nMajor breakthrough in the acceptance of the new understanding of respiratory virus transmission of profound significance for the world.\n\n@WHO has effectively proclaimed #COVIDisAirborne \n14 months into a deadly global pandemic\n\n1/2.\n\nhttps://t.co/FwMgb6hxvm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVIDisAirborne",
+						"indices": [
+							182,
+							198
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WHO",
+						"name": "World Health Organization (WHO)",
+						"id": 14499829,
+						"id_str": "14499829",
+						"indices": [
+							150,
+							154
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FwMgb6hxvm",
+						"expanded_url": "https://www.who.int/news-room/q-a-detail/coronavirus-disease-covid-19-how-is-it-transmitted",
+						"display_url": "who.int/news-room/q-a-…",
+						"indices": [
+							247,
+							270
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 159034401,
+				"id_str": "159034401",
+				"name": "John Johnston",
+				"screen_name": "JOHNJOHNSTONED",
+				"location": "Melbourne",
+				"description": "Emergency physician",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 556,
+				"friends_count": 1155,
+				"listed_count": 14,
+				"created_at": "Thu Jun 24 08:09:15 +0000 2010",
+				"favourites_count": 8856,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2394,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1908631001/IMG_1452_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1908631001/IMG_1452_normal.JPG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/159034401/1600480940",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1092,
+			"favorite_count": 2011,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jesus it only took them a year to accept this painfully obvious fact https://t.co/RVsBGyjp4I"
+	},
+	{
 		"created_at": "Sun May 02 04:43:54 +0000 2021",
 		"id": 1388715849498853400,
 		"id_str": "1388715849498853376",
