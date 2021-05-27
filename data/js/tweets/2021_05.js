@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 27 04:53:01 +0000 2021",
+		"id": 1397777840322408400,
+		"id_str": "1397777840322408450",
+		"full_text": "AFL-21 is now airborne 👀 https://t.co/ccyVATurJM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ccyVATurJM",
+					"expanded_url": "https://twitter.com/foxfooty/status/1397741516240482306",
+					"display_url": "twitter.com/foxfooty/statu…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1397741516240482300,
+		"quoted_status_id_str": "1397741516240482306",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ccyVATurJM",
+			"expanded": "https://twitter.com/foxfooty/status/1397741516240482306",
+			"display": "twitter.com/foxfooty/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 27 02:28:40 +0000 2021",
+			"id": 1397741516240482300,
+			"id_str": "1397741516240482306",
+			"full_text": "The AFL blockbuster between Melbourne and the Western Bulldogs is up in the air.\n\nDETAILS &gt; https://t.co/asN59WjKAJ https://t.co/vAyWwFfTz9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/asN59WjKAJ",
+						"expanded_url": "https://bit.ly/3fNqDFo",
+						"display_url": "bit.ly/3fNqDFo",
+						"indices": [
+							95,
+							118
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1397741111997722600,
+						"id_str": "1397741111997722629",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/E2XGIsSVcAUCfDD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2XGIsSVcAUCfDD.jpg",
+						"url": "https://t.co/vAyWwFfTz9",
+						"display_url": "pic.twitter.com/vAyWwFfTz9",
+						"expanded_url": "https://twitter.com/FOXFOOTY/status/1397741516240482306/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1366,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1397741111997722600,
+						"id_str": "1397741111997722629",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/E2XGIsSVcAUCfDD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2XGIsSVcAUCfDD.jpg",
+						"url": "https://t.co/vAyWwFfTz9",
+						"display_url": "pic.twitter.com/vAyWwFfTz9",
+						"expanded_url": "https://twitter.com/FOXFOOTY/status/1397741516240482306/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1366,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 378451680,
+				"id_str": "378451680",
+				"name": "Fox Footy",
+				"screen_name": "FOXFOOTY",
+				"location": "Australia",
+				"description": "Everything AFL. Experience FOX FOOTY\n📺 #FoxFooty 504\n📱Visit Website👇",
+				"url": "https://t.co/RUx5VvYVh0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RUx5VvYVh0",
+								"expanded_url": "https://www.foxsports.com.au/afl",
+								"display_url": "foxsports.com.au/afl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 151518,
+				"friends_count": 3803,
+				"listed_count": 511,
+				"created_at": "Fri Sep 23 07:00:54 +0000 2011",
+				"favourites_count": 798,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40489,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/759905188199084032/mMM3Rr0w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/759905188199084032/mMM3Rr0w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/378451680/1597625625",
+				"profile_link_color": "DE0D18",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "AFL-21 is now airborne 👀 https://t.co/ccyVATurJM"
+	},
+	{
 		"created_at": "Thu May 27 01:41:48 +0000 2021",
 		"id": 1397729720486174700,
 		"id_str": "1397729720486174722",
