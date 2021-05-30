@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 30 10:10:21 +0000 2021",
+		"id": 1398944865539428400,
+		"id_str": "1398944865539428355",
+		"full_text": "Bet it would blow this lady’s mind to learn how to take a photo from the lock screen. https://t.co/e5pHYxISPK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e5pHYxISPK",
+					"expanded_url": "https://twitter.com/7afl/status/1398901761545408513",
+					"display_url": "twitter.com/7afl/status/13…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 70,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1398901761545408500,
+		"quoted_status_id_str": "1398901761545408513",
+		"quoted_status_permalink": {
+			"url": "https://t.co/e5pHYxISPK",
+			"expanded": "https://twitter.com/7afl/status/1398901761545408513",
+			"display": "twitter.com/7afl/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 30 07:19:04 +0000 2021",
+			"id": 1398901761545408500,
+			"id_str": "1398901761545408513",
+			"full_text": "She had to take a pic with the footy before giving it back 😂 https://t.co/8hMyEgrysr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1398901422511431700,
+						"id_str": "1398901422511431685",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1398901422511431685/img/VvoKb9QMTkTU7F0m.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1398901422511431685/img/VvoKb9QMTkTU7F0m.jpg",
+						"url": "https://t.co/8hMyEgrysr",
+						"display_url": "pic.twitter.com/8hMyEgrysr",
+						"expanded_url": "https://twitter.com/7AFL/status/1398901761545408513/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1398901422511431700,
+						"id_str": "1398901422511431685",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1398901422511431685/img/VvoKb9QMTkTU7F0m.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1398901422511431685/img/VvoKb9QMTkTU7F0m.jpg",
+						"url": "https://t.co/8hMyEgrysr",
+						"display_url": "pic.twitter.com/8hMyEgrysr",
+						"expanded_url": "https://twitter.com/7AFL/status/1398901761545408513/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 18394,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1398901422511431685/pl/Z_nBchkpPxDiYIGS.m3u8?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1398901422511431685/vid/1280x720/zrjcyem_q5FQdXds.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1398901422511431685/vid/480x270/XR45HlLBU6YdcJha.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1398901422511431685/vid/640x360/6nN8BsrGfc01XMtU.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1250120150,
+				"id_str": "1250120150",
+				"name": "7AFL",
+				"screen_name": "7AFL",
+				"location": "Your Premiership Network",
+				"description": "Your home of footy.",
+				"url": "https://t.co/gvKl5laznZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gvKl5laznZ",
+								"expanded_url": "http://facebook.com/7afl",
+								"display_url": "facebook.com/7afl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 77143,
+				"friends_count": 5087,
+				"listed_count": 273,
+				"created_at": "Thu Mar 07 21:48:35 +0000 2013",
+				"favourites_count": 15391,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 51088,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1294207266413920257/MAMKaf1N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1294207266413920257/MAMKaf1N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1250120150/1617230613",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 324,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bet it would blow this lady’s mind to learn how to take a photo from the lock screen. https://t.co/e5pHYxISPK"
+	},
+	{
 		"created_at": "Sat May 29 11:24:47 +0000 2021",
 		"id": 1398487292688232400,
 		"id_str": "1398601207417950209",
