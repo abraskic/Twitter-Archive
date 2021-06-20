@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 20 06:58:56 +0000 2021",
+		"id": 1406506839764705300,
+		"id_str": "1406506839764705282",
+		"full_text": "Oh yeah that’s right, we had social distancing limits. I forget because everyone just does whatever the fuck they want anyway. https://t.co/8p7yRwYK2m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8p7yRwYK2m",
+					"expanded_url": "https://twitter.com/markmcgowanmp/status/1406483036296732676",
+					"display_url": "twitter.com/markmcgowanmp/…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 70,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1406483036296732700,
+		"quoted_status_id_str": "1406483036296732676",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8p7yRwYK2m",
+			"expanded": "https://twitter.com/markmcgowanmp/status/1406483036296732676",
+			"display": "twitter.com/markmcgowanmp/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 20 05:24:21 +0000 2021",
+			"id": 1406483036296732700,
+			"id_str": "1406483036296732676",
+			"full_text": "Big news today for thousands of WA venues: this Wednesday, WA will proceed to Phase 5 of eased restrictions, and remove all COVID-related capacity limits. https://t.co/EdyT1o3jk1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1406483031129354200,
+						"id_str": "1406483031129354247",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/E4TU3W0UcAckDVB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4TU3W0UcAckDVB.jpg",
+						"url": "https://t.co/EdyT1o3jk1",
+						"display_url": "pic.twitter.com/EdyT1o3jk1",
+						"expanded_url": "https://twitter.com/MarkMcGowanMP/status/1406483036296732676/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 645,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 949,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 949,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1406483031129354200,
+						"id_str": "1406483031129354247",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/E4TU3W0UcAckDVB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4TU3W0UcAckDVB.jpg",
+						"url": "https://t.co/EdyT1o3jk1",
+						"display_url": "pic.twitter.com/EdyT1o3jk1",
+						"expanded_url": "https://twitter.com/MarkMcGowanMP/status/1406483036296732676/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 645,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 949,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 949,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 430452224,
+				"id_str": "430452224",
+				"name": "Mark McGowan",
+				"screen_name": "MarkMcGowanMP",
+				"location": "Rockingham, Perth (WA)",
+				"description": "Dad to Samuel, Alexander and Amelia. Husband to Sarah. WA Premier. Rockingham local.\n\nAuthorised by T Picton, 3/22 Eastbrook Tce, East Perth 6004.",
+				"url": "https://t.co/TkucoFZEgx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TkucoFZEgx",
+								"expanded_url": "http://www.markmcgowan.com.au",
+								"display_url": "markmcgowan.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 67079,
+				"friends_count": 634,
+				"listed_count": 337,
+				"created_at": "Wed Dec 07 05:42:53 +0000 2011",
+				"favourites_count": 512,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6856,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "913434",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1376431626566082569/c9TnEGUB_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1376431626566082569/c9TnEGUB_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/430452224/1611912561",
+				"profile_link_color": "BF311B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 76,
+			"favorite_count": 296,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh yeah that’s right, we had social distancing limits. I forget because everyone just does whatever the fuck they want anyway. https://t.co/8p7yRwYK2m"
+	},
+	{
 		"created_at": "Fri Jun 18 02:26:29 +0000 2021",
 		"id": 1405713499301441500,
 		"id_str": "1405713499301441542",
