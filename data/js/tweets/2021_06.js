@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 23 12:17:27 +0000 2021",
+		"id": 1407674157920256000,
+		"id_str": "1407674157920256001",
+		"full_text": "At some point we will open the borders again, everyone who chooses not to be vaccinated can just play out their own lockdown charade alone at home. https://t.co/01xwmF6oW3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/01xwmF6oW3",
+					"expanded_url": "https://twitter.com/tuppaware/status/1407330904603869189",
+					"display_url": "twitter.com/tuppaware/stat…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 70,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1407330904603869200,
+		"quoted_status_id_str": "1407330904603869189",
+		"quoted_status_permalink": {
+			"url": "https://t.co/01xwmF6oW3",
+			"expanded": "https://twitter.com/tuppaware/status/1407330904603869189",
+			"display": "twitter.com/tuppaware/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 22 13:33:29 +0000 2021",
+			"id": 1407330904603869200,
+			"id_str": "1407330904603869189",
+			"full_text": "Maybe we should simply tax people who refuse to get the vaccine more to cover the cost of their burden on the medical system https://t.co/dIBaLX0yfE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dIBaLX0yfE",
+						"expanded_url": "https://www.abc.net.au/news/2021-06-22/vaccine-survey-reveals-22-per-cent-hesitancy/100235266",
+						"display_url": "abc.net.au/news/2021-06-2…",
+						"indices": [
+							125,
+							148
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23563938,
+				"id_str": "23563938",
+				"name": "Adam WareHouse for Fashion",
+				"screen_name": "tuppaware",
+				"location": "Brisbane, Queensland",
+				"description": "Music Tech, Aviation, Travel, iOS Development & Fine Gentlemen. Creator of @infinite_storm and maker of YouTube videos.🏳️‍🌈",
+				"url": "https://t.co/kghlS2GnrZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kghlS2GnrZ",
+								"expanded_url": "https://linktr.ee/adamware",
+								"display_url": "linktr.ee/adamware",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2617,
+				"friends_count": 378,
+				"listed_count": 43,
+				"created_at": "Tue Mar 10 06:15:54 +0000 2009",
+				"favourites_count": 41225,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 36926,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1401882810420322306/bROOc4r7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401882810420322306/bROOc4r7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23563938/1621638786",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At some point we will open the borders again, everyone who chooses not to be vaccinated can just play out their own lockdown charade alone at home. https://t.co/01xwmF6oW3"
+	},
+	{
 		"created_at": "Tue Jun 22 06:56:22 +0000 2021",
 		"id": 1407230967178162200,
 		"id_str": "1407230967178162178",
