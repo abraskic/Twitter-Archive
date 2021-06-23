@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 23 13:16:07 +0000 2021",
+		"id": 1407475736068432000,
+		"id_str": "1407688921111089152",
+		"full_text": "This makes me very uncomfortable https://t.co/4LW5JVWzqz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1407475732238983200,
+					"id_str": "1407475732238983168",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/E4hbuKoWYAAA9qa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4hbuKoWYAAA9qa.jpg",
+					"url": "https://t.co/4LW5JVWzqz",
+					"display_url": "pic.twitter.com/4LW5JVWzqz",
+					"expanded_url": "https://twitter.com/nosilverv/status/1407475736068431876/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 565,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 623,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407475732238983200,
+					"id_str": "1407475732238983168",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/E4hbuKoWYAAA9qa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4hbuKoWYAAA9qa.jpg",
+					"url": "https://t.co/4LW5JVWzqz",
+					"display_url": "pic.twitter.com/4LW5JVWzqz",
+					"expanded_url": "https://twitter.com/nosilverv/status/1407475736068431876/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 565,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 623,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1163743742764998700,
+			"id_str": "1163743742764998658",
+			"name": "RIVALIST",
+			"screen_name": "nosilverv",
+			"location": "",
+			"description": "Cryptodadaist. Tweets for the benefit of all sentient beings. Building @thlpr in between tweets.",
+			"url": "https://t.co/lG1aBq1ccI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lG1aBq1ccI",
+							"expanded_url": "http://rivalvoices.substack.com",
+							"display_url": "rivalvoices.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5780,
+			"friends_count": 698,
+			"listed_count": 105,
+			"created_at": "Tue Aug 20 09:25:26 +0000 2019",
+			"favourites_count": 68946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391680355103563776/oaycp1qI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391680355103563776/oaycp1qI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1163743742764998658/1620637429",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 230,
+		"favorite_count": 1242,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This makes me very uncomfortable https://t.co/4LW5JVWzqz"
+	},
+	{
 		"created_at": "Wed Jun 23 12:17:27 +0000 2021",
 		"id": 1407674157920256000,
 		"id_str": "1407674157920256001",
@@ -164,7 +339,7 @@ Grailbird.data.tweets_2021_06 =
 				"name": "Adam WareHouse for Fashion",
 				"screen_name": "tuppaware",
 				"location": "Brisbane, Queensland",
-				"description": "Music Tech, Aviation, Travel, iOS Development & Fine Gentlemen. Creator of @infinite_storm and maker of YouTube videos.🏳️‍🌈",
+				"description": "Music Tech, Aviation, Travel, iOS Development & Fine Gentlemen. Creator of @infinite_storm and maker of YouTube videos.🏳️🌈",
 				"url": "https://t.co/kghlS2GnrZ",
 				"entities": {
 					"url": {
