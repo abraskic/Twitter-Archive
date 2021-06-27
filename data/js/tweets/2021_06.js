@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 27 09:33:15 +0000 2021",
+		"id": 1409028890316529700,
+		"id_str": "1409082388013981696",
+		"full_text": "https://t.co/HVVse8TewC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409028885153386500,
+					"id_str": "1409028885153386500",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E43gTkHVEAQaPEP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E43gTkHVEAQaPEP.jpg",
+					"url": "https://t.co/HVVse8TewC",
+					"display_url": "pic.twitter.com/HVVse8TewC",
+					"expanded_url": "https://twitter.com/fictillius/status/1409028890316529671/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 601,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 808,
+							"h": 601,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409028885153386500,
+					"id_str": "1409028885153386500",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E43gTkHVEAQaPEP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E43gTkHVEAQaPEP.jpg",
+					"url": "https://t.co/HVVse8TewC",
+					"display_url": "pic.twitter.com/HVVse8TewC",
+					"expanded_url": "https://twitter.com/fictillius/status/1409028890316529671/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 601,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 808,
+							"h": 601,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7050962,
+			"id_str": "7050962",
+			"name": "Evan",
+			"screen_name": "fictillius",
+			"location": "Sydney, Australia",
+			"description": "1b COVID-19 Jab 1 AZ💉. Paid troll. Rent seeking green leftie. Right wing nut. Green, Labor & Liberal stooge all rolled into one",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4245,
+			"friends_count": 4654,
+			"listed_count": 185,
+			"created_at": "Sun Jun 24 13:50:14 +0000 2007",
+			"favourites_count": 42728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 107523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396619525471162368/JOfb3S5E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396619525471162368/JOfb3S5E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7050962/1582254056",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0073b76548e5984f",
+			"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+			"place_type": "city",
+			"name": "Sydney",
+			"full_name": "Sydney, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							150.520928608,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-33.578140996
+						],
+						[
+							150.520928608,
+							-33.578140996
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/HVVse8TewC"
+	},
+	{
 		"created_at": "Sun Jun 27 09:26:25 +0000 2021",
 		"id": 1409080667552370700,
 		"id_str": "1409080667552370690",
