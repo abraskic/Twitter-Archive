@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 19 06:53:56 +0000 2021",
+		"id": 1416963649680285700,
+		"id_str": "1417014828703502336",
+		"full_text": "https://t.co/CuXtbbGlG2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1416963642822586400,
+					"id_str": "1416963642822586369",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E6oQ7P4VcAES1bI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6oQ7P4VcAES1bI.jpg",
+					"url": "https://t.co/CuXtbbGlG2",
+					"display_url": "pic.twitter.com/CuXtbbGlG2",
+					"expanded_url": "https://twitter.com/DannyjClayton/status/1416963649680285699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 966,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1416963642822586400,
+					"id_str": "1416963642822586369",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E6oQ7P4VcAES1bI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6oQ7P4VcAES1bI.jpg",
+					"url": "https://t.co/CuXtbbGlG2",
+					"display_url": "pic.twitter.com/CuXtbbGlG2",
+					"expanded_url": "https://twitter.com/DannyjClayton/status/1416963649680285699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 966,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20229531,
+			"id_str": "20229531",
+			"name": "Danny Clayton",
+			"screen_name": "DannyjClayton",
+			"location": "Sydney, Australia",
+			"description": "TV & Radio Host. Loves to DJ and MC events. Channel V, Hey Hey It's Saturday. Host of BUILD!  Please don’t watch this: https://t.co/TroHGqJus5",
+			"url": "https://t.co/T4VVkLYsAX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T4VVkLYsAX",
+							"expanded_url": "http://www.instagram.com/DannyClayton",
+							"display_url": "instagram.com/DannyClayton",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TroHGqJus5",
+							"expanded_url": "https://vimeo.com/205205499",
+							"display_url": "vimeo.com/205205499",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12726,
+			"friends_count": 1135,
+			"listed_count": 132,
+			"created_at": "Fri Feb 06 11:02:11 +0000 2009",
+			"favourites_count": 4265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440155140/DannyjClayton_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440155140/DannyjClayton_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20229531/1439966685",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 439,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/CuXtbbGlG2"
+	},
+	{
 		"created_at": "Mon Jul 19 01:00:29 +0000 2021",
 		"id": 1416908823487414300,
 		"id_str": "1416925877447757830",
