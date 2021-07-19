@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 19 01:00:29 +0000 2021",
+		"id": 1416908823487414300,
+		"id_str": "1416925877447757830",
+		"full_text": "This is all we know. https://t.co/KBUzZdYv9N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1416908772664955000,
+					"id_str": "1416908772664954884",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1416908772664954884/pu/img/hL3i396583eX81KG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1416908772664954884/pu/img/hL3i396583eX81KG.jpg",
+					"url": "https://t.co/KBUzZdYv9N",
+					"display_url": "pic.twitter.com/KBUzZdYv9N",
+					"expanded_url": "https://twitter.com/callapilla/status/1416908823487414274/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1416908772664955000,
+					"id_str": "1416908772664954884",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1416908772664954884/pu/img/hL3i396583eX81KG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1416908772664954884/pu/img/hL3i396583eX81KG.jpg",
+					"url": "https://t.co/KBUzZdYv9N",
+					"display_url": "pic.twitter.com/KBUzZdYv9N",
+					"expanded_url": "https://twitter.com/callapilla/status/1416908823487414274/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 14587,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1416908772664954884/pu/vid/480x852/xEE8215pY_P1WXMD.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1416908772664954884/pu/vid/320x568/L3spN8vUEL85OILI.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1416908772664954884/pu/pl/NkUYNP-h3St3v6oZ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1416908772664954884/pu/vid/576x1024/b-ltr_uGUYs1CaiU.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34465477,
+			"id_str": "34465477",
+			"name": "Calla Wahlquist",
+			"screen_name": "callapilla",
+			"location": "Melbourne, Victoria",
+			"description": "Melbourne chief of staff @guardianaus. Co-creator #DeathsInside. Justice, animal welfare, looking outside the city. ✉️ DMs; calla.wahlquist@theguardian.com",
+			"url": "https://t.co/w5bBLlQzFW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w5bBLlQzFW",
+							"expanded_url": "http://www.theguardian.com/au",
+							"display_url": "theguardian.com/au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20214,
+			"friends_count": 2350,
+			"listed_count": 371,
+			"created_at": "Thu Apr 23 00:42:43 +0000 2009",
+			"favourites_count": 63851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "302C5B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179268688098119681/eDlH-1Vs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179268688098119681/eDlH-1Vs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34465477/1541288172",
+			"profile_link_color": "3C6C84",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 256,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is all we know. https://t.co/KBUzZdYv9N"
+	},
+	{
 		"created_at": "Sun Jul 18 05:20:24 +0000 2021",
 		"id": 1416628903217561600,
 		"id_str": "1416628903217561601",
