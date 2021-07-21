@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 21 02:10:17 +0000 2021",
+		"id": 1417668218995368000,
+		"id_str": "1417668218995367942",
+		"full_text": "What the actual fuck? https://t.co/hW51k8hGLc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hW51k8hGLc",
+					"expanded_url": "https://twitter.com/carlzha/status/1417576537868554241",
+					"display_url": "twitter.com/carlzha/status…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 69,
+			"listed_count": 0,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1417576537868554200,
+		"quoted_status_id_str": "1417576537868554241",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hW51k8hGLc",
+			"expanded": "https://twitter.com/carlzha/status/1417576537868554241",
+			"display": "twitter.com/carlzha/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 20 20:05:58 +0000 2021",
+			"id": 1417576537868554200,
+			"id_str": "1417576537868554241",
+			"full_text": "Chinese people get NYC subway  experience:\n\nFlooding in Zhengzhou Metro aft 532.6 mm (~20.9 inches) of rain in 24 hr yesterday https://t.co/SULwPJeih2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				126
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1417576510584627200,
+						"id_str": "1417576510584627200",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1417576510584627200/pu/img/a0WX0AewmrMLmDRz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1417576510584627200/pu/img/a0WX0AewmrMLmDRz.jpg",
+						"url": "https://t.co/SULwPJeih2",
+						"display_url": "pic.twitter.com/SULwPJeih2",
+						"expanded_url": "https://twitter.com/CarlZha/status/1417576537868554241/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 288,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 288,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 288,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1417576510584627200,
+						"id_str": "1417576510584627200",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1417576510584627200/pu/img/a0WX0AewmrMLmDRz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1417576510584627200/pu/img/a0WX0AewmrMLmDRz.jpg",
+						"url": "https://t.co/SULwPJeih2",
+						"display_url": "pic.twitter.com/SULwPJeih2",
+						"expanded_url": "https://twitter.com/CarlZha/status/1417576537868554241/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 288,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 288,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 288,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								20
+							],
+							"duration_millis": 9934,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1417576510584627200/pu/pl/KesOBzfoVj7SOtIp.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1417576510584627200/pu/vid/288x640/nbWFY3VOdf4q4CZr.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65172298,
+				"id_str": "65172298",
+				"name": "Carl Zha",
+				"screen_name": "CarlZha",
+				"location": "",
+				"description": "\"A Chinese influence op\" according to former NYT journo Howard French. I run a podcast about China and Silk Road: history, culture and politics @SteelSilkn",
+				"url": "https://t.co/IMsjy5m5Qp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IMsjy5m5Qp",
+								"expanded_url": "https://www.patreon.com/silknsteel",
+								"display_url": "patreon.com/silknsteel",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 67654,
+				"friends_count": 668,
+				"listed_count": 649,
+				"created_at": "Wed Aug 12 21:47:47 +0000 2009",
+				"favourites_count": 69122,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 54880,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1317753108794023939/CW5wFr5T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317753108794023939/CW5wFr5T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65172298/1595093699",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 122,
+			"favorite_count": 630,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "What the actual fuck? https://t.co/hW51k8hGLc"
+	},
+	{
+		"created_at": "Wed Jul 21 02:07:59 +0000 2021",
+		"id": 1417667642702188500,
+		"id_str": "1417667642702188547",
+		"full_text": "If she went to Lakeside Joondalup instead we’d probably still be in lockdown. Lol.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1417667640307323000,
+		"in_reply_to_status_id_str": "1417667640307322881",
+		"in_reply_to_user_id": 14866613,
+		"in_reply_to_user_id_str": "14866613",
+		"in_reply_to_screen_name": "braskic",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 69,
+			"listed_count": 0,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1d973ac401e666f6",
+			"url": "https://api.twitter.com/1.1/geo/id/1d973ac401e666f6.json",
+			"place_type": "neighborhood",
+			"name": "Clarkson",
+			"full_name": "Clarkson, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.71191316,
+							-31.70247696
+						],
+						[
+							115.74059688,
+							-31.70247696
+						],
+						[
+							115.74059688,
+							-31.67016903
+						],
+						[
+							115.71191316,
+							-31.67016903
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "If she went to Lakeside Joondalup instead we’d probably still be in lockdown. Lol."
+	},
+	{
+		"created_at": "Wed Jul 21 02:07:59 +0000 2021",
+		"id": 1417667640307323000,
+		"id_str": "1417667640307322881",
+		"full_text": "The only reason why Perth’s Mindarie cluster was contained so quickly is because case 1023 went to Ocean Keys. What a sad sad excuse for a shopping centre.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 69,
+			"listed_count": 0,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1d973ac401e666f6",
+			"url": "https://api.twitter.com/1.1/geo/id/1d973ac401e666f6.json",
+			"place_type": "neighborhood",
+			"name": "Clarkson",
+			"full_name": "Clarkson, Perth (WA)",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.71191316,
+							-31.70247696
+						],
+						[
+							115.74059688,
+							-31.70247696
+						],
+						[
+							115.74059688,
+							-31.67016903
+						],
+						[
+							115.71191316,
+							-31.67016903
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The only reason why Perth’s Mindarie cluster was contained so quickly is because case 1023 went to Ocean Keys. What a sad sad excuse for a shopping centre."
+	},
+	{
 		"created_at": "Mon Jul 19 06:53:56 +0000 2021",
 		"id": 1416963649680285700,
 		"id_str": "1417014828703502336",
