@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 26 11:20:50 +0000 2021",
+		"id": 1419594194633429000,
+		"id_str": "1419618709711122438",
+		"full_text": "10 deaths from 2000+ COVID cases in NSW so far.\n6 deaths from AZ out of 6 million doses across Australia.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 290609784,
+			"id_str": "290609784",
+			"name": "Dr Vyom Sharma (ethnic mum)",
+			"screen_name": "drvyom",
+			"location": "Melbourne, Australia",
+			"description": "On Covid frontline. GP in Melbourne. Broadcaster: Radiotherapy, RRR FM, Writs & Cures ABC Melbourne.",
+			"url": "https://t.co/4xKeV265h6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4xKeV265h6",
+							"expanded_url": "https://www.vyomsharma.com.au",
+							"display_url": "vyomsharma.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23077,
+			"friends_count": 846,
+			"listed_count": 193,
+			"created_at": "Sat Apr 30 15:40:38 +0000 2011",
+			"favourites_count": 64033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139543786453778433/I3ucLc-m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139543786453778433/I3ucLc-m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/290609784/1513688385",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 799,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "10 deaths from 2000+ COVID cases in NSW so far.\n6 deaths from AZ out of 6 million doses across Australia."
+	},
+	{
 		"created_at": "Fri Jul 23 12:28:25 +0000 2021",
 		"id": 1418548552825852000,
 		"id_str": "1418548552825851904",
