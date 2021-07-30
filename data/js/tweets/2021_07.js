@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 30 03:04:35 +0000 2021",
+		"id": 1420914758765613000,
+		"id_str": "1420943376275230723",
+		"full_text": "This made me laugh https://t.co/FD0L0eulaE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1420914718793863200,
+					"id_str": "1420914718793863172",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1420914718793863172/pu/img/XtOM8o_AdeFxwqJt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1420914718793863172/pu/img/XtOM8o_AdeFxwqJt.jpg",
+					"url": "https://t.co/FD0L0eulaE",
+					"display_url": "pic.twitter.com/FD0L0eulaE",
+					"expanded_url": "https://twitter.com/ben_hr/status/1420914758765613057/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 786,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 498,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 786,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1420914718793863200,
+					"id_str": "1420914718793863172",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1420914718793863172/pu/img/XtOM8o_AdeFxwqJt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1420914718793863172/pu/img/XtOM8o_AdeFxwqJt.jpg",
+					"url": "https://t.co/FD0L0eulaE",
+					"display_url": "pic.twitter.com/FD0L0eulaE",
+					"expanded_url": "https://twitter.com/ben_hr/status/1420914758765613057/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 786,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 498,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 786,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							131,
+							96
+						],
+						"duration_millis": 9400,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1420914718793863172/pu/vid/368x270/rdNP2lsaXPwwiJU1.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1420914718793863172/pu/vid/490x360/nZycnwothRunNdgE.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1420914718793863172/pu/vid/786x576/hVWjs-0iVeVXjzqJ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1420914718793863172/pu/pl/FwpDKhvvLxGNS8F7.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17753670,
+			"id_str": "17753670",
+			"name": "Ben Harris-Roxas",
+			"screen_name": "ben_hr",
+			"location": "Western Sydney",
+			"description": "Integrated care, inequalities and reimagining the future",
+			"url": "https://t.co/pkz3tJ359V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pkz3tJ359V",
+							"expanded_url": "http://unsw.to/ben_hr",
+							"display_url": "unsw.to/ben_hr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16707,
+			"friends_count": 9401,
+			"listed_count": 468,
+			"created_at": "Sun Nov 30 12:59:43 +0000 2008",
+			"favourites_count": 64179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1414377983121317893/Av9WXyDO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1414377983121317893/Av9WXyDO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17753670/1618441281",
+			"profile_link_color": "313C75",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2815e145bedaa920",
+			"url": "https://api.twitter.com/1.1/geo/id/2815e145bedaa920.json",
+			"place_type": "neighborhood",
+			"name": "Granville",
+			"full_name": "Granville, Sydney",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							150.99425388,
+							-33.84708903
+						],
+						[
+							151.02027288,
+							-33.84708903
+						],
+						[
+							151.02027288,
+							-33.824079
+						],
+						[
+							150.99425388,
+							-33.824079
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 157,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This made me laugh https://t.co/FD0L0eulaE"
+	},
+	{
 		"created_at": "Wed Jul 28 06:53:23 +0000 2021",
 		"id": 1420276180595269600,
 		"id_str": "1420276180595269633",
