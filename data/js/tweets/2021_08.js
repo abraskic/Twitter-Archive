@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 05 23:39:18 +0000 2021",
+		"id": 1423207155763617800,
+		"id_str": "1423428431430049793",
+		"full_text": "The last line of this poem was way too accurate. https://t.co/W8cz3pmeBX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423161629957521400,
+					"id_str": "1423161629957521413",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/E8AXGZsVkAEYgPm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8AXGZsVkAEYgPm.jpg",
+					"url": "https://t.co/W8cz3pmeBX",
+					"display_url": "pic.twitter.com/W8cz3pmeBX",
+					"expanded_url": "https://twitter.com/sammyjcomedian/status/1423207155763617807/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_user_id": 17456542,
+					"source_user_id_str": "17456542"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423161629957521400,
+					"id_str": "1423161629957521413",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/E8AXGZsVkAEYgPm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8AXGZsVkAEYgPm.jpg",
+					"url": "https://t.co/W8cz3pmeBX",
+					"display_url": "pic.twitter.com/W8cz3pmeBX",
+					"expanded_url": "https://twitter.com/sammyjcomedian/status/1423207155763617807/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_user_id": 17456542,
+					"source_user_id_str": "17456542",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 206200,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1423161629957521413/vid/540x540/WTc8J2EmfaO-pZ0m.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1423161629957521413/vid/720x720/cUY7HmkKs9t7D3Gm.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1423161629957521413/pl/b-HLK5IYh6DcuTUh.m3u8?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1423161629957521413/vid/320x320/I8FDOhdBbBLuy3bU.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "The Ballad of Locky D  | Sammy J (S4 Ep25)",
+						"description": "S.J. Paterson locks down a new verse.",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 17456542,
+							"id_str": "17456542",
+							"name": "abctv",
+							"screen_name": "ABCTV",
+							"location": "Australia",
+							"description": "Discover #Rosehaven, #MsRepresented, #WinTheWeekTV, #MadAsHell, #HardQuiz, #SammyJ & more. This is an official @ABCaustralia account.",
+							"url": "https://t.co/srdkv06Zgu",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/srdkv06Zgu",
+											"expanded_url": "https://iview.abc.net.au/",
+											"display_url": "iview.abc.net.au",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 193655,
+							"friends_count": 760,
+							"listed_count": 1236,
+							"created_at": "Tue Nov 18 02:21:30 +0000 2008",
+							"favourites_count": 36197,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 38315,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "383838",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1399293356270702593/ipTrxbaE_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399293356270702593/ipTrxbaE_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/17456542/1627974184",
+							"profile_link_color": "02ABCC",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "7AC3EE",
+							"profile_text_color": "3D1957",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 307310688,
+			"id_str": "307310688",
+			"name": "Sammy J",
+			"screen_name": "sammyjcomedian",
+			"location": "Australia",
+			"description": "Comedian. Writer. Composer. Nerd. Hosting breakfast on ABC Radio Melbourne. Weekly sketch every Thursday ABC TV.",
+			"url": "http://t.co/8iyDfouwK5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/8iyDfouwK5",
+							"expanded_url": "http://www.sammy-j.com",
+							"display_url": "sammy-j.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17598,
+			"friends_count": 1,
+			"listed_count": 87,
+			"created_at": "Sun May 29 12:03:45 +0000 2011",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172366019970494465/NM3U4SYY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172366019970494465/NM3U4SYY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/307310688/1626326019",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 511,
+		"favorite_count": 1505,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The last line of this poem was way too accurate. https://t.co/W8cz3pmeBX"
+	},
+	{
 		"created_at": "Wed Aug 04 11:20:57 +0000 2021",
 		"id": 1422880232353140700,
 		"id_str": "1422880232353140740",
