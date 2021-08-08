@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 08 12:07:18 +0000 2021",
+		"id": 1424341447210279000,
+		"id_str": "1424341447210278921",
+		"full_text": "Quote tweet with a pic of yourself at 22\n\nBack when “fun” came from silver bags https://t.co/celDmPc2GR https://t.co/KXN0ZaGpMN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/celDmPc2GR",
+					"expanded_url": "https://twitter.com/backtowinnipeg/status/1424316504145752065",
+					"display_url": "twitter.com/backtowinnipeg…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1424341441585680400,
+					"id_str": "1424341441585680391",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E8RG_qCVEAcL3mI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8RG_qCVEAcL3mI.jpg",
+					"url": "https://t.co/KXN0ZaGpMN",
+					"display_url": "pic.twitter.com/KXN0ZaGpMN",
+					"expanded_url": "https://twitter.com/braskic/status/1424341447210278921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 478,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 478,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 478,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424341441585680400,
+					"id_str": "1424341441585680391",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E8RG_qCVEAcL3mI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8RG_qCVEAcL3mI.jpg",
+					"url": "https://t.co/KXN0ZaGpMN",
+					"display_url": "pic.twitter.com/KXN0ZaGpMN",
+					"expanded_url": "https://twitter.com/braskic/status/1424341447210278921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 478,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 478,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 478,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 68,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1424316504145752000,
+		"quoted_status_id_str": "1424316504145752065",
+		"quoted_status_permalink": {
+			"url": "https://t.co/celDmPc2GR",
+			"expanded": "https://twitter.com/backtowinnipeg/status/1424316504145752065",
+			"display": "twitter.com/backtowinnipeg…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 08 10:28:11 +0000 2021",
+			"id": 1424316504145752000,
+			"id_str": "1424316504145752065",
+			"full_text": "Quote tweet with a pic of yourself at 22 \n\nThe least ~goffix~ I looked at any given time https://t.co/ZkgyRYfO98 https://t.co/VJKCcDsGHw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZkgyRYfO98",
+						"expanded_url": "https://twitter.com/bookwombat/status/1424313735863169030",
+						"display_url": "twitter.com/bookwombat/sta…",
+						"indices": [
+							89,
+							112
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1424316500043653000,
+						"id_str": "1424316500043653124",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/E8QwT3jUYAQdGNr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E8QwT3jUYAQdGNr.jpg",
+						"url": "https://t.co/VJKCcDsGHw",
+						"display_url": "pic.twitter.com/VJKCcDsGHw",
+						"expanded_url": "https://twitter.com/backtowinnipeg/status/1424316504145752065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1424316500043653000,
+						"id_str": "1424316500043653124",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/E8QwT3jUYAQdGNr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E8QwT3jUYAQdGNr.jpg",
+						"url": "https://t.co/VJKCcDsGHw",
+						"display_url": "pic.twitter.com/VJKCcDsGHw",
+						"expanded_url": "https://twitter.com/backtowinnipeg/status/1424316504145752065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23413689,
+				"id_str": "23413689",
+				"name": "Commander Shepardorple",
+				"screen_name": "backtowinnipeg",
+				"location": "Sydney, New South Wales",
+				"description": "Historian. Living that sweet wife life with @villanargh. 🥰 I like games and TV shows. A lot. All views my own. (she/her)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1125,
+				"friends_count": 1245,
+				"listed_count": 54,
+				"created_at": "Mon Mar 09 07:49:17 +0000 2009",
+				"favourites_count": 36173,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 121203,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "001400",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1385036311430516741/_8JAmMfs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1385036311430516741/_8JAmMfs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23413689/1535771375",
+				"profile_link_color": "003C00",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6428B",
+				"profile_text_color": "B77791",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1424313735863169000,
+			"quoted_status_id_str": "1424313735863169030",
+			"quoted_status_permalink": {
+				"url": "https://t.co/ZkgyRYfO98",
+				"expanded": "https://twitter.com/bookwombat/status/1424313735863169030",
+				"display": "twitter.com/bookwombat/sta…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Quote tweet with a pic of yourself at 22\n\nBack when “fun” came from silver bags https://t.co/celDmPc2GR https://t.co/KXN0ZaGpMN"
+	},
+	{
 		"created_at": "Fri Aug 06 04:56:14 +0000 2021",
 		"id": 1423508187580231700,
 		"id_str": "1423508187580231685",
