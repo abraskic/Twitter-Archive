@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 10:20:19 +0000 2021",
+		"id": 1427576014054379500,
+		"id_str": "1427576014054379522",
+		"full_text": "WA now literally the only place in the world not experiencing a Delta outbreak. Only a matter of time. #GetVaccinated https://t.co/JMfXQ8t21f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GetVaccinated",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JMfXQ8t21f",
+					"expanded_url": "https://twitter.com/newshubbreaking/status/1427459223546331141",
+					"display_url": "twitter.com/newshubbreakin…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 67,
+			"listed_count": 0,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1427459223546331100,
+		"quoted_status_id_str": "1427459223546331141",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JMfXQ8t21f",
+			"expanded": "https://twitter.com/newshubbreaking/status/1427459223546331141",
+			"display": "twitter.com/newshubbreakin…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 17 02:36:14 +0000 2021",
+			"id": 1427459223546331100,
+			"id_str": "1427459223546331141",
+			"full_text": "#BREAKING: One new case of COVID-19 in the community, health officials investigating https://t.co/xqkInoANKJ https://t.co/vWyLLoKEA0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BREAKING",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xqkInoANKJ",
+						"expanded_url": "https://bit.ly/3yYAnVC",
+						"display_url": "bit.ly/3yYAnVC",
+						"indices": [
+							85,
+							108
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1427459206001561600,
+						"id_str": "1427459206001561605",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/E89albkVkAU5YgJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E89albkVkAU5YgJ.jpg",
+						"url": "https://t.co/vWyLLoKEA0",
+						"display_url": "pic.twitter.com/vWyLLoKEA0",
+						"expanded_url": "https://twitter.com/NewshubBreaking/status/1427459223546331141/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 918,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 918,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 379,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1427459206001561600,
+						"id_str": "1427459206001561605",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/E89albkVkAU5YgJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E89albkVkAU5YgJ.jpg",
+						"url": "https://t.co/vWyLLoKEA0",
+						"display_url": "pic.twitter.com/vWyLLoKEA0",
+						"expanded_url": "https://twitter.com/NewshubBreaking/status/1427459223546331141/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 918,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 918,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 379,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18294703,
+				"id_str": "18294703",
+				"name": "Newshub Breaking",
+				"screen_name": "NewshubBreaking",
+				"location": "New Zealand",
+				"description": "Your breaking news now.",
+				"url": "https://t.co/BFZTt8JDnh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BFZTt8JDnh",
+								"expanded_url": "http://Newshub.co.nz",
+								"display_url": "Newshub.co.nz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 73140,
+				"friends_count": 90,
+				"listed_count": 601,
+				"created_at": "Sun Dec 21 22:51:35 +0000 2008",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 34067,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "133541",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/969418395182555136/ssvz_qTA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/969418395182555136/ssvz_qTA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18294703/1617772879",
+				"profile_link_color": "EE2D30",
+				"profile_sidebar_border_color": "A1B8C4",
+				"profile_sidebar_fill_color": "F2F6F8",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "WA now literally the only place in the world not experiencing a Delta outbreak. Only a matter of time. #GetVaccinated https://t.co/JMfXQ8t21f"
+	},
+	{
 		"created_at": "Sun Aug 15 06:51:17 +0000 2021",
 		"id": 1426747639710634000,
 		"id_str": "1426798631974178816",
