@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 24 12:50:58 +0000 2021",
+		"id": 1430124827101130800,
+		"id_str": "1430150642547318793",
+		"full_text": "nawww the caller weft me a widdle message https://t.co/jeVbvbkxYY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430124810693091300,
+					"id_str": "1430124810693091328",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/E9jS8C3VoAAnip-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9jS8C3VoAAnip-.jpg",
+					"url": "https://t.co/jeVbvbkxYY",
+					"display_url": "pic.twitter.com/jeVbvbkxYY",
+					"expanded_url": "https://twitter.com/ajmaus/status/1430124827101130756/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 909,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430124810693091300,
+					"id_str": "1430124810693091328",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/E9jS8C3VoAAnip-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9jS8C3VoAAnip-.jpg",
+					"url": "https://t.co/jeVbvbkxYY",
+					"display_url": "pic.twitter.com/jeVbvbkxYY",
+					"expanded_url": "https://twitter.com/ajmaus/status/1430124827101130756/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 909,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 467207238,
+			"id_str": "467207238",
+			"name": "Adam 🐭",
+			"screen_name": "ajmaus",
+			"location": "Brisbane, Australia",
+			"description": "Insert amusing opening quip, yada yada RE mad skillz, add self deprecating comment for balance, & end on a positive note. PS something about kittehs. 🇪🇪",
+			"url": "https://t.co/MpiDsnhKsP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MpiDsnhKsP",
+							"expanded_url": "https://aus.social/@ajmaus",
+							"display_url": "aus.social/@ajmaus",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 661,
+			"friends_count": 1593,
+			"listed_count": 22,
+			"created_at": "Wed Jan 18 07:00:29 +0000 2012",
+			"favourites_count": 18756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11781,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291535379619655682/AdGkKu_P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291535379619655682/AdGkKu_P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/467207238/1596761013",
+			"profile_link_color": "001E62",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "nawww the caller weft me a widdle message https://t.co/jeVbvbkxYY"
+	},
+	{
 		"created_at": "Tue Aug 24 09:38:59 +0000 2021",
 		"id": 1430049713038839800,
 		"id_str": "1430102328560873480",
