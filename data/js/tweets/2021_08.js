@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 26 10:45:02 +0000 2021",
+		"id": 1430714431197962200,
+		"id_str": "1430843723873615877",
+		"full_text": "i can’t believe the treat was that 5 vaccinated adults could legally bonk eachother in newtown cemetery",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 741058628958883800,
+			"id_str": "741058628958883841",
+			"name": "jessica",
+			"screen_name": "sademogirl69",
+			"location": "Sydney, New South Wales",
+			"description": "i stay wrecked and jealous for this",
+			"url": "https://t.co/BVovjUQKfw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BVovjUQKfw",
+							"expanded_url": "http://www.paypal.me/tootygirl",
+							"display_url": "paypal.me/tootygirl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1232,
+			"friends_count": 600,
+			"listed_count": 4,
+			"created_at": "Fri Jun 10 00:05:20 +0000 2016",
+			"favourites_count": 26795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631001641324544/dpWb6Kaf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631001641324544/dpWb6Kaf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/741058628958883841/1556518968",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "i can’t believe the treat was that 5 vaccinated adults could legally bonk eachother in newtown cemetery"
+	},
+	{
 		"created_at": "Thu Aug 26 08:14:05 +0000 2021",
 		"id": 1430805736133595100,
 		"id_str": "1430805736133595136",
@@ -232,7 +328,7 @@ Grailbird.data.tweets_2021_08 =
 				"name": "ivan zhao",
 				"screen_name": "zhaovan8",
 				"location": "Seattle, WA",
-				"description": "dreaming of pastries • thinking about corgis, cities, and cognition • making trouble @dormroomfund @reboot_hq • prev @blendlabsinc @askiggyapp • 🏳️‍🌈 he/him",
+				"description": "dreaming of pastries • thinking about corgis, cities, and cognition • making trouble @dormroomfund @reboot_hq • prev @blendlabsinc @askiggyapp • 🏳️🌈 he/him",
 				"url": "https://t.co/4j2yarA3La",
 				"entities": {
 					"url": {
