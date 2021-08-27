@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 27 08:49:04 +0000 2021",
+		"id": 1431176930439565300,
+		"id_str": "1431176930439565313",
+		"full_text": "Lockdown 5 lesss go! https://t.co/qkDPBnHWHc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qkDPBnHWHc",
+					"expanded_url": "https://twitter.com/nat_forrest/status/1431167558128836608",
+					"display_url": "twitter.com/nat_forrest/st…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 239,
+			"friends_count": 67,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1431167558128836600,
+		"quoted_status_id_str": "1431167558128836608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qkDPBnHWHc",
+			"expanded": "https://twitter.com/nat_forrest/status/1431167558128836608",
+			"display": "twitter.com/nat_forrest/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 27 08:11:50 +0000 2021",
+			"id": 1431167558128836600,
+			"id_str": "1431167558128836608",
+			"full_text": "BREAKING- 2 truck drivers in their 20’s who have come from NSW to WA have tested positive to covid #covid19wa @10NewsFirstPER @10NewsFirst https://t.co/fcQF4KyhRC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "covid19wa",
+						"indices": [
+							99,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "10NewsFirstPER",
+						"name": "10 News First Perth",
+						"id": 247175898,
+						"id_str": "247175898",
+						"indices": [
+							110,
+							125
+						]
+					},
+					{
+						"screen_name": "10NewsFirst",
+						"name": "10 News First",
+						"id": 25887412,
+						"id_str": "25887412",
+						"indices": [
+							126,
+							138
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1431167544153444400,
+						"id_str": "1431167544153444356",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/E9yHTHtVkAQU2Ka.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E9yHTHtVkAQU2Ka.jpg",
+						"url": "https://t.co/fcQF4KyhRC",
+						"display_url": "pic.twitter.com/fcQF4KyhRC",
+						"expanded_url": "https://twitter.com/nat_forrest/status/1431167558128836608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1431167544153444400,
+						"id_str": "1431167544153444356",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/E9yHTHtVkAQU2Ka.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E9yHTHtVkAQU2Ka.jpg",
+						"url": "https://t.co/fcQF4KyhRC",
+						"display_url": "pic.twitter.com/fcQF4KyhRC",
+						"expanded_url": "https://twitter.com/nat_forrest/status/1431167558128836608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 233417047,
+				"id_str": "233417047",
+				"name": "Natalie Forrest",
+				"screen_name": "nat_forrest",
+				"location": "Perth, Western Australia",
+				"description": "Journalist. TV Presenter. MC. Animal lover. @10NewsFirstPER Fmr 7News Canberra. | Insta: @natforrest | Views my own. naforrest@networkten.com.au",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5924,
+				"friends_count": 1098,
+				"listed_count": 0,
+				"created_at": "Mon Jan 03 05:00:21 +0000 2011",
+				"favourites_count": 17388,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21928,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/912433541161422848/sF3yQIGE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/912433541161422848/sF3yQIGE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/233417047/1453804574",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 57,
+			"favorite_count": 90,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Lockdown 5 lesss go! https://t.co/qkDPBnHWHc"
+	},
+	{
 		"created_at": "Fri Aug 27 01:38:26 +0000 2021",
 		"id": 1430483811649818600,
 		"id_str": "1431068556293066752",
