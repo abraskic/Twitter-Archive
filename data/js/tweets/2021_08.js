@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 27 01:38:26 +0000 2021",
+		"id": 1430483811649818600,
+		"id_str": "1431068556293066752",
+		"full_text": "I want to apologise in advance for the lockdown WA will enter early next week. No, I haven't been exposed to COVID. I just made social plans &amp; I never have social plans. This happened last time I tried to meet a couple of friends I never see for lunch. Apologies.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1053825484620890100,
+			"id_str": "1053825484620890112",
+			"name": "Kez @ Awesomely Unprepared",
+			"screen_name": "kezunprepared",
+			"location": "Australia",
+			"description": "Aussie. Mum. Feminist rants & awkward moments 👍🤩",
+			"url": "https://t.co/MHzboEOjpg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MHzboEOjpg",
+							"expanded_url": "http://awesomelyunprepared.com",
+							"display_url": "awesomelyunprepared.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32,
+			"friends_count": 165,
+			"listed_count": 0,
+			"created_at": "Sun Oct 21 01:49:09 +0000 2018",
+			"favourites_count": 9825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1379601348920926208/YN91KmlT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379601348920926208/YN91KmlT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1053825484620890112/1561695773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I want to apologise in advance for the lockdown WA will enter early next week. No, I haven't been exposed to COVID. I just made social plans &amp; I never have social plans. This happened last time I tried to meet a couple of friends I never see for lunch. Apologies."
+	},
+	{
 		"created_at": "Thu Aug 26 10:45:02 +0000 2021",
 		"id": 1430714431197962200,
 		"id_str": "1430843723873615877",
