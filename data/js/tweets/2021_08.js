@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 29 10:08:28 +0000 2021",
+		"id": 1430534321283141600,
+		"id_str": "1431921685402251264",
+		"full_text": "Delta CEO calling the delta variant by its formal name https://t.co/71UlTYKwBn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430534318380798000,
+					"id_str": "1430534318380797959",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/E9pHYh4X0Ac34Fd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9pHYh4X0Ac34Fd.jpg",
+					"url": "https://t.co/71UlTYKwBn",
+					"display_url": "pic.twitter.com/71UlTYKwBn",
+					"expanded_url": "https://twitter.com/hannahbsampson/status/1430534321283141634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 827,
+							"h": 550,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 827,
+							"h": 550,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430534318380798000,
+					"id_str": "1430534318380797959",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/E9pHYh4X0Ac34Fd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9pHYh4X0Ac34Fd.jpg",
+					"url": "https://t.co/71UlTYKwBn",
+					"display_url": "pic.twitter.com/71UlTYKwBn",
+					"expanded_url": "https://twitter.com/hannahbsampson/status/1430534321283141634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 827,
+							"h": 550,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 827,
+							"h": 550,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37131364,
+			"id_str": "37131364",
+			"name": "Hannah Sampson",
+			"screen_name": "hannahbsampson",
+			"location": "Washington, DC",
+			"description": "Washington Post staff writer. Past: @Skift, @MiamiHerald. Miami native seeking pastelitos. Ex-NYC. Fan of beaches, books and Broadway.",
+			"url": "https://t.co/K06LJrS13s",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K06LJrS13s",
+							"expanded_url": "http://www.bytheway.com",
+							"display_url": "bytheway.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6314,
+			"friends_count": 3059,
+			"listed_count": 224,
+			"created_at": "Sat May 02 03:39:58 +0000 2009",
+			"favourites_count": 44832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903814535349493760/2w2qHE07_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903814535349493760/2w2qHE07_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37131364/1552852646",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9970,
+		"favorite_count": 144066,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Delta CEO calling the delta variant by its formal name https://t.co/71UlTYKwBn"
+	},
+	{
 		"created_at": "Sun Aug 29 06:02:31 +0000 2021",
 		"id": 1431859789475160000,
 		"id_str": "1431859789475160066",
