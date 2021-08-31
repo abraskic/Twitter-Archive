@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 31 05:59:35 +0000 2021",
+		"id": 1432276232901513200,
+		"id_str": "1432583827109531648",
+		"full_text": "My new favourite WFH problem. I don’t know why, it just gets funnier https://t.co/NiIX5osHh7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1432276054408712200,
+					"id_str": "1432276054408712192",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1432276054408712192/pu/img/vLYt9Na94wTbY_vW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1432276054408712192/pu/img/vLYt9Na94wTbY_vW.jpg",
+					"url": "https://t.co/NiIX5osHh7",
+					"display_url": "pic.twitter.com/NiIX5osHh7",
+					"expanded_url": "https://twitter.com/rosevalentee/status/1432276232901513217/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432276054408712200,
+					"id_str": "1432276054408712192",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1432276054408712192/pu/img/vLYt9Na94wTbY_vW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1432276054408712192/pu/img/vLYt9Na94wTbY_vW.jpg",
+					"url": "https://t.co/NiIX5osHh7",
+					"display_url": "pic.twitter.com/NiIX5osHh7",
+					"expanded_url": "https://twitter.com/rosevalentee/status/1432276232901513217/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 40323,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1432276054408712192/pu/pl/_kacAQLmLCjuMlds.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1432276054408712192/pu/vid/480x852/6mRfRrwy_qezmuUK.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1432276054408712192/pu/vid/320x568/CjvEBp0KNZeqtGEz.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1432276054408712192/pu/vid/576x1024/AH9iIZVXmiaeIzH8.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3820573813,
+			"id_str": "3820573813",
+			"name": "rose",
+			"screen_name": "rosevalentee",
+			"location": "Sydney, New South Wales",
+			"description": "Mother hen of @LadiesALeague & @ReserveTeamAU / every action and decision I make in life is in spite of @MichelleAMorris",
+			"url": "https://t.co/LbaqzYF0Pp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LbaqzYF0Pp",
+							"expanded_url": "http://theladiesleague.com",
+							"display_url": "theladiesleague.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1148,
+			"friends_count": 570,
+			"listed_count": 9,
+			"created_at": "Thu Oct 08 02:13:18 +0000 2015",
+			"favourites_count": 26288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "91D2FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1392494776348418048/zQJ70tVe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1392494776348418048/zQJ70tVe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3820573813/1591609930",
+			"profile_link_color": "F45382",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4654,
+		"favorite_count": 20040,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My new favourite WFH problem. I don’t know why, it just gets funnier https://t.co/NiIX5osHh7"
+	},
+	{
 		"created_at": "Tue Aug 31 04:26:34 +0000 2021",
 		"id": 1432560418325553200,
 		"id_str": "1432560418325553153",
