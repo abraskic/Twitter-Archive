@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 04 01:46:01 +0000 2021",
+		"id": 1433969569819807700,
+		"id_str": "1433969569819807744",
+		"full_text": "Pandemic theatre. Using disinfectant to keep us “safe” from an airborne virus. https://t.co/cfhqxR2T4y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cfhqxR2T4y",
+					"expanded_url": "https://twitter.com/abcsport/status/1433908937863176197",
+					"display_url": "twitter.com/abcsport/statu…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 239,
+			"friends_count": 66,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1433908937863176200,
+		"quoted_status_id_str": "1433908937863176197",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cfhqxR2T4y",
+			"expanded": "https://twitter.com/abcsport/status/1433908937863176197",
+			"display": "twitter.com/abcsport/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 03 21:45:06 +0000 2021",
+			"id": 1433908937863176200,
+			"id_str": "1433908937863176197",
+			"full_text": "Caption this. 👇\n\n😷🧴 They're taking no chances in WA after the @AFL semi final last night. 🏟️\n\n📰 Full sport coverage: https://t.co/zpe7Lr2wzY\n📩 Subscribe to our newsletter: https://t.co/RmJWFmU9l3\n#AFL #AFLFinals #AFLCatsGiants #GeelongStrong https://t.co/CLrDmgiySG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				241
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AFL",
+						"indices": [
+							196,
+							200
+						]
+					},
+					{
+						"text": "AFLFinals",
+						"indices": [
+							201,
+							211
+						]
+					},
+					{
+						"text": "AFLCatsGiants",
+						"indices": [
+							212,
+							226
+						]
+					},
+					{
+						"text": "GeelongStrong",
+						"indices": [
+							227,
+							241
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AFL",
+						"name": "AFL",
+						"id": 16319888,
+						"id_str": "16319888",
+						"indices": [
+							62,
+							66
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zpe7Lr2wzY",
+						"expanded_url": "https://ab.co/3n1qseP",
+						"display_url": "ab.co/3n1qseP",
+						"indices": [
+							117,
+							140
+						]
+					},
+					{
+						"url": "https://t.co/RmJWFmU9l3",
+						"expanded_url": "https://ab.co/3mXR40l",
+						"display_url": "ab.co/3mXR40l",
+						"indices": [
+							172,
+							195
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1433908933383573500,
+						"id_str": "1433908933383573510",
+						"indices": [
+							242,
+							265
+						],
+						"media_url": "http://pbs.twimg.com/media/E-ZEk-aWUAYIS_-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-ZEk-aWUAYIS_-.jpg",
+						"url": "https://t.co/CLrDmgiySG",
+						"display_url": "pic.twitter.com/CLrDmgiySG",
+						"expanded_url": "https://twitter.com/abcsport/status/1433908937863176197/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1433908933383573500,
+						"id_str": "1433908933383573510",
+						"indices": [
+							242,
+							265
+						],
+						"media_url": "http://pbs.twimg.com/media/E-ZEk-aWUAYIS_-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-ZEk-aWUAYIS_-.jpg",
+						"url": "https://t.co/CLrDmgiySG",
+						"display_url": "pic.twitter.com/CLrDmgiySG",
+						"expanded_url": "https://twitter.com/abcsport/status/1433908937863176197/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.spredfast.com/\" rel=\"nofollow\">Khoros Publishing</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17331252,
+				"id_str": "17331252",
+				"name": "ABC SPORT",
+				"screen_name": "abcsport",
+				"location": "Australia",
+				"description": "Sign up to our newsletter: https://t.co/iwNKF5Sgi9",
+				"url": "https://t.co/J2BpNGrA5X",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J2BpNGrA5X",
+								"expanded_url": "http://www.abc.net.au/sport/",
+								"display_url": "abc.net.au/sport/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iwNKF5Sgi9",
+								"expanded_url": "https://bit.ly/ABCSPORTnewsletter",
+								"display_url": "bit.ly/ABCSPORTnewsle…",
+								"indices": [
+									27,
+									50
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 148142,
+				"friends_count": 1525,
+				"listed_count": 1476,
+				"created_at": "Wed Nov 12 04:17:19 +0000 2008",
+				"favourites_count": 4032,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 147318,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CEDCE3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1323037181288407041/V78UNO3o_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323037181288407041/V78UNO3o_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17331252/1629765979",
+				"profile_link_color": "6ABAE6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "081F2B",
+				"profile_text_color": "007488",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Pandemic theatre. Using disinfectant to keep us “safe” from an airborne virus. https://t.co/cfhqxR2T4y"
+	},
+	{
 		"created_at": "Thu Sep 02 05:11:05 +0000 2021",
 		"id": 1052544518896009200,
 		"id_str": "1433296396812128260",
@@ -214,7 +591,7 @@ Grailbird.data.tweets_2021_09 =
 			"name": "Nick Smith",
 			"screen_name": "smithni",
 			"location": "sydney, australia",
-			"description": "working on https://t.co/sFq0SZSM6G. he/him. 🏳️‍🌈",
+			"description": "working on https://t.co/sFq0SZSM6G. he/him. 🏳️🌈",
 			"url": "https://t.co/UZHhHwsxbw",
 			"entities": {
 				"url": {
