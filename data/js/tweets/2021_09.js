@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 06 04:47:43 +0000 2021",
+		"id": 1434197529214783500,
+		"id_str": "1434740071962275842",
+		"full_text": "Timeline cleanser https://t.co/2rijcixv5S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434197486168641500,
+					"id_str": "1434197486168641544",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1434197486168641544/pu/img/Xb-q-T9EUUXoU1u1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1434197486168641544/pu/img/Xb-q-T9EUUXoU1u1.jpg",
+					"url": "https://t.co/2rijcixv5S",
+					"display_url": "pic.twitter.com/2rijcixv5S",
+					"expanded_url": "https://twitter.com/histoftech/status/1434197529214783491/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434197486168641500,
+					"id_str": "1434197486168641544",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1434197486168641544/pu/img/Xb-q-T9EUUXoU1u1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1434197486168641544/pu/img/Xb-q-T9EUUXoU1u1.jpg",
+					"url": "https://t.co/2rijcixv5S",
+					"display_url": "pic.twitter.com/2rijcixv5S",
+					"expanded_url": "https://twitter.com/histoftech/status/1434197529214783491/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 34781,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1434197486168641544/pu/vid/320x568/ir-miEYlMxABv7C6.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1434197486168641544/pu/pl/2CZ_WdrE_uENhiHy.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1434197486168641544/pu/vid/540x960/2eXph3RdX04p4qID.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1434197486168641544/pu/vid/480x852/FRpi399gymN3riWP.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 401773648,
+			"id_str": "401773648",
+			"name": "Mar Hicks",
+			"screen_name": "histoftech",
+			"location": "Chicago, IL",
+			"description": "On the way somewhere. They not she. Dad joking the pain away. Books so far: https://t.co/3R90FD2rRt",
+			"url": "https://t.co/C6BurKx9Lp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C6BurKx9Lp",
+							"expanded_url": "http://bit.ly/marhicksdotcom",
+							"display_url": "bit.ly/marhicksdotcom",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3R90FD2rRt",
+							"expanded_url": "https://mitpress.mit.edu/contributors/mar-hicks",
+							"display_url": "mitpress.mit.edu/contributors/m…",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34313,
+			"friends_count": 2159,
+			"listed_count": 806,
+			"created_at": "Mon Oct 31 02:11:48 +0000 2011",
+			"favourites_count": 175503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 81028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254297190912143361/4mW1u09Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254297190912143361/4mW1u09Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/401773648/1607078037",
+			"profile_link_color": "666666",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5181,
+		"favorite_count": 9594,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Timeline cleanser https://t.co/2rijcixv5S"
+	},
+	{
 		"created_at": "Sat Sep 04 01:46:01 +0000 2021",
 		"id": 1433969569819807700,
 		"id_str": "1433969569819807744",
