@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 08 10:33:55 +0000 2021",
+		"id": 1435488268028498000,
+		"id_str": "1435551969687465984",
+		"full_text": "https://t.co/zNMQQyueIe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435488259585417200,
+					"id_str": "1435488259585417219",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E-vg92_VIAMlHix.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-vg92_VIAMlHix.jpg",
+					"url": "https://t.co/zNMQQyueIe",
+					"display_url": "pic.twitter.com/zNMQQyueIe",
+					"expanded_url": "https://twitter.com/bastardsheep/status/1435488268028497921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 642,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435488259585417200,
+					"id_str": "1435488259585417219",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E-vg92_VIAMlHix.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-vg92_VIAMlHix.jpg",
+					"url": "https://t.co/zNMQQyueIe",
+					"display_url": "pic.twitter.com/zNMQQyueIe",
+					"expanded_url": "https://twitter.com/bastardsheep/status/1435488268028497921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 642,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16278101,
+			"id_str": "16278101",
+			"name": "Sheepie",
+			"screen_name": "bastardsheep",
+			"location": "Sydney, Australia.",
+			"description": "I do: 🥃🍷☕️🚲📸 I watch: 📽📺🎭 I follow: 🏉🏒🏍🚲",
+			"url": "https://t.co/GVVXdBHQ4u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GVVXdBHQ4u",
+							"expanded_url": "http://bastardsheep.com/",
+							"display_url": "bastardsheep.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1280,
+			"friends_count": 805,
+			"listed_count": 110,
+			"created_at": "Sun Sep 14 00:30:51 +0000 2008",
+			"favourites_count": 1223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 120349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434430502908227586/b9gPNPeb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434430502908227586/b9gPNPeb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16278101/1608930200",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/zNMQQyueIe"
+	},
+	{
 		"created_at": "Wed Sep 08 00:26:21 +0000 2021",
 		"id": 1435399069866750000,
 		"id_str": "1435399069866749954",
