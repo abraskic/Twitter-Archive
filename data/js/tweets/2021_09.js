@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 08 11:19:03 +0000 2021",
+		"id": 1435563326063267800,
+		"id_str": "1435563326063267842",
+		"full_text": "Guy Sebastian talks big for someone who was actually patient zero. https://t.co/Z7ElJTiqlc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z7ElJTiqlc",
+					"expanded_url": "https://twitter.com/braskic/status/1248445282469031937",
+					"display_url": "twitter.com/braskic/status…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 239,
+			"friends_count": 66,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248445282469032000,
+		"quoted_status_id_str": "1248445282469031937",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z7ElJTiqlc",
+			"expanded": "https://twitter.com/braskic/status/1248445282469031937",
+			"display": "twitter.com/braskic/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 10 02:58:44 +0000 2020",
+			"id": 1248445282469032000,
+			"id_str": "1248445282469031937",
+			"full_text": "If you believe the Internet today @GuySebastian was actually patient zero. Can’t believe the government has been hiding this all this time. https://t.co/5mAOeGP5q1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				139
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GuySebastian",
+						"name": "Guy Sebastian",
+						"id": 19437693,
+						"id_str": "19437693",
+						"indices": [
+							34,
+							47
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1248445271723266000,
+						"id_str": "1248445271723266056",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/EVNeXC6U0Ag8Lve.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVNeXC6U0Ag8Lve.jpg",
+						"url": "https://t.co/5mAOeGP5q1",
+						"display_url": "pic.twitter.com/5mAOeGP5q1",
+						"expanded_url": "https://twitter.com/braskic/status/1248445282469031937/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 674,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 749,
+								"h": 1333,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1248445271723266000,
+						"id_str": "1248445271723266056",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/EVNeXC6U0Ag8Lve.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVNeXC6U0Ag8Lve.jpg",
+						"url": "https://t.co/5mAOeGP5q1",
+						"display_url": "pic.twitter.com/5mAOeGP5q1",
+						"expanded_url": "https://twitter.com/braskic/status/1248445282469031937/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 674,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 749,
+								"h": 1333,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1248445271727411200,
+						"id_str": "1248445271727411202",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/EVNeXC7UEAIRMTJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVNeXC7UEAIRMTJ.jpg",
+						"url": "https://t.co/5mAOeGP5q1",
+						"display_url": "pic.twitter.com/5mAOeGP5q1",
+						"expanded_url": "https://twitter.com/braskic/status/1248445282469031937/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 560,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1509,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 988,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14866613,
+				"id_str": "14866613",
+				"name": "Andrew Braskic",
+				"screen_name": "braskic",
+				"location": "Perth, Western Australia",
+				"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 239,
+				"friends_count": 66,
+				"listed_count": 24,
+				"created_at": "Thu May 22 09:52:24 +0000 2008",
+				"favourites_count": 3411,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 76806,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0118c71c0ed41109",
+				"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+				"place_type": "city",
+				"name": "Perth (WA)",
+				"full_name": "Perth, Western Australia",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								115.617614368,
+								-32.675715325
+							],
+							[
+								116.239023008,
+								-32.675715325
+							],
+							[
+								116.239023008,
+								-31.6244855145
+							],
+							[
+								115.617614368,
+								-31.6244855145
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Guy Sebastian talks big for someone who was actually patient zero. https://t.co/Z7ElJTiqlc"
+	},
+	{
 		"created_at": "Wed Sep 08 10:33:55 +0000 2021",
 		"id": 1435488268028498000,
 		"id_str": "1435551969687465984",
