@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 15 09:52:16 +0000 2021",
+		"id": 1438078203684262000,
+		"id_str": "1438078203684261889",
+		"full_text": "People already lose their mind over one day shutdowns (Christmas, Good Friday, ANZAC Day etc) so this isn’t going to work. https://t.co/LZbjEYiN3d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LZbjEYiN3d",
+					"expanded_url": "https://twitter.com/theheraldsun/status/1438019770599677953",
+					"display_url": "twitter.com/theheraldsun/s…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 66,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1438019770599678000,
+		"quoted_status_id_str": "1438019770599677953",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LZbjEYiN3d",
+			"expanded": "https://twitter.com/theheraldsun/status/1438019770599677953",
+			"display": "twitter.com/theheraldsun/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 15 06:00:05 +0000 2021",
+			"id": 1438019770599678000,
+			"id_str": "1438019770599677953",
+			"full_text": "OPINION: Lockdowns are inevitable, even as vaccinations rise, so we should consider scheduling two-week shutdowns to keep cases low.  https://t.co/H1J9626U1s",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/H1J9626U1s",
+						"expanded_url": "https://bit.ly/3CeL1sq",
+						"display_url": "bit.ly/3CeL1sq",
+						"indices": [
+							134,
+							157
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialbakers.com/\" rel=\"nofollow\">Emplifi</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35466620,
+				"id_str": "35466620",
+				"name": "Herald Sun",
+				"screen_name": "theheraldsun",
+				"location": "Melbourne, Australia",
+				"description": "Join the conversation on all the news from Melbourne's Herald Sun. We're here too - Instagram https://t.co/tCEiybrFKi  LinkedIn https://t.co/5iklYuDex2",
+				"url": "http://t.co/LhVhBJqLWx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/LhVhBJqLWx",
+								"expanded_url": "http://www.heraldsun.com.au",
+								"display_url": "heraldsun.com.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tCEiybrFKi",
+								"expanded_url": "https://bit.ly/3pHpzFQ",
+								"display_url": "bit.ly/3pHpzFQ",
+								"indices": [
+									94,
+									117
+								]
+							},
+							{
+								"url": "https://t.co/5iklYuDex2",
+								"expanded_url": "https://bit.ly/3dvDUmv",
+								"display_url": "bit.ly/3dvDUmv",
+								"indices": [
+									128,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 334344,
+				"friends_count": 32020,
+				"listed_count": 2416,
+				"created_at": "Sun Apr 26 13:44:23 +0000 2009",
+				"favourites_count": 1401,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 309846,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1186409240899932161/USPNUfWm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186409240899932161/USPNUfWm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35466620/1629763856",
+				"profile_link_color": "2749C4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D5F5F5",
+				"profile_text_color": "232695",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "People already lose their mind over one day shutdowns (Christmas, Good Friday, ANZAC Day etc) so this isn’t going to work. https://t.co/LZbjEYiN3d"
+	},
+	{
 		"created_at": "Wed Sep 15 03:00:04 +0000 2021",
 		"id": 1437974467653746700,
 		"id_str": "1437974467653746688",
