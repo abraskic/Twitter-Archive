@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 15 03:00:04 +0000 2021",
+		"id": 1437974467653746700,
+		"id_str": "1437974467653746688",
+		"full_text": "All animals are equal but some animals are more equal than others https://t.co/HEmsUn897H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HEmsUn897H",
+					"expanded_url": "https://twitter.com/9newsperth/status/1437565971481366531",
+					"display_url": "twitter.com/9newsperth/sta…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 239,
+			"friends_count": 66,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1437565971481366500,
+		"quoted_status_id_str": "1437565971481366531",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HEmsUn897H",
+			"expanded": "https://twitter.com/9newsperth/status/1437565971481366531",
+			"display": "twitter.com/9newsperth/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 13 23:56:50 +0000 2021",
+			"id": 1437565971481366500,
+			"id_str": "1437565971481366531",
+			"full_text": "Vaccine passports will be introduced in Western Australia this summer, showing that people who choose not to be immunised will be stripped of certain freedoms. @HonJulieBishop #9News https://t.co/P7lnoMgHl2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "9News",
+						"indices": [
+							176,
+							182
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HonJulieBishop",
+						"name": "Julie Bishop",
+						"id": 89856037,
+						"id_str": "89856037",
+						"indices": [
+							160,
+							175
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1437565737019887600,
+						"id_str": "1437565737019887620",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/E_NChDxXEAUHl6h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_NChDxXEAUHl6h.jpg",
+						"url": "https://t.co/P7lnoMgHl2",
+						"display_url": "pic.twitter.com/P7lnoMgHl2",
+						"expanded_url": "https://twitter.com/9NewsPerth/status/1437565971481366531/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1437565737019887600,
+						"id_str": "1437565737019887620",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/E_NChDxXEAUHl6h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_NChDxXEAUHl6h.jpg",
+						"url": "https://t.co/P7lnoMgHl2",
+						"display_url": "pic.twitter.com/P7lnoMgHl2",
+						"expanded_url": "https://twitter.com/9NewsPerth/status/1437565971481366531/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 354800,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1437565737019887620/vid/640x360/nHYhB62cPw2jDUQI.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1437565737019887620/vid/1280x720/TCTTZQL2O1kyIte0.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1437565737019887620/vid/480x270/rxYkhPNKkor0x7lq.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1437565737019887620/pl/OyE-u0VS0LYIOsRS.m3u8?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "WA to introduce vaccine passports",
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47850843,
+				"id_str": "47850843",
+				"name": "9News Perth",
+				"screen_name": "9NewsPerth",
+				"location": "Perth, Western Australia",
+				"description": "Perth's 9News at 6.00pm. Community Guidelines: https://t.co/h3hABkSNCP",
+				"url": "http://t.co/UlUOKYF7To",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/UlUOKYF7To",
+								"expanded_url": "http://9News.com.au/Western-Australia",
+								"display_url": "9News.com.au/Western-Austra…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/h3hABkSNCP",
+								"expanded_url": "http://9jump.in/8oT7O4S",
+								"display_url": "9jump.in/8oT7O4S",
+								"indices": [
+									47,
+									70
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 90369,
+				"friends_count": 823,
+				"listed_count": 770,
+				"created_at": "Wed Jun 17 04:08:38 +0000 2009",
+				"favourites_count": 1968,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 72718,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1219146815536156673/qfABUfua_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219146815536156673/qfABUfua_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47850843/1620095390",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 155,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "All animals are equal but some animals are more equal than others https://t.co/HEmsUn897H"
+	},
+	{
 		"created_at": "Mon Sep 13 10:42:36 +0000 2021",
 		"id": 1437366093555720200,
 		"id_str": "1437366093555720193",
