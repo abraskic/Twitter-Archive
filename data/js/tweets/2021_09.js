@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 20 12:23:12 +0000 2021",
+		"id": 1439819503991361500,
+		"id_str": "1439928127145209857",
+		"full_text": "Have found significant peace accepting that the washing is not as a task that can ever be completed, but a Sisyphean activity akin to cleaning a 24hr Macdonald’s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28026149,
+			"id_str": "28026149",
+			"name": "Sally Rugg",
+			"screen_name": "sallyrugg",
+			"location": "She/her",
+			"description": "Activist💪Former: Exec Dir @change.org & Campaign Dir @Getup Author: How Powerful We Are @Hachetteaus CoHost: #OnTheJobPodcast @unionsaustralia Proud step-mum🌈",
+			"url": "https://t.co/RamECmqzRn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RamECmqzRn",
+							"expanded_url": "http://sallyrugg.com",
+							"display_url": "sallyrugg.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58147,
+			"friends_count": 4714,
+			"listed_count": 213,
+			"created_at": "Wed Apr 01 02:11:02 +0000 2009",
+			"favourites_count": 12415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325572887105789952/PLMBla7o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325572887105789952/PLMBla7o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28026149/1621557415",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 652,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Have found significant peace accepting that the washing is not as a task that can ever be completed, but a Sisyphean activity akin to cleaning a 24hr Macdonald’s"
+	},
+	{
 		"created_at": "Sun Sep 19 23:09:32 +0000 2021",
 		"id": 1439728395152085000,
 		"id_str": "1439728395152084992",
