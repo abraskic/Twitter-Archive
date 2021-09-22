@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 22 11:51:28 +0000 2021",
+		"id": 1440644915063492600,
+		"id_str": "1440644915063492622",
+		"full_text": "Lockdown and/or Grand Final superspreader event. There are no bad options. https://t.co/dMa10PTpIb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dMa10PTpIb",
+					"expanded_url": "https://twitter.com/7NewsPerth/status/1440565303981719562",
+					"display_url": "twitter.com/7NewsPerth/sta…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 67,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1440565303981719600,
+		"quoted_status_id_str": "1440565303981719562",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dMa10PTpIb",
+			"expanded": "https://twitter.com/7NewsPerth/status/1440565303981719562",
+			"display": "twitter.com/7NewsPerth/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 22 06:35:07 +0000 2021",
+			"id": 1440565303981719600,
+			"id_str": "1440565303981719562",
+			"full_text": "BREAKING: A truck driver from NSW who entered Western Australia has returned a positive COVID test ahead of the @AFL Grand Final. #7NEWS https://t.co/SaW5fIz3Vh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "7NEWS",
+						"indices": [
+							130,
+							136
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AFL",
+						"name": "AFL",
+						"id": 16319888,
+						"id_str": "16319888",
+						"indices": [
+							112,
+							116
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SaW5fIz3Vh",
+						"expanded_url": "https://7news.com.au/news/wa/nsw-truck-driver-tests-positive-to-covid-after-48-hours-in-western-australia-c-4037530",
+						"display_url": "7news.com.au/news/wa/nsw-tr…",
+						"indices": [
+							137,
+							160
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57248499,
+				"id_str": "57248499",
+				"name": "7NEWS Perth",
+				"screen_name": "7NewsPerth",
+				"location": "Perth, Western Australia",
+				"description": "First for news in Perth with Rick Ardon, Susannah Carr, @BasilZempilas, @samjolly7news, @AngelaTsun, @timdmcmillan & @adrianbarich | #7NEWS",
+				"url": "https://t.co/DU1c7lI1wg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DU1c7lI1wg",
+								"expanded_url": "http://www.7NEWS.com.au",
+								"display_url": "7NEWS.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 89819,
+				"friends_count": 1735,
+				"listed_count": 635,
+				"created_at": "Thu Jul 16 05:00:34 +0000 2009",
+				"favourites_count": 1162,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 70299,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1366584813377916928/h0nNpUVK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366584813377916928/h0nNpUVK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/57248499/1623192372",
+				"profile_link_color": "E30D1F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Lockdown and/or Grand Final superspreader event. There are no bad options. https://t.co/dMa10PTpIb"
+	},
+	{
 		"created_at": "Wed Sep 22 00:03:31 +0000 2021",
 		"id": 1440466755256610800,
 		"id_str": "1440466755256610822",
