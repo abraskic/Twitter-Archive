@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 27 12:33:25 +0000 2021",
+		"id": 1442467412033474600,
+		"id_str": "1442467412033474568",
+		"full_text": "Brisbane likely to go back into lockdown ruining the NRL GF. Good thing we have the iron-ore curtain keeping us safe in WA https://t.co/xM9FLb9UO2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xM9FLb9UO2",
+					"expanded_url": "https://twitter.com/scotty_mcdonald/status/1442453590270832645",
+					"display_url": "twitter.com/scotty_mcdonal…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 68,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1442453590270832600,
+		"quoted_status_id_str": "1442453590270832645",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xM9FLb9UO2",
+			"expanded": "https://twitter.com/scotty_mcdonald/status/1442453590270832645",
+			"display": "twitter.com/scotty_mcdonal…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 27 11:38:30 +0000 2021",
+			"id": 1442453590270832600,
+			"id_str": "1442453590270832645",
+			"full_text": "Queensland Health say they’re working to find the source of infection of a positive COVID-19 case in Brisbane’s northern suburbs. Understood to be an aviation worker in their 30s with no recent history of interstate and international travel.\n\nWill be reported in tomorrows numbers",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14558910,
+				"id_str": "14558910",
+				"name": "Scotty McDonald",
+				"screen_name": "Scotty_McDonald",
+				"location": "Brisbane, Qld",
+				"description": "Massive Brisbane fan boy. 👨‍🍼On paternity leave, but usually Social Media Producer & PM Chief of Staff @10newsfirstQLD.",
+				"url": "https://t.co/MhdOjGzwTq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MhdOjGzwTq",
+								"expanded_url": "https://scottymcdonald.com.au/hello",
+								"display_url": "scottymcdonald.com.au/hello",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1296,
+				"friends_count": 826,
+				"listed_count": 0,
+				"created_at": "Sun Apr 27 15:37:01 +0000 2008",
+				"favourites_count": 3754,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19559,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0C67A4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1287925611713851392/5AU34CIN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1287925611713851392/5AU34CIN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14558910/1605075568",
+				"profile_link_color": "005CD4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "0095FF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "004ec16c62325149",
+				"url": "https://api.twitter.com/1.1/geo/id/004ec16c62325149.json",
+				"place_type": "city",
+				"name": "Brisbane",
+				"full_name": "Brisbane, Queensland",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								152.668522848,
+								-27.767440994
+							],
+							[
+								153.31787024,
+								-27.767440994
+							],
+							[
+								153.31787024,
+								-26.996844991
+							],
+							[
+								152.668522848,
+								-26.996844991
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Brisbane likely to go back into lockdown ruining the NRL GF. Good thing we have the iron-ore curtain keeping us safe in WA https://t.co/xM9FLb9UO2"
+	},
+	{
 		"created_at": "Mon Sep 27 02:35:51 +0000 2021",
 		"id": 1442317028585398300,
 		"id_str": "1442317028585398274",
