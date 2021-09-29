@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 29 11:13:32 +0000 2021",
+		"id": 1443172083870011400,
+		"id_str": "1443172083870011393",
+		"full_text": "Coming soon to Perth, a gastro endemic. https://t.co/pVxfvtpm7S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pVxfvtpm7S",
+					"expanded_url": "https://twitter.com/10newsfirstper/status/1443142874506334209",
+					"display_url": "twitter.com/10newsfirstper…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 69,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1443142874506334200,
+		"quoted_status_id_str": "1443142874506334209",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pVxfvtpm7S",
+			"expanded": "https://twitter.com/10newsfirstper/status/1443142874506334209",
+			"display": "twitter.com/10newsfirstper…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 29 09:17:28 +0000 2021",
+			"id": 1443142874506334200,
+			"id_str": "1443142874506334209",
+			"full_text": "Taco Bell has opened their first Perth franchise and residents have not hesitated to get a taste of their famous Mexican food, with some camping overnight just to be some of the first in line | @StevenDThomas_ https://t.co/xXVU1XiyqF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "StevenDThomas_",
+						"name": "Steven Thomas",
+						"id": 924442103731535900,
+						"id_str": "924442103731535872",
+						"indices": [
+							194,
+							209
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1443142798354657300,
+						"id_str": "1443142798354657283",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/FAcSwqFWYAUHDUs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAcSwqFWYAUHDUs.jpg",
+						"url": "https://t.co/xXVU1XiyqF",
+						"display_url": "pic.twitter.com/xXVU1XiyqF",
+						"expanded_url": "https://twitter.com/10NewsFirstPER/status/1443142874506334209/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1443142798354657300,
+						"id_str": "1443142798354657283",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/FAcSwqFWYAUHDUs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAcSwqFWYAUHDUs.jpg",
+						"url": "https://t.co/xXVU1XiyqF",
+						"display_url": "pic.twitter.com/xXVU1XiyqF",
+						"expanded_url": "https://twitter.com/10NewsFirstPER/status/1443142874506334209/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 106360,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1443142798354657283/vid/480x270/9-47kHllZ13d3VB8.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1443142798354657283/vid/1280x720/yTXXg5-zjApi5EyE.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1443142798354657283/vid/640x360/COBo0qodGkmW5-HM.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1443142798354657283/pl/3PGVMQUbN6aLmVMw.m3u8?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Taco Bell Opens In Perth | 10 News First",
+							"description": "Taco Bell has opened their first Perth franchise and residents have not hesitated to get a taste of their famous Mexican food, with some camping overnight just to be some of the first in line. ",
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 247175898,
+				"id_str": "247175898",
+				"name": "10 News First Perth",
+				"screen_name": "10NewsFirstPER",
+				"location": "Perth",
+				"description": "The official Twitter page for 10 News First Perth. \nEMAIL: perthnews@networkten.com.au",
+				"url": "https://t.co/0Tiu8Navce",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0Tiu8Navce",
+								"expanded_url": "https://10play.com.au/news/perth",
+								"display_url": "10play.com.au/news/perth",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32214,
+				"friends_count": 540,
+				"listed_count": 339,
+				"created_at": "Fri Feb 04 07:21:11 +0000 2011",
+				"favourites_count": 1192,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 55143,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1382900118576189441/kojsGWT8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1382900118576189441/kojsGWT8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/247175898/1600061454",
+				"profile_link_color": "33CCFF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Coming soon to Perth, a gastro endemic. https://t.co/pVxfvtpm7S"
+	},
+	{
 		"created_at": "Tue Sep 28 12:12:06 +0000 2021",
 		"id": 1442824437485621200,
 		"id_str": "1442824437485621259",
