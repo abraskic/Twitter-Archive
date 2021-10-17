@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 17 00:11:21 +0000 2021",
+		"id": 1449528422389092400,
+		"id_str": "1449528422389092352",
+		"full_text": "Oof! How many days of this until Victoria overtakes NSW again? https://t.co/JaRZcT1ZlJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JaRZcT1ZlJ",
+					"expanded_url": "https://twitter.com/vicgovdh/status/1449495396741484548",
+					"display_url": "twitter.com/vicgovdh/statu…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perth, Western Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 70,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1449495396741484500,
+		"quoted_status_id_str": "1449495396741484548",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JaRZcT1ZlJ",
+			"expanded": "https://twitter.com/vicgovdh/status/1449495396741484548",
+			"display": "twitter.com/vicgovdh/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 16 22:00:07 +0000 2021",
+			"id": 1449495396741484500,
+			"id_str": "1449495396741484548",
+			"full_text": "Reported yesterday: 1,838 new local cases and 0 cases acquired overseas.\n- 38,977 vaccines administered    \n- 73,501 test results received \n- Sadly, 7 people with COVID-19 have died\n\nMore later: https://t.co/OCCFTAchah\n\n#COVID19Vic #COVID19VicData https://t.co/5Agn4U5kx2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19Vic",
+						"indices": [
+							220,
+							231
+						]
+					},
+					{
+						"text": "COVID19VicData",
+						"indices": [
+							232,
+							247
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OCCFTAchah",
+						"expanded_url": "https://coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data",
+						"display_url": "coronavirus.vic.gov.au/victorian-coro…",
+						"indices": [
+							195,
+							218
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1449495394807844900,
+						"id_str": "1449495394807844869",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/FB2kYb8WEAUI0Jh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FB2kYb8WEAUI0Jh.jpg",
+						"url": "https://t.co/5Agn4U5kx2",
+						"display_url": "pic.twitter.com/5Agn4U5kx2",
+						"expanded_url": "https://twitter.com/VicGovDH/status/1449495396741484548/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1449495394807844900,
+						"id_str": "1449495394807844869",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/FB2kYb8WEAUI0Jh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FB2kYb8WEAUI0Jh.jpg",
+						"url": "https://t.co/5Agn4U5kx2",
+						"display_url": "pic.twitter.com/5Agn4U5kx2",
+						"expanded_url": "https://twitter.com/VicGovDH/status/1449495396741484548/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43064490,
+				"id_str": "43064490",
+				"name": "VicGovDH",
+				"screen_name": "VicGovDH",
+				"location": "Victoria, Australia",
+				"description": "The Victorian Department of Health delivers policies, programs and services that support and enhance the health and wellbeing of all Victorians.",
+				"url": "https://t.co/aDGpC5Amf5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aDGpC5Amf5",
+								"expanded_url": "https://www.vic.gov.au/department-health",
+								"display_url": "vic.gov.au/department-hea…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 281479,
+				"friends_count": 738,
+				"listed_count": 1159,
+				"created_at": "Thu May 28 06:58:43 +0000 2009",
+				"favourites_count": 841,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13234,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1404311831049478150/56jDXsFe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1404311831049478150/56jDXsFe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43064490/1597496443",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "E9E9E9",
+				"profile_sidebar_fill_color": "F1F1F1",
+				"profile_text_color": "545454",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 224,
+			"favorite_count": 806,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Oof! How many days of this until Victoria overtakes NSW again? https://t.co/JaRZcT1ZlJ"
+	},
+	{
 		"created_at": "Fri Oct 15 22:21:02 +0000 2021",
 		"id": 1449138272970502100,
 		"id_str": "1449138272970502149",
