@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 17 00:41:27 +0000 2021",
+		"id": 1449363985464184800,
+		"id_str": "1449535997155295242",
+		"full_text": "Person 1: The glass is 1/2 full\n\nPerson 2: The glass is 1/2 empty\n\nExcel: The glass is the 1st of February",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2561560609,
+			"id_str": "2561560609",
+			"name": "Andrew R",
+			"screen_name": "ExcelPope",
+			"location": "Kingdom of Northumbria",
+			"description": "Three times winner of Twitter's \"Least honest bio\" award.",
+			"url": "https://t.co/wkQYymuQKW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wkQYymuQKW",
+							"expanded_url": "https://excelpope.net/",
+							"display_url": "excelpope.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12897,
+			"friends_count": 894,
+			"listed_count": 79,
+			"created_at": "Wed Jun 11 15:22:21 +0000 2014",
+			"favourites_count": 71137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344675815695540224/zZiPih-v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344675815695540224/zZiPih-v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2561560609/1504281955",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3270,
+		"favorite_count": 20477,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Person 1: The glass is 1/2 full\n\nPerson 2: The glass is 1/2 empty\n\nExcel: The glass is the 1st of February"
+	},
+	{
 		"created_at": "Sun Oct 17 00:11:21 +0000 2021",
 		"id": 1449528422389092400,
 		"id_str": "1449528422389092352",
