@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 27 09:35:01 +0000 2021",
+		"id": 1453225208932937700,
+		"id_str": "1453294152310001667",
+		"full_text": "Just letting Australia know we're all still having a normal one up here in Queensland. https://t.co/9oGZuAgTg5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9oGZuAgTg5",
+					"expanded_url": "https://twitter.com/7NewsGoldCoast/status/1453218625427488768",
+					"display_url": "twitter.com/7NewsGoldCoast…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2881494871,
+			"id_str": "2881494871",
+			"name": "@MartySilk",
+			"screen_name": "MartySilkHack",
+			"location": "Yugambeh land/Southeast Qld",
+			"description": "Queensland Chief of Staff @AAPNewswire.                                                       \n\nThere will be typos.\n\nmsilk@aap.com.au",
+			"url": "https://t.co/MiUG35syH0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MiUG35syH0",
+							"expanded_url": "http://muckrack.com/marty-silk",
+							"display_url": "muckrack.com/marty-silk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6060,
+			"friends_count": 2580,
+			"listed_count": 107,
+			"created_at": "Wed Oct 29 02:08:18 +0000 2014",
+			"favourites_count": 18016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281590941971775490/n0Bav2ZL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281590941971775490/n0Bav2ZL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2881494871/1598581448",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1453218625427488800,
+		"quoted_status_id_str": "1453218625427488768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9oGZuAgTg5",
+			"expanded": "https://twitter.com/7NewsGoldCoast/status/1453218625427488768",
+			"display": "twitter.com/7NewsGoldCoast…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 27 04:34:54 +0000 2021",
+			"id": 1453218625427488800,
+			"id_str": "1453218625427488768",
+			"full_text": "A man has covered himself in hundreds of hot chips after burying himself in the sand at Surfers Paradise Beach. The stunt attracted dozens of seagulls, with a couple of bin chickens also sniffing around for a cheeky chip. https://t.co/tIEQ9JNRCU #7NEWS https://t.co/3iJ7LtmKbN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				252
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "7NEWS",
+						"indices": [
+							246,
+							252
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tIEQ9JNRCU",
+						"expanded_url": "http://7NEWS.com.au",
+						"display_url": "7NEWS.com.au",
+						"indices": [
+							222,
+							245
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1453218377263112200,
+						"id_str": "1453218377263112197",
+						"indices": [
+							253,
+							276
+						],
+						"media_url": "http://pbs.twimg.com/media/FCsJq2wXsAorQI_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCsJq2wXsAorQI_.jpg",
+						"url": "https://t.co/3iJ7LtmKbN",
+						"display_url": "pic.twitter.com/3iJ7LtmKbN",
+						"expanded_url": "https://twitter.com/7NewsGoldCoast/status/1453218625427488768/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1453218377263112200,
+						"id_str": "1453218377263112197",
+						"indices": [
+							253,
+							276
+						],
+						"media_url": "http://pbs.twimg.com/media/FCsJq2wXsAorQI_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCsJq2wXsAorQI_.jpg",
+						"url": "https://t.co/3iJ7LtmKbN",
+						"display_url": "pic.twitter.com/3iJ7LtmKbN",
+						"expanded_url": "https://twitter.com/7NewsGoldCoast/status/1453218625427488768/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 5873,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1453218377263112197/vid/720x1280/CYiBxYuXpfVKxabd.mp4?tag=14"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1453218377263112197/vid/320x568/9OMO_LXg2sc2xduS.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1453218377263112197/pl/Kf3YSRA-ldWdAu1d.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1453218377263112197/vid/480x852/NrW-kwZ12qUxlmx-.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 745123039298232300,
+				"id_str": "745123039298232321",
+				"name": "7NEWS Gold Coast",
+				"screen_name": "7NewsGoldCoast",
+				"location": "Gold Coast, Queensland",
+				"description": "Gold Coast news, sport and weather at 5.30pm with @AmandaAbate and @STitmus7. Got a news tip? We want your story. Email 7newsgc@seven.com.au #7NEWS",
+				"url": "https://t.co/9xre9FAjzz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9xre9FAjzz",
+								"expanded_url": "http://m.me/7NEWSGoldCoast",
+								"display_url": "m.me/7NEWSGoldCoast",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6652,
+				"friends_count": 96,
+				"listed_count": 78,
+				"created_at": "Tue Jun 21 05:15:51 +0000 2016",
+				"favourites_count": 263,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 45361,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1434645497113767943/XbxZKaA9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434645497113767943/XbxZKaA9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/745123039298232321/1630881007",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 101,
+			"favorite_count": 271,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 29,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just letting Australia know we're all still having a normal one up here in Queensland. https://t.co/9oGZuAgTg5"
+	},
+	{
 		"created_at": "Mon Oct 25 10:33:36 +0000 2021",
 		"id": 1452584121520119800,
 		"id_str": "1452584121520119811",
