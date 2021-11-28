@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 28 10:04:04 +0000 2021",
+		"id": 1464897872793456600,
+		"id_str": "1464897872793456642",
+		"full_text": "One day is a long time in COVID time. They could announce a new variant yesterday and by tomorro.. oh wait https://t.co/nzv7MWBmP8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nzv7MWBmP8",
+					"expanded_url": "https://twitter.com/nswhealth/status/1464837049291186180",
+					"display_url": "twitter.com/nswhealth/stat…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Joondalup, Perth (WA)",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76883,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1464837049291186200,
+		"quoted_status_id_str": "1464837049291186180",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nzv7MWBmP8",
+			"expanded": "https://twitter.com/nswhealth/status/1464837049291186180",
+			"display": "twitter.com/nswhealth/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 28 06:02:22 +0000 2021",
+			"id": 1464837049291186200,
+			"id_str": "1464837049291186180",
+			"full_text": "OMICRON VARIANT CONFIRMED IN NSW CASES https://t.co/s0Z4hWYsSH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				38
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1464837042584449000,
+						"id_str": "1464837042584449027",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/FFQlh3kUcAMeLiV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFQlh3kUcAMeLiV.jpg",
+						"url": "https://t.co/s0Z4hWYsSH",
+						"display_url": "pic.twitter.com/s0Z4hWYsSH",
+						"expanded_url": "https://twitter.com/NSWHealth/status/1464837049291186180/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 792,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1772,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 449,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1464837042584449000,
+						"id_str": "1464837042584449027",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/FFQlh3kUcAMeLiV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFQlh3kUcAMeLiV.jpg",
+						"url": "https://t.co/s0Z4hWYsSH",
+						"display_url": "pic.twitter.com/s0Z4hWYsSH",
+						"expanded_url": "https://twitter.com/NSWHealth/status/1464837049291186180/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 792,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1772,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 449,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40778270,
+				"id_str": "40778270",
+				"name": "NSW Health",
+				"screen_name": "NSWHealth",
+				"location": "NSW Australia",
+				"description": "Healthy People - now and in the future. \n\nRead our community guidelines before posting: https://t.co/5ko7SpyaOR",
+				"url": "http://t.co/nj18qSOAKz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/nj18qSOAKz",
+								"expanded_url": "http://www.health.nsw.gov.au",
+								"display_url": "health.nsw.gov.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5ko7SpyaOR",
+								"expanded_url": "https://www.health.nsw.gov.au/social/Pages/community-guidelines.aspx",
+								"display_url": "health.nsw.gov.au/social/Pages/c…",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 261363,
+				"friends_count": 331,
+				"listed_count": 1141,
+				"created_at": "Mon May 18 01:09:11 +0000 2009",
+				"favourites_count": 1474,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 14105,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1369063735298433025/P1O8DDFl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369063735298433025/P1O8DDFl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40778270/1632120989",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 955,
+			"favorite_count": 1658,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "One day is a long time in COVID time. They could announce a new variant yesterday and by tomorro.. oh wait https://t.co/nzv7MWBmP8"
+	},
+	{
 		"created_at": "Sat Nov 27 01:41:13 +0000 2021",
 		"id": 1464408941194973200,
 		"id_str": "1464408941194973200",
