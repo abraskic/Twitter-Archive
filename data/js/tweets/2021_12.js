@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 21 15:40:35 +0000 2021",
+		"id": 1473317482123255800,
+		"id_str": "1473317482123255809",
+		"full_text": "Christmas lockdown less go! https://t.co/Yb6woeoCKY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yb6woeoCKY",
+					"expanded_url": "https://twitter.com/7newsperth/status/1473206789701210115",
+					"display_url": "twitter.com/7newsperth/sta…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Joondalup, Perth (WA)",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 239,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1473206789701210000,
+		"quoted_status_id_str": "1473206789701210115",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Yb6woeoCKY",
+			"expanded": "https://twitter.com/7newsperth/status/1473206789701210115",
+			"display": "twitter.com/7newsperth/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 21 08:20:44 +0000 2021",
+			"id": 1473206789701210000,
+			"id_str": "1473206789701210115",
+			"full_text": "#BREAKING: COVID has crossed WA's hard border, with two positive cases confirmed in the community. A couple aged in their 30s flew in from Queensland before the state was elevated to medium risk. We'll have more on this developing story at 6pm. #7NEWS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BREAKING",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "7NEWS",
+						"indices": [
+							245,
+							251
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57248499,
+				"id_str": "57248499",
+				"name": "7NEWS Perth",
+				"screen_name": "7NewsPerth",
+				"location": "Perth, Western Australia",
+				"description": "First for news in Perth with Rick Ardon & Susannah Carr. Nightly at 6pm. #7NEWS",
+				"url": "https://t.co/Zqg3X00cD4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Zqg3X00cD4",
+								"expanded_url": "http://www.7NEWS.com.au",
+								"display_url": "7NEWS.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 91811,
+				"friends_count": 1732,
+				"listed_count": 636,
+				"created_at": "Thu Jul 16 05:00:34 +0000 2009",
+				"favourites_count": 1174,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 73277,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1366584813377916928/h0nNpUVK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366584813377916928/h0nNpUVK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/57248499/1623192372",
+				"profile_link_color": "E30D1F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 59,
+			"favorite_count": 165,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Christmas lockdown less go! https://t.co/Yb6woeoCKY"
+	},
+	{
 		"created_at": "Mon Dec 20 22:10:40 +0000 2021",
 		"id": 1473053263154933800,
 		"id_str": "1473053263154933760",
