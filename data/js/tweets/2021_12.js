@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 23 07:14:59 +0000 2021",
+		"id": 1473907090343141400,
+		"id_str": "1473915022111739904",
+		"full_text": "https://t.co/avXA8bREVB https://t.co/cQlCnDjAoT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/avXA8bREVB",
+					"expanded_url": "https://twitter.com/caseybriggs/status/1473905581932961797",
+					"display_url": "twitter.com/caseybriggs/st…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1473907086585057300,
+					"id_str": "1473907086585057283",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FHRer6fVUAMGm2q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHRer6fVUAMGm2q.jpg",
+					"url": "https://t.co/cQlCnDjAoT",
+					"display_url": "pic.twitter.com/cQlCnDjAoT",
+					"expanded_url": "https://twitter.com/fictillius/status/1473907090343141376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 922,
+							"h": 1268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 873,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 494,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1473907086585057300,
+					"id_str": "1473907086585057283",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FHRer6fVUAMGm2q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHRer6fVUAMGm2q.jpg",
+					"url": "https://t.co/cQlCnDjAoT",
+					"display_url": "pic.twitter.com/cQlCnDjAoT",
+					"expanded_url": "https://twitter.com/fictillius/status/1473907090343141376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 922,
+							"h": 1268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 873,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 494,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7050962,
+			"id_str": "7050962",
+			"name": "Evan",
+			"screen_name": "fictillius",
+			"location": "Sydney, Australia",
+			"description": "One twitter user. Quintuple vaccinated. Buy my 🐝’s 🍯.",
+			"url": "https://t.co/4IECsUwtws",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4IECsUwtws",
+							"expanded_url": "http://thepollinator.co",
+							"display_url": "thepollinator.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4570,
+			"friends_count": 4653,
+			"listed_count": 187,
+			"created_at": "Sun Jun 24 13:50:14 +0000 2007",
+			"favourites_count": 55250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 119967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396619525471162368/JOfb3S5E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396619525471162368/JOfb3S5E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7050962/1626593705",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0073b76548e5984f",
+			"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+			"place_type": "city",
+			"name": "Sydney",
+			"full_name": "Sydney, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							150.520928608,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-33.578140996
+						],
+						[
+							150.520928608,
+							-33.578140996
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1473905581932961800,
+		"quoted_status_id_str": "1473905581932961797",
+		"quoted_status_permalink": {
+			"url": "https://t.co/avXA8bREVB",
+			"expanded": "https://twitter.com/caseybriggs/status/1473905581932961797",
+			"display": "twitter.com/caseybriggs/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 23 06:37:29 +0000 2021",
+			"id": 1473905581932961800,
+			"id_str": "1473905581932961797",
+			"full_text": "#BREAKING from 6pm to at least 6am 28 Dec in Perth and Peel:\n* Masks mandatory in all public indoor settings including workplaces\n* High-risk, large public events like music festivals cancelled\n* All nightclubs closed \n* Dancing banned except for at weddings",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				258
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BREAKING",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14461561,
+				"id_str": "14461561",
+				"name": "casey briggs",
+				"screen_name": "CaseyBriggs",
+				"location": "SYD via ADL, CNS, BNE, ADL",
+				"description": "numbers gremlin, reporter, three children in a big trenchcoat, fool. Signal +61447935248. he/him https://t.co/PJ7UOmATrN. admin please delete if inappropriate",
+				"url": "https://t.co/Kb0y7gOogx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Kb0y7gOogx",
+								"expanded_url": "http://caseybriggs.com",
+								"display_url": "caseybriggs.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/PJ7UOmATrN",
+								"expanded_url": "http://seedisclaimer.com",
+								"display_url": "seedisclaimer.com",
+								"indices": [
+									97,
+									120
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 63097,
+				"friends_count": 2100,
+				"listed_count": 442,
+				"created_at": "Mon Apr 21 13:15:53 +0000 2008",
+				"favourites_count": 34684,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3987,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1258703411031105538/oeR08kaQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258703411031105538/oeR08kaQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14461561/1588933254",
+				"profile_link_color": "26B516",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 78,
+			"favorite_count": 220,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/avXA8bREVB https://t.co/cQlCnDjAoT"
+	},
+	{
 		"created_at": "Thu Dec 23 07:12:29 +0000 2021",
 		"id": 1473914391938547700,
 		"id_str": "1473914391938547712",
