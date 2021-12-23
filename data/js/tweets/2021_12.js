@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 23 07:12:29 +0000 2021",
+		"id": 1473914391938547700,
+		"id_str": "1473914391938547712",
+		"full_text": "Hahaha, here we fucking go! https://t.co/F5v7A3tqiN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F5v7A3tqiN",
+					"expanded_url": "https://twitter.com/6pr/status/1473869416165044231",
+					"display_url": "twitter.com/6pr/status/147…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Joondalup, Perth (WA)",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 239,
+			"friends_count": 71,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1473869416165044200,
+		"quoted_status_id_str": "1473869416165044231",
+		"quoted_status_permalink": {
+			"url": "https://t.co/F5v7A3tqiN",
+			"expanded": "https://twitter.com/6pr/status/1473869416165044231",
+			"display": "twitter.com/6pr/status/147…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 23 04:13:46 +0000 2021",
+			"id": 1473869416165044200,
+			"id_str": "1473869416165044231",
+			"full_text": "It's yet to be listed on the potential exposure sites.\n\nDetails 👇\n\nhttps://t.co/JTvyqFshyQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JTvyqFshyQ",
+						"expanded_url": "https://www.6pr.com.au/breaking-reports-of-a-positive-covid-19-case-at-perth-nightclub/",
+						"display_url": "6pr.com.au/breaking-repor…",
+						"indices": [
+							67,
+							90
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18179497,
+				"id_str": "18179497",
+				"name": "News Talk 6PR 882",
+				"screen_name": "6PR",
+				"location": "Perth",
+				"description": "Your City, Your Station! Call 133 882 anytime with your news tips and opinions.",
+				"url": "https://t.co/maUaeQOWan",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/maUaeQOWan",
+								"expanded_url": "http://www.6pr.com.au",
+								"display_url": "6pr.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32548,
+				"friends_count": 2298,
+				"listed_count": 411,
+				"created_at": "Wed Dec 17 02:07:00 +0000 2008",
+				"favourites_count": 2363,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 55118,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/455968847384678401/oRy9SI5E_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/455968847384678401/oRy9SI5E_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18179497/1397547820",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Hahaha, here we fucking go! https://t.co/F5v7A3tqiN"
+	},
+	{
 		"created_at": "Wed Dec 22 16:25:55 +0000 2021",
 		"id": 1473552762881273900,
 		"id_str": "1473691279368278016",
