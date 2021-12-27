@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 27 15:20:10 +0000 2021",
+		"id": 1475123295938879500,
+		"id_str": "1475486672422780932",
+		"full_text": "#LongCovid #MEcfs https://t.co/mJSiPeygxb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LongCovid",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "MEcfs",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1475123294466678800,
+					"id_str": "1475123294466678795",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/FHiw0h6XIAsYZFR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHiw0h6XIAsYZFR.jpg",
+					"url": "https://t.co/mJSiPeygxb",
+					"display_url": "pic.twitter.com/mJSiPeygxb",
+					"expanded_url": "https://twitter.com/thane_black/status/1475123295938879496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 506,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 506,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 506,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1475123294466678800,
+					"id_str": "1475123294466678795",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/FHiw0h6XIAsYZFR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHiw0h6XIAsYZFR.jpg",
+					"url": "https://t.co/mJSiPeygxb",
+					"display_url": "pic.twitter.com/mJSiPeygxb",
+					"expanded_url": "https://twitter.com/thane_black/status/1475123295938879496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 506,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 506,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 506,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1167466822649753600,
+			"id_str": "1167466822649753607",
+			"name": "Thane Black",
+			"screen_name": "thane_black",
+			"location": "Minnesota, USA",
+			"description": "I'll watch anything with a cheetah in the thumbnail  | Severe MECFS | MCAS | hEDS |\nCW: occasional explicit descriptions of illness",
+			"url": "https://t.co/ivFREh8eMz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ivFREh8eMz",
+							"expanded_url": "http://minnesotamecfs.org",
+							"display_url": "minnesotamecfs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2304,
+			"friends_count": 299,
+			"listed_count": 14,
+			"created_at": "Fri Aug 30 15:59:20 +0000 2019",
+			"favourites_count": 10084,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1474548932097236992/6JxymagD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1474548932097236992/6JxymagD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1167466822649753607/1639965378",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2410,
+		"favorite_count": 7599,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#LongCovid #MEcfs https://t.co/mJSiPeygxb"
+	},
+	{
 		"created_at": "Fri Dec 24 08:08:08 +0000 2021",
 		"id": 1474290785231065000,
 		"id_str": "1474290785231065092",
