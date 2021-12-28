@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 28 22:16:42 +0000 2021",
+		"id": 1475953885630009300,
+		"id_str": "1475953885630009345",
+		"full_text": "This will be Perth in four to five months. https://t.co/lROjJ8tZht",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lROjJ8tZht",
+					"expanded_url": "https://twitter.com/nswhealth/status/1475949726629388293",
+					"display_url": "twitter.com/nswhealth/stat…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "French backpacker",
+			"screen_name": "braskic",
+			"location": "Joondalup, Perth (WA)",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 71,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1475949726629388300,
+		"quoted_status_id_str": "1475949726629388293",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lROjJ8tZht",
+			"expanded": "https://twitter.com/nswhealth/status/1475949726629388293",
+			"display": "twitter.com/nswhealth/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 28 22:00:11 +0000 2021",
+			"id": 1475949726629388300,
+			"id_str": "1475949726629388293",
+			"full_text": "NSW COVID-19 update – Wednesday 29 December 2021\n \nIn the 24-hour reporting period to 8pm last night:\n- 95% of people aged 16+ have had one dose of a COVID-19 vaccine\n- 93.5% of people aged 16+ have had two doses of a COVID-19 vaccine https://t.co/FRzJ60UP3u",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1475946519064834000,
+						"id_str": "1475946519064834048",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/FHudighVcAAt7o-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FHudighVcAAt7o-.jpg",
+						"url": "https://t.co/FRzJ60UP3u",
+						"display_url": "pic.twitter.com/FRzJ60UP3u",
+						"expanded_url": "https://twitter.com/NSWHealth/status/1475949726629388293/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 900,
+								"h": 900,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1475946519064834000,
+						"id_str": "1475946519064834048",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/FHudighVcAAt7o-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FHudighVcAAt7o-.jpg",
+						"url": "https://t.co/FRzJ60UP3u",
+						"display_url": "pic.twitter.com/FRzJ60UP3u",
+						"expanded_url": "https://twitter.com/NSWHealth/status/1475949726629388293/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 900,
+								"h": 900,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40778270,
+				"id_str": "40778270",
+				"name": "NSW Health",
+				"screen_name": "NSWHealth",
+				"location": "NSW Australia",
+				"description": "Healthy People - now and in the future. \n\nRead our community guidelines before posting: https://t.co/RaFyZdVFv9…",
+				"url": "https://t.co/xj5LkOxzDC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xj5LkOxzDC",
+								"expanded_url": "http://www.health.nsw.gov.au",
+								"display_url": "health.nsw.gov.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RaFyZdVFv9",
+								"expanded_url": "http://health.nsw.gov.au/social/Pages/c",
+								"display_url": "health.nsw.gov.au/social/Pages/c",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 275065,
+				"friends_count": 331,
+				"listed_count": 1187,
+				"created_at": "Mon May 18 01:09:11 +0000 2009",
+				"favourites_count": 1477,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15077,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1369063735298433025/P1O8DDFl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369063735298433025/P1O8DDFl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40778270/1639951502",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 252,
+			"favorite_count": 381,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "This will be Perth in four to five months. https://t.co/lROjJ8tZht"
+	},
+	{
 		"created_at": "Tue Dec 28 09:06:39 +0000 2021",
 		"id": 1475755061527548000,
 		"id_str": "1475755061527547904",
