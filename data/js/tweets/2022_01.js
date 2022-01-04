@@ -1,0 +1,322 @@
+Grailbird.data.tweets_2022_01 = 
+[
+	{
+		"created_at": "Tue Jan 04 01:57:36 +0000 2022",
+		"id": 1478183804099448800,
+		"id_str": "1478183804099448832",
+		"full_text": "BREAKING: All @NRL players are now banned from pubs and clubs. Government looking into a support package as we speak. https://t.co/lt51e3iDc4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NRL",
+					"name": "NRL",
+					"id": 18470775,
+					"id_str": "18470775",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lt51e3iDc4",
+					"expanded_url": "https://twitter.com/oysta/status/1478163641593520133",
+					"display_url": "twitter.com/oysta/status/1…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "French backpacker",
+			"screen_name": "braskic",
+			"location": "Joondalup, Perth (WA)",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 236,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1478163641593520000,
+		"quoted_status_id_str": "1478163641593520133",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lt51e3iDc4",
+			"expanded": "https://twitter.com/oysta/status/1478163641593520133",
+			"display": "twitter.com/oysta/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 04 00:37:29 +0000 2022",
+			"id": 1478163641593520000,
+			"id_str": "1478163641593520133",
+			"full_text": "What’s COVID https://t.co/HoaF2vFWE6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				12
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1478163635687985200,
+						"id_str": "1478163635687985152",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/FIN9_rkVEAAypux.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIN9_rkVEAAypux.jpg",
+						"url": "https://t.co/HoaF2vFWE6",
+						"display_url": "pic.twitter.com/HoaF2vFWE6",
+						"expanded_url": "https://twitter.com/oysta/status/1478163641593520133/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1478163635687985200,
+						"id_str": "1478163635687985152",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/FIN9_rkVEAAypux.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIN9_rkVEAAypux.jpg",
+						"url": "https://t.co/HoaF2vFWE6",
+						"display_url": "pic.twitter.com/HoaF2vFWE6",
+						"expanded_url": "https://twitter.com/oysta/status/1478163641593520133/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 765786,
+				"id_str": "765786",
+				"name": "Christopher Owen 🦪",
+				"screen_name": "oysta",
+				"location": "Sydney, Australia",
+				"description": "Software architect, manager, and self flagellating @NRLKnights member. Neque Interfectorem Omnibus Impletionem #Nintendo4Lyfe 🦪",
+				"url": "https://t.co/CIc8r39JnO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CIc8r39JnO",
+								"expanded_url": "https://christopherowen.id.au/",
+								"display_url": "christopherowen.id.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1119,
+				"friends_count": 488,
+				"listed_count": 42,
+				"created_at": "Sun Feb 11 22:52:53 +0000 2007",
+				"favourites_count": 85896,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 117805,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1418162209620824067/7-uxZ2ky_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1418162209620824067/7-uxZ2ky_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/765786/1631851448",
+				"profile_link_color": "876A87",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "BREAKING: All @NRL players are now banned from pubs and clubs. Government looking into a support package as we speak. https://t.co/lt51e3iDc4"
+	}
+]
