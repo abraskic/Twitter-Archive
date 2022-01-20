@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 20 16:26:44 +0000 2022",
+		"id": 1484200733595828200,
+		"id_str": "1484200733595828224",
+		"full_text": "Well, it’s a lockdown but also not a lockdown. I am disappoint @MarkMcGowanMP. https://t.co/o5T84C5KQW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkMcGowanMP",
+					"name": "Mark McGowan",
+					"id": 430452224,
+					"id_str": "430452224",
+					"indices": [
+						63,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/o5T84C5KQW",
+					"expanded_url": "https://twitter.com/markmcgowanmp/status/1484132174949654528",
+					"display_url": "twitter.com/markmcgowanmp/…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1484106217375305700,
+		"in_reply_to_status_id_str": "1484106217375305728",
+		"in_reply_to_user_id": 14866613,
+		"in_reply_to_user_id_str": "14866613",
+		"in_reply_to_screen_name": "braskic",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "French Backpacker",
+			"screen_name": "braskic",
+			"location": "Western Australia, Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 234,
+			"friends_count": 70,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1b66f15d4efa136f",
+			"url": "https://api.twitter.com/1.1/geo/id/1b66f15d4efa136f.json",
+			"place_type": "admin",
+			"name": "Western Australia",
+			"full_name": "Western Australia, Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							112.921113954128,
+							-35.1348464327536
+						],
+						[
+							129.00193001566,
+							-35.1348464327536
+						],
+						[
+							129.00193001566,
+							-13.6894920283571
+						],
+						[
+							112.921113954128,
+							-13.6894920283571
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1484132174949654500,
+		"quoted_status_id_str": "1484132174949654528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o5T84C5KQW",
+			"expanded": "https://twitter.com/markmcgowanmp/status/1484132174949654528",
+			"display": "twitter.com/markmcgowanmp/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 20 11:54:19 +0000 2022",
+			"id": 1484132174949654500,
+			"id_str": "1484132174949654528",
+			"full_text": "In light of what has occurred across the country, having closely assessed the situation over east and listening to the latest health advice, we have reworked WA’s Safe Transition Plan to fit the environment that now confronts us. https://t.co/o7Qb2vRrMU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				229
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1484132041482731500,
+						"id_str": "1484132041482731527",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/media/FJiyOnxagAca1jW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJiyOnxagAca1jW.jpg",
+						"url": "https://t.co/o7Qb2vRrMU",
+						"display_url": "pic.twitter.com/o7Qb2vRrMU",
+						"expanded_url": "https://twitter.com/MarkMcGowanMP/status/1484132174949654528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1667,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 977,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 553,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1484132041482731500,
+						"id_str": "1484132041482731527",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/media/FJiyOnxagAca1jW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJiyOnxagAca1jW.jpg",
+						"url": "https://t.co/o7Qb2vRrMU",
+						"display_url": "pic.twitter.com/o7Qb2vRrMU",
+						"expanded_url": "https://twitter.com/MarkMcGowanMP/status/1484132174949654528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1667,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 977,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 553,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 430452224,
+				"id_str": "430452224",
+				"name": "Mark McGowan",
+				"screen_name": "MarkMcGowanMP",
+				"location": "Rockingham, Perth (WA)",
+				"description": "Dad to Samuel, Alexander and Amelia. Husband to Sarah. WA Premier. Rockingham local.",
+				"url": "https://t.co/TkucoFZEgx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TkucoFZEgx",
+								"expanded_url": "http://www.markmcgowan.com.au",
+								"display_url": "markmcgowan.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 90427,
+				"friends_count": 622,
+				"listed_count": 411,
+				"created_at": "Wed Dec 07 05:42:53 +0000 2011",
+				"favourites_count": 510,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7285,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "913434",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1376431626566082569/c9TnEGUB_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1376431626566082569/c9TnEGUB_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/430452224/1611912561",
+				"profile_link_color": "BF311B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 374,
+			"favorite_count": 1947,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Well, it’s a lockdown but also not a lockdown. I am disappoint @MarkMcGowanMP. https://t.co/o5T84C5KQW"
+	},
+	{
 		"created_at": "Thu Jan 20 12:43:48 +0000 2022",
 		"id": 1484144630157705200,
 		"id_str": "1484144630157705217",
