@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 20 10:11:10 +0000 2022",
+		"id": 1484106217375305700,
+		"id_str": "1484106217375305728",
+		"full_text": "Lockdown for #hottest100 weekend because the kids don’t respect state daddy anymore. https://t.co/PA9sLxnOSV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hottest100",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PA9sLxnOSV",
+					"expanded_url": "https://twitter.com/perthlive6pr/status/1484086851497771008",
+					"display_url": "twitter.com/perthlive6pr/s…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "French Backpacker",
+			"screen_name": "braskic",
+			"location": "Western Australia, Australia",
+			"description": "I am not who you think I am; I am not who I think I am; I am who I think you think I am.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 234,
+			"friends_count": 70,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000135220043/6076b99273969a8223906fa65a5a01dd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1b66f15d4efa136f",
+			"url": "https://api.twitter.com/1.1/geo/id/1b66f15d4efa136f.json",
+			"place_type": "admin",
+			"name": "Western Australia",
+			"full_name": "Western Australia, Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							112.921113954128,
+							-35.1348464327536
+						],
+						[
+							129.00193001566,
+							-35.1348464327536
+						],
+						[
+							129.00193001566,
+							-13.6894920283571
+						],
+						[
+							112.921113954128,
+							-13.6894920283571
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1484086851497771000,
+		"quoted_status_id_str": "1484086851497771008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PA9sLxnOSV",
+			"expanded": "https://twitter.com/perthlive6pr/status/1484086851497771008",
+			"display": "twitter.com/perthlive6pr/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 20 08:54:13 +0000 2022",
+			"id": 1484086851497771000,
+			"id_str": "1484086851497771008",
+			"full_text": "We understand the Premier will be holding a press conference at 730PM tonight regarding February 5 reopening. \n\nThere is speculation the date will be pushed back. \n\n#perthnews https://t.co/PlKwlV7hC2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				175
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "perthnews",
+						"indices": [
+							165,
+							175
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1484086841813139500,
+						"id_str": "1484086841813139460",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/FJiJHp4agAQXyrE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJiJHp4agAQXyrE.jpg",
+						"url": "https://t.co/PlKwlV7hC2",
+						"display_url": "pic.twitter.com/PlKwlV7hC2",
+						"expanded_url": "https://twitter.com/PerthLive6PR/status/1484086851497771008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 538,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 538,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1484086841813139500,
+						"id_str": "1484086841813139460",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/FJiJHp4agAQXyrE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJiJHp4agAQXyrE.jpg",
+						"url": "https://t.co/PlKwlV7hC2",
+						"display_url": "pic.twitter.com/PlKwlV7hC2",
+						"expanded_url": "https://twitter.com/PerthLive6PR/status/1484086851497771008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 538,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 538,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 767641086323863600,
+				"id_str": "767641086323863553",
+				"name": "Perth LIVE with Oliver Peterson",
+				"screen_name": "PerthLive6PR",
+				"location": "Perth, Western Australia",
+				"description": "News. Views. Analysis. Your calls. 3-6PM with @oliverpeterson on 📻 @6PR 📞133 882 📩perthlive@6pr.com.au 📲 0487 999 882",
+				"url": "https://t.co/iI8YJhZxOh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iI8YJhZxOh",
+								"expanded_url": "http://6pr.com.au",
+								"display_url": "6pr.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3834,
+				"friends_count": 639,
+				"listed_count": 35,
+				"created_at": "Mon Aug 22 08:34:31 +0000 2016",
+				"favourites_count": 212,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8944,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1348492868516679681/ZP_zeFl4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348492868516679681/ZP_zeFl4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/767641086323863553/1612235985",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 57,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Lockdown for #hottest100 weekend because the kids don’t respect state daddy anymore. https://t.co/PA9sLxnOSV"
+	},
+	{
 		"created_at": "Thu Jan 20 09:11:48 +0000 2022",
 		"id": 1483933274682855400,
 		"id_str": "1484091279562919936",
