@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 25 22:14:03 +0000 2022",
+		"id": 1485973745886019600,
+		"id_str": "1486100077722890240",
+		"full_text": "Boris’s Birthday party #PartyGate https://t.co/qYnM3oRyqg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PartyGate",
+					"indices": [
+						23,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485973702554574800,
+					"id_str": "1485973702554574851",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1485973702554574851/pu/img/DsRebL7SO76TxW4e.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1485973702554574851/pu/img/DsRebL7SO76TxW4e.jpg",
+					"url": "https://t.co/qYnM3oRyqg",
+					"display_url": "pic.twitter.com/qYnM3oRyqg",
+					"expanded_url": "https://twitter.com/TomElwes/status/1485973745886019584/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485973702554574800,
+					"id_str": "1485973702554574851",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1485973702554574851/pu/img/DsRebL7SO76TxW4e.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1485973702554574851/pu/img/DsRebL7SO76TxW4e.jpg",
+					"url": "https://t.co/qYnM3oRyqg",
+					"display_url": "pic.twitter.com/qYnM3oRyqg",
+					"expanded_url": "https://twitter.com/TomElwes/status/1485973745886019584/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 10021,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1485973702554574851/pu/vid/320x568/FBI7pfuV82Mc8g4p.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1485973702554574851/pu/vid/480x852/QiCaSwGtcuvCSlBq.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1485973702554574851/pu/pl/FxverbGqwEDoU7aB.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1485973702554574851/pu/vid/720x1280/cr6qEg8sRPtnCgPK.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1173006836,
+			"id_str": "1173006836",
+			"name": "TomElwes",
+			"screen_name": "TomElwes",
+			"location": "",
+			"description": "Comic from London",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450,
+			"friends_count": 104,
+			"listed_count": 4,
+			"created_at": "Tue Feb 12 20:29:24 +0000 2013",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244677297191469056/AKRYOYgK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244677297191469056/AKRYOYgK_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1579,
+		"favorite_count": 5553,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Boris’s Birthday party #PartyGate https://t.co/qYnM3oRyqg"
+	},
+	{
 		"created_at": "Tue Jan 25 09:02:07 +0000 2022",
 		"id": 1485900782709133300,
 		"id_str": "1485900782709133317",
