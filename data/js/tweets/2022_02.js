@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 14 11:00:34 +0000 2022",
+		"id": 1493148152945205200,
+		"id_str": "1493178348406992896",
+		"full_text": "Quite possibly, I would’ve been 2 years old. I shit myself a lot back then. https://t.co/PaF3fF0gIX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PaF3fF0gIX",
+					"expanded_url": "https://twitter.com/eddiesynot/status/1493146009202950145",
+					"display_url": "twitter.com/eddiesynot/sta…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1367057849738662000,
+			"id_str": "1367057849738661888",
+			"name": "Grace Tame",
+			"screen_name": "TamePunk",
+			"location": "Lutruwita (Tasmania)",
+			"description": "Advocate. Optimist. Runner. Tasmanian. Undefeated crocodile wrestler. A little bit cheeky.",
+			"url": "https://t.co/2nMLZTWwXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2nMLZTWwXk",
+							"expanded_url": "https://www.instagram.com/tamepunk/",
+							"display_url": "instagram.com/tamepunk/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 144651,
+			"friends_count": 363,
+			"listed_count": 192,
+			"created_at": "Wed Mar 03 10:23:09 +0000 2021",
+			"favourites_count": 11743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377379526418702336/kuv-kkGD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377379526418702336/kuv-kkGD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1367057849738661888/1617228058",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1493146009202950100,
+		"quoted_status_id_str": "1493146009202950145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PaF3fF0gIX",
+			"expanded": "https://twitter.com/eddiesynot/status/1493146009202950145",
+			"display": "twitter.com/eddiesynot/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 14 08:52:04 +0000 2022",
+			"id": 1493146009202950100,
+			"id_str": "1493146009202950145",
+			"full_text": "But did she shit herself at Maccas after the ‘97 NRL GF?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				56
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3311026693,
+				"id_str": "3311026693",
+				"name": "eddie synot",
+				"screen_name": "EddieSynot",
+				"location": "Brisbane, Queensland",
+				"description": "Public lawyer. @GriffLawSchool @ILC_UNSW. “You better check yo self before you wreck yo self” Ice Cube 1993 ⚫️🟡🔴 |-o-|",
+				"url": "https://t.co/ndpLAB4iL7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ndpLAB4iL7",
+								"expanded_url": "https://edwardjsynot.com",
+								"display_url": "edwardjsynot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2583,
+				"friends_count": 4701,
+				"listed_count": 11,
+				"created_at": "Mon Aug 10 00:46:36 +0000 2015",
+				"favourites_count": 64338,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21803,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1409463668115337219/-PDf8men_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409463668115337219/-PDf8men_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3311026693/1610333626",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55,
+			"favorite_count": 954,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 861,
+		"favorite_count": 11346,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Quite possibly, I would’ve been 2 years old. I shit myself a lot back then. https://t.co/PaF3fF0gIX"
+	},
+	{
 		"created_at": "Sun Feb 13 09:47:45 +0000 2022",
 		"id": 1492797632460505000,
 		"id_str": "1492797632460505088",
