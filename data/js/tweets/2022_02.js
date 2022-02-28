@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 28 08:24:40 +0000 2022",
+		"id": 1498212542854103000,
+		"id_str": "1498212542854103040",
+		"full_text": "Lock me down harder daddy. https://t.co/WEAQMRyjHV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WEAQMRyjHV",
+					"expanded_url": "https://twitter.com/markmcgowanmp/status/1498184567634595840",
+					"display_url": "twitter.com/markmcgowanmp/…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Western Australia, Australia",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 244,
+			"friends_count": 68,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1b66f15d4efa136f",
+			"url": "https://api.twitter.com/1.1/geo/id/1b66f15d4efa136f.json",
+			"place_type": "admin",
+			"name": "Western Australia",
+			"full_name": "Western Australia, Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							112.921113954128,
+							-35.1348464327536
+						],
+						[
+							129.00193001566,
+							-35.1348464327536
+						],
+						[
+							129.00193001566,
+							-13.6894920283571
+						],
+						[
+							112.921113954128,
+							-13.6894920283571
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1498184567634595800,
+		"quoted_status_id_str": "1498184567634595840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WEAQMRyjHV",
+			"expanded": "https://twitter.com/markmcgowanmp/status/1498184567634595840",
+			"display": "twitter.com/markmcgowanmp/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 28 06:33:30 +0000 2022",
+			"id": 1498184567634595800,
+			"id_str": "1498184567634595840",
+			"full_text": "A short time ago, we held a meeting of the State Disaster Council to discuss the current situation and consider the CHO’s latest health advice.\n\nIn Australia, data shows that once a jurisdiction hits 1,000 cases a day, the peak of the Omicron outbreak is only a few weeks away. https://t.co/tDWF9XaNIN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1498183817978257400,
+						"id_str": "1498183817978257411",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FMqePqbVIAMjwgT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMqePqbVIAMjwgT.jpg",
+						"url": "https://t.co/tDWF9XaNIN",
+						"display_url": "pic.twitter.com/tDWF9XaNIN",
+						"expanded_url": "https://twitter.com/MarkMcGowanMP/status/1498184567634595840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1042,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1779,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 591,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1498183817978257400,
+						"id_str": "1498183817978257411",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FMqePqbVIAMjwgT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMqePqbVIAMjwgT.jpg",
+						"url": "https://t.co/tDWF9XaNIN",
+						"display_url": "pic.twitter.com/tDWF9XaNIN",
+						"expanded_url": "https://twitter.com/MarkMcGowanMP/status/1498184567634595840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1042,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1779,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 591,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 430452224,
+				"id_str": "430452224",
+				"name": "Mark McGowan",
+				"screen_name": "MarkMcGowanMP",
+				"location": "Rockingham, Perth (WA)",
+				"description": "Dad to Samuel, Alexander and Amelia. Husband to Sarah. WA Premier. Rockingham local.",
+				"url": "https://t.co/TkucoFZEgx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TkucoFZEgx",
+								"expanded_url": "http://www.markmcgowan.com.au",
+								"display_url": "markmcgowan.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 98224,
+				"friends_count": 625,
+				"listed_count": 428,
+				"created_at": "Wed Dec 07 05:42:53 +0000 2011",
+				"favourites_count": 510,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7374,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "913434",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1376431626566082569/c9TnEGUB_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1376431626566082569/c9TnEGUB_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/430452224/1611912561",
+				"profile_link_color": "BF311B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 75,
+			"favorite_count": 237,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Lock me down harder daddy. https://t.co/WEAQMRyjHV"
+	},
+	{
 		"created_at": "Mon Feb 28 05:04:17 +0000 2022",
 		"id": 1498162117169787000,
 		"id_str": "1498162117169786884",
