@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 07 19:50:14 +0000 2022",
+		"id": 1500921787152212000,
+		"id_str": "1500921787152211968",
+		"full_text": "“Your honour Clive Palmer hurt my feelings” https://t.co/7m3DbaMaLP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7m3DbaMaLP",
+					"expanded_url": "https://twitter.com/9newsperth/status/1500788687675793415",
+					"display_url": "twitter.com/9newsperth/sta…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Western Australia, Australia",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 246,
+			"friends_count": 71,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1500788687675793400,
+		"quoted_status_id_str": "1500788687675793415",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7m3DbaMaLP",
+			"expanded": "https://twitter.com/9newsperth/status/1500788687675793415",
+			"display": "twitter.com/9newsperth/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 07 11:01:21 +0000 2022",
+			"id": 1500788687675793400,
+			"id_str": "1500788687675793415",
+			"full_text": "The Premier claims Clive Palmer hurt his feelings, in his \"tit-for-tat\" defamation battle with the billionaire businessman. @Gary_Adshead  #9News https://t.co/RkpJgW4aLw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				145
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "9News",
+						"indices": [
+							139,
+							145
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Gary_Adshead",
+						"name": "Gary Adshead",
+						"id": 2230846914,
+						"id_str": "2230846914",
+						"indices": [
+							124,
+							137
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1500788571346804700,
+						"id_str": "1500788571346804737",
+						"indices": [
+							146,
+							169
+						],
+						"media_url": "http://pbs.twimg.com/media/FNPfT4XWQAYLEsa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FNPfT4XWQAYLEsa.jpg",
+						"url": "https://t.co/RkpJgW4aLw",
+						"display_url": "pic.twitter.com/RkpJgW4aLw",
+						"expanded_url": "https://twitter.com/9NewsPerth/status/1500788687675793415/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1500788571346804700,
+						"id_str": "1500788571346804737",
+						"indices": [
+							146,
+							169
+						],
+						"media_url": "http://pbs.twimg.com/media/FNPfT4XWQAYLEsa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FNPfT4XWQAYLEsa.jpg",
+						"url": "https://t.co/RkpJgW4aLw",
+						"display_url": "pic.twitter.com/RkpJgW4aLw",
+						"expanded_url": "https://twitter.com/9NewsPerth/status/1500788687675793415/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 162360,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1500788571346804737/pl/khyUjyJleepu1E2P.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1500788571346804737/vid/640x360/JNPI2Gvec9JtDFBT.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1500788571346804737/vid/1280x720/YiZKhb7fAd-ltETd.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1500788571346804737/vid/480x270/j9Jn5fu2U33fFKO8.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "PALMER V PREMIER",
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47850843,
+				"id_str": "47850843",
+				"name": "9News Perth",
+				"screen_name": "9NewsPerth",
+				"location": "Perth, Western Australia",
+				"description": "Perth's 9News at 6.00pm. Community Guidelines: https://t.co/c69Kx4B5GI",
+				"url": "https://t.co/2YvSbhiCZq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2YvSbhiCZq",
+								"expanded_url": "http://9News.com.au/Western-Australia",
+								"display_url": "9News.com.au/Western-Austra…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/c69Kx4B5GI",
+								"expanded_url": "http://9jump.in/8oT7O4S",
+								"display_url": "9jump.in/8oT7O4S",
+								"indices": [
+									47,
+									70
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 98018,
+				"friends_count": 821,
+				"listed_count": 781,
+				"created_at": "Wed Jun 17 04:08:38 +0000 2009",
+				"favourites_count": 1972,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 77507,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1219146815536156673/qfABUfua_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219146815536156673/qfABUfua_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47850843/1643606427",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "“Your honour Clive Palmer hurt my feelings” https://t.co/7m3DbaMaLP"
+	},
+	{
 		"created_at": "Sun Mar 06 11:42:45 +0000 2022",
 		"id": 1500436718826430500,
 		"id_str": "1500436718826430467",
