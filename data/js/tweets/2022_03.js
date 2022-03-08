@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 08 01:12:57 +0000 2022",
+		"id": 1501003002710470700,
+		"id_str": "1501003002710470656",
+		"full_text": "Keep seeing different graphs where the line is almost vertical and that is very not good. https://t.co/JQ9frq7Ge5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JQ9frq7Ge5",
+					"expanded_url": "https://twitter.com/goodalexander/status/1500962094505672704",
+					"display_url": "twitter.com/goodalexander/…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Western Australia, Australia",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 246,
+			"friends_count": 71,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1500962094505672700,
+		"quoted_status_id_str": "1500962094505672704",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JQ9frq7Ge5",
+			"expanded": "https://twitter.com/goodalexander/status/1500962094505672704",
+			"display": "twitter.com/goodalexander/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 07 22:30:24 +0000 2022",
+			"id": 1500962094505672700,
+			"id_str": "1500962094505672704",
+			"full_text": "Egyptian Credit Default swaps have gone parabolic. The Egyptian government heavily subsidizes bread for its people (there were riots famously in the late 70s) and is often the world’s top wheat importer - heavily from Russia / Ukraine. Wheat rose more than 10% today. https://t.co/D0JsGQg9u4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1500962090265284600,
+						"id_str": "1500962090265284610",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/FNR9EZOXEAIFAex.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FNR9EZOXEAIFAex.jpg",
+						"url": "https://t.co/D0JsGQg9u4",
+						"display_url": "pic.twitter.com/D0JsGQg9u4",
+						"expanded_url": "https://twitter.com/goodalexander/status/1500962094505672704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 314,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1792,
+								"h": 828,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 554,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1500962090265284600,
+						"id_str": "1500962090265284610",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/FNR9EZOXEAIFAex.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FNR9EZOXEAIFAex.jpg",
+						"url": "https://t.co/D0JsGQg9u4",
+						"display_url": "pic.twitter.com/D0JsGQg9u4",
+						"expanded_url": "https://twitter.com/goodalexander/status/1500962094505672704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 314,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1792,
+								"h": 828,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 554,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22110973,
+				"id_str": "22110973",
+				"name": "Alex Good",
+				"screen_name": "goodalexander",
+				"location": "Not Advice - Do Not DM or Sell",
+				"description": "Trader. Long/short crypto. Equity options focused on catalysts and bubbles.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45199,
+				"friends_count": 630,
+				"listed_count": 1008,
+				"created_at": "Fri Feb 27 05:18:52 +0000 2009",
+				"favourites_count": 33011,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12395,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1474610270416740356/Pz40FZjt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1474610270416740356/Pz40FZjt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22110973/1644026194",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 132,
+			"favorite_count": 676,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Keep seeing different graphs where the line is almost vertical and that is very not good. https://t.co/JQ9frq7Ge5"
+	},
+	{
 		"created_at": "Mon Mar 07 22:55:50 +0000 2022",
 		"id": 1500968493923340300,
 		"id_str": "1500968493923340292",
