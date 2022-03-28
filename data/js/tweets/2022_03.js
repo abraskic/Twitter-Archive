@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 28 21:25:00 +0000 2022",
+		"id": 1508253002213339100,
+		"id_str": "1508555782199332866",
+		"full_text": "The composition on this photograph is second to none.\n\nhttps://t.co/G7wqwaPU16 https://t.co/deJW8oYFpg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G7wqwaPU16",
+					"expanded_url": "https://www.reddit.com/r/Minneapolis/comments/tpawr5/a_tesla_crashed_into_the_balloon_shoppe_in_uptown/",
+					"display_url": "reddit.com/r/Minneapolis/…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1508252338393436200,
+					"id_str": "1508252338393436166",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FO5jgr2X0AY3GNA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FO5jgr2X0AY3GNA.jpg",
+					"url": "https://t.co/deJW8oYFpg",
+					"display_url": "pic.twitter.com/deJW8oYFpg",
+					"expanded_url": "https://twitter.com/mplsbikewrath/status/1508253002213339137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 623,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1508252338393436200,
+					"id_str": "1508252338393436166",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FO5jgr2X0AY3GNA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FO5jgr2X0AY3GNA.jpg",
+					"url": "https://t.co/deJW8oYFpg",
+					"display_url": "pic.twitter.com/deJW8oYFpg",
+					"expanded_url": "https://twitter.com/mplsbikewrath/status/1508253002213339137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 623,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3366664574,
+			"id_str": "3366664574",
+			"name": "MPLS Bike Wrath",
+			"screen_name": "mplsbikewrath",
+			"location": "Minnesota, USA",
+			"description": "Keep the Twin Cities Safe for Cyclists",
+			"url": "https://t.co/N8zeqN0G1A",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N8zeqN0G1A",
+							"expanded_url": "http://facebook.com/mplsbikewrath",
+							"display_url": "facebook.com/mplsbikewrath",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1302,
+			"friends_count": 412,
+			"listed_count": 15,
+			"created_at": "Fri Aug 28 04:15:04 +0000 2015",
+			"favourites_count": 1539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/656173015886004228/vFdccovx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/656173015886004228/vFdccovx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3366664574/1493685398",
+			"profile_link_color": "DB3923",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 539,
+		"favorite_count": 3728,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The composition on this photograph is second to none.\n\nhttps://t.co/G7wqwaPU16 https://t.co/deJW8oYFpg"
+	},
+	{
 		"created_at": "Mon Mar 28 12:25:25 +0000 2022",
 		"id": 1508419992194543600,
 		"id_str": "1508419992194543616",
