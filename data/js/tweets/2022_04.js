@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 24 20:02:17 +0000 2022",
+		"id": 1517619698967486500,
+		"id_str": "1518319436993757185",
+		"full_text": "https://t.co/BNKtGUk9Pv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1517619697457545200,
+					"id_str": "1517619697457545216",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ-rEvsXwAANH6A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ-rEvsXwAANH6A.jpg",
+					"url": "https://t.co/BNKtGUk9Pv",
+					"display_url": "pic.twitter.com/BNKtGUk9Pv",
+					"expanded_url": "https://twitter.com/Jessica__Jay/status/1517619698967486470/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517619697457545200,
+					"id_str": "1517619697457545216",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ-rEvsXwAANH6A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ-rEvsXwAANH6A.jpg",
+					"url": "https://t.co/BNKtGUk9Pv",
+					"display_url": "pic.twitter.com/BNKtGUk9Pv",
+					"expanded_url": "https://twitter.com/Jessica__Jay/status/1517619698967486470/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 880605391595458600,
+			"id_str": "880605391595458561",
+			"name": "Jessica Jay",
+			"screen_name": "Jessica__Jay",
+			"location": "She/They",
+			"description": "Shadowy recluse\n\nRecovering misanthrope\n\nOn a few spectrums\n\nTrying and failing not to care",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 715,
+			"friends_count": 1456,
+			"listed_count": 4,
+			"created_at": "Fri Jun 30 01:54:21 +0000 2017",
+			"favourites_count": 151754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1497014347721236480/zp6VpmLu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1497014347721236480/zp6VpmLu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/880605391595458561/1566931682",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5259,
+		"favorite_count": 43228,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/BNKtGUk9Pv"
+	},
+	{
 		"created_at": "Sun Apr 24 11:43:28 +0000 2022",
 		"id": 1518193904402972700,
 		"id_str": "1518193904402972673",
