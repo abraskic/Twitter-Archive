@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 27 06:39:00 +0000 2022",
+		"id": 1519204448811495400,
+		"id_str": "1519204448811495424",
+		"full_text": "https://t.co/OFilcqKvty https://t.co/rvtvoHbE36",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OFilcqKvty",
+					"expanded_url": "https://twitter.com/spectatorindex/status/1519100757215412224",
+					"display_url": "twitter.com/spectatorindex…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1519204441773457400,
+					"id_str": "1519204441773457408",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FRVMZAUaQAAneMg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRVMZAUaQAAneMg.jpg",
+					"url": "https://t.co/rvtvoHbE36",
+					"display_url": "pic.twitter.com/rvtvoHbE36",
+					"expanded_url": "https://twitter.com/braskic/status/1519204448811495424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 896,
+							"h": 759,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 896,
+							"h": 759,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519204441773457400,
+					"id_str": "1519204441773457408",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FRVMZAUaQAAneMg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRVMZAUaQAAneMg.jpg",
+					"url": "https://t.co/rvtvoHbE36",
+					"display_url": "pic.twitter.com/rvtvoHbE36",
+					"expanded_url": "https://twitter.com/braskic/status/1519204448811495424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 896,
+							"h": 759,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 896,
+							"h": 759,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perthyongyang, WA",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 233,
+			"friends_count": 72,
+			"listed_count": 25,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1519100757215412200,
+		"quoted_status_id_str": "1519100757215412224",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OFilcqKvty",
+			"expanded": "https://twitter.com/spectatorindex/status/1519100757215412224",
+			"display": "twitter.com/spectatorindex…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 26 23:46:58 +0000 2022",
+			"id": 1519100757215412200,
+			"id_str": "1519100757215412224",
+			"full_text": "BREAKING: China has reported first human case of the H3N8 bird flu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				66
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1626294277,
+				"id_str": "1626294277",
+				"name": "The Spectator Index",
+				"screen_name": "spectatorindex",
+				"location": "Global",
+				"description": "Focused on finance, business, news, science and sports.",
+				"url": "https://t.co/GvV8ovNJVe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GvV8ovNJVe",
+								"expanded_url": "http://spectatorindex.com",
+								"display_url": "spectatorindex.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2225457,
+				"friends_count": 0,
+				"listed_count": 13148,
+				"created_at": "Sat Jul 27 20:42:27 +0000 2013",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11070,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1145865652533547008/XBahoZmX_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145865652533547008/XBahoZmX_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1626294277/1430626667",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8488,
+			"favorite_count": 22754,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "und",
+		"text": "https://t.co/OFilcqKvty https://t.co/rvtvoHbE36"
+	},
+	{
 		"created_at": "Wed Apr 27 06:10:51 +0000 2022",
 		"id": 1519197365554786300,
 		"id_str": "1519197365554786306",
