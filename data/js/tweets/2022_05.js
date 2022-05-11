@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 11 03:34:36 +0000 2022",
+		"id": 1524231470466089000,
+		"id_str": "1524231470466088962",
+		"full_text": "It’s because we don’t have SafeWA anymore. No SafeWA = no safe WA. https://t.co/EnmVmBxYJ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EnmVmBxYJ0",
+					"expanded_url": "https://twitter.com/markmcgowanmp/status/1524208076311580673",
+					"display_url": "twitter.com/markmcgowanmp/…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perthyongyang, WA",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231,
+			"friends_count": 70,
+			"listed_count": 25,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1524208076311580700,
+		"quoted_status_id_str": "1524208076311580673",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EnmVmBxYJ0",
+			"expanded": "https://twitter.com/markmcgowanmp/status/1524208076311580673",
+			"display": "twitter.com/markmcgowanmp/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 11 02:01:38 +0000 2022",
+			"id": 1524208076311580700,
+			"id_str": "1524208076311580673",
+			"full_text": "This is our WA COVID-19 update for Wednesday, 11 May 2022.\n\nFor official information on COVID-19 in WA, visit https://t.co/zTYXZCJrTJ \n\nhttps://t.co/fPLzzyC7Zm https://t.co/sP92FsMTDw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zTYXZCJrTJ",
+						"expanded_url": "https://wa.gov.au",
+						"display_url": "wa.gov.au",
+						"indices": [
+							110,
+							133
+						]
+					},
+					{
+						"url": "https://t.co/fPLzzyC7Zm",
+						"expanded_url": "https://www.facebook.com/MarkMcGowanMP/posts/555008239321359",
+						"display_url": "facebook.com/MarkMcGowanMP/…",
+						"indices": [
+							136,
+							159
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1524207978114519000,
+						"id_str": "1524207978114519040",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/FScTFJtVEAAtqji.png",
+						"media_url_https": "https://pbs.twimg.com/media/FScTFJtVEAAtqji.png",
+						"url": "https://t.co/sP92FsMTDw",
+						"display_url": "pic.twitter.com/sP92FsMTDw",
+						"expanded_url": "https://twitter.com/MarkMcGowanMP/status/1524208076311580673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 642,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1933,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1132,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1524207978114519000,
+						"id_str": "1524207978114519040",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/FScTFJtVEAAtqji.png",
+						"media_url_https": "https://pbs.twimg.com/media/FScTFJtVEAAtqji.png",
+						"url": "https://t.co/sP92FsMTDw",
+						"display_url": "pic.twitter.com/sP92FsMTDw",
+						"expanded_url": "https://twitter.com/MarkMcGowanMP/status/1524208076311580673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 642,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1933,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1132,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 430452224,
+				"id_str": "430452224",
+				"name": "Mark McGowan",
+				"screen_name": "MarkMcGowanMP",
+				"location": "Rockingham, Perth (WA)",
+				"description": "Dad to Samuel, Alexander and Amelia. Husband to Sarah. WA Premier. Rockingham local.",
+				"url": "https://t.co/TkucoFZEgx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TkucoFZEgx",
+								"expanded_url": "http://www.markmcgowan.com.au",
+								"display_url": "markmcgowan.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 105533,
+				"friends_count": 623,
+				"listed_count": 433,
+				"created_at": "Wed Dec 07 05:42:53 +0000 2011",
+				"favourites_count": 512,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7484,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "913434",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1376431626566082569/c9TnEGUB_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1376431626566082569/c9TnEGUB_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/430452224/1611912561",
+				"profile_link_color": "BF311B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 120,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "It’s because we don’t have SafeWA anymore. No SafeWA = no safe WA. https://t.co/EnmVmBxYJ0"
+	},
+	{
 		"created_at": "Tue May 10 07:45:02 +0000 2022",
 		"id": 1523932109764989000,
 		"id_str": "1523932109764988929",
