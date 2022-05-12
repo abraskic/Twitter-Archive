@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 12 07:14:10 +0000 2022",
+		"id": 1524649117443829800,
+		"id_str": "1524649117443829761",
+		"full_text": "@londonjustin Turning point for me is when school started for 2022. Proper education after two years of disrupted learning is more important that COVID zero, would you agree?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "londonjustin",
+					"name": "adult human chicken",
+					"id": 17248133,
+					"id_str": "17248133",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1524613653513015300,
+		"in_reply_to_status_id_str": "1524613653513015296",
+		"in_reply_to_user_id": 17248133,
+		"in_reply_to_user_id_str": "17248133",
+		"in_reply_to_screen_name": "londonjustin",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perthyongyang, WA",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231,
+			"friends_count": 70,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@londonjustin Turning point for me is when school started for 2022. Proper education after two years of disrupted learning is more important that COVID zero, would you agree?"
+	},
+	{
 		"created_at": "Thu May 12 06:18:33 +0000 2022",
 		"id": 1524511768122642400,
 		"id_str": "1524635117557526528",
@@ -28,7 +155,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "Dr Kate Miller",
 			"screen_name": "DrKate_Miller",
 			"location": "Australia",
-			"description": "Geriatrician.  FRACP.  Jokes and historical pearls on tap.  Health UX. HAES.  Opinions are my own and do not reflect any organisation I work for.  🏳️‍🌈",
+			"description": "Geriatrician.  FRACP.  Jokes and historical pearls on tap.  Health UX. HAES.  Opinions are my own and do not reflect any organisation I work for.  🏳️🌈",
 			"url": null,
 			"entities": {
 				"description": {
