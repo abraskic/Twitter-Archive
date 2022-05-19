@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 19 21:48:23 +0000 2022",
+		"id": 1527399666991902700,
+		"id_str": "1527405834917007376",
+		"full_text": "This is a stunning piece of work that may recalibrate your mental model of the political shape of the nation. https://t.co/BBU54ucyjp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BBU54ucyjp",
+					"expanded_url": "https://www.abc.net.au/news/2022-05-20/federal-election-map-lying/101076016",
+					"display_url": "abc.net.au/news/2022-05-2…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34131253,
+			"id_str": "34131253",
+			"name": "Ross Floate",
+			"screen_name": "RossFloate",
+			"location": "Melbourne, Australia",
+			"description": "https://t.co/U12IRjKaHb",
+			"url": "https://t.co/aKGsUkw8UQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aKGsUkw8UQ",
+							"expanded_url": "http://rossfloate.com",
+							"display_url": "rossfloate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/U12IRjKaHb",
+							"expanded_url": "https://vote1maxdicks.com.au",
+							"display_url": "vote1maxdicks.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3062,
+			"friends_count": 2734,
+			"listed_count": 63,
+			"created_at": "Wed Apr 22 01:36:26 +0000 2009",
+			"favourites_count": 25103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1459709514098176000/FKb-Ag3K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1459709514098176000/FKb-Ag3K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34131253/1648232441",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a stunning piece of work that may recalibrate your mental model of the political shape of the nation. https://t.co/BBU54ucyjp"
+	},
+	{
 		"created_at": "Tue May 17 22:42:05 +0000 2022",
 		"id": 1526694575083253800,
 		"id_str": "1526694575083253762",
