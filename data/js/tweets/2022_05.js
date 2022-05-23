@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 23 02:36:26 +0000 2022",
+		"id": 1528565487600545800,
+		"id_str": "1528565487600545792",
+		"full_text": "@kristiandwyer Flagmantle? More like “flog-mantle”.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kristiandwyer",
+					"name": "Kristian Dwyer",
+					"id": 41042986,
+					"id_str": "41042986",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1528318142988005400,
+		"in_reply_to_status_id_str": "1528318142988005376",
+		"in_reply_to_user_id": 41042986,
+		"in_reply_to_user_id_str": "41042986",
+		"in_reply_to_screen_name": "kristiandwyer",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perthyongyang, WA",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 232,
+			"friends_count": 70,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1b66f15d4efa136f",
+			"url": "https://api.twitter.com/1.1/geo/id/1b66f15d4efa136f.json",
+			"place_type": "admin",
+			"name": "Western Australia",
+			"full_name": "Western Australia, Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							112.921113954128,
+							-35.1348464327536
+						],
+						[
+							129.00193001566,
+							-35.1348464327536
+						],
+						[
+							129.00193001566,
+							-13.6894920283571
+						],
+						[
+							112.921113954128,
+							-13.6894920283571
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kristiandwyer Flagmantle? More like “flog-mantle”."
+	},
+	{
 		"created_at": "Sat May 21 22:56:56 +0000 2022",
 		"id": 1528147862261215200,
 		"id_str": "1528147862261215232",
