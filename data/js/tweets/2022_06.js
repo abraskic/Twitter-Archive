@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 08 09:32:58 +0000 2022",
+		"id": 1534289916355813400,
+		"id_str": "1534468517315358720",
+		"full_text": "@9NewsMelb @IzaStaskowski https://t.co/JAj8RfZmCT",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "9NewsMelb",
+					"name": "9News Melbourne",
+					"id": 183036128,
+					"id_str": "183036128",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "IzaStaskowski",
+					"name": "Izabella Staskowski",
+					"id": 479412379,
+					"id_str": "479412379",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1534289908990636000,
+					"id_str": "1534289908990636032",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FUrkiw_acAA8Ey7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUrkiw_acAA8Ey7.jpg",
+					"url": "https://t.co/JAj8RfZmCT",
+					"display_url": "pic.twitter.com/JAj8RfZmCT",
+					"expanded_url": "https://twitter.com/blkjam/status/1534289916355813376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 822,
+							"h": 544,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534289908990636000,
+					"id_str": "1534289908990636032",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FUrkiw_acAA8Ey7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUrkiw_acAA8Ey7.jpg",
+					"url": "https://t.co/JAj8RfZmCT",
+					"display_url": "pic.twitter.com/JAj8RfZmCT",
+					"expanded_url": "https://twitter.com/blkjam/status/1534289916355813376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 822,
+							"h": 544,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1534281180324974600,
+		"in_reply_to_status_id_str": "1534281180324974592",
+		"in_reply_to_user_id": 183036128,
+		"in_reply_to_user_id_str": "183036128",
+		"in_reply_to_screen_name": "9NewsMelb",
+		"user": {
+			"id": 78247803,
+			"id_str": "78247803",
+			"name": "🇦🇺 Robert Jamieson",
+			"screen_name": "blkjam",
+			"location": "Melbourne, Australia",
+			"description": "Dad of 4, husband of 1. Motorbike, bicycle, car, walk & PT user. Admin for https://t.co/Mx8IAGgA0N",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Mx8IAGgA0N",
+							"expanded_url": "https://twitter.com/SEATalliance",
+							"display_url": "twitter.com/SEATalliance",
+							"indices": [
+								75,
+								98
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 519,
+			"listed_count": 0,
+			"created_at": "Tue Sep 29 07:50:35 +0000 2009",
+			"favourites_count": 298657,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1512571770167250947/litvaJG1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1512571770167250947/litvaJG1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78247803/1431490028",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@9NewsMelb @IzaStaskowski https://t.co/JAj8RfZmCT"
+	},
+	{
 		"created_at": "Tue Jun 07 08:10:19 +0000 2022",
 		"id": 1534085329153818600,
 		"id_str": "1534085329153818626",
