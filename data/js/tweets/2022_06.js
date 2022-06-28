@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 23:07:05 +0000 2022",
+		"id": 1541835677540634600,
+		"id_str": "1541921156776992768",
+		"full_text": "The American version of finding a Roman bath while digging up a Tesco car park. https://t.co/JOvAMOaMXN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JOvAMOaMXN",
+					"expanded_url": "https://twitter.com/realjezebelley/status/1541752168532819969",
+					"display_url": "twitter.com/realjezebelley…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21970248,
+			"id_str": "21970248",
+			"name": "matt christman",
+			"screen_name": "cushbomb",
+			"location": "",
+			"description": "crab dip",
+			"url": "https://t.co/rFnzlEr42k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rFnzlEr42k",
+							"expanded_url": "http://chapotraphouse.com",
+							"display_url": "chapotraphouse.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169607,
+			"friends_count": 1120,
+			"listed_count": 1157,
+			"created_at": "Thu Feb 26 04:36:29 +0000 2009",
+			"favourites_count": 365601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 119294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352838562622791682/X3YGO4bN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352838562622791682/X3YGO4bN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21970248/1634367468",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1541752168532820000,
+		"quoted_status_id_str": "1541752168532819969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JOvAMOaMXN",
+			"expanded": "https://twitter.com/realjezebelley/status/1541752168532819969",
+			"display": "twitter.com/realjezebelley…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 28 11:55:36 +0000 2022",
+			"id": 1541752168532820000,
+			"id_str": "1541752168532819969",
+			"full_text": "A fully intact vintage Burger King was found behind a wall at the Concord Mall in Wilmington, DE. This photo was snapped by Jonathon Pruitt April of 2022. https://t.co/G3V3SnJM3J",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1541752163906592800,
+						"id_str": "1541752163906592768",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/FWVnbK1XoAAdzdL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWVnbK1XoAAdzdL.jpg",
+						"url": "https://t.co/G3V3SnJM3J",
+						"display_url": "pic.twitter.com/G3V3SnJM3J",
+						"expanded_url": "https://twitter.com/RealJezebelley/status/1541752168532819969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1541752163906592800,
+						"id_str": "1541752163906592768",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/FWVnbK1XoAAdzdL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWVnbK1XoAAdzdL.jpg",
+						"url": "https://t.co/G3V3SnJM3J",
+						"display_url": "pic.twitter.com/G3V3SnJM3J",
+						"expanded_url": "https://twitter.com/RealJezebelley/status/1541752168532819969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1336062502904492000,
+				"id_str": "1336062502904492040",
+				"name": "Jeze3D.exe v2.2.1",
+				"screen_name": "RealJezebelley",
+				"location": "C: Drive",
+				"description": "🎮 Gaming | 🧑‍💻 Tech | 💾 Nostalgia",
+				"url": "https://t.co/yqYUYyfv13",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yqYUYyfv13",
+								"expanded_url": "http://www.instagram.com/RealJezebelley",
+								"display_url": "instagram.com/RealJezebelley",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5560,
+				"friends_count": 682,
+				"listed_count": 24,
+				"created_at": "Mon Dec 07 21:39:22 +0000 2020",
+				"favourites_count": 50695,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 667,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1521619473396113408/ikDuZL9r_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1521619473396113408/ikDuZL9r_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1336062502904492040/1652910383",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6787,
+			"favorite_count": 66388,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6312,
+		"favorite_count": 61935,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The American version of finding a Roman bath while digging up a Tesco car park. https://t.co/JOvAMOaMXN"
+	},
+	{
 		"created_at": "Tue Jun 28 16:46:49 +0000 2022",
 		"id": 1541825459633410000,
 		"id_str": "1541825459633410048",
