@@ -1,0 +1,86 @@
+Grailbird.data.tweets_2022_07 = 
+[
+	{
+		"created_at": "Sat Jul 02 16:51:57 +0000 2022",
+		"id": 1541797346270249000,
+		"id_str": "1543276302228410369",
+		"full_text": "If the Barbie movie doesn’t have a scissoring scene it will be completely inaccurate",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43954159,
+			"id_str": "43954159",
+			"name": "LVL",
+			"screen_name": "misslindsayv",
+			"location": "SLC",
+			"description": "Just here to send my thoughts into the abyss",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1263,
+			"friends_count": 707,
+			"listed_count": 7,
+			"created_at": "Mon Jun 01 19:40:20 +0000 2009",
+			"favourites_count": 86310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1479294467949481984/Bj5PAhjt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1479294467949481984/Bj5PAhjt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43954159/1476223784",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28124,
+		"favorite_count": 299560,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If the Barbie movie doesn’t have a scissoring scene it will be completely inaccurate"
+	}
+]
