@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 07 04:43:13 +0000 2022",
+		"id": 1544904848554213400,
+		"id_str": "1544904848554213376",
+		"full_text": "Oh no won’t somebody please think of the economy!? https://t.co/XQVEWI0Wmd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XQVEWI0Wmd",
+					"expanded_url": "https://twitter.com/rainmaker1973/status/1544637280593203200",
+					"display_url": "twitter.com/rainmaker1973/…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perthyongyang, WA",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 230,
+			"friends_count": 69,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1b66f15d4efa136f",
+			"url": "https://api.twitter.com/1.1/geo/id/1b66f15d4efa136f.json",
+			"place_type": "admin",
+			"name": "Western Australia",
+			"full_name": "Western Australia, Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							112.921113954128,
+							-35.1348464327536
+						],
+						[
+							129.00193001566,
+							-35.1348464327536
+						],
+						[
+							129.00193001566,
+							-13.6894920283571
+						],
+						[
+							112.921113954128,
+							-13.6894920283571
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1544637280593203200,
+		"quoted_status_id_str": "1544637280593203200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XQVEWI0Wmd",
+			"expanded": "https://twitter.com/rainmaker1973/status/1544637280593203200",
+			"display": "twitter.com/rainmaker1973/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 06 11:00:00 +0000 2022",
+			"id": 1544637280593203200,
+			"id_str": "1544637280593203200",
+			"full_text": "The left galaxy is the Milky way, the right one the Andromeda galaxy. This is what will happen within 4 to 5 billion years from now [full video by SaltyMikan + read more: https://t.co/qcBkxplh6u] [2012 NASA model: https://t.co/OAO39WQ76c] https://t.co/wzLOt7mfvk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qcBkxplh6u",
+						"expanded_url": "https://buff.ly/3m1MX0W",
+						"display_url": "buff.ly/3m1MX0W",
+						"indices": [
+							171,
+							194
+						]
+					},
+					{
+						"url": "https://t.co/OAO39WQ76c",
+						"expanded_url": "https://buff.ly/39FAN8e",
+						"display_url": "buff.ly/39FAN8e",
+						"indices": [
+							214,
+							237
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1544331935501123600,
+						"id_str": "1544331935501123584",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1544331935501123584/pu/img/3uLiQDT_ckffY8Vj.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1544331935501123584/pu/img/3uLiQDT_ckffY8Vj.jpg",
+						"url": "https://t.co/wzLOt7mfvk",
+						"display_url": "pic.twitter.com/wzLOt7mfvk",
+						"expanded_url": "https://twitter.com/Rainmaker1973/status/1544637280593203200/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1544331935501123600,
+						"id_str": "1544331935501123584",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1544331935501123584/pu/img/3uLiQDT_ckffY8Vj.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1544331935501123584/pu/img/3uLiQDT_ckffY8Vj.jpg",
+						"url": "https://t.co/wzLOt7mfvk",
+						"display_url": "pic.twitter.com/wzLOt7mfvk",
+						"expanded_url": "https://twitter.com/Rainmaker1973/status/1544637280593203200/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 9800,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1544331935501123584/pu/pl/9jXnYJE8deFljjek.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1544331935501123584/pu/vid/320x320/LJpleYZnaT0QbEZ_.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1544331935501123584/pu/vid/480x480/WJVtDVdc9VA6YBB8.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 177101260,
+				"id_str": "177101260",
+				"name": "Massimo",
+				"screen_name": "Rainmaker1973",
+				"location": "Italy, North by Northwest",
+				"description": "Astronomy, astronautics, meteorology, physics. Engineer, trying to build the big picture of #science via selected & curated pics, videos & links",
+				"url": "https://t.co/gbBU9j08Hh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gbBU9j08Hh",
+								"expanded_url": "https://linktr.ee/Rainmaker1973",
+								"display_url": "linktr.ee/Rainmaker1973",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 501842,
+				"friends_count": 299,
+				"listed_count": 3802,
+				"created_at": "Wed Aug 11 07:13:13 +0000 2010",
+				"favourites_count": 3433,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 199727,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/177101260/1422214939",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2324,
+			"favorite_count": 13237,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Oh no won’t somebody please think of the economy!? https://t.co/XQVEWI0Wmd"
+	},
+	{
 		"created_at": "Wed Jul 06 08:29:35 +0000 2022",
 		"id": 1544599427142533000,
 		"id_str": "1544599427142533120",
