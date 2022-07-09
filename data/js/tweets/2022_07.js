@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 08 23:34:36 +0000 2022",
+		"id": 1545547708500689000,
+		"id_str": "1545551959624937472",
+		"full_text": "Labor last week axed the $750-a-week pandemic leave disaster payment, which cost almost $1.9 billion since it was introduced by the Morrison government in August 2020 to tide over COVID-positive Australians without sick leave. https://t.co/5LFlfVCUTz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5LFlfVCUTz",
+					"expanded_url": "https://www.smh.com.au/politics/federal/retail-hospitality-heads-want-pandemic-payments-back-as-cases-surge-20220708-p5b033.html",
+					"display_url": "smh.com.au/politics/feder…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7050962,
+			"id_str": "7050962",
+			"name": "Sagittarius (Sgr) A*",
+			"screen_name": "fictillius",
+			"location": "Sydney, Australia",
+			"description": "Works in Macrodata Refinement. Quintuple vaccinated. Buy my 🐝’s 🍯. Rated satire by @6NewsAU. Stopped a HELE plant in Australia by tweeting.",
+			"url": "https://t.co/4IECsUOCKA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4IECsUOCKA",
+							"expanded_url": "http://thepollinator.co",
+							"display_url": "thepollinator.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4798,
+			"friends_count": 4497,
+			"listed_count": 182,
+			"created_at": "Sun Jun 24 13:50:14 +0000 2007",
+			"favourites_count": 60540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 129141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487198611197009920/CkXDX5d1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487198611197009920/CkXDX5d1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7050962/1653739382",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Labor last week axed the $750-a-week pandemic leave disaster payment, which cost almost $1.9 billion since it was introduced by the Morrison government in August 2020 to tide over COVID-positive Australians without sick leave. https://t.co/5LFlfVCUTz"
+	},
+	{
 		"created_at": "Fri Jul 08 06:23:24 +0000 2022",
 		"id": 1545292449010299000,
 		"id_str": "1545292449010298880",
