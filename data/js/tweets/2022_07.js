@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 31 16:29:21 +0000 2022",
+		"id": 1551625829431623700,
+		"id_str": "1553779860216360960",
+		"full_text": "🔊 Built with the most advanced engineering and design imaginable, THE LINE is a landmark city stretching 170 km. A revolution in urban living. \n\nA city that delivers new wonders for the world.\n\n#TheLINE #NEOM https://t.co/urmRtJ5XNE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheLINE",
+					"indices": [
+						194,
+						202
+					]
+				},
+				{
+					"text": "NEOM",
+					"indices": [
+						203,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1551571487542444000,
+					"id_str": "1551571487542444032",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FYhNWd-WIAEKFcm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYhNWd-WIAEKFcm.jpg",
+					"url": "https://t.co/urmRtJ5XNE",
+					"display_url": "pic.twitter.com/urmRtJ5XNE",
+					"expanded_url": "https://twitter.com/NEOM/status/1551625829431623680/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551571487542444000,
+					"id_str": "1551571487542444032",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FYhNWd-WIAEKFcm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYhNWd-WIAEKFcm.jpg",
+					"url": "https://t.co/urmRtJ5XNE",
+					"display_url": "pic.twitter.com/urmRtJ5XNE",
+					"expanded_url": "https://twitter.com/NEOM/status/1551625829431623680/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1551571487542444032/vid/320x320/eNG-Lzl1TUdZvVTh.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1551571487542444032/vid/540x540/wHQjuDIXqlh_rgEE.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1551571487542444032/vid/720x720/pYy9-W2kwlSx1cEp.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1551571487542444032/pl/1ipIHoos7qDV53qM.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "THE LINE - New Wonders for the World",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 921735019693051900,
+			"id_str": "921735019693051904",
+			"name": "NEOM",
+			"screen_name": "NEOM",
+			"location": "Kingdom of Saudi Arabia",
+			"description": "ذا لاين - إبداعات تُثري العالم",
+			"url": "https://t.co/vX7X9i5ykw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vX7X9i5ykw",
+							"expanded_url": "https://bit.ly/THE-LINE-AR",
+							"display_url": "bit.ly/THE-LINE-AR",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1049445,
+			"friends_count": 14,
+			"listed_count": 1064,
+			"created_at": "Sat Oct 21 13:48:48 +0000 2017",
+			"favourites_count": 686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922751431098228736/HngcBzxf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922751431098228736/HngcBzxf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/921735019693051904/1658770852",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1271,
+		"favorite_count": 10475,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🔊 Built with the most advanced engineering and design imaginable, THE LINE is a landmark city stretching 170 km. A revolution in urban living. \n\nA city that delivers new wonders for the world.\n\n#TheLINE #NEOM https://t.co/urmRtJ5XNE"
+	},
+	{
 		"created_at": "Sat Jul 30 01:30:43 +0000 2022",
 		"id": 1553191325553504300,
 		"id_str": "1553191325553504256",
