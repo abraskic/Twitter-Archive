@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 15 18:42:23 +0000 2022",
+		"id": 1559195964744908800,
+		"id_str": "1559249157315239936",
+		"full_text": "Meta https://t.co/4mawej4qNF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4mawej4qNF",
+					"expanded_url": "https://twitter.com/arix_ki/status/1558826487737831424",
+					"display_url": "twitter.com/arix_ki/status…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12,
+			"id_str": "12",
+			"name": "jack",
+			"screen_name": "jack",
+			"location": "",
+			"description": "#bitcoin",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6433668,
+			"friends_count": 4582,
+			"listed_count": 32974,
+			"created_at": "Tue Mar 21 20:50:14 +0000 2006",
+			"favourites_count": 35200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115644092329758721/AFjOr-K8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115644092329758721/AFjOr-K8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12/1584998840",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1558826487737831400,
+		"quoted_status_id_str": "1558826487737831424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4mawej4qNF",
+			"expanded": "https://twitter.com/arix_ki/status/1558826487737831424",
+			"display": "twitter.com/arix_ki/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 14 14:42:50 +0000 2022",
+			"id": 1558826487737831400,
+			"id_str": "1558826487737831424",
+			"full_text": "This baby Jesus sculpture at LA Museum of Art looks like Mark Zuckerberg https://t.co/NLgmr7vNK3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1558826479600824300,
+						"id_str": "1558826479600824320",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/FaIQbJcUcAABBhV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FaIQbJcUcAABBhV.jpg",
+						"url": "https://t.co/NLgmr7vNK3",
+						"display_url": "pic.twitter.com/NLgmr7vNK3",
+						"expanded_url": "https://twitter.com/Arix_Ki/status/1558826487737831424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1558826479600824300,
+						"id_str": "1558826479600824320",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/FaIQbJcUcAABBhV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FaIQbJcUcAABBhV.jpg",
+						"url": "https://t.co/NLgmr7vNK3",
+						"display_url": "pic.twitter.com/NLgmr7vNK3",
+						"expanded_url": "https://twitter.com/Arix_Ki/status/1558826487737831424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 58414374,
+				"id_str": "58414374",
+				"name": "Arix",
+				"screen_name": "Arix_Ki",
+				"location": "Los Angeles, CA",
+				"description": "Product Designer at @riotgames working on esports • he/him",
+				"url": "https://t.co/QPqMcEDPR8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QPqMcEDPR8",
+								"expanded_url": "http://arixking.com",
+								"display_url": "arixking.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 977,
+				"friends_count": 1281,
+				"listed_count": 78,
+				"created_at": "Mon Jul 20 07:09:20 +0000 2009",
+				"favourites_count": 47034,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9402,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537867632459755520/ioy4kler_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537867632459755520/ioy4kler_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/58414374/1626797325",
+				"profile_link_color": "FFFFFF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 150,
+			"favorite_count": 1836,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 425,
+		"favorite_count": 5187,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "Meta https://t.co/4mawej4qNF"
+	},
+	{
 		"created_at": "Fri Aug 12 08:04:25 +0000 2022",
 		"id": 1558001443495641000,
 		"id_str": "1558001443495641090",
