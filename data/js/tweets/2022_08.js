@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 29 19:31:35 +0000 2022",
+		"id": 1564061279903514600,
+		"id_str": "1564334969278722048",
+		"full_text": "The optics of lesbian dance theory majors buying avocado toast and lattes with their loan forgiveness checks while hard-working Americans struggle to afford basic necessities like AR-15s and SUVs are just terrible for Biden.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22998311,
+			"id_str": "22998311",
+			"name": "New York Times Pitchbot",
+			"screen_name": "DougJBalloon",
+			"location": "",
+			"description": "Parody. Maybe one of the worst and most inscrutably unfunny accounts on here now.  Merch: https://t.co/3bxNPhdkPL",
+			"url": "https://t.co/hmqH4Oas0w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hmqH4Oas0w",
+							"expanded_url": "http://www.balloon-juice.com",
+							"display_url": "balloon-juice.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3bxNPhdkPL",
+							"expanded_url": "http://stores.inksoft.com/nytpitchbot",
+							"display_url": "stores.inksoft.com/nytpitchbot",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 187200,
+			"friends_count": 3550,
+			"listed_count": 817,
+			"created_at": "Thu Mar 05 23:35:29 +0000 2009",
+			"favourites_count": 42742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1449034383420182531/Ava9u8mK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1449034383420182531/Ava9u8mK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22998311/1651776772",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2802,
+		"favorite_count": 20729,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The optics of lesbian dance theory majors buying avocado toast and lattes with their loan forgiveness checks while hard-working Americans struggle to afford basic necessities like AR-15s and SUVs are just terrible for Biden."
+	},
+	{
 		"created_at": "Mon Aug 29 08:00:15 +0000 2022",
 		"id": 1564160990777774000,
 		"id_str": "1564160990777774080",
