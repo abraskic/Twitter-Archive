@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 31 00:01:05 +0000 2022",
+		"id": 1563228733548351500,
+		"id_str": "1564765178818076672",
+		"full_text": "https://t.co/yEKOGOnk8x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1563228728783618000,
+					"id_str": "1563228728783618049",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FbG0PxnVQAELmVv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbG0PxnVQAELmVv.jpg",
+					"url": "https://t.co/yEKOGOnk8x",
+					"display_url": "pic.twitter.com/yEKOGOnk8x",
+					"expanded_url": "https://twitter.com/cirriustech/status/1563228733548351488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 429,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 405,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1563228728783618000,
+					"id_str": "1563228728783618049",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FbG0PxnVQAELmVv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbG0PxnVQAELmVv.jpg",
+					"url": "https://t.co/yEKOGOnk8x",
+					"display_url": "pic.twitter.com/yEKOGOnk8x",
+					"expanded_url": "https://twitter.com/cirriustech/status/1563228733548351488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 429,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 405,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097611339990736900,
+			"id_str": "1097611339990736904",
+			"name": "Graham Gold",
+			"screen_name": "cirriustech",
+			"location": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+			"description": "#StandWithUkraine 🇺🇦 | #MentalHealthAdvocate | #MECFS Veteran | Husband | Cat Dad | Senior Security Engineer | Blogger | #Enabler | 📸 by @infosecart",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1560,
+			"friends_count": 4152,
+			"listed_count": 13,
+			"created_at": "Mon Feb 18 21:38:30 +0000 2019",
+			"favourites_count": 74745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555309749498945537/pcd1Y10S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555309749498945537/pcd1Y10S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097611339990736904/1656524801",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 137,
+		"favorite_count": 915,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/yEKOGOnk8x"
+	},
+	{
 		"created_at": "Mon Aug 29 19:31:35 +0000 2022",
 		"id": 1564061279903514600,
 		"id_str": "1564334969278722048",
