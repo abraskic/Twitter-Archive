@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 04 15:17:17 +0000 2022",
+		"id": 1565784306865377300,
+		"id_str": "1566445301879418880",
+		"full_text": "Many people told me I would benefit exposing myself to art. https://t.co/9j9HrE6jLJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565784123096146000,
+					"id_str": "1565784123096145929",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FbrIXTQXoAke_fM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbrIXTQXoAke_fM.jpg",
+					"url": "https://t.co/9j9HrE6jLJ",
+					"display_url": "pic.twitter.com/9j9HrE6jLJ",
+					"expanded_url": "https://twitter.com/OctoberFerguson/status/1565784306865377283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1088,
+							"h": 812,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1088,
+							"h": 812,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565784123096146000,
+					"id_str": "1565784123096145929",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FbrIXTQXoAke_fM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbrIXTQXoAke_fM.jpg",
+					"url": "https://t.co/9j9HrE6jLJ",
+					"display_url": "pic.twitter.com/9j9HrE6jLJ",
+					"expanded_url": "https://twitter.com/OctoberFerguson/status/1565784306865377283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1088,
+							"h": 812,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1088,
+							"h": 812,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1032376689383428100,
+			"id_str": "1032376689383428096",
+			"name": "October Ferguson",
+			"screen_name": "OctoberFerguson",
+			"location": "Edgewood, NJ",
+			"description": "hobbies: writing/art. Pro-Earth Pro-women gender fluid.  #depression #anxiety #antiGOP before it was cool #LGBTQ",
+			"url": "https://t.co/NugRiWUanL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NugRiWUanL",
+							"expanded_url": "http://www.octoberferguson.com/",
+							"display_url": "octoberferguson.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33129,
+			"friends_count": 33529,
+			"listed_count": 43,
+			"created_at": "Wed Aug 22 21:19:18 +0000 2018",
+			"favourites_count": 233610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 125790,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539116062767304708/-SvhpYWA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539116062767304708/-SvhpYWA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1032376689383428096/1639601575",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2271,
+		"favorite_count": 22733,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Many people told me I would benefit exposing myself to art. https://t.co/9j9HrE6jLJ"
+	},
+	{
 		"created_at": "Fri Sep 02 09:11:04 +0000 2022",
 		"id": 1565628364282790000,
 		"id_str": "1565628364282789888",
