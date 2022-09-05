@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 05 02:41:51 +0000 2022",
+		"id": 1566617579485278200,
+		"id_str": "1566617579485278208",
+		"full_text": "Counterpoint: All school work should be done on a phone. Prepare the kids of today for the world of tomorrow. https://t.co/qne1GoVHd7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qne1GoVHd7",
+					"expanded_url": "https://twitter.com/chrisminnsmp/status/1566550429508554752",
+					"display_url": "twitter.com/chrisminnsmp/s…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perthyongyang, WA",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 230,
+			"friends_count": 68,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1b66f15d4efa136f",
+			"url": "https://api.twitter.com/1.1/geo/id/1b66f15d4efa136f.json",
+			"place_type": "admin",
+			"name": "Western Australia",
+			"full_name": "Western Australia, Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							112.921113954128,
+							-35.1348464327536
+						],
+						[
+							129.00193001566,
+							-35.1348464327536
+						],
+						[
+							129.00193001566,
+							-13.6894920283571
+						],
+						[
+							112.921113954128,
+							-13.6894920283571
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1566550429508554800,
+		"quoted_status_id_str": "1566550429508554752",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qne1GoVHd7",
+			"expanded": "https://twitter.com/chrisminnsmp/status/1566550429508554752",
+			"display": "twitter.com/chrisminnsmp/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 04 22:15:02 +0000 2022",
+			"id": 1566550429508554800,
+			"id_str": "1566550429508554752",
+			"full_text": "This will be a massive change in high school classrooms - but it's the right thing to do.\n\nA government I lead will stop the use of phones in all NSW public schools.\n\nMaking sure that where kids require access for special circumstances, they're able to do so. https://t.co/QqaT4Gcfn3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1566550425674842000,
+						"id_str": "1566550425674842117",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/Fb2BT-0WAAUKgOU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fb2BT-0WAAUKgOU.jpg",
+						"url": "https://t.co/QqaT4Gcfn3",
+						"display_url": "pic.twitter.com/QqaT4Gcfn3",
+						"expanded_url": "https://twitter.com/ChrisMinnsMP/status/1566550429508554752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1566550425674842000,
+						"id_str": "1566550425674842117",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/Fb2BT-0WAAUKgOU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fb2BT-0WAAUKgOU.jpg",
+						"url": "https://t.co/QqaT4Gcfn3",
+						"display_url": "pic.twitter.com/QqaT4Gcfn3",
+						"expanded_url": "https://twitter.com/ChrisMinnsMP/status/1566550429508554752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2227646515,
+				"id_str": "2227646515",
+				"name": "Chris Minns",
+				"screen_name": "ChrisMinnsMP",
+				"location": "Kogarah, NSW",
+				"description": "Husband to Anna. Dad to Joe, Nick and George. Leader of NSW Labor and Member for Kogarah",
+				"url": "https://t.co/rqpesYScBM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rqpesYScBM",
+								"expanded_url": "http://chrisminns.com.au",
+								"display_url": "chrisminns.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30476,
+				"friends_count": 1461,
+				"listed_count": 107,
+				"created_at": "Tue Dec 03 03:33:08 +0000 2013",
+				"favourites_count": 2735,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3284,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0086C4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1497718948846252036/StQBQAjk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1497718948846252036/StQBQAjk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2227646515/1638413038",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 57,
+			"favorite_count": 377,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Counterpoint: All school work should be done on a phone. Prepare the kids of today for the world of tomorrow. https://t.co/qne1GoVHd7"
+	},
+	{
 		"created_at": "Sun Sep 04 15:47:31 +0000 2022",
 		"id": 1566452908606259200,
 		"id_str": "1566452908606259201",
