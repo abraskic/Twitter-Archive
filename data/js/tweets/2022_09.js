@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 10 13:29:19 +0000 2022",
+		"id": 1568291545131909000,
+		"id_str": "1568592458682089474",
+		"full_text": "I’m not kidding when I say that the Queen’s face is on every. single. electronic billboard in London right now but there’s something that *really* puts the cherry on top of this one. https://t.co/5mA6Ok6xlr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568291473979805700,
+					"id_str": "1568291473979805696",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FcOwyVLXEAA94-q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcOwyVLXEAA94-q.jpg",
+					"url": "https://t.co/5mA6Ok6xlr",
+					"display_url": "pic.twitter.com/5mA6Ok6xlr",
+					"expanded_url": "https://twitter.com/mr_redbot/status/1568291545131909123/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 605,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1068,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1822,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568291473979805700,
+					"id_str": "1568291473979805696",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FcOwyVLXEAA94-q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcOwyVLXEAA94-q.jpg",
+					"url": "https://t.co/5mA6Ok6xlr",
+					"display_url": "pic.twitter.com/5mA6Ok6xlr",
+					"expanded_url": "https://twitter.com/mr_redbot/status/1568291545131909123/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 605,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1068,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1822,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 705509531963543600,
+			"id_str": "705509531963543552",
+			"name": "Red (He/They).",
+			"screen_name": "mr_redbot",
+			"location": "",
+			"description": "| LGBTQIA+ 🏳️‍🌈🏳️‍⚧️ | Artist, Prop Maker, Nerd | 💉 14/10/2021 |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 1163,
+			"listed_count": 14,
+			"created_at": "Thu Mar 03 21:45:55 +0000 2016",
+			"favourites_count": 42897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544698659706736647/GY-aDD2W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544698659706736647/GY-aDD2W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/705509531963543552/1625710478",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7568,
+		"favorite_count": 87038,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m not kidding when I say that the Queen’s face is on every. single. electronic billboard in London right now but there’s something that *really* puts the cherry on top of this one. https://t.co/5mA6Ok6xlr"
+	},
+	{
 		"created_at": "Fri Sep 09 16:04:33 +0000 2022",
 		"id": 1568269134840090600,
 		"id_str": "1568269134840090625",
