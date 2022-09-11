@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 10 23:37:00 +0000 2022",
+		"id": 1568745383760916500,
+		"id_str": "1568745383760916481",
+		"full_text": "@MarkMcGowanMP Funeral holiday is on Thursday 22nd and resurrection \"birthday\" is on Monday 26th. Just like an Easter Long Weekend. https://t.co/wM3VrALY5u",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkMcGowanMP",
+					"name": "Mark McGowan",
+					"id": 430452224,
+					"id_str": "430452224",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wM3VrALY5u",
+					"expanded_url": "https://twitter.com/AlboMP/status/1568738523125252097",
+					"display_url": "twitter.com/AlboMP/status/…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1568739656866611200,
+		"in_reply_to_status_id_str": "1568739656866611200",
+		"in_reply_to_user_id": 14866613,
+		"in_reply_to_user_id_str": "14866613",
+		"in_reply_to_screen_name": "braskic",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perthyongyang, WA",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 230,
+			"friends_count": 68,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1568738523125252000,
+		"quoted_status_id_str": "1568738523125252097",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wM3VrALY5u",
+			"expanded": "https://twitter.com/AlboMP/status/1568738523125252097",
+			"display": "twitter.com/AlboMP/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 10 23:09:44 +0000 2022",
+			"id": 1568738523125252000,
+			"id_str": "1568738523125252097",
+			"full_text": "On September 22 there will be a public holiday for the National Day of Mourning for Her Majesty The Queen.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 254515782,
+				"id_str": "254515782",
+				"name": "Anthony Albanese",
+				"screen_name": "AlboMP",
+				"location": "Canberra, Australia",
+				"description": "Prime Minister of Australia. Member for Grayndler. Authorised by Anthony Albanese, ALP, Canberra.",
+				"url": "https://t.co/WtEa8PFnlP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WtEa8PFnlP",
+								"expanded_url": "http://www.anthonyalbanese.com.au/",
+								"display_url": "anthonyalbanese.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 554477,
+				"friends_count": 2986,
+				"listed_count": 2084,
+				"created_at": "Sat Feb 19 12:47:33 +0000 2011",
+				"favourites_count": 2557,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18170,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1528580805626560512/k9qA_eF0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1528580805626560512/k9qA_eF0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/254515782/1653289868",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 921,
+			"favorite_count": 4069,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "@MarkMcGowanMP Funeral holiday is on Thursday 22nd and resurrection \"birthday\" is on Monday 26th. Just like an Easter Long Weekend. https://t.co/wM3VrALY5u"
+	},
+	{
 		"created_at": "Sat Sep 10 23:14:14 +0000 2022",
 		"id": 1568739656866611200,
 		"id_str": "1568739656866611200",
