@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 12 23:54:45 +0000 2022",
+		"id": 1569253982245384200,
+		"id_str": "1569474627600252928",
+		"full_text": "changing the gender of the queens birthday? bunch of woke nonsense https://t.co/3jL6CVdPsn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569253976151048200,
+					"id_str": "1569253976151048195",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FcccLVLaQAMWxFJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcccLVLaQAMWxFJ.jpg",
+					"url": "https://t.co/3jL6CVdPsn",
+					"display_url": "pic.twitter.com/3jL6CVdPsn",
+					"expanded_url": "https://twitter.com/nickschadegg/status/1569253982245384193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 1195,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1195,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569253976151048200,
+					"id_str": "1569253976151048195",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FcccLVLaQAMWxFJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcccLVLaQAMWxFJ.jpg",
+					"url": "https://t.co/3jL6CVdPsn",
+					"display_url": "pic.twitter.com/3jL6CVdPsn",
+					"expanded_url": "https://twitter.com/nickschadegg/status/1569253982245384193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 1195,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1195,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1700487464,
+			"id_str": "1700487464",
+			"name": "Nick Schadegg",
+			"screen_name": "nickschadegg",
+			"location": "",
+			"description": "mayor of south australia",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8909,
+			"friends_count": 978,
+			"listed_count": 27,
+			"created_at": "Mon Aug 26 00:07:53 +0000 2013",
+			"favourites_count": 104675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1503240474328371200/DbuQhvL7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1503240474328371200/DbuQhvL7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1700487464/1459823522",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 255,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "changing the gender of the queens birthday? bunch of woke nonsense https://t.co/3jL6CVdPsn"
+	},
+	{
 		"created_at": "Mon Sep 12 07:34:47 +0000 2022",
 		"id": 1569228013770010600,
 		"id_str": "1569228013770010629",
