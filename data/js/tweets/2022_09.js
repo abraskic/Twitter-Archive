@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 10:43:01 +0000 2022",
+		"id": 1570000159215616000,
+		"id_str": "1570000159215616000",
+		"full_text": "And tomorrow I will launch my petition to rename Queensland to Kingsland. https://t.co/h6vhT4fmLS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h6vhT4fmLS",
+					"expanded_url": "https://twitter.com/davidcrisafulli/status/1569787613921579008",
+					"display_url": "twitter.com/davidcrisafull…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Perthyongyang, WA",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 230,
+			"friends_count": 68,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3393,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1569787613921579000,
+		"quoted_status_id_str": "1569787613921579008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/h6vhT4fmLS",
+			"expanded": "https://twitter.com/davidcrisafulli/status/1569787613921579008",
+			"display": "twitter.com/davidcrisafull…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 13 20:38:27 +0000 2022",
+			"id": 1569787613921579000,
+			"id_str": "1569787613921579008",
+			"full_text": "Queenslanders across our state have loved and admired Queen Elizabeth II and it is only fitting we honour her service. \n \nToday we launch a petition to rename Cross River Rail, Queensland’s first underground rail line, to the Elizabeth Line. https://t.co/cWAMdt7BwU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				241
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1569787606376018000,
+						"id_str": "1569787606376017921",
+						"indices": [
+							242,
+							265
+						],
+						"media_url": "http://pbs.twimg.com/media/FckBgsracAET9Mw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FckBgsracAET9Mw.jpg",
+						"url": "https://t.co/cWAMdt7BwU",
+						"display_url": "pic.twitter.com/cWAMdt7BwU",
+						"expanded_url": "https://twitter.com/DavidCrisafulli/status/1569787613921579008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 570,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1569787606376018000,
+						"id_str": "1569787606376017921",
+						"indices": [
+							242,
+							265
+						],
+						"media_url": "http://pbs.twimg.com/media/FckBgsracAET9Mw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FckBgsracAET9Mw.jpg",
+						"url": "https://t.co/cWAMdt7BwU",
+						"display_url": "pic.twitter.com/cWAMdt7BwU",
+						"expanded_url": "https://twitter.com/DavidCrisafulli/status/1569787613921579008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 570,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 174127912,
+				"id_str": "174127912",
+				"name": "David Crisafulli",
+				"screen_name": "DavidCrisafulli",
+				"location": "Queensland",
+				"description": "Queenslander • Leader of the Opposition • @LNPQLD Member for #Broadwater",
+				"url": "https://t.co/QNiXdGVDMq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QNiXdGVDMq",
+								"expanded_url": "http://dclnp.org.au",
+								"display_url": "dclnp.org.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5937,
+				"friends_count": 373,
+				"listed_count": 87,
+				"created_at": "Tue Aug 03 04:47:53 +0000 2010",
+				"favourites_count": 519,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2146,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1409392261968764935/MKOof_zr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409392261968764935/MKOof_zr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/174127912/1629268999",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 109,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "And tomorrow I will launch my petition to rename Queensland to Kingsland. https://t.co/h6vhT4fmLS"
+	},
+	{
 		"created_at": "Tue Sep 13 10:12:58 +0000 2022",
 		"id": 1569630205727363000,
 		"id_str": "1569630205727363072",
