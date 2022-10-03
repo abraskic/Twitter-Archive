@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 03 11:35:42 +0000 2022",
+		"id": 1576854270791467000,
+		"id_str": "1576898784990494721",
+		"full_text": "What\n\nAnd I say this as strongly as possible\n\nThe ACTUAL Fuck https://t.co/esPtlNwGBm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1576854263984140300,
+					"id_str": "1576854263984140288",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FeIcmTtVsAAM7No.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeIcmTtVsAAM7No.jpg",
+					"url": "https://t.co/esPtlNwGBm",
+					"display_url": "pic.twitter.com/esPtlNwGBm",
+					"expanded_url": "https://twitter.com/TimothyJ_23/status/1576854270791467008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1576854263984140300,
+					"id_str": "1576854263984140288",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FeIcmTtVsAAM7No.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeIcmTtVsAAM7No.jpg",
+					"url": "https://t.co/esPtlNwGBm",
+					"display_url": "pic.twitter.com/esPtlNwGBm",
+					"expanded_url": "https://twitter.com/TimothyJ_23/status/1576854270791467008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52993425,
+			"id_str": "52993425",
+			"name": "Moth",
+			"screen_name": "TimothyJ_23",
+			"location": "Naarm",
+			"description": "I am not superstitious, but I'm a little 'stitious",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2318,
+			"friends_count": 1863,
+			"listed_count": 78,
+			"created_at": "Thu Jul 02 06:37:57 +0000 2009",
+			"favourites_count": 58883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 230566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1554789012979662848/7jrz5Qdq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554789012979662848/7jrz5Qdq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52993425/1660132475",
+			"profile_link_color": "0070BA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What\n\nAnd I say this as strongly as possible\n\nThe ACTUAL Fuck https://t.co/esPtlNwGBm"
+	},
+	{
 		"created_at": "Mon Oct 03 00:11:27 +0000 2022",
 		"id": 1576726589202923500,
 		"id_str": "1576726589202923520",
