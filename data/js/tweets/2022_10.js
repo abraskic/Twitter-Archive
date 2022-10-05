@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 05 07:18:21 +0000 2022",
+		"id": 1577558798642065400,
+		"id_str": "1577558798642065409",
+		"full_text": "Sounds like just another potential insult to me… “Hey mate, you forgot to put up your R plates”. https://t.co/t4x59RKDxZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t4x59RKDxZ",
+					"expanded_url": "https://twitter.com/10newsfirstqld/status/1577437803402887169",
+					"display_url": "twitter.com/10newsfirstqld…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Kalgoorlie - Boulder, Western Australia",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 230,
+			"friends_count": 69,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1577437803402887200,
+		"quoted_status_id_str": "1577437803402887169",
+		"quoted_status_permalink": {
+			"url": "https://t.co/t4x59RKDxZ",
+			"expanded": "https://twitter.com/10newsfirstqld/status/1577437803402887169",
+			"display": "twitter.com/10newsfirstqld…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 04 23:17:34 +0000 2022",
+			"id": 1577437803402887200,
+			"id_str": "1577437803402887169",
+			"full_text": "Australian motorists who are returning to the road after traumatic experiences can now order an 'R' plate to signal to other drivers they require extra patience on roads.\n\nSimilar to an 'L' or 'Baby On Board' plate, these signs signify the driver needs extra care and support. https://t.co/1sUCMadQKy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1577437711631519700,
+						"id_str": "1577437711631519744",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/FeQvPbkaEAA0OhC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeQvPbkaEAA0OhC.jpg",
+						"url": "https://t.co/1sUCMadQKy",
+						"display_url": "pic.twitter.com/1sUCMadQKy",
+						"expanded_url": "https://twitter.com/10NewsFirstQLD/status/1577437803402887169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1577437711631519700,
+						"id_str": "1577437711631519744",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/FeQvPbkaEAA0OhC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeQvPbkaEAA0OhC.jpg",
+						"url": "https://t.co/1sUCMadQKy",
+						"display_url": "pic.twitter.com/1sUCMadQKy",
+						"expanded_url": "https://twitter.com/10NewsFirstQLD/status/1577437803402887169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 135371497,
+				"id_str": "135371497",
+				"name": "10 News First Queensland",
+				"screen_name": "10NewsFirstQLD",
+				"location": "Brisbane",
+				"description": "The official Twitter page for 10 News First Queensland, featuring top national, state and local stories, breaking news and good discussion.",
+				"url": "https://t.co/8VZ9ii3fhE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8VZ9ii3fhE",
+								"expanded_url": "https://10play.com.au/news/queensland",
+								"display_url": "10play.com.au/news/queensland",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45864,
+				"friends_count": 664,
+				"listed_count": 603,
+				"created_at": "Wed Apr 21 03:37:56 +0000 2010",
+				"favourites_count": 652,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 87139,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1560502722599669760/EeiXwO1N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1560502722599669760/EeiXwO1N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/135371497/1618537101",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 77,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Sounds like just another potential insult to me… “Hey mate, you forgot to put up your R plates”. https://t.co/t4x59RKDxZ"
+	},
+	{
 		"created_at": "Wed Oct 05 01:14:24 +0000 2022",
 		"id": 1577467206296035300,
 		"id_str": "1577467206296035328",
