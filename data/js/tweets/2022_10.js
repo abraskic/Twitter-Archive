@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 26 01:50:39 +0000 2022",
+		"id": 1585086474256777200,
+		"id_str": "1585086474256777218",
+		"full_text": "Court, Crescent, Court, Avenue, Street https://t.co/SVhfPC87IK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SVhfPC87IK",
+					"expanded_url": "https://twitter.com/railmaps/status/1584664396428890113",
+					"display_url": "twitter.com/railmaps/statu…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Australia",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 233,
+			"friends_count": 68,
+			"listed_count": 24,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1584664396428890000,
+		"quoted_status_id_str": "1584664396428890113",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SVhfPC87IK",
+			"expanded": "https://twitter.com/railmaps/status/1584664396428890113",
+			"display": "twitter.com/railmaps/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 24 21:53:28 +0000 2022",
+			"id": 1584664396428890000,
+			"id_str": "1584664396428890113",
+			"full_text": "What thoroughfare types have you lived in over the years?\n\nFor me:\nStreet, Street, Road, Street, Street, Road, Crescent, Parade, Avenue, Street, Circuit, Street, Road, Road.\n\nI can’t see what distinguishes the roads from the streets. The busiest were the Parade and the Avenue.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1946142822,
+				"id_str": "1946142822",
+				"name": "Railmaps",
+				"screen_name": "railmaps",
+				"location": "Australia",
+				"description": "Publisher of rail maps & public transport timetables. Demand 6 things from our leaders in this order: Ethics, Ethics, Ethics, Competence, Competence, Vision",
+				"url": "https://t.co/AYXltTTeSc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AYXltTTeSc",
+								"expanded_url": "https://www.railmaps.com.au",
+								"display_url": "railmaps.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4808,
+				"friends_count": 1643,
+				"listed_count": 73,
+				"created_at": "Tue Oct 08 08:01:49 +0000 2013",
+				"favourites_count": 10314,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 54907,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "232424",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1190401060038496257/IK5RlO1I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190401060038496257/IK5RlO1I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1946142822/1666494731",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "fr",
+		"text": "Court, Crescent, Court, Avenue, Street https://t.co/SVhfPC87IK"
+	},
+	{
 		"created_at": "Tue Oct 25 03:55:18 +0000 2022",
 		"id": 1584735711923953700,
 		"id_str": "1584755456857493504",
