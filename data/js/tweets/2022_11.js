@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 08 08:05:10 +0000 2022",
+		"id": 1589641041531240400,
+		"id_str": "1589891765536190464",
+		"full_text": "I feel like, in these last days of twitter, we should all be just fucking asking for what we want. Like love, or work, or cash, or attention. No time for jokes or memes or whatever just like: say it, loudly and quickly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94083901,
+			"id_str": "94083901",
+			"name": "Eva Wiseman",
+			"screen_name": "EvaWiseman",
+			"location": "The Observer",
+			"description": "Here she comes, Thierry Ennui...",
+			"url": "http://t.co/MpwSIjCLXZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MpwSIjCLXZ",
+							"expanded_url": "http://www.guardian.co.uk/profile/evawiseman",
+							"display_url": "guardian.co.uk/profile/evawis…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56572,
+			"friends_count": 790,
+			"listed_count": 440,
+			"created_at": "Wed Dec 02 12:57:39 +0000 2009",
+			"favourites_count": 27588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/710338403/Me_thinkng_little_crop_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/710338403/Me_thinkng_little_crop_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94083901/1353088231",
+			"profile_link_color": "307994",
+			"profile_sidebar_border_color": "E876A4",
+			"profile_sidebar_fill_color": "BEB4BF",
+			"profile_text_color": "170517",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 249,
+		"favorite_count": 1717,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I feel like, in these last days of twitter, we should all be just fucking asking for what we want. Like love, or work, or cash, or attention. No time for jokes or memes or whatever just like: say it, loudly and quickly"
+	},
+	{
 		"created_at": "Mon Nov 07 13:46:18 +0000 2022",
 		"id": 1589615225653035000,
 		"id_str": "1589615225653035008",
