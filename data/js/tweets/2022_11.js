@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 09 08:45:58 +0000 2022",
+		"id": 1590124779650310100,
+		"id_str": "1590264423192883200",
+		"full_text": "Wait, so the left checkmark means 'Twitter Blue' and the right checkmark means 'Verified'... https://t.co/EgKGxVj6z6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1590123890424021000,
+					"id_str": "1590123890424020992",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FhFBQOWWAAAHscB.png",
+					"media_url_https": "https://pbs.twimg.com/media/FhFBQOWWAAAHscB.png",
+					"url": "https://t.co/EgKGxVj6z6",
+					"display_url": "pic.twitter.com/EgKGxVj6z6",
+					"expanded_url": "https://twitter.com/flarup/status/1590124779650310144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1590123890424021000,
+					"id_str": "1590123890424020992",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FhFBQOWWAAAHscB.png",
+					"media_url_https": "https://pbs.twimg.com/media/FhFBQOWWAAAHscB.png",
+					"url": "https://t.co/EgKGxVj6z6",
+					"display_url": "pic.twitter.com/EgKGxVj6z6",
+					"expanded_url": "https://twitter.com/flarup/status/1590124779650310144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14347146,
+			"id_str": "14347146",
+			"name": "Michael Flarup",
+			"screen_name": "flarup",
+			"location": "Copenhagen, Denmark",
+			"description": "🇩🇰 Designer, Entrepreneur & Speaker 🕹 Makes games @heynorthplay 🛠 Makes resources @applypixels 🌈 Makes pixels https://t.co/lZR1J9cUb5 👋 Say hi!",
+			"url": "https://t.co/RxYeCMQabF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RxYeCMQabF",
+							"expanded_url": "http://flarup.co",
+							"display_url": "flarup.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lZR1J9cUb5",
+							"expanded_url": "http://pixelresort.com",
+							"display_url": "pixelresort.com",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 30018,
+			"friends_count": 659,
+			"listed_count": 686,
+			"created_at": "Thu Apr 10 00:48:56 +0000 2008",
+			"favourites_count": 9277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "627393",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/650850424476471297/jFKjRwWs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/650850424476471297/jFKjRwWs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14347146/1354558698",
+			"profile_link_color": "FF3D3D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CAB686",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 142,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wait, so the left checkmark means 'Twitter Blue' and the right checkmark means 'Verified'... https://t.co/EgKGxVj6z6"
+	},
+	{
 		"created_at": "Tue Nov 08 10:20:11 +0000 2022",
 		"id": 1589925744377204700,
 		"id_str": "1589925744377204737",
