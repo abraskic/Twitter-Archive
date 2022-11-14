@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 14 09:28:05 +0000 2022",
+		"id": 1591682390534942700,
+		"id_str": "1592086959224418306",
+		"full_text": "A lyrebird has been caught mimicking the ‘evacuate now’ siren at Sydney's Taronga Zoo. \n\nThe native Australian bird has the ability to accurately mimic almost any sound it hears, with an evacuation triggered less than two weeks ago when lions escaped from their enclosure. #9News https://t.co/GHl2R6w9xy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "9News",
+					"indices": [
+						273,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1591682154718630000,
+					"id_str": "1591682154718629888",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1591682154718629888/pu/img/1uh_bP9P6pI2NBqX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1591682154718629888/pu/img/1uh_bP9P6pI2NBqX.jpg",
+					"url": "https://t.co/GHl2R6w9xy",
+					"display_url": "pic.twitter.com/GHl2R6w9xy",
+					"expanded_url": "https://twitter.com/9NewsSyd/status/1591682390534942721/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1591682154718630000,
+					"id_str": "1591682154718629888",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1591682154718629888/pu/img/1uh_bP9P6pI2NBqX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1591682154718629888/pu/img/1uh_bP9P6pI2NBqX.jpg",
+					"url": "https://t.co/GHl2R6w9xy",
+					"display_url": "pic.twitter.com/GHl2R6w9xy",
+					"expanded_url": "https://twitter.com/9NewsSyd/status/1591682390534942721/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 44880,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1591682154718629888/pu/vid/320x568/kfN0dqSn6PYd3Com.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1591682154718629888/pu/pl/lKKVp2-nE4g7HnXv.m3u8?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1591682154718629888/pu/vid/480x852/g3a1kqH-r3xgD7HJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1591682154718629888/pu/vid/720x1280/O_7-9g9-WvzZQazR.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 171802941,
+			"id_str": "171802941",
+			"name": "9News Sydney",
+			"screen_name": "9NewsSyd",
+			"location": "Sydney, Australia",
+			"description": "Sydney's No.1 News with @PeterOverton and @GeorgieG. Nightly at 6.00pm on @Channel9. #9News",
+			"url": "https://t.co/N3nA9ugKLb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N3nA9ugKLb",
+							"expanded_url": "http://9news.com.au/new-south-wales",
+							"display_url": "9news.com.au/new-south-wales",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 184334,
+			"friends_count": 487,
+			"listed_count": 1330,
+			"created_at": "Wed Jul 28 05:48:13 +0000 2010",
+			"favourites_count": 1017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 312137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0D0165",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329222776385724416/Ku2A72-f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329222776385724416/Ku2A72-f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/171802941/1653263154",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 578,
+		"favorite_count": 2314,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A lyrebird has been caught mimicking the ‘evacuate now’ siren at Sydney's Taronga Zoo. \n\nThe native Australian bird has the ability to accurately mimic almost any sound it hears, with an evacuation triggered less than two weeks ago when lions escaped from their enclosure. #9News https://t.co/GHl2R6w9xy"
+	},
+	{
 		"created_at": "Sun Nov 13 18:46:36 +0000 2022",
 		"id": 1591669660571037700,
 		"id_str": "1591865128710197248",
