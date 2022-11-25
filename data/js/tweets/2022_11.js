@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 25 00:46:52 +0000 2022",
+		"id": 1595942056995983400,
+		"id_str": "1595942056995983360",
+		"full_text": "This is what COVID Zero looks like in 2022. https://t.co/M6G2CQvH2f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1595742629328724000,
+					"id_str": "1595742629328723968",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1595742629328723968/pu/img/pYCLe3NfMf6QDk5t.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1595742629328723968/pu/img/pYCLe3NfMf6QDk5t.jpg",
+					"url": "https://t.co/M6G2CQvH2f",
+					"display_url": "pic.twitter.com/M6G2CQvH2f",
+					"expanded_url": "https://twitter.com/ChinaUncensored/status/1595742658265505792/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 298,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 298,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 298,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1595742658265505800,
+					"source_status_id_str": "1595742658265505792",
+					"source_user_id": 833100331,
+					"source_user_id_str": "833100331"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1595742629328724000,
+					"id_str": "1595742629328723968",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1595742629328723968/pu/img/pYCLe3NfMf6QDk5t.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1595742629328723968/pu/img/pYCLe3NfMf6QDk5t.jpg",
+					"url": "https://t.co/M6G2CQvH2f",
+					"display_url": "pic.twitter.com/M6G2CQvH2f",
+					"expanded_url": "https://twitter.com/ChinaUncensored/status/1595742658265505792/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 298,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 298,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 298,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1595742658265505800,
+					"source_status_id_str": "1595742658265505792",
+					"source_user_id": 833100331,
+					"source_user_id_str": "833100331",
+					"video_info": {
+						"aspect_ratio": [
+							149,
+							320
+						],
+						"duration_millis": 20665,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1595742629328723968/pu/vid/298x640/wiK7M8esuza0kyAk.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1595742629328723968/pu/pl/PwaKThYRdECUzgA0.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 833100331,
+							"id_str": "833100331",
+							"name": "China Uncensored",
+							"screen_name": "ChinaUncensored",
+							"location": "New York",
+							"description": "Essential #China #news and #culture with a dash of #humor and Sichuan peppercorn. It's a laugh riot, so bring the tear gas.",
+							"url": "https://t.co/Zq82SgB9er",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/Zq82SgB9er",
+											"expanded_url": "https://www.chinauncensored.tv",
+											"display_url": "chinauncensored.tv",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 79870,
+							"friends_count": 1139,
+							"listed_count": 571,
+							"created_at": "Wed Sep 19 11:14:43 +0000 2012",
+							"favourites_count": 2333,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 5971,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1398259978931159042/Rbg2Ml2o_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398259978931159042/Rbg2Ml2o_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/833100331/1622206133",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Australia",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 228,
+			"friends_count": 70,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0126ea923a7ebe12",
+			"url": "https://api.twitter.com/1.1/geo/id/0126ea923a7ebe12.json",
+			"place_type": "city",
+			"name": "Kalgoorlie - Boulder",
+			"full_name": "Kalgoorlie - Boulder, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							121.412322144,
+							-30.803241784
+						],
+						[
+							121.516818624,
+							-30.803241784
+						],
+						[
+							121.516818624,
+							-30.702938003
+						],
+						[
+							121.412322144,
+							-30.702938003
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "This is what COVID Zero looks like in 2022. https://t.co/M6G2CQvH2f"
+	},
+	{
 		"created_at": "Wed Nov 23 10:39:54 +0000 2022",
 		"id": 1595366523782467600,
 		"id_str": "1595366523782467585",
