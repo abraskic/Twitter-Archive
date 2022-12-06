@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 06 00:04:52 +0000 2022",
+		"id": 1598728808869372000,
+		"id_str": "1599917754240598018",
+		"full_text": "BBC reporter asking what they thought was a random guy if he remembers the 1967 FA Cup match and he was actually the Liverpool goalkeeper who played in it! https://t.co/lufSbcOwNC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1598728761674981400,
+					"id_str": "1598728761674981376",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1598728761674981376/pu/img/lA1rL2T6maOclf-7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1598728761674981376/pu/img/lA1rL2T6maOclf-7.jpg",
+					"url": "https://t.co/lufSbcOwNC",
+					"display_url": "pic.twitter.com/lufSbcOwNC",
+					"expanded_url": "https://twitter.com/historyinmemes/status/1598728808869371905/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 616,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 616,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 616,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1598728761674981400,
+					"id_str": "1598728761674981376",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1598728761674981376/pu/img/lA1rL2T6maOclf-7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1598728761674981376/pu/img/lA1rL2T6maOclf-7.jpg",
+					"url": "https://t.co/lufSbcOwNC",
+					"display_url": "pic.twitter.com/lufSbcOwNC",
+					"expanded_url": "https://twitter.com/historyinmemes/status/1598728808869371905/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 616,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 616,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 616,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							77,
+							45
+						],
+						"duration_millis": 29560,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1598728761674981376/pu/vid/462x270/RRGo6pFRe4wFJQEQ.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1598728761674981376/pu/vid/616x360/RTX21ZE5SVTuYmQz.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1598728761674981376/pu/pl/62tgDLU5eO6-GpZS.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 855481986290524200,
+			"id_str": "855481986290524160",
+			"name": "Historic Vids",
+			"screen_name": "historyinmemes",
+			"location": "Account Started: 4/25/17",
+			"description": "Daily history lessons. Education through memes!",
+			"url": "https://t.co/pNKBanLre8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pNKBanLre8",
+							"expanded_url": "http://historyinmemes.com",
+							"display_url": "historyinmemes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 863853,
+			"friends_count": 35,
+			"listed_count": 2561,
+			"created_at": "Fri Apr 21 18:02:54 +0000 2017",
+			"favourites_count": 96,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235024286160769024/-swRu_mG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235024286160769024/-swRu_mG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/855481986290524160/1651700840",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10394,
+		"favorite_count": 122856,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BBC reporter asking what they thought was a random guy if he remembers the 1967 FA Cup match and he was actually the Liverpool goalkeeper who played in it! https://t.co/lufSbcOwNC"
+	},
+	{
 		"created_at": "Sun Dec 04 09:39:56 +0000 2022",
 		"id": 1599337700154552300,
 		"id_str": "1599337700154552321",
