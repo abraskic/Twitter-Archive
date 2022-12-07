@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 07 06:35:05 +0000 2022",
+		"id": 1600378344201408500,
+		"id_str": "1600378344201408512",
+		"full_text": "When you lie on your resume and get the job anyway. https://t.co/c0MEOafVxA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1600345836424089600,
+					"id_str": "1600345836424089600",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1600345836424089600/pu/img/nq_AE4O139cQOnPn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1600345836424089600/pu/img/nq_AE4O139cQOnPn.jpg",
+					"url": "https://t.co/c0MEOafVxA",
+					"display_url": "pic.twitter.com/c0MEOafVxA",
+					"expanded_url": "https://twitter.com/rftte/status/1600345950869893120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 676,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1278,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1600345950869893000,
+					"source_status_id_str": "1600345950869893120",
+					"source_user_id": 142381185,
+					"source_user_id_str": "142381185"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1600345836424089600,
+					"id_str": "1600345836424089600",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1600345836424089600/pu/img/nq_AE4O139cQOnPn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1600345836424089600/pu/img/nq_AE4O139cQOnPn.jpg",
+					"url": "https://t.co/c0MEOafVxA",
+					"display_url": "pic.twitter.com/c0MEOafVxA",
+					"expanded_url": "https://twitter.com/rftte/status/1600345950869893120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 676,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1278,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1600345950869893000,
+					"source_status_id_str": "1600345950869893120",
+					"source_user_id": 142381185,
+					"source_user_id_str": "142381185",
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							71
+						],
+						"duration_millis": 34400,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1600345836424089600/pu/vid/320x568/u10Tmm879a4DDxBU.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1600345836424089600/pu/vid/480x852/hzR93mzZB8BXchs_.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1600345836424089600/pu/pl/28ie1BhZwz59mkSn.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1600345836424089600/pu/vid/720x1278/Bg0gbLLcVOFykhDN.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 142381185,
+							"id_str": "142381185",
+							"name": "RFTTE",
+							"screen_name": "rftte",
+							"location": "Outback Australia",
+							"description": "Ringers From The Top End (https://t.co/fiFZyC4Fbk) is the online campfire for the #cattlestation & #outback community, 200K members E: members@rftte.com #rftte #outbackringer",
+							"url": "https://t.co/SVRVvSGLpe",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/SVRVvSGLpe",
+											"expanded_url": "http://www.rfttejobs.com",
+											"display_url": "rfttejobs.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/fiFZyC4Fbk",
+											"expanded_url": "http://RFTTE.com",
+											"display_url": "RFTTE.com",
+											"indices": [
+												26,
+												49
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 7472,
+							"friends_count": 2709,
+							"listed_count": 53,
+							"created_at": "Mon May 10 18:48:37 +0000 2010",
+							"favourites_count": 25253,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 10035,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1564171155732254720/hTjms9z1_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1564171155732254720/hTjms9z1_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/142381185/1536710321",
+							"profile_link_color": "DBA810",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Australia",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 228,
+			"friends_count": 70,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "When you lie on your resume and get the job anyway. https://t.co/c0MEOafVxA"
+	},
+	{
 		"created_at": "Wed Dec 07 00:37:21 +0000 2022",
 		"id": 1600288316720836600,
 		"id_str": "1600288316720836608",
