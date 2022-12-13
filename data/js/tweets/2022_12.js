@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 13 19:58:45 +0000 2022",
+		"id": 1602754922574860300,
+		"id_str": "1602754922574860289",
+		"full_text": "My Twitter Family:\nParents: @ScottRhodie @iamcheerbear\nSpouse: @twcau\nChildren: @fictillius @supercujo\n\nvia https://t.co/lB2JpzAPBH\n\n⠀ https://t.co/7mVJWSc0gn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ScottRhodie",
+					"name": "Scott the Scot",
+					"id": 15993038,
+					"id_str": "15993038",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"screen_name": "iamcheerbear",
+					"name": "(Christmas) Eve 🎄",
+					"id": 18797024,
+					"id_str": "18797024",
+					"indices": [
+						41,
+						54
+					]
+				},
+				{
+					"screen_name": "twcau",
+					"name": "@twcau@mastodon.social (Michael)",
+					"id": 17439480,
+					"id_str": "17439480",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"screen_name": "fictillius",
+					"name": "Evan",
+					"id": 7050962,
+					"id_str": "7050962",
+					"indices": [
+						80,
+						91
+					]
+				},
+				{
+					"screen_name": "supercujo",
+					"name": "supercujo Ψ",
+					"id": 18132109,
+					"id_str": "18132109",
+					"indices": [
+						92,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lB2JpzAPBH",
+					"expanded_url": "https://funaroundy.click/twitterfamily?gameId=5dd92ac8d3",
+					"display_url": "funaroundy.click/twitterfamily?…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1602754920905527300,
+					"id_str": "1602754920905527296",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Fj4hG9qVUAA1hcD.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fj4hG9qVUAA1hcD.png",
+					"url": "https://t.co/7mVJWSc0gn",
+					"display_url": "pic.twitter.com/7mVJWSc0gn",
+					"expanded_url": "https://twitter.com/braskic/status/1602754922574860289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 460,
+							"h": 650,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 650,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 650,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1602754920905527300,
+					"id_str": "1602754920905527296",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Fj4hG9qVUAA1hcD.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fj4hG9qVUAA1hcD.png",
+					"url": "https://t.co/7mVJWSc0gn",
+					"display_url": "pic.twitter.com/7mVJWSc0gn",
+					"expanded_url": "https://twitter.com/braskic/status/1602754922574860289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 460,
+							"h": 650,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 650,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 650,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://funallaruon46.fun\" rel=\"nofollow\">Place Here Any #4998</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Australia",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 228,
+			"friends_count": 69,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "My Twitter Family:\nParents: @ScottRhodie @iamcheerbear\nSpouse: @twcau\nChildren: @fictillius @supercujo\n\nvia https://t.co/lB2JpzAPBH\n\n⠀ https://t.co/7mVJWSc0gn"
+	},
+	{
 		"created_at": "Tue Dec 13 06:28:50 +0000 2022",
 		"id": 1602551099478929400,
 		"id_str": "1602551099478929408",
