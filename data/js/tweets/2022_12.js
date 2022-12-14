@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 14 04:10:15 +0000 2022",
+		"id": 1602878611140546600,
+		"id_str": "1602878611140546560",
+		"full_text": "If MERS was the reappear before the end of 2022 it would probably be mistaken for another Omicron sun-variant. https://t.co/tX5IzVbc3E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tX5IzVbc3E",
+					"expanded_url": "https://twitter.com/nick_coatsworth/status/1602875938496483328",
+					"display_url": "twitter.com/nick_coatswort…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Australia",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 228,
+			"friends_count": 69,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1b66f15d4efa136f",
+			"url": "https://api.twitter.com/1.1/geo/id/1b66f15d4efa136f.json",
+			"place_type": "admin",
+			"name": "Western Australia",
+			"full_name": "Western Australia, Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							112.921113954128,
+							-35.1348464327536
+						],
+						[
+							129.00193001566,
+							-35.1348464327536
+						],
+						[
+							129.00193001566,
+							-13.6894920283571
+						],
+						[
+							112.921113954128,
+							-13.6894920283571
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1602875938496483300,
+		"quoted_status_id_str": "1602875938496483328",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tX5IzVbc3E",
+			"expanded": "https://twitter.com/nick_coatsworth/status/1602875938496483328",
+			"display": "twitter.com/nick_coatswort…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 14 03:59:38 +0000 2022",
+			"id": 1602875938496483300,
+			"id_str": "1602875938496483328",
+			"full_text": "Over 2 million pilgrims attend the Haj every year.  There are 1.3 million World Cup ticket holders in 2022.  But apparently THIS year, Middle East Respiratory Syndrome (MERS) is going to get us all.  There are a few people holding on a bit tight to this fear thing.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1287918892761755600,
+				"id_str": "1287918892761755649",
+				"name": "Dr. Nick Coatsworth",
+				"screen_name": "nick_coatsworth",
+				"location": "Canberra, Australia",
+				"description": "Infectious Diseases | Public Policy | Humanitarian and Disaster Response | Clinical Associate Professor @ourANU | Tweets are personal views only",
+				"url": "https://t.co/djiyacCCQ3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/djiyacCCQ3",
+								"expanded_url": "http://www.nickcoatsworth.com",
+								"display_url": "nickcoatsworth.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24233,
+				"friends_count": 386,
+				"listed_count": 112,
+				"created_at": "Tue Jul 28 01:13:00 +0000 2020",
+				"favourites_count": 2666,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2435,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1588044580812791810/TSygtlnk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1588044580812791810/TSygtlnk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1287918892761755649/1667523034",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "If MERS was the reappear before the end of 2022 it would probably be mistaken for another Omicron sun-variant. https://t.co/tX5IzVbc3E"
+	},
+	{
 		"created_at": "Tue Dec 13 19:58:45 +0000 2022",
 		"id": 1602754922574860300,
 		"id_str": "1602754922574860289",
