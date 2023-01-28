@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sat Jan 28 09:10:22 +0000 2023",
+		"id": 1618914902302933000,
+		"id_str": "1619261590838312960",
+		"full_text": "Yet again The Simpsons has foreshadowed the future, this time somewhere between Newman and Perth in WA https://t.co/WIxenYNZR4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1618914898704224300,
+					"id_str": "1618914898704224259",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FneKheLaUAM_o1V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FneKheLaUAM_o1V.jpg",
+					"url": "https://t.co/WIxenYNZR4",
+					"display_url": "pic.twitter.com/WIxenYNZR4",
+					"expanded_url": "https://twitter.com/Zaunny/status/1618914902302932992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 917,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 917,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1618914898704224300,
+					"id_str": "1618914898704224259",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FneKheLaUAM_o1V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FneKheLaUAM_o1V.jpg",
+					"url": "https://t.co/WIxenYNZR4",
+					"display_url": "pic.twitter.com/WIxenYNZR4",
+					"expanded_url": "https://twitter.com/Zaunny/status/1618914902302932992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 917,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 917,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240607887,
+			"id_str": "240607887",
+			"name": "Tom Zaunmayr",
+			"screen_name": "Zaunny",
+			"location": "Perth, Western Australia",
+			"description": "Has strong opinions on parmis and bakeries. Idolises Russell Coight. Red dirt in the veins.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2159,
+			"friends_count": 2622,
+			"listed_count": 31,
+			"created_at": "Thu Jan 20 09:26:31 +0000 2011",
+			"favourites_count": 5479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054574345249386496/kFgdFd1P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054574345249386496/kFgdFd1P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240607887/1594798181",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 414,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yet again The Simpsons has foreshadowed the future, this time somewhere between Newman and Perth in WA https://t.co/WIxenYNZR4"
+	},
+	{
 		"created_at": "Fri Jan 27 01:19:51 +0000 2023",
 		"id": 1618780793920450600,
 		"id_str": "1618780793920450561",
