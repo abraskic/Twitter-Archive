@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Wed Feb 08 07:59:44 +0000 2023",
+		"id": 1622987114999857200,
+		"id_str": "1623230084621680640",
+		"full_text": "Flight attendant: You’re sitting in an exit row. Are you ready willing and able to assist in case of an emergency \n\nMe, half a xan and 2 bloody marys deep: Yeah definitely",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58323389,
+			"id_str": "58323389",
+			"name": "Brandon Wardell",
+			"screen_name": "BRANDONWARDELL",
+			"location": "",
+			"description": "@YeahStill • https://t.co/gE4iteksjB • tour dates: https://t.co/FeTaA7aHzs",
+			"url": "https://t.co/mQOcE1jC6r",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mQOcE1jC6r",
+							"expanded_url": "http://patreon.com/yeahbutstill",
+							"display_url": "patreon.com/yeahbutstill",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gE4iteksjB",
+							"expanded_url": "http://instagram.com/bswardell",
+							"display_url": "instagram.com/bswardell",
+							"indices": [
+								13,
+								36
+							]
+						},
+						{
+							"url": "https://t.co/FeTaA7aHzs",
+							"expanded_url": "https://linktr.ee/brandonwardell",
+							"display_url": "linktr.ee/brandonwardell",
+							"indices": [
+								51,
+								74
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 589643,
+			"friends_count": 1636,
+			"listed_count": 480,
+			"created_at": "Sun Jul 19 23:24:08 +0000 2009",
+			"favourites_count": 119183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471450562508042244/tZJ_qMda_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471450562508042244/tZJ_qMda_normal.jpg",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 672,
+		"favorite_count": 16323,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Flight attendant: You’re sitting in an exit row. Are you ready willing and able to assist in case of an emergency \n\nMe, half a xan and 2 bloody marys deep: Yeah definitely"
+	},
+	{
 		"created_at": "Mon Feb 06 11:13:11 +0000 2023",
 		"id": 1622553990591565800,
 		"id_str": "1622553990591565825",
@@ -16,7 +130,7 @@ Grailbird.data.tweets_2023_02 =
 			"user_mentions": [
 				{
 					"screen_name": "aboutasteph",
-					"name": "Steph ❤️‍🔥",
+					"name": "Steph ❤️🔥",
 					"id": 31374821,
 					"id_str": "31374821",
 					"indices": [
