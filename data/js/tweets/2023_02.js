@@ -1,6 +1,397 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 16 09:02:38 +0000 2023",
+		"id": 1626065608910729200,
+		"id_str": "1626145014282854400",
+		"full_text": "Shadow minister for transport: “Express trains have been cut”\n\nExpress train: “hold my beer” https://t.co/5bElsDLSdq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5bElsDLSdq",
+					"expanded_url": "https://twitter.com/i/web/status/1626065608910729216",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7050962,
+			"id_str": "7050962",
+			"name": "Evan",
+			"screen_name": "fictillius",
+			"location": "Sydney, New South Wales",
+			"description": "🇸🇪⚡️🔋🚙. 344.24ppm. Transport. Sustainability. Renewable Energy. Politics. Electrify Everything. Buy my 🐝’s 🍯 https://t.co/Okbs9KfFow",
+			"url": "https://t.co/4IECsUOCKA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4IECsUOCKA",
+							"expanded_url": "http://thepollinator.co",
+							"display_url": "thepollinator.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Okbs9KfFow",
+							"expanded_url": "http://aus.social/@fictillius",
+							"display_url": "aus.social/@fictillius",
+							"indices": [
+								109,
+								132
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4880,
+			"friends_count": 4449,
+			"listed_count": 181,
+			"created_at": "Sun Jun 24 13:50:14 +0000 2007",
+			"favourites_count": 62606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 136570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487198611197009920/CkXDX5d1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487198611197009920/CkXDX5d1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7050962/1672560352",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0073b76548e5984f",
+			"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+			"place_type": "city",
+			"name": "Sydney",
+			"full_name": "Sydney, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							150.520928608,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-33.578140996
+						],
+						[
+							150.520928608,
+							-33.578140996
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1626061838155944000,
+		"quoted_status_id_str": "1626061838155943938",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qky5CyZIF1",
+			"expanded": "https://twitter.com/nswliberalhq/status/1626061838155943938",
+			"display": "twitter.com/nswliberalhq/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 16 03:32:07 +0000 2023",
+			"id": 1626061838155944000,
+			"id_str": "1626061838155943938",
+			"full_text": "When The Simpsons predict the future… @johaylen @NSWLabor #NSWPol https://t.co/ud66weFbrq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NSWPol",
+						"indices": [
+							58,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "johaylen",
+						"name": "Jo Haylen MP",
+						"id": 71191417,
+						"id_str": "71191417",
+						"indices": [
+							38,
+							47
+						]
+					},
+					{
+						"screen_name": "NSWLabor",
+						"name": "NSW Labor",
+						"id": 85994676,
+						"id_str": "85994676",
+						"indices": [
+							48,
+							57
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1626061792794534000,
+						"id_str": "1626061792794533889",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1626061792794533889/pu/img/WN3pRN8i7_sAxOXb.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1626061792794533889/pu/img/WN3pRN8i7_sAxOXb.jpg",
+						"url": "https://t.co/ud66weFbrq",
+						"display_url": "pic.twitter.com/ud66weFbrq",
+						"expanded_url": "https://twitter.com/nswliberalhq/status/1626061838155943938/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1626061792794534000,
+						"id_str": "1626061792794533889",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1626061792794533889/pu/img/WN3pRN8i7_sAxOXb.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1626061792794533889/pu/img/WN3pRN8i7_sAxOXb.jpg",
+						"url": "https://t.co/ud66weFbrq",
+						"display_url": "pic.twitter.com/ud66weFbrq",
+						"expanded_url": "https://twitter.com/nswliberalhq/status/1626061838155943938/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 28520,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1626061792794533889/pu/vid/720x720/HubfMtk_G9_GnByt.mp4?tag=12"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1626061792794533889/pu/vid/320x320/RB4gnZ1ksY6NjvJp.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1626061792794533889/pu/pl/LjDEnHiDMBoFyAXO.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1626061792794533889/pu/vid/540x540/5SQFNOmi52O1Qt7G.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1091828460069171200,
+				"id_str": "1091828460069171200",
+				"name": "NSWLiberalHQ",
+				"screen_name": "nswliberalhq",
+				"location": "Sydney, New South Wales",
+				"description": "Keep NSW Moving Forward | Authorised by C. Stone, Liberal Party, Sydney",
+				"url": "https://t.co/TBPBaZ35mk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TBPBaZ35mk",
+								"expanded_url": "https://nsw.liberal.org.au/",
+								"display_url": "nsw.liberal.org.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 302,
+				"friends_count": 279,
+				"listed_count": 2,
+				"created_at": "Sat Feb 02 22:39:24 +0000 2019",
+				"favourites_count": 14,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 49,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1621970725451231232/qpOaGAQd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1621970725451231232/qpOaGAQd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091828460069171200/1675544698",
+				"profile_link_color": "004A8D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 58,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shadow minister for transport: “Express trains have been cut”\n\nExpress train: “hold my beer” https://t.co/5bElsDLSdq"
+	},
+	{
 		"created_at": "Mon Feb 13 09:08:28 +0000 2023",
 		"id": 1625059319161954300,
 		"id_str": "1625059319161954308",
