@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 20 23:21:53 +0000 2023",
+		"id": 1627557183864057900,
+		"id_str": "1627810805185146880",
+		"full_text": "The year is 2043, I've just received an alert on my Tesla BrainSlug™ Neurochip. Elon has sent a Chuck Norris meme to all users. I have fifteen seconds to laugh or my central nervous system shuts down. At the edges of my vision I can see my car is ploughing through a schoolyard.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 99394501,
+			"id_str": "99394501",
+			"name": "James Colley",
+			"screen_name": "JamColley",
+			"location": "sydney",
+			"description": "winner of back to back NRL premierships",
+			"url": "https://t.co/i3joij4vDi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/i3joij4vDi",
+							"expanded_url": "http://JamColley.com",
+							"display_url": "JamColley.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28144,
+			"friends_count": 1931,
+			"listed_count": 171,
+			"created_at": "Sat Dec 26 01:19:03 +0000 2009",
+			"favourites_count": 44440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534133345302769664/XEO94OxN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534133345302769664/XEO94OxN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/99394501/1604539489",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 895,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The year is 2043, I've just received an alert on my Tesla BrainSlug™ Neurochip. Elon has sent a Chuck Norris meme to all users. I have fifteen seconds to laugh or my central nervous system shuts down. At the edges of my vision I can see my car is ploughing through a schoolyard."
+	},
+	{
 		"created_at": "Mon Feb 20 02:46:25 +0000 2023",
 		"id": 1627409766367776800,
 		"id_str": "1627499889549807616",
