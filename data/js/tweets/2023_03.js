@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Mon Mar 13 17:09:24 +0000 2023",
+		"id": 1635245104347893800,
+		"id_str": "1635327212223340545",
+		"full_text": "Bus ad in NZ. May as well just put the pay rates for Scaffies on the back (Luke T) https://t.co/VuBuXmjWSp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1635245100992462800,
+					"id_str": "1635245100992462849",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FrGOwWVagAEzHdX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrGOwWVagAEzHdX.jpg",
+					"url": "https://t.co/VuBuXmjWSp",
+					"display_url": "pic.twitter.com/VuBuXmjWSp",
+					"expanded_url": "https://twitter.com/BellTowerTimes/status/1635245104347893761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1635245100992462800,
+					"id_str": "1635245100992462849",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FrGOwWVagAEzHdX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrGOwWVagAEzHdX.jpg",
+					"url": "https://t.co/VuBuXmjWSp",
+					"display_url": "pic.twitter.com/VuBuXmjWSp",
+					"expanded_url": "https://twitter.com/BellTowerTimes/status/1635245104347893761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3004178958,
+			"id_str": "3004178958",
+			"name": "The Bell Tower Times",
+			"screen_name": "BellTowerTimes",
+			"location": "Perth",
+			"description": "Zesty news served fresh. Yew-vestigative journalism",
+			"url": "https://t.co/dYn2gl0Zou",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dYn2gl0Zou",
+							"expanded_url": "http://linktr.ee/Belltowertimes",
+							"display_url": "linktr.ee/Belltowertimes",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19335,
+			"friends_count": 696,
+			"listed_count": 45,
+			"created_at": "Sat Jan 31 02:59:21 +0000 2015",
+			"favourites_count": 17660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216554724477898752/G4uoNI8b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216554724477898752/G4uoNI8b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3004178958/1548118974",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bus ad in NZ. May as well just put the pay rates for Scaffies on the back (Luke T) https://t.co/VuBuXmjWSp"
+	},
+	{
 		"created_at": "Mon Mar 13 09:37:35 +0000 2023",
 		"id": 1635213508571992000,
 		"id_str": "1635213508571992064",
