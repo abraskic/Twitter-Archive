@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Tue Mar 14 03:26:36 +0000 2023",
+		"id": 1635482534707601400,
+		"id_str": "1635482534707601408",
+		"full_text": "In that case we should probably should get cracking on the Kwinana Outer Harbour. https://t.co/dqKwuTQOF8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dqKwuTQOF8",
+					"expanded_url": "https://twitter.com/abcperth/status/1635460717968228352",
+					"display_url": "twitter.com/abcperth/statu…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Australia",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 229,
+			"friends_count": 70,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1635460717968228400,
+		"quoted_status_id_str": "1635460717968228352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dqKwuTQOF8",
+			"expanded": "https://twitter.com/abcperth/status/1635460717968228352",
+			"display": "twitter.com/abcperth/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 14 01:59:55 +0000 2023",
+			"id": 1635460717968228400,
+			"id_str": "1635460717968228352",
+			"full_text": "Perth to become 'home' to AUKUS nuclear submarines under $8 billion naval base expansion https://t.co/Jx58NdAWjK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Jx58NdAWjK",
+						"expanded_url": "https://www.abc.net.au/news/2023-03-14/aukus-deal-jim-chalmers-hmas-stirling-expansion-perth-wa/102092058",
+						"display_url": "abc.net.au/news/2023-03-1…",
+						"indices": [
+							89,
+							112
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16213339,
+				"id_str": "16213339",
+				"name": "ABC Perth",
+				"screen_name": "abcperth",
+				"location": "Perth",
+				"description": "ABC Local Radio Perth & ABC News I Listen online: https://t.co/TvZnTob8Ol This is an official @abcaustralia account.",
+				"url": "https://t.co/ScZygUv99k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ScZygUv99k",
+								"expanded_url": "http://www.abc.net.au/perth",
+								"display_url": "abc.net.au/perth",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TvZnTob8Ol",
+								"expanded_url": "http://bit.ly/ABCRadioPerth",
+								"display_url": "bit.ly/ABCRadioPerth",
+								"indices": [
+									50,
+									73
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 86532,
+				"friends_count": 1802,
+				"listed_count": 771,
+				"created_at": "Tue Sep 09 23:37:34 +0000 2008",
+				"favourites_count": 4682,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 64233,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFAFA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875608978729730049/1OWY8_Dq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875608978729730049/1OWY8_Dq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16213339/1671769636",
+				"profile_link_color": "272FC2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E3E3E3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "In that case we should probably should get cracking on the Kwinana Outer Harbour. https://t.co/dqKwuTQOF8"
+	},
+	{
 		"created_at": "Tue Mar 14 02:11:34 +0000 2023",
 		"id": 1635443228106453000,
 		"id_str": "1635463651175043073",
