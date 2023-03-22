@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 22 08:01:40 +0000 2023",
+		"id": 1638230963468787700,
+		"id_str": "1638450859230265345",
+		"full_text": "the latest in pigeon drone technology w/ @PabloRochat https://t.co/ZFBEhQhqjL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PabloRochat",
+					"name": "Pablo Rochat",
+					"id": 1483209162,
+					"id_str": "1483209162",
+					"indices": [
+						41,
+						53
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1638230883638608000,
+					"id_str": "1638230883638607872",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1638230883638607872/pu/img/y2wvGAO0Cbg-v6uu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1638230883638607872/pu/img/y2wvGAO0Cbg-v6uu.jpg",
+					"url": "https://t.co/ZFBEhQhqjL",
+					"display_url": "pic.twitter.com/ZFBEhQhqjL",
+					"expanded_url": "https://twitter.com/lanewinfield/status/1638230963468787713/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1638230883638608000,
+					"id_str": "1638230883638607872",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1638230883638607872/pu/img/y2wvGAO0Cbg-v6uu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1638230883638607872/pu/img/y2wvGAO0Cbg-v6uu.jpg",
+					"url": "https://t.co/ZFBEhQhqjL",
+					"display_url": "pic.twitter.com/ZFBEhQhqjL",
+					"expanded_url": "https://twitter.com/lanewinfield/status/1638230963468787713/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 22500,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1638230883638607872/pu/vid/720x1280/BbLiF2te3rhLFnyO.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1638230883638607872/pu/vid/320x568/8geKlr17KV8O9dUI.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1638230883638607872/pu/pl/t0o3G8sXEixHPOcn.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1638230883638607872/pu/vid/480x852/kW7syS8HMGGJSpXg.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6194102,
+			"id_str": "6194102",
+			"name": "Brian Moore",
+			"screen_name": "lanewinfield",
+			"location": "Los Angeles, CA",
+			"description": "makes things | IG: https://t.co/9jubFTX1Wn",
+			"url": "https://t.co/BfceK1JMWk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BfceK1JMWk",
+							"expanded_url": "http://brianmoore.com",
+							"display_url": "brianmoore.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9jubFTX1Wn",
+							"expanded_url": "http://instagram.com/lanewinfield",
+							"display_url": "instagram.com/lanewinfield",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8195,
+			"friends_count": 692,
+			"listed_count": 112,
+			"created_at": "Mon May 21 08:36:13 +0000 2007",
+			"favourites_count": 16474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "95DBE1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/778975063102091264/-IujVfjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/778975063102091264/-IujVfjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6194102/1628636348",
+			"profile_link_color": "349391",
+			"profile_sidebar_border_color": "7AA1EB",
+			"profile_sidebar_fill_color": "EEF5F7",
+			"profile_text_color": "333324",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the latest in pigeon drone technology w/ @PabloRochat https://t.co/ZFBEhQhqjL"
+	},
+	{
 		"created_at": "Tue Mar 21 13:28:30 +0000 2023",
 		"id": 1638170720474914800,
 		"id_str": "1638170720474914817",
