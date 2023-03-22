@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 22 09:28:20 +0000 2023",
+		"id": 1638402402025111600,
+		"id_str": "1638472671540449283",
+		"full_text": "our landlord has written to ask what vegetables we're buying at the supermarket and if we're taking advantage of seasonal harvests to cut down on excessive spending",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 161659349,
+			"id_str": "161659349",
+			"name": "Chris Somerville",
+			"screen_name": "chrisomerville",
+			"location": "meanjin/brisbane",
+			"description": "author of short story collection (old), friend, tasmanian",
+			"url": "https://t.co/GmiesvXgXC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GmiesvXgXC",
+							"expanded_url": "http://chrisomerville.com",
+							"display_url": "chrisomerville.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3810,
+			"friends_count": 803,
+			"listed_count": 34,
+			"created_at": "Thu Jul 01 12:20:36 +0000 2010",
+			"favourites_count": 22517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF751A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1632918984000667648/Jy50ecX5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1632918984000667648/Jy50ecX5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/161659349/1515304595",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 109,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "our landlord has written to ask what vegetables we're buying at the supermarket and if we're taking advantage of seasonal harvests to cut down on excessive spending"
+	},
+	{
 		"created_at": "Wed Mar 22 08:01:40 +0000 2023",
 		"id": 1638230963468787700,
 		"id_str": "1638450859230265345",
