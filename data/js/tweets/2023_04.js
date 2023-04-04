@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Tue Apr 04 23:02:15 +0000 2023",
+		"id": 1643388540695507000,
+		"id_str": "1643388540695506944",
+		"full_text": "I'm waiting for the AppleAR SE ™ to come out before I commit to purchasing. https://t.co/tYYD3hHSlG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tYYD3hHSlG",
+					"expanded_url": "https://twitter.com/trentonstech/status/1643087991118655488",
+					"display_url": "twitter.com/trentonstech/s…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Australia",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 226,
+			"friends_count": 72,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1643087991118655500,
+		"quoted_status_id_str": "1643087991118655488",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tYYD3hHSlG",
+			"expanded": "https://twitter.com/trentonstech/status/1643087991118655488",
+			"display": "twitter.com/trentonstech/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 04 03:07:58 +0000 2023",
+			"id": 1643087991118655500,
+			"id_str": "1643087991118655488",
+			"full_text": "If Apple drops a $4000 AR whatever, there will be enough people who are Apple crazy, or tech influencers to buy it\n\nThen it will be in limited quantities, and we all know limited anything Apple drives up the demand, and people will want it more and more\n\nThen after about 2 years… https://t.co/Ld5Cdz3Hqm https://t.co/70pGNTEcdc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				304
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ld5Cdz3Hqm",
+						"expanded_url": "https://twitter.com/i/web/status/1643087991118655488",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							281,
+							304
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1643087980628701200,
+						"id_str": "1643087980628701184",
+						"indices": [
+							305,
+							328
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fs1r0BwWcAAraEa.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fs1r0BwWcAAraEa.jpg",
+						"url": "https://t.co/70pGNTEcdc",
+						"display_url": "pic.twitter.com/70pGNTEcdc",
+						"expanded_url": "https://twitter.com/trentonstech/status/1643087991118655488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 498,
+								"h": 280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 280,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 498,
+								"h": 280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1643087980628701200,
+						"id_str": "1643087980628701184",
+						"indices": [
+							305,
+							328
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fs1r0BwWcAAraEa.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fs1r0BwWcAAraEa.jpg",
+						"url": "https://t.co/70pGNTEcdc",
+						"display_url": "pic.twitter.com/70pGNTEcdc",
+						"expanded_url": "https://twitter.com/trentonstech/status/1643087991118655488/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 498,
+								"h": 280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 280,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 498,
+								"h": 280,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								249,
+								140
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/Fs1r0BwWcAAraEa.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2151196938,
+				"id_str": "2151196938",
+				"name": "Trenton’s Tech",
+				"screen_name": "trentonstech",
+				"location": "CLE",
+				"description": "I talk about tech, for business inquiries email trentonstech@gmail.com",
+				"url": "https://t.co/DtEn69iODZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DtEn69iODZ",
+								"expanded_url": "https://www.youtube.com/@TrentonsTech",
+								"display_url": "youtube.com/@TrentonsTech",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4202,
+				"friends_count": 209,
+				"listed_count": 36,
+				"created_at": "Wed Oct 23 15:31:50 +0000 2013",
+				"favourites_count": 18922,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33477,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1631501466140651524/zZ9JuMvu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1631501466140651524/zZ9JuMvu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2151196938/1677818041",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 487,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "I'm waiting for the AppleAR SE ™ to come out before I commit to purchasing. https://t.co/tYYD3hHSlG"
+	},
+	{
 		"created_at": "Tue Apr 04 04:12:55 +0000 2023",
 		"id": 1643104333503029200,
 		"id_str": "1643104333503029248",
