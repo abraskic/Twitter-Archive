@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Tue Apr 11 20:50:07 +0000 2023",
+		"id": 1645892005107748900,
+		"id_str": "1645892005107748864",
+		"full_text": "I see three dangerous drivers in this video and they’re not the ones you’re thinking. https://t.co/jJrY58Ce78",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645671238277419000,
+					"id_str": "1645671238277419009",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1645671238277419009/pu/img/XN2GUDM2oVp9ILyz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1645671238277419009/pu/img/XN2GUDM2oVp9ILyz.jpg",
+					"url": "https://t.co/jJrY58Ce78",
+					"display_url": "pic.twitter.com/jJrY58Ce78",
+					"expanded_url": "https://twitter.com/9NewsPerth/status/1645671367516520449/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1645671367516520400,
+					"source_status_id_str": "1645671367516520449",
+					"source_user_id": 47850843,
+					"source_user_id_str": "47850843"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645671238277419000,
+					"id_str": "1645671238277419009",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1645671238277419009/pu/img/XN2GUDM2oVp9ILyz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1645671238277419009/pu/img/XN2GUDM2oVp9ILyz.jpg",
+					"url": "https://t.co/jJrY58Ce78",
+					"display_url": "pic.twitter.com/jJrY58Ce78",
+					"expanded_url": "https://twitter.com/9NewsPerth/status/1645671367516520449/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1645671367516520400,
+					"source_status_id_str": "1645671367516520449",
+					"source_user_id": 47850843,
+					"source_user_id_str": "47850843",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 66680,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1645671238277419009/pu/pl/hfobuggF9EH52BdV.m3u8?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1645671238277419009/pu/vid/320x400/LFOZKUXnSLT1vKxT.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1645671238277419009/pu/vid/480x600/Qn4sQaX7_pDcl1xz.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1645671238277419009/pu/vid/720x900/batXp1q429VfA9V7.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 47850843,
+							"id_str": "47850843",
+							"name": "9News Perth",
+							"screen_name": "9NewsPerth",
+							"location": "Perth, Western Australia",
+							"description": "Perth's 9News | Nightly at 6.00pm.",
+							"url": "https://t.co/2YvSbhiCZq",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/2YvSbhiCZq",
+											"expanded_url": "http://9News.com.au/Western-Australia",
+											"display_url": "9News.com.au/Western-Austra…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 105081,
+							"friends_count": 826,
+							"listed_count": 792,
+							"created_at": "Wed Jun 17 04:08:38 +0000 2009",
+							"favourites_count": 1974,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 89986,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1219146815536156673/qfABUfua_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219146815536156673/qfABUfua_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/47850843/1663637512",
+							"profile_link_color": "1B95E0",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Australia",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 226,
+			"friends_count": 73,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1b66f15d4efa136f",
+			"url": "https://api.twitter.com/1.1/geo/id/1b66f15d4efa136f.json",
+			"place_type": "admin",
+			"name": "Western Australia",
+			"full_name": "Western Australia, Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							112.921113954128,
+							-35.1348464327536
+						],
+						[
+							129.00193001566,
+							-35.1348464327536
+						],
+						[
+							129.00193001566,
+							-13.6894920283571
+						],
+						[
+							112.921113954128,
+							-13.6894920283571
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "I see three dangerous drivers in this video and they’re not the ones you’re thinking. https://t.co/jJrY58Ce78"
+	},
+	{
 		"created_at": "Mon Apr 10 21:22:52 +0000 2023",
 		"id": 1645537858017702000,
 		"id_str": "1645537858017701889",
