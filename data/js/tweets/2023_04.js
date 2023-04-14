@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 14 12:32:28 +0000 2023",
+		"id": 1646853930633293800,
+		"id_str": "1646853930633293824",
+		"full_text": "@ScottRhodie @thetowncrier Never thought of this but makes so much sense. In this day and age “television” doesn’t need to fit a time slot or cliffhanger before commercials. It just needs to tell a story. Well said.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ScottRhodie",
+					"name": "Scott the Scot",
+					"id": 15993038,
+					"id_str": "15993038",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "thetowncrier",
+					"name": "Jason Whittaker",
+					"id": 17509312,
+					"id_str": "17509312",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1646828236922552300,
+		"in_reply_to_status_id_str": "1646828236922552321",
+		"in_reply_to_user_id": 15993038,
+		"in_reply_to_user_id_str": "15993038",
+		"in_reply_to_screen_name": "ScottRhodie",
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Australia",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 226,
+			"friends_count": 72,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ScottRhodie @thetowncrier Never thought of this but makes so much sense. In this day and age “television” doesn’t need to fit a time slot or cliffhanger before commercials. It just needs to tell a story. Well said."
+	},
+	{
 		"created_at": "Fri Apr 14 05:35:22 +0000 2023",
 		"id": 1646748961880043500,
 		"id_str": "1646748961880043527",
