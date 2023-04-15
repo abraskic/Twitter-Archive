@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sat Apr 15 05:52:33 +0000 2023",
+		"id": 1647115674698014700,
+		"id_str": "1647115674698014720",
+		"full_text": "I hear Perth has an airport train? https://t.co/Xnieli8luA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xnieli8luA",
+					"expanded_url": "https://twitter.com/s_deery/status/1646982407613218817",
+					"display_url": "twitter.com/s_deery/status…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Australia",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 226,
+			"friends_count": 72,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1646982407613218800,
+		"quoted_status_id_str": "1646982407613218817",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Xnieli8luA",
+			"expanded": "https://twitter.com/s_deery/status/1646982407613218817",
+			"display": "twitter.com/s_deery/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 14 21:03:00 +0000 2023",
+			"id": 1646982407613218800,
+			"id_str": "1646982407613218817",
+			"full_text": "Melbourne’s long awaited airport rail link will be put on hold. Months after construction of the mega project began, the state government will suspend work on the $8bn-13bn project in a bid to rein in Victoria’s debt as part of May’s budget. #springst https://t.co/T8PE8VGp7w",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "springst",
+						"indices": [
+							242,
+							251
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/T8PE8VGp7w",
+						"expanded_url": "https://www.heraldsun.com.au/news/victoria/victorian-airport-rail-link-project-paused-to-rein-in-rising-debt/news-story/f4521bbf6822305ff4fcb4370fabbc88",
+						"display_url": "heraldsun.com.au/news/victoria/…",
+						"indices": [
+							252,
+							275
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 82467940,
+				"id_str": "82467940",
+				"name": "Shannon Deery",
+				"screen_name": "s_deery",
+				"location": "Melbourne, Australia",
+				"description": "Dad | Journalist | State Politics Editor for the Herald Sun | Former chief court reporter shannondeery@protonmail.com",
+				"url": "https://t.co/bbLxe4C5a8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bbLxe4C5a8",
+								"expanded_url": "http://www.heraldsun.com.au",
+								"display_url": "heraldsun.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11611,
+				"friends_count": 1025,
+				"listed_count": 215,
+				"created_at": "Wed Oct 14 22:00:51 +0000 2009",
+				"favourites_count": 3160,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29754,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1218066901370208259/gECC1Q6T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218066901370208259/gECC1Q6T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/82467940/1579244755",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54,
+			"favorite_count": 151,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "I hear Perth has an airport train? https://t.co/Xnieli8luA"
+	},
+	{
 		"created_at": "Sat Apr 15 02:06:26 +0000 2023",
 		"id": 1647058770193948700,
 		"id_str": "1647058770193948673",
