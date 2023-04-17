@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Mon Apr 17 04:26:46 +0000 2023",
+		"id": 1647677328212783000,
+		"id_str": "1647818862455590913",
+		"full_text": "https://t.co/fc3g651lt5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1647677320000356400,
+					"id_str": "1647677320000356353",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft25yvMWwAEmfJx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft25yvMWwAEmfJx.jpg",
+					"url": "https://t.co/fc3g651lt5",
+					"display_url": "pic.twitter.com/fc3g651lt5",
+					"expanded_url": "https://twitter.com/turnageb/status/1647677328212783108/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1116,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1116,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1647677320000356400,
+					"id_str": "1647677320000356353",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft25yvMWwAEmfJx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft25yvMWwAEmfJx.jpg",
+					"url": "https://t.co/fc3g651lt5",
+					"display_url": "pic.twitter.com/fc3g651lt5",
+					"expanded_url": "https://twitter.com/turnageb/status/1647677328212783108/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1116,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1116,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15231855,
+			"id_str": "15231855",
+			"name": "Participation Trophy Husband",
+			"screen_name": "turnageb",
+			"location": "",
+			"description": "The mountain does not move.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3684,
+			"friends_count": 1326,
+			"listed_count": 193,
+			"created_at": "Wed Jun 25 14:37:43 +0000 2008",
+			"favourites_count": 430853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 235475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222355139429838848/ruOcmlzJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222355139429838848/ruOcmlzJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15231855/1680101638",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 542,
+		"favorite_count": 4045,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/fc3g651lt5"
+	},
+	{
 		"created_at": "Sat Apr 15 05:52:33 +0000 2023",
 		"id": 1647115674698014700,
 		"id_str": "1647115674698014720",
