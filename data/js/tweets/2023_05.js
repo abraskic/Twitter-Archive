@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Thu May 04 00:06:15 +0000 2023",
+		"id": 1653643765394067500,
+		"id_str": "1653913893864091648",
+		"full_text": "its the season https://t.co/efB4A8ug6D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1653643760029552600,
+					"id_str": "1653643760029552640",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/FvLsPQWaUAAZs5l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FvLsPQWaUAAZs5l.jpg",
+					"url": "https://t.co/efB4A8ug6D",
+					"display_url": "pic.twitter.com/efB4A8ug6D",
+					"expanded_url": "https://twitter.com/hamhammer27/status/1653643765394067458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 630,
+							"h": 487,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 487,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 630,
+							"h": 487,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1653643760029552600,
+					"id_str": "1653643760029552640",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/FvLsPQWaUAAZs5l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FvLsPQWaUAAZs5l.jpg",
+					"url": "https://t.co/efB4A8ug6D",
+					"display_url": "pic.twitter.com/efB4A8ug6D",
+					"expanded_url": "https://twitter.com/hamhammer27/status/1653643765394067458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 630,
+							"h": 487,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 487,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 630,
+							"h": 487,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1919224010,
+			"id_str": "1919224010",
+			"name": "ham 🪴",
+			"screen_name": "hamhammer27",
+			"location": "Melbourne | Wurundjeri Land",
+			"description": "🗺️ 🗳️ 🚞 🏗️ ✈️ 🏳️‍🌈 #springst #auspol",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1096,
+			"friends_count": 914,
+			"listed_count": 3,
+			"created_at": "Mon Sep 30 07:17:25 +0000 2013",
+			"favourites_count": 18355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551117083878248448/imP0XRg1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551117083878248448/imP0XRg1_normal.jpg",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "its the season https://t.co/efB4A8ug6D"
+	},
+	{
 		"created_at": "Tue May 02 05:36:45 +0000 2023",
 		"id": 1653272291034423300,
 		"id_str": "1653272291034423296",
