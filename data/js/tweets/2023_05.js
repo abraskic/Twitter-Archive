@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Sat May 13 04:17:52 +0000 2023",
+		"id": 1657238706758234000,
+		"id_str": "1657238706758234112",
+		"full_text": "Down down (in the ditch on the side of the road) @twocrowsdown https://t.co/u34sMg9yEv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twocrowsdown",
+					"name": "twocrowsdown",
+					"id": 11831202,
+					"id_str": "11831202",
+					"indices": [
+						49,
+						62
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1657213445308301300,
+					"id_str": "1657213445308301318",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1657213445308301318/pu/img/a_khj93tv934tKQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1657213445308301318/pu/img/a_khj93tv934tKQZ.jpg",
+					"url": "https://t.co/u34sMg9yEv",
+					"display_url": "pic.twitter.com/u34sMg9yEv",
+					"expanded_url": "https://twitter.com/twocrowsdown/status/1657214315680899079/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1657214315680899000,
+					"source_status_id_str": "1657214315680899079",
+					"source_user_id": 11831202,
+					"source_user_id_str": "11831202"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1657213445308301300,
+					"id_str": "1657213445308301318",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1657213445308301318/pu/img/a_khj93tv934tKQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1657213445308301318/pu/img/a_khj93tv934tKQZ.jpg",
+					"url": "https://t.co/u34sMg9yEv",
+					"display_url": "pic.twitter.com/u34sMg9yEv",
+					"expanded_url": "https://twitter.com/twocrowsdown/status/1657214315680899079/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1657214315680899000,
+					"source_status_id_str": "1657214315680899079",
+					"source_user_id": 11831202,
+					"source_user_id_str": "11831202",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 20520,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1657213445308301318/pu/vid/640x360/xrKZQJ8LtG2h2JPe.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1657213445308301318/pu/vid/480x270/O_a8Z6O395kW8Z5a.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1657213445308301318/pu/vid/960x540/VPX4aDayQB_MkdwE.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1657213445308301318/pu/pl/TZtUnPo-HTiAyMqs.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 11831202,
+							"id_str": "11831202",
+							"name": "twocrowsdown",
+							"screen_name": "twocrowsdown",
+							"location": "Western Australia",
+							"description": "Grain Carter turned East/Wester then North/Wester, now a Tanker Yanker. 30+ years and somewhere around 7-8,000,000km behind the wheel. Raised in the wheatbelt.",
+							"url": "https://t.co/XAr1Ua7Piw",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/XAr1Ua7Piw",
+											"expanded_url": "http://www.2cro.ws",
+											"display_url": "2cro.ws",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 658,
+							"friends_count": 245,
+							"listed_count": 28,
+							"created_at": "Fri Jan 04 06:33:09 +0000 2008",
+							"favourites_count": 3506,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 21859,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "022330",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1465538390317666305/TEpeUaBS_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465538390317666305/TEpeUaBS_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/11831202/1638247007",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "A8C7F7",
+							"profile_sidebar_fill_color": "C0DFEC",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Australia",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 224,
+			"friends_count": 69,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Down down (in the ditch on the side of the road) @twocrowsdown https://t.co/u34sMg9yEv"
+	},
+	{
 		"created_at": "Fri May 12 06:58:30 +0000 2023",
 		"id": 1656916743774933000,
 		"id_str": "1656916743774932992",
