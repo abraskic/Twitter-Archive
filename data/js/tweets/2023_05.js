@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Mon May 15 04:58:22 +0000 2023",
+		"id": 1657973677139595300,
+		"id_str": "1657973677139595265",
+		"full_text": "I hope it’s more like the Brisbane system with Express Transit Card support rather than the Sydney system. https://t.co/5Tp3s4iYxp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5Tp3s4iYxp",
+					"expanded_url": "https://twitter.com/maxxthum/status/1657944640635666432",
+					"display_url": "twitter.com/maxxthum/statu…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Australia",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 224,
+			"friends_count": 69,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1657944640635666400,
+		"quoted_status_id_str": "1657944640635666432",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5Tp3s4iYxp",
+			"expanded": "https://twitter.com/maxxthum/status/1657944640635666432",
+			"display": "twitter.com/maxxthum/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 15 03:03:00 +0000 2023",
+			"id": 1657944640635666400,
+			"id_str": "1657944640635666432",
+			"full_text": "News just broke, announcement at 1330 today. \n\nhttps://t.co/MC4sf0uk5N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				70
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MC4sf0uk5N",
+						"expanded_url": "https://www.theage.com.au/national/victoria/myki-operator-loses-contract-us-specialist-to-overhaul-ticket-system-20230515-p5d8h0.html",
+						"display_url": "theage.com.au/national/victo…",
+						"indices": [
+							47,
+							70
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 743808808120549400,
+				"id_str": "743808808120549378",
+				"name": "Max Thum",
+				"screen_name": "maxxthum",
+				"location": "South Melbourne, Melbourne",
+				"description": "a photographer and graphic designer. all comments and posts are my own views (unrelated to any work I do).",
+				"url": "https://t.co/ohDHIEW4hI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ohDHIEW4hI",
+								"expanded_url": "http://maxthum.mypixieset.com/",
+								"display_url": "maxthum.mypixieset.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 348,
+				"friends_count": 341,
+				"listed_count": 0,
+				"created_at": "Fri Jun 17 14:13:34 +0000 2016",
+				"favourites_count": 2460,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1761,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1646453755775442944/fFH7KYoZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1646453755775442944/fFH7KYoZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/743808808120549378/1667556240",
+				"profile_link_color": "1B253E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "I hope it’s more like the Brisbane system with Express Transit Card support rather than the Sydney system. https://t.co/5Tp3s4iYxp"
+	},
+	{
 		"created_at": "Mon May 15 03:00:16 +0000 2023",
 		"id": 1657943953973588000,
 		"id_str": "1657943953973587973",
