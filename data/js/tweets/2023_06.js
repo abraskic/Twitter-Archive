@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Tue Jun 06 05:53:26 +0000 2023",
+		"id": 1665959281798303700,
+		"id_str": "1665960067026530305",
+		"full_text": "We have entered a vicious circle https://t.co/V6t82pDKDu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1665959271400611800,
+					"id_str": "1665959271400611840",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/Fx6tIXYaIAAwEgB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fx6tIXYaIAAwEgB.jpg",
+					"url": "https://t.co/V6t82pDKDu",
+					"display_url": "pic.twitter.com/V6t82pDKDu",
+					"expanded_url": "https://twitter.com/noreasonspec/status/1665959281798303744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1026,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1026,
+							"h": 950,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1665959271400611800,
+					"id_str": "1665959271400611840",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/Fx6tIXYaIAAwEgB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fx6tIXYaIAAwEgB.jpg",
+					"url": "https://t.co/V6t82pDKDu",
+					"display_url": "pic.twitter.com/V6t82pDKDu",
+					"expanded_url": "https://twitter.com/noreasonspec/status/1665959281798303744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1026,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1026,
+							"h": 950,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 629857366,
+			"id_str": "629857366",
+			"name": "The Ishin Choc",
+			"screen_name": "noreasonspec",
+			"location": "",
+			"description": "I tweet about games, politics and football. All tweets are my own. Centrist. Bought a PS3 for $999 :/",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1228,
+			"friends_count": 1318,
+			"listed_count": 54,
+			"created_at": "Sun Jul 08 03:11:05 +0000 2012",
+			"favourites_count": 51653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 213528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000306849902/bc7e61212f2945681f89959dd245553e_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000306849902/bc7e61212f2945681f89959dd245553e_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have entered a vicious circle https://t.co/V6t82pDKDu"
+	},
+	{
 		"created_at": "Tue Jun 06 05:14:47 +0000 2023",
 		"id": 1665950337658916900,
 		"id_str": "1665950337658916864",
