@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Sat Jun 10 21:33:59 +0000 2023",
+		"id": 1667646314610573300,
+		"id_str": "1667646314610573312",
+		"full_text": "The driver’s seat is empty and the keys are in the ignition. Other than common sense what’s stopping the cop from shifting the car? Or am I missing something? https://t.co/002S1kHdn5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/002S1kHdn5",
+					"expanded_url": "https://twitter.com/wholemarsblog/status/1667552689176313856",
+					"display_url": "twitter.com/wholemarsblog/…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Australia",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 224,
+			"friends_count": 69,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1667552689176313900,
+		"quoted_status_id_str": "1667552689176313856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/002S1kHdn5",
+			"expanded": "https://twitter.com/wholemarsblog/status/1667552689176313856",
+			"display": "twitter.com/wholemarsblog/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 10 15:21:57 +0000 2023",
+			"id": 1667552689176313900,
+			"id_str": "1667552689176313856",
+			"full_text": "Here’s the cop yelling at the cruise \n\nhttps://t.co/OGMPDxspJ3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				62
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1667388458988626000,
+						"id_str": "1667388458988625921",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1667388458988625921/pu/img/LFu_ZzAsyEdhupU_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1667388458988625921/pu/img/LFu_ZzAsyEdhupU_.jpg",
+						"url": "https://t.co/OGMPDxspJ3",
+						"display_url": "pic.twitter.com/OGMPDxspJ3",
+						"expanded_url": "https://twitter.com/paulvaldezsf/status/1667388580636004352/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1667388580636004400,
+						"source_status_id_str": "1667388580636004352",
+						"source_user_id": 70754687,
+						"source_user_id_str": "70754687"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1667388458988626000,
+						"id_str": "1667388458988625921",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1667388458988625921/pu/img/LFu_ZzAsyEdhupU_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1667388458988625921/pu/img/LFu_ZzAsyEdhupU_.jpg",
+						"url": "https://t.co/OGMPDxspJ3",
+						"display_url": "pic.twitter.com/OGMPDxspJ3",
+						"expanded_url": "https://twitter.com/paulvaldezsf/status/1667388580636004352/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1667388580636004400,
+						"source_status_id_str": "1667388580636004352",
+						"source_user_id": 70754687,
+						"source_user_id_str": "70754687",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 13365,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1667388458988625921/pu/vid/720x1280/7ySRSyyn2YOq0aWe.mp4?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1667388458988625921/pu/vid/320x568/Q2WiA0LRO_Lp-FOW.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1667388458988625921/pu/vid/480x852/jfIp6pyYE1m3EYZG.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1667388458988625921/pu/pl/RhDgeEm5_VPlPNCe.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 70754687,
+								"id_str": "70754687",
+								"name": "Paul Valdez 🚲🏳️‍🌈",
+								"screen_name": "paulvaldezsf",
+								"location": "San Francisco",
+								"description": "Biking is meditation that brings calmness & joy.Better Market Street Project steward, Ride of Silence organizer. Community-appointed Bike Mayor of San Francisco",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 2367,
+								"friends_count": 2050,
+								"listed_count": 29,
+								"created_at": "Tue Sep 01 18:53:20 +0000 2009",
+								"favourites_count": 17025,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 9959,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1232465283501051905/4qujvAX8_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232465283501051905/4qujvAX8_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/70754687/1597180797",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1667552686248714200,
+			"in_reply_to_status_id_str": "1667552686248714241",
+			"in_reply_to_user_id": 1263491240336769000,
+			"in_reply_to_user_id_str": "1263491240336769026",
+			"in_reply_to_screen_name": "WholeMarsBlog",
+			"user": {
+				"id": 1263491240336769000,
+				"id_str": "1263491240336769026",
+				"name": "Whole Mars Catalog",
+				"screen_name": "WholeMarsBlog",
+				"location": "San Francisco, CA",
+				"description": "Covering tech, markets, AI, new energy, and autonomous electric vehicles 24/7",
+				"url": "https://t.co/QmsKvMsFxC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QmsKvMsFxC",
+								"expanded_url": "http://sponsor.wholemars.com",
+								"display_url": "sponsor.wholemars.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 316566,
+				"friends_count": 19811,
+				"listed_count": 2308,
+				"created_at": "Thu May 21 15:26:16 +0000 2020",
+				"favourites_count": 469139,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 267080,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1593688242771017728/1Ocz0cvu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1593688242771017728/1Ocz0cvu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1263491240336769026/1680511387",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 238,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "The driver’s seat is empty and the keys are in the ignition. Other than common sense what’s stopping the cop from shifting the car? Or am I missing something? https://t.co/002S1kHdn5"
+	},
+	{
 		"created_at": "Sat Jun 10 04:28:50 +0000 2023",
 		"id": 1667388329225236500,
 		"id_str": "1667388329225236481",
