@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Mon Jun 12 11:46:50 +0000 2023",
+		"id": 1668223329097097200,
+		"id_str": "1668223329097097220",
+		"full_text": "Me holding XRP for the last three years like the stubborn fuck I am. https://t.co/IFZrFLAs3x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1667980965673664500,
+					"id_str": "1667980965673664512",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1667980965673664512/pu/img/IYoQQG_r-iXbqyKb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1667980965673664512/pu/img/IYoQQG_r-iXbqyKb.jpg",
+					"url": "https://t.co/IFZrFLAs3x",
+					"display_url": "pic.twitter.com/IFZrFLAs3x",
+					"expanded_url": "https://twitter.com/ViciousVideos/status/1667981238932500480/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1667981238932500500,
+					"source_status_id_str": "1667981238932500480",
+					"source_user_id": 1321061066760216600,
+					"source_user_id_str": "1321061066760216577"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1667980965673664500,
+					"id_str": "1667980965673664512",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1667980965673664512/pu/img/IYoQQG_r-iXbqyKb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1667980965673664512/pu/img/IYoQQG_r-iXbqyKb.jpg",
+					"url": "https://t.co/IFZrFLAs3x",
+					"display_url": "pic.twitter.com/IFZrFLAs3x",
+					"expanded_url": "https://twitter.com/ViciousVideos/status/1667981238932500480/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1667981238932500500,
+					"source_status_id_str": "1667981238932500480",
+					"source_user_id": 1321061066760216600,
+					"source_user_id_str": "1321061066760216577",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 67100,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1667980965673664512/pu/pl/4Of3HoV2nD1q2KTx.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1667980965673664512/pu/vid/540x540/yGAnTMHmgFHVR7pj.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1667980965673664512/pu/vid/320x320/yR5uUr8VXkI8A1Bu.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1667980965673664512/pu/vid/720x720/rfJvbUwn9WlAH-f4.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1321061066760216600,
+							"id_str": "1321061066760216577",
+							"name": "Vicious Videos",
+							"screen_name": "ViciousVideos",
+							"location": "",
+							"description": "💀 18ish, Not into gore or such, But yea, Not for the meek or overtly squeamish.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1015943,
+							"friends_count": 8814,
+							"listed_count": 1661,
+							"created_at": "Tue Oct 27 12:08:48 +0000 2020",
+							"favourites_count": 10,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 437,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1321061754173095936/o62QjVXF_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1321061754173095936/o62QjVXF_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321061066760216577/1603804740",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14866613,
+			"id_str": "14866613",
+			"name": "Andrew Braskic",
+			"screen_name": "braskic",
+			"location": "Australia",
+			"description": "Too good for the cheap shit, too cheap for the good shit.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 224,
+			"friends_count": 69,
+			"listed_count": 23,
+			"created_at": "Thu May 22 09:52:24 +0000 2008",
+			"favourites_count": 3385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491938407551238147/VlSxpeRC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14866613/1379820914",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Me holding XRP for the last three years like the stubborn fuck I am. https://t.co/IFZrFLAs3x"
+	},
+	{
 		"created_at": "Sat Jun 10 21:33:59 +0000 2023",
 		"id": 1667646314610573300,
 		"id_str": "1667646314610573312",
@@ -225,7 +508,7 @@ Grailbird.data.tweets_2023_06 =
 							"source_user": {
 								"id": 70754687,
 								"id_str": "70754687",
-								"name": "Paul Valdez 🚲🏳️‍🌈",
+								"name": "Paul Valdez 🚲🏳️🌈",
 								"screen_name": "paulvaldezsf",
 								"location": "San Francisco",
 								"description": "Biking is meditation that brings calmness & joy.Better Market Street Project steward, Ride of Silence organizer. Community-appointed Bike Mayor of San Francisco",
